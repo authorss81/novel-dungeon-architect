@@ -1,41 +1,41 @@
 # Open Threads
 
-These are planned promises as of bootstrap. They are not facts revealed in chapter prose yet.
+These are active promises after Volume 01, Batch 0001 (Chapters 1–10). They are not all resolved, and the next batch must preserve the distinction between physical survival, civic permission, and the larger Lattice mystery.
 
 ## Central mystery
 
-- **OT-01:** Why does the Lattice keep rebuilding rooms that resemble human homes, and who or what keeps trying to make the refuge habitable?
+- **OT-01:** Why does the Lattice keep rebuilding rooms that resemble human homes, and who or what keeps trying to make the refuge habitable? The domestic kitchen, school-refuge proportions, and evacuation diagram are evidence of use, not a complete history.
 - **OT-02:** What caused the Long Undertow? The final volume will not answer this.
-- **OT-03:** What is the empty single-seat symbol on the Cairn plate, and why does the One-Seat synchronize the Lattice?
+- **OT-03:** What does the empty central seat/socket on the old plate mean, and why does the surrounding support pattern resemble a distributed plan? It remains unexplained and is not an active One-Seat event.
 - **OT-04:** What remains in the Unmapped Black, and can any sealed rooms be restored without violating the lives or ecosystems already there?
 
-## Marek's personal thread
+## Marek's personal and professional threads
 
-- **OT-05:** Where did Alden Venn go, what did he build in the Sable Cut, and how should Marek grieve a parent who did not return?
-- **OT-06:** Can Marek clear the official record without pretending that his own professional pressure and mistakes were irrelevant?
-- **OT-07:** Will Marek accept that another person can hold part of the load, or will he repeat the One-Seat pattern under a kinder name?
+- **OT-05:** Where did Alden Venn go, what did he build in the Sable Cut, and how should Marek grieve a parent who did not return? The brass rule has cracked but has not revealed a usable answer.
+- **OT-06:** Can Marek clear the official record without pretending that his own professional pressure and mistakes were irrelevant? Form 7-B is unsigned, but the collapse's public aftermath has not yet been faced.
+- **OT-07:** Will Marek accept that another person can hold part of the load, or repeat the One-Seat pattern under a kinder name? Chapter 10 gives him named stop authority but does not settle the larger habit.
+- **OT-21:** Can Marek's right hand continue to contribute through shared labor and left-hand adaptation, or will the cost force him to give up delicate solo work? This is an earned relationship/process thread, not a new power stage.
 
-## First-volume promises
+## First-volume physical and route promises
 
-- **OT-08:** Can the trapped crew reach the Hearthhold boundary before the Cinder Steps collapse?
-- **OT-09:** Why does Marek's first refuge fail all five Room Checks at six-person occupancy, and what does Nera reveal when she rejects the recorded air plan on their first meeting? The confrontation is retrospective, not a promise that she is present for the Chapter 5 failure.
-- **OT-10:** What route can be opened without becoming a guild toll road or a private claim, and can Hearthhold consent remain distinct from Cartwright clearance?
-- **OT-11:** What does the returning-stair faultform remember, and can its physical moving landing and missing lower-route counter-support be redirected rather than merely fought?
+- **OT-08:** The group has reached a Hearthhold boundary anteroom, not the Hearthhold Middle. The immediate question is whether residents will admit them beyond the conditional route before the Cinder Steps and pump conditions worsen.
+- **OT-09:** The false refuge failed all five Room Checks at six-person occupancy. Nera has rejected Marek's recorded air plan for the correct shared-shaft reason; the repair and the public lesson are not yet complete.
+- **OT-10:** A route can be physically useful without becoming a guild toll road or private claim. The missing maintenance charter is now the central civic work.
+- **OT-11:** The returning stair's physical cycle is mapped: movable slab, throat, rope, counterweight, and missing lower receiver. It has not been resolved, and no unmanned pack repeats the return.
+- **OT-18:** The sump pump holds prime for the witnessed test but cannot run unattended because its delivery check chatters under sediment. Someone must maintain it, supply its parts, and decide who bears that labor.
+- **OT-22:** The wrapped empty-seat plate is preserved as evidence. Its meaning, the old support diagram, and the boundary's history remain open.
 
-## Relationship and civic promises
+## Legal, civic, and relationship promises
 
-- **OT-12:** Marek and Nera must move from professional antagonism to chosen partnership without instant attraction or a magical bond.
-- **OT-13:** Talla must become an independent route steward who can challenge Marek and defeat his preferred political candidate.
-- **OT-14:** Iven must choose worker-led public works over the Ninefold Charter's monopoly.
-- **OT-15:** Mero must gain independent authority to stop a project when its human cost is unacceptable.
-- **OT-16:** Cassian's central rule must remain genuinely effective enough that surrendering to him is a real temptation.
-- **OT-17:** The Hearthholds must decide what routes, records, and structures are public rather than owned by the first competent builder.
-
-## First-batch operational promises
-
-- **OT-18:** Can the repaired sump pump hold prime long enough to keep the Hearthhold approach usable, and who can maintain its temporary delivery check?
-- **OT-19:** What does Dael's route-custody order change in practice, and can a public work sheet distinguish clearance, consent, salvage, insurance, and ownership?
-- **OT-20:** Will Sefu Aran and the Hearthhold residents accept a conditional route without allowing Nera's technical approval to become one person's government?
+- **OT-19:** Dael's order, the old clearance seal, the inspection route charter, the salvage lien, the insurance notice, physical ownership, and Marek's non-claim receipt are distinct. The order locks a guild door and freezes guild-financed equipment but cannot create air, consent, or ownership. The next batch must not collapse these instruments.
+- **OT-20:** Sefu Aran's civic veto and Nera Oduya's air authority remain separate. The anteroom pass is conditional, and the Hearthholds have not yet granted admission.
+- **OT-12:** Marek and Nera move from professional antagonism toward chosen partnership through disagreement, shared work, and consequences; no instant attraction or magical bond.
+- **OT-14:** Iven's maintenance signature puts worker-led responsibility ahead of his guild privilege. The next development must show the cost, not erase it or turn him into a full defector without a longer arc.
+- **OT-15:** Mero has not appeared yet; his independent authority to stop unsafe work remains a future promise.
+- **OT-16:** Cassian's central rule remains a future genuine temptation and is not replaced by Dael or the One-Seat.
+- **OT-17:** The Hearthholds must decide what routes, records, structures, and maintenance are public rather than owned by the first competent builder.
+- **OT-23:** The surface Cartwright line is physically continuous but now locked by Dael's order. The next batch must decide whether the crew contests the order, accepts the anteroom limits, or finds another lawful way to communicate without inventing a magical route.
+- **OT-24:** Pell is Talla Roke's younger brother in the bible, but the relationship has not been revealed in prose. Preserve the canon without forcing a family reunion or retcon in the next batch.
 
 ## Ending guardrails
 

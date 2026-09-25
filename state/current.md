@@ -1,37 +1,53 @@
 # Current State
 
-Current phase: `volume-01/batch-0001` (active prose phase; Chapter 1–10 remains unwritten)
+Current phase: `volume-01/batch-0002` (next prose phase; Batch 0001 is complete)
 
 Current volume: 1
 
-Current batch: 1
+Current batch: 2
 
-Last completed chapter: none
+Last completed chapter: 10
 
-Last batch summary: none — bootstrap, outline, and batch-plan repair are complete; no chapter prose has been generated
+Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0001)
 
-Locked opening baseline:
-- Six-person party: Marek, Leena Orr, Iven Tallo, Pell Roke, Oren Sill, and Tams Quill. No unnamed seventh person or missing crewmate.
-- Recovered equipment: eight liters of water (six after Chapter 2, five after Chapter 3, plus one liter of verified condensation reserve in Chapter 6), a frayed nine-meter line, one cracked hand lamp, folding rule, grease-pencil stub, damaged chalk case, a surviving screw jack, one pry bar, two short timber uprights, a damaged but recoverable hand-tool kit, and Alden's brass rule.
-- Leena's right shoulder is dislocated in the collapse; Marek's right hand loses fine control during the controlled Chapter 5 breach; Pell's left ankle is injured in Chapter 8.
-- Sefu Aran is the independent Hearthhold route keeper; Nera controls air mechanism and testing, not civic admission.
+## Current location and situation
 
-Active threats:
-- The Lattice's unstable Cinder Steps and shifting load paths.
-- Cartwright Guild clearance and route-ownership pressure.
-- Dael Harrow and the Ninefold Charter's early institutional claim.
-- The One-Seat is an unexplained old structural and political clue, not yet an active chapter threat.
-- The Hearthhold boundary is stable enough to receive survivors but cannot yet sustain an uncontrolled influx.
+The six-person opening party is alive in the Hearthhold air-gate anteroom, a maintained boundary room above the pump gallery. The deeper Hearthhold Middle gate remains closed. The anteroom is conditionally usable for attended pump work under the written test conditions; the route is not yet a public or permanent crossing.
 
-Active promises:
-- Marek must reach a safe room and a return route from the first Lattice sector.
-- The Lattice contains civic rooms and an old empty-seat symbol, not merely treasure.
-- Nera Oduya will reject the recorded air plan of Marek's first failed refuge on ventilation grounds at their first meeting; Sefu Aran retains a separate civic veto.
-- The Hearthholds will make Marek answer for maintenance, consent, and who controls a route.
-- The final destination is a self-governing city called Morrowlight, not a new empire.
+The lower Cinder Steps chamber remains flooding behind a temporary flood gate. The returning-stair faultform remains unresolved. The failed sump pump has been repaired and tested but its delivery check chatters under sediment, so it is an attended temporary tool.
 
-Current relationship pressure: Marek has no relationship with Nera in prose yet; their planned first meeting is professional friction over the recorded air plan of his failed refuge. Sefu Aran represents resident consent, while Iven Tallo is a temporary craft ally whose guild bond becomes a choice in Chapter 10. The trapped public-works crew and Pell Roke give the opening rescue personal stakes.
+## Locked roster and injuries
 
-Current power state: Marek is an ordinary civil engineer with brief, unreliable impressions of Lattice load shifts. He has no formal loadcraft stage, repeatable reading, bearing mark, route change, or reliable supernatural solution. The first batch must show failure, cost, and a small victory without granting a power-up beyond the opening state.
+- Marek Venn: alive; right hand has permanent fine-control loss from the Chapter 5 jack incident; left hand compensates and is strained. No formal power stage or bearing mark.
+- Leena Orr: alive; right shoulder dislocated in Chapter 1 and reduced in Chapter 2; remains slinged and cannot take weight through the right arm.
+- Iven Tallo: alive; craft ally whose Chapter 10 maintenance signature risks his Cartwright standing.
+- Pell Roke: alive; fourteen years old; left ankle sprained in Chapter 8 and supported with a splint/crutch.
+- Oren Sill: alive; established as a bearing, shoring, and stretcher hand.
+- Tams Quill: alive; handles chock lines, test loads, water records, and rest rotations.
 
-Next action: the active Batch 0001 prose phase is authorized to follow `outline/volume-01.md` and the revised `outline/batches/volume-01-batch-0001.md` to draft Chapters 1–10. The legacy planning phase is retired; this repair does not draft prose.
+No opening-party member dies in Batch 0001. The later Oren crossing death remains reserved for the planned Hearthhold route-capacity event.
+
+## Water and material ledger
+
+- The shift began with 24 liters in four six-liter skins.
+- Eight liters were recovered after the collapse.
+- Chapter 2 used two liters, leaving six clean liters.
+- Chapter 3 used one liter over the half-day watch, leaving five liters from the collapse.
+- Chapter 6 verified and sealed one additional liter of condensation reserve. The five collapse liters and the one-liter reserve remain the drinking supply; the sump is not drinking water.
+- The recovered equipment is reduced to the frayed nine-meter line, cracked hand lamp, folding rule, grease-pencil stub, damaged chalk case, brass rule, limited route papers and repair pieces. The damaged hand-tool kit is destroyed in Chapter 4. The screw jack, pry bar, spare wedges, and spare timber are cached at the pump gallery after Chapter 9 so the narrow route and pump controls remain usable.
+
+## Authority and legal state
+
+Nera Oduya controls air mechanism, testing, and safe operation of the air gate. Sefu Aran is the elected Hearthhold boundary route keeper and independently controls civic admission. Their permissions are not interchangeable.
+
+Form 7-B remains unsigned. Dael Harrow's temporary route-custody order locks the guild-controlled surface door and freezes guild-financed equipment, but cannot open the Hearthhold gate, order air, create resident consent, or establish ownership. The old Cartwright clearance seal is limited by date, occupancy, and conditions; the old route charter covers the inspection incline only. The salvage lien claims the dismantled Hearthhold case, panels, and identified material; the insurance notice is a financial consequence. Marek's non-claim receipt relinquishes only priority to the dismantled case, its panels, and unrecovered Cinder Steps material covered by Dael's notice. It does not surrender Public Works tools, Alden's brass rule, the route, or Hearthhold consent.
+
+## Relationship and power state
+
+Marek and Leena share a practical trust built around named limits and correction. Iven has moved from guild craftsman to reluctant maintenance ally. Nera has rejected Marek's recorded failed-refuge air plan for a correct ventilation reason; her approval remains technical and conditional. Sefu's cooperation is narrow and carries a veto. Pell and the laborers make the cost of every design personal.
+
+Marek has only brief, unreliable impressions of changing load. He has gained a clearer field understanding of the five Room Checks, not a named stage, repeatable reading, bearing mark, route change, or automatic solution. The brass rule has a hairline crack and reacts to the old plate without becoming a lineage token.
+
+## Immediate next action
+
+Batch 0002 begins from the conditional anteroom decision. The next writer must preserve the resident air/maintenance distinction, the conditional route, the pump's temporary status, the unresolved stair, and the seeded empty-seat clue while advancing Chapters 11–20 toward the Volume 01 route and Hearthhold questions. The current volume remains incomplete; the Chapter 50 resolution is not yet spent.

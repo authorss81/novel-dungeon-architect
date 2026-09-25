@@ -15,4 +15,4 @@ A civil engineer trapped in a dungeon discovers that every room is a structural 
 The dungeon becomes a self-governing city rather than a new empire owned by its builder.
 ## Status
 
-Bootstrap complete. The bible, series outline, ending outline, Volume 01 outline, and repaired first ten-chapter card set are present. No novel prose has been generated yet; the active phase is Batch 0001, the Chapter 1–10 prose batch.
+Bootstrap and planning complete. Volume 01 Batch 0001 (Chapters 1–10) is complete, reviewed, and state-tracked. The active next phase is Batch 0002 (Chapters 11–20); the Hearthhold route remains conditional and the volume is not complete.
