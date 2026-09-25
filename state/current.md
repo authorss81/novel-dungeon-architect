@@ -10,7 +10,7 @@ Last completed chapter: 70
 
 Last batch summary: `state/batch-summary.md` (Volume 02, Batch 0002)
 
-Review record: **none yet for Volume 02, Batch 0002.** `reviews/volume-02/batch-0001.md` is the only Volume 02 review artifact. Batches 0001–0005 of Volume 01 are complete, independently reviewed, repaired, and state-tracked; the review records are `reviews/volume-01/batch-0001.md` through `batch-0005.md`. Volume 02's third batch is planned at `workspace/volume-02/batch-0003/PROMPT.md`.
+Review record: **`reviews/volume-02/batch-0002.md`.** Volume 02, Batch 0002 was independently reviewed, repaired, and state-tracked; five prose defects, four state-file errors, and three controller-side items are recorded there, and every prose and state finding is applied. `reviews/volume-02/batch-0001.md` is the earlier Volume 02 record. Batches 0001–0005 of Volume 01 are complete, independently reviewed, repaired, and state-tracked; the review records are `reviews/volume-01/batch-0001.md` through `batch-0005.md`. Volume 02's third batch is planned at `workspace/volume-02/batch-0003/PROMPT.md`.
 
 ## Volume outline provenance — read this first
 
@@ -30,7 +30,7 @@ The book runs on a **week clock** and a **day-number register** whose highest va
 
 ## Current location and situation
 
-**Volume 01's immediate promise was not reopened and it is worse.** A person is still under that lip, and the lip's range has gone from *about a finger and a half* after the shore to **a finger and a half to a finger and a half-and-three-quarters** in the cold, and the crossing count has gone up, and Renn Vale's seventh term stands.
+**Volume 01's immediate promise was not reopened and it is worse.** A person is still under that lip, and the lip's range has gone from *about a finger and a half* after the shore to **a finger and a half to a finger and three-quarters** in the cold, and the crossing count has gone up, and Renn Vale's seventh term stands.
 
 **Volume 02, Batch 0002 has done five things.**
 
@@ -69,7 +69,7 @@ The opening party was exactly six. **Five survive and all five are in this batch
 
 ## Authority and legal state
 
-Nera Oduya controls air testing and safe operation of the air gate, has **refused to certify the stair's air**, keeps a watch on it, and **still refuses to publish a rate.** She has this batch said out loud that the shaft is no longer a chimney in the cold, that the terms were written for the worst case, and that **her own refusal and her own method are standing on opposite sides of the same wall.** She has **named a person** for the air valve watch hand-over, in her own hand, off the page, and has gone and stood at that person's door. She has **still not named a person** for the post the review has left blank — somebody at the low end of the corridor in the six minutes after the lever comes off — and that blank is now read out at the fifth bell every day.
+Nera Oduya controls air testing and safe operation of the air gate, has **refused to certify the stair's air**, keeps a watch on it, and **still refuses to publish a rate.** She has this batch said out loud that the shaft is no longer a chimney in the cold, that the terms were written for the worst case, and that **her own refusal and her own method are standing on opposite sides of the same wall.** She has **named a person** for the air valve watch hand-over, in her own hand, off the page, and has gone and stood at that person's door. She has **still not named a person** for the post the review has left blank — somebody at the low end of the corridor in the six minutes after the lever comes off — and that blank is read out at the fifth bell every day. **The last line of Chapter 70 moves that thread without closing it:** Marek Venn asked **Jo Verrick**, out loud, in the corridor outside the pump room, who was going to stand at the low end, and she considered not answering a question that was not hers to refuse, and **said a name, and then did not say it, and then said it.** The page is still blank, Dalla Sen still reads the line out every day, and the name is now in one woman's mouth and one man's ears and **nowhere else**. Nobody has been asked.
 
 Sefu Aran is the elected boundary route keeper and independently controls civic admission. He named the delivery-seat work, **struck half of his own naming aloud**, asked the crew for hours **by name** for the search, and **scheduled the spring conversation with an hour on it.** He has told a room that he is not going to let a keeper's wet-seam position become the building's water timetable.
 
@@ -81,7 +81,7 @@ Sefu Aran is the elected boundary route keeper and independently controls civic 
 
 1. **The register boxes and the plan on a dowel.** Ilsa Norr's key turns **in the thirteenth week**, on her date, on her terms, and **the crew are not in the room.** Nera Oduya will be in it and has said she will be the only person there who cannot be trusted with what is on it. **This must be staged from outside the room and must not answer the volume's question.** A plan that shows homes and not treasure is not an answer; it is a second, older instance of the same shape.
 2. **Renn Vale's walk to the wash-room door.** She has promised, in front of Dalla Sen, that when she does it, it will be her, at the door, she will stand on the step while the woman says whatever she is going to say including no, and **she will write the day herself and nobody will give her one.** It is the only piece of seasoned hardwood in the Hearthhold that a delivery seat could sit in and stay put.
-3. **The blank on the review page.** *Somebody stands at the low end of the corridor and watches the water in the six minutes after the lever comes off, and there is nobody standing there.* It has been read out at the fifth bell every day since the short review and it has no name against it.
+3. **The blank on the review page.** *Somebody stands at the low end of the corridor and watches the water in the six minutes after the lever comes off, and there is nobody standing there.* It has been read out at the fifth bell every day since the short review and it has no name against it. **Chapter 70's last line put a name into the air and not onto the page:** Marek asked **Jo Verrick** who would stand there, in a corridor, out loud, and she said a name, then did not say it, and then said it. The page is still blank, the name is not in the book, and the person has not been asked.
 
 Behind that, in order: the seat, and the one cleaning, and the hardened hardwood; **the waist, which is not packed and cannot be, and the ground that has moved twice**; the corridor that runs on Renn Vale's four days in seven and the school that runs on somebody else's; **Mikka Hale's harder question, which nobody has answered**; the throat, which is sounding a tick that could be a crack; the four treads nobody has walked; a fifth air card if anybody ever goes down that shaft again; the school-door head's fourth wedge; and the **two springs** — the crew's spring conversation, which has now happened and whose one output is a name that is not yet in the book, and Talla Roke's second gate.
 
@@ -90,3 +90,5 @@ Behind that, in order: the seat, and the one cleaning, and the hardened hardwood
 ## Controller-side note, not fixable from a phase
 
 `state/phase-ledger.json` is stale. `scripts/novel_runner.sh` selects phases by sorted marker-file scan and never writes the ledger, while `PHASE_SYSTEM.md:187` states that the selector reads `state/phase-ledger.json`. The pipeline advances correctly by marker file. This is the only place the discrepancy is recorded on the writer's side. It needs a human fix in `scripts/novel_runner.sh` or `PHASE_SYSTEM.md`, not a prose change.
+
+**`NOVEL_SPEC.md` is one phase stale as well** — its status line still says *the active next phase is Volume 02, Batch 0002 (Chapters 61–70)*. Its content is otherwise accurate. It was last written by a writer phase, and it is **not** in the phase mission's editable list (fiction, bible, outline, chapter, summary, continuity, character, open-thread), so the **Batch 0002 repair did not touch it** and neither should any later prose phase until ownership is settled by the controller. The authoritative statement of where the work stands is this file and the `.done` markers, not the ledger and not the spec.

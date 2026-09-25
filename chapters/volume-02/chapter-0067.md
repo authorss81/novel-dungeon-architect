@@ -84,7 +84,7 @@ What Dalla Sen wrote down afterwards, in the clerk's hand, and read out twice, w
 
 On the Sunday Mikka Hale's number was still sixteen, and the pot was on, and the water was in the kitchen, and Jo Verrick stood at the frame at the second bell with a cloth in her hand and said the last thing anybody said about the whole of it, and she said it to the room and not to the frame.
 
-"Six days a week, two crossings, eight pails, four people at a time, a woman on a string, a boy on a bell at five in the morning, and Isel Ferrow on that lip." She wiped the frame down. "That is how this Hearthhold is being kept in the cold, and there is not one hour of it in a guild file, and there is no name in it anywhere but ours.
+"Three days a week, two crossings, eight pails, four people at a time, a woman on a string, a man on a bell at five in the morning, and Isel Ferrow on that lip." She wiped the frame down. "That is how this Hearthhold is being kept in the cold, and there is not one hour of it in a guild file, and there is no name in it anywhere but ours.
 
 "And on Monday morning I am going to open that housing. Because I have said that the seat goes before the cold and the cold is here, and I have no instrument, and I have no wood, and I would rather take the seat out of a housing and see what is under it with my own eyes on a Monday than find out in February that it was gone and that I did not look. **And I want it understood by every person in this room that I am going to open it with a chisel I am borrowing and my own hands and a half a day, and that if the water comes up while it is open then the corridor shuts and the school shuts and the number goes down, and that is the price of the look.**"
 
