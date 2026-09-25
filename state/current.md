@@ -10,7 +10,11 @@ Last completed chapter: 50
 
 Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0005 — the final batch of Volume 01)
 
-Review record: `reviews/volume-01/batch-0005.md` (Volume 01, Batch 0005, Chapters 41–50, sixteen blocking findings and eight state-file defects, all applied). Batches 0001–0005 are complete, independently reviewed, repaired, and state-tracked. Volume 02's first batch is planned at `workspace/volume-02/batch-0001/PROMPT.md`.
+Review record: `reviews/volume-01/batch-0005.md` (Volume 01, Batch 0005, Chapters 41–50: sixteen blocking findings and eight state-file defects from the first pass, then a second repair pass for six further defects the first pass missed). Batches 0001–0005 are complete, independently reviewed, repaired, and state-tracked. Volume 02's first batch is planned at `workspace/volume-02/batch-0001/PROMPT.md`.
+
+## Calendar
+
+The volume closes in the **ninth week**, and *nine weeks* is the book's standing measure of the crew's time in the Hearthhold. A day-number register also runs through the manuscript, referring to named past events; the highest is the **forty-sixth day** and every day number in the prose is in the past. **No day number may be attached to an event inside the current batch** — the hand-over chapter carries the week clock only. Volume 02 should continue the week clock or add new past day numbers above the forty-sixth, and must not lower or reuse the existing ones. Full note in `state/continuity.md`.
 
 ## Current location and situation
 
@@ -53,7 +57,7 @@ Form 7-B remains unsigned. Dael Harrow's route-custody order still locks the gui
 
 ## Immediate next action
 
-**The next step is not the stair.** It is the volume's own unresolved list, and the first item on it is the one the ledger put there on the worst day of the batch: **a post under the near landing's lip, and the timber for it, which is a length of five foot nine on the bottom shelf of a flooded pump gallery with a number chalked on it and an inventory line still open.** Nobody is going down there this month. The gallery has four hours of standing air. There is one ladder and a dead man's rope tied round it.
+**The next step is not the stair.** It is the volume's own unresolved list, and the first item on it is the one the ledger put there on the worst day of the batch: **a post under the near landing's lip, and the timber for it, which is a length of five foot nine on the bottom shelf of a flooded pump gallery with a number chalked on it and an inventory line still open.** Nobody is going down there this month. The gallery has four hours of standing air. There is one ladder and a dead man's rope tied round it. **It will also need a fourth air document:** the first three were spent in Chapter 43 and the word *once* is still standing on the first card.
 
 Behind that, in order: the fourth wedge for the school-door head; the bronze delivery seat with two cleanings on it; the day somebody has to hold two ends of a line on a stair, which Renn Vale has written down as *not yet*; and the guild, which has not yet heard about a shore and will, forty days of walking away.
 

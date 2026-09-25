@@ -116,7 +116,7 @@ He put his finger against the four inches of bright stone on the front face of t
 
 "And the rest," Renn said.
 
-"And the rest is that it is not old," Iven said, "and I said that in the thirty-third day, and the groove underneath is a hundred years and the band is not, and I am a carpenter and not a clerk and I am not going to be the man who stands in a room and tells a woman with a dead mother that her mother's mother knew something about a stone. That is Renn's. And I am not going to ask, because I asked in the thirtieth day and I was told no and I have not asked since and I am not going to start again on the forty-first day."
+"And the rest is that it is not old," Iven said, "and I said that in the thirty-third day, and the groove underneath is a hundred years and the band is not, and I am a carpenter and not a clerk and I am not going to be the man who stands in a room and tells a woman with a dead mother that her mother's mother knew something about a stone. That is Renn's. And I am not going to ask, because I asked in the thirtieth day and I was told no and I have not asked since and I am not going to start again this week."
 
 Renn said nothing at all, and nobody filled the silence, and it lasted about four seconds, and then Oren Sill said, "Aye," quietly, which was the right thing and was all of the answer she needed, and she went up the three steps in front of everybody and did not look back at it.
 

@@ -20,7 +20,7 @@ She held up the cloth.
 
 Then Sefu Aran read his paragraph, separately, and had it marked separately, and would not have it argued with, and it had one sentence in it that was new and that he had read out twice to make sure of it.
 
-*That a route in this boundary is opened and shut by the people who keep the rooms it is under, and by nobody else, and that six people from above have built a part of it and do not hold any of it, and cannot open it, and cannot close it, and cannot be asked to be on a rota that would let them, and that this is not a courtesy to them and it is not protection for them and it is a boundary.*
+*That a route in this boundary is opened and shut by the people who keep the rooms it is under, and by nobody else, and that six people from above built a part of it, and that the five of them who are here do not hold any of it, and cannot open it, and cannot close it, and cannot be asked to be on a rota that would let them, and that this is not a courtesy to them and it is not protection for them and it is a boundary.*
 
 "That is mine," he said, "and Jo has it marked separately, and I have asked for one more thing in it and Dalla has written it and I am going to read it out."
 
@@ -44,7 +44,7 @@ Four at a time, and four minutes, and nobody on the stair in the six minutes aft
 
 A bearer at the near lip for the whole of any crossing, and the bearer is named on the day's board, and the bearer is a person of this boundary, and the bearer is not a person who is doing something else.
 
-The reader at the plinth, and the reader at the string, and they are two people for eight crossings, and a person who reads the plinth and cannot leave it is no use as a reader.
+The reader at the plinth, and the reader at the string, and they are two people for eight crossings, and a reader who will not come off the plinth is not a reader, it is a post.
 
 The plinth reader's word is a warning and not a stop, and the stop is the cloth and the cord and any of the four.
 
@@ -60,7 +60,7 @@ It was shut once, in the middle of the check, by the person nobody had spoken to
 
 The mother had gone off again in the night, which is what a body of seventy does sometimes, and the woman was going to be at the second-bell cover check and then at the fifth, and she was not going to stand on a stair between them, and Mikka's own term from the thirty-eighth day said the words *no work while the covers are being lifted* in Mikka Hale's own hand, and nobody had to be told anything.
 
-So she shut it, at the top of the three steps, with her own hand on the cord, and she said the word, and Isel Ferrow at the top of the nine steps rang the bell, and the anteroom cleared to the outer step in a minute and a quarter, and the four people went back to their rooms, and the pump came off the lever and the corridor emptied and the anteroom had its ten back, and the check stopped.
+So she shut it, at the top of the three steps, with her own hand on the cord, and she said the word, and Isel Ferrow at the top of the nine steps rang the bell, and everybody in the anteroom who was on their feet was out to the outer step in a minute and a quarter, and the litter was still coming down the corridor on four bearers when the pump came off the lever, and the four people went back to their rooms, and the corridor emptied and the anteroom had its ten back, and the check stopped.
 
 Dalla Sen wrote it down and read it back: *Shut by the woman from the wash rooms, at the top of the three steps, on her own hand on the cord, and by her own word. Reason in her hand: I am not on that stair between the second bell and the fifth and the terms say so in Mikka's words and I am not going to be a person who breaks a term to make a check finish.*
 
@@ -84,15 +84,19 @@ And the crew.
 
 Marek Venn read the tally out, because it was his to read and not Tams's, and Tams had said so at the fourth bell and had made him say it out loud in front of the room first, and he read it wrong twice and Tams corrected him twice in front of everybody and let him finish both times.
 
-"Thirty-eight and a half hours," he said, "of work given, owed to nobody, on a project that is not a maintenance party and is not on a rota and is not a charter, done by six people who are going to leave."
+The second one was not a decimal. Marek said six, the way he had been saying six for nine weeks, and Tams Quill put two fingers flat on the tally board and said the number again, quietly, and then said, "There are five of us in this room. Say the five."
+
+Nobody wrote it down. Dalla Sen's hand was on the pen and it stayed on the pen, and she said afterwards, at the kitchen line and not in the anteroom, that it was not a thing in the ledger; it was a thing in the room, and a number a room has corrected itself does not need the clerk to correct it a second time.
+
+"Thirty-eight and a half hours," Marek said, and started the sentence again from the top. "Of work given, owed to nobody, on a project that is not a maintenance party and is not on a rota and is not a charter, done by five people who are going to leave."
 
 "And the obligation," said Dalla.
 
-"And the obligation," he said, "is this, and I am going to say it badly and then Jo will say it properly. The shore on the common landing has to be looked at. The line that holds it wears. The stair's air has to be read twice a day. The pump's seat has two cleanings on it or fewer. There is a length of timber under six feet of water with a number chalked on it and there is no post under the near landing's lip and there is no fourth wedge for the school-door head. And the six of us have a maintenance obligation on that list and it is bounded and it is written and it is not ours beyond the writing."
+"And the obligation," he said, "is this, and I am going to say it badly and then Jo will say it properly. The shore on the common landing has to be looked at. The line that holds it wears. The stair's air has to be read twice a day. The pump's seat has two cleanings on it or fewer. There is a length of timber under six feet of water with a number chalked on it and there is no post under the near landing's lip and there is no fourth wedge for the school-door head. And the five of us have a maintenance obligation on that list and it is bounded and it is written and it is not ours beyond the writing."
 
 Jo Verrick read the obligation in her own hand, and it was one paragraph, and it ended with a sentence she had insisted on and Dalla had resisted and Sefu had overruled Dalla on.
 
-*That the six of them hold the maintenance of what they built until the boundary can do it without them and a person named by the boundary has said so out loud, in this room, with the reason; and that until that is said they are not tenants, not neighbours, and not residents, and no hour of it is owed, and the page that says what work they did is the crew's and the page that says what the route is is the boundary's, and the two pages are not the same page and are kept apart by the clerk and read back separately.*
+*That the five of them hold the maintenance of what they built until the boundary can do it without them and a person named by the boundary has said so out loud, in this room, with the reason; and that until that is said they are not tenants, not neighbours, and not residents, and no hour of it is owed, and the page that says what work they did is the crew's and the page that says what the route is is the boundary's, and the two pages are not the same page and are kept apart by the clerk and read back separately.*
 
 "Thirty-eight and a half hours is not the whole of it," Tams said. "It is the part I can count."
 

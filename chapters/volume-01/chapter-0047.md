@@ -20,7 +20,7 @@ Renn put it in her own hand, and Dalla Sen read it back at the anteroom, and it 
 
 ---
 
-The two of them went over at the fourth bell, in a named period, on a day the school was not running, with the terms read at the threshold in Jo's hand for the sixth time, and the crew on the far side of the cord with nothing in their hands, which Jo Verrick had insisted on and had been laughed at for, and which turned out to be the whole of the finding.
+The two of them went over at the fourth bell, in a named period, on a day the school was not running, with the terms read at the threshold in Jo's hand for the seventh time, and the crew on the far side of the cord with nothing in their hands, which Jo Verrick had insisted on and had been laughed at for, and which turned out to be the whole of the finding.
 
 The bell at the threshold that morning was rung by Ruk Sella, who had done it once before and who was asked again in person at the door by Dalla Sen and who said yes in one word and repeated the whole of it back again, because that is the practice now and it is not the practice she was got the first time.
 
@@ -64,7 +64,7 @@ Tams Quill had the board turned round and had the pump's rhythm on it and had a 
 
 "Which gives us eight crossings," said Marek.
 
-"Which gives you eight crossings if the arithmetic is being done by somebody in a hurry." Tams put the chalk down, which is how he corrected himself. "Thirty-two minutes of crossing in thirty-four minutes of pump. Two minutes of margin, and two minutes is nothing, and two minutes is a third of the rest, so if the pump takes one extra minute on the way up then you have no margin at all. Six minutes of margin, and six minutes is nothing, and six minutes is also exactly the length of the rest, so if the pump takes one extra minute on the way up then you have no margin at all. And the pump does. It took eleven minutes to get going in the ninth day and everybody has seen it be slow."
+"Which gives you eight crossings if the arithmetic is being done by somebody in a hurry." Tams put the chalk down, which is how he corrected himself. "Thirty-two minutes of crossing in thirty-four minutes of pump. Two minutes of margin, and two minutes is nothing, and two minutes is a third of the rest, so if the pump takes one extra minute on the way up then you have no margin at all. And the pump does. It took eleven minutes to get going in the ninth day and everybody has seen it be slow."
 
 "So how many people is this boundary?" said someone.
 
