@@ -12,7 +12,7 @@ Dalla Sen came and found her there at the fourth bell, which is the hour Dalla S
 
 "Entered," said Dalla Sen.
 
-"Write this part too," said Ilsa Norr, and made her do it, and the part was: *the schoolteacher, on the fourth bell of the second day, with two fingers on the corridor wall, said that she had touched it every morning since the seventh week and had not known what she was touching, and that she now does, and that she is not sure that is better.* And Dalla Sen read it back and Ilsa Norr made her read it twice, which she has been doing since the seventh week and which nobody in that building remarks on any more.
+"Write this part too," said Ilsa Norr, and made her do it, and the part was: *the schoolteacher, on the fourth bell of the third day, with two fingers on the corridor wall, said that she had touched it every morning since the seventh week and had not known what she was touching, and that she now does, and that she is not sure that is better.* And Dalla Sen read it back and Ilsa Norr made her read it twice, which she has been doing since the seventh week and which nobody in that building remarks on any more.
 
 ---
 
@@ -52,7 +52,7 @@ Mikka Hale had been standing at the frame with a cloth that she was not using, a
 
 "I started the book. Monday. The one I announced in the anteroom with the corridor shut, the one with the date and the name and the pails. I have got three days of it in it and I have read a week out at the fifth bell as I said I would, and I want to tell this room what is on the page before somebody looks over my shoulder, because it is a bad page and I made it.
 
-"Monday. Four people carried water up the nine steps. **Tuesday. Four people. Wednesday. Four people, and one of them was fourteen with a splinted ankle who carried a pail down a corridor he cannot cross because a pail does not need to cross anything, and I made him do it, and he did it, and I am not going to forget it and neither is he.**"
+"Monday. Four people carried water up the middle passage and as far as the top of the nine steps. **Tuesday. Four people. Wednesday. Four people, and one of them was fourteen with a splinted ankle who stood at the top of the nine steps for two hours and handed pails on to people who could carry them, because a pail does not need to be carried to be counted, and I made him do it, and he did it, and his name is in my book as a carrier's name and he is not a carrier, and I am not going to forget it and neither is he.**"
 
 Pell Roke, on the bench at the top of the nine steps with his crutch across his knees, said nothing at all, and Mikka did not look at him while she said it, and everybody in the room understood that she had not looked at him on purpose.
 
@@ -74,7 +74,7 @@ Pell Roke, on the bench at the top of the nine steps with his crutch across his 
 
 "**The same thing, with a date on it.**" Mikka said it flatly. "That is all I have got. It is the same favour and now there is a day it happened on. And a day is not a favour. A day is a **shift**. And a shift needs a person on it, and a person on a shift is a person who can be asked why they were not there, and that is not a favour any more, that is a rota with a cook's handwriting on it, and it is my handwriting, and there is no difference at all between my book and the ninth line of a thing I have not seen in my life, and I built mine."
 
-Nobody said anything for a while, and the pump came on under the floor, twenty-six strokes, and the check hissed on its one note, and the water in the dip was four inches from a chalk line that had not moved.
+Nobody said anything for a while. Down under the floor the pump came on and did its twenty-six strokes and came off after six minutes, and the check went to the one note it has gone to all winter, and a woman with a bad foot stood at the top of the nine steps with a book and a boy of fourteen on a bench and eleven weeks of the same sentence in the landing's chalk, and the dip held its four inches under the line a slinged woman marked there in the ninth week and has held them ever since.
 
 ---
 
@@ -86,7 +86,7 @@ Nobody said anything for a while, and the pump came on under the floor, twenty-s
 
 "Your *when* is *wet*. On the days the corridor is open. Which is four days in seven. Which is my days. **So a book of favours written by a cook in a kitchen is now going to have a rota in it that is made of my boots, and the water is going to arrive on the days I can stand on that fill, and if one morning in March there is a person on that fill who is not me, then your book records it as a wet day, and nobody reading it in a year will ever know that the word *wet* means a woman with a bad foot on a piece of ground that has moved.**
 
-"That is what I am objecting to and I am not objecting to the book. I am objecting to the fact that a condition has stopped meaning the weather and started meaning a rota, and that happened in this building on the sixth day of the twelfth week, and everybody in this room knew it at the time and nobody wrote it down, and now there is a page in a store with a word on it that means the same thing, and that is how you find out you have built a cage out of a duty and thought you were building a hearth."
+"That is what I am objecting to and I am not objecting to the book. I am objecting to the fact that a condition has stopped meaning the weather and started meaning a rota, and that happened in this building on the fourth day of the eleventh week, when a woman said *not Friday, now*, and everybody in this room knew it at the time and nobody wrote it down, and now there is a page in a store with a word on it that means the same thing, and that is how you find out you have built a cage out of a duty and thought you were building a hearth."
 
 "Wrote that," said Dalla Sen, "in Renn Vale's words, in her own hand, with the time on it, and read out again at her request, and I am adding in my own hand that the *when* column of the kitchen's book of favours and the *when* condition on the ninth line of a document in a locked store now mean the same four days out of seven, and that this is a fact about a rota and not about the weather, and that it has been a fact about a rota for a fortnight and this is the day it was written down."
 

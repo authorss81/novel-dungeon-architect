@@ -126,9 +126,9 @@ Wen Pask looked at the anteroom floor for a long time.
 
 ---
 
-Marek Venn stood at the end of the tally board through all of it with his right hand in his pocket and his left hand flat on the wood, and the thing he was not going to say was the following, and he said none of it, and the not-saying took him most of the afternoon.
+He had his right hand in his pocket and his left hand flat on the wood at the end of the tally board, and he stood there through all of it, and the thing he was not going to say was the following, and he said none of it, and the not-saying took him most of the afternoon.
 
-In the eleventh week of the twelfth he had filled one of three boxes on a guild form in his head in four seconds, with no name in it, and had said so out loud in a room, and had asked for the rule to go in the book. In the twelfth week a woman forty days down a road had put a form flat on a bench so that a form on a table would be a form. In the thirteenth week, four days up the middle passage, a boy of twenty-two had been carried off a trade by an **entry in a roll**, and the entry had been made by an office about a suspension, and the suspension was about a document this boundary had declined to fill in.
+In the eleventh week he had filled one of three boxes on a guild form in his head in four seconds, with no name in it, and had said so out loud in a room, and had asked for the rule to go in the book. In the twelfth week a woman forty days down a road had put a form flat on a bench so that a form on a table would be a form. In the thirteenth week, four days up the middle passage, a boy of twenty-two had been carried off a trade by an **entry in a roll**, and the entry had been made by an office about a suspension, and the suspension was about a document this boundary had declined to fill in.
 
 **There was no name in the box, and the boy is off the roll anyway.** He had assumed, for eleven weeks, that the danger was a name. That a page was dangerous because a person could be written to it. And it turned out that the page had not needed him at all. The page had needed a *date*, and a *sentence*, and somebody forty days away with a stamp and no reason to come and look.
 

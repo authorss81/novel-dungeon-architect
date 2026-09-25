@@ -82,7 +82,7 @@ The thing he had wanted, standing there, was not the document. He had no claim o
 
 It was this: that in eleven weeks in this Hearthhold he had been outside more rooms than he had been inside, and that on the sixth day of the seventh week a woman at a frame had told him he would be more useful standing at the far end of a room than anywhere near her housing, and that he had been rather proud of that, and that a man who is proud of being sent out of rooms is a man who has turned being sent out into a virtue, and that a virtue is a thing you can be praised for, and that is the last thing anybody who is leaving should be doing in a building where a clerk has just written down a word she did not know she was writing.
 
-So: the wall, and the smell of old paper coming through stone, and a man on the other side of it with a slate he was not going to use, and the eleven words he had learned in a corridor in a corridor of a different kind.
+So: the wall, and the smell of old paper coming through stone, and a man on the other side of it with a slate he was not going to use, and the fifteen words he had learned in a corridor of a completely different kind.
 
 What came through the wall after that was voices, and none of them words. That is a thing people do not believe. A room with five people in it makes a noise like a kitchen, and this one made a noise like a kitchen for about forty minutes, and then it stopped, all at once, the way a room stops.
 

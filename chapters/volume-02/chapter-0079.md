@@ -1,6 +1,6 @@
 # Chapter 79 — Asking
 
-On the Monday of the fourteenth week Dalla Sen read the third item on the review page at the fifth bell with a blank against it, the way she has read it every day for three weeks and the way she said in the twelfth week that she would go on reading it.
+On the Monday of the fifteenth week Dalla Sen read the third item on the review page at the fifth bell with a blank against it, the way she has read it every day for four weeks and the way she said in the twelfth week that she would go on reading it.
 
 "*Somebody stands at the low end of the corridor and watches the water in the six minutes after the lever comes off, and there is nobody standing there.* The line is chalked on the frame and the frame is in this anteroom. **No name.**"
 
@@ -12,11 +12,11 @@ Jo Verrick was at the frame with her hand flat on the wood and she did not take 
 
 "You heard it," she said.
 
-"I heard it in a corridor on the last day of the twelfth week," said Marek, "and you said a name and then did not say it and then said it, and I have had it for six days and I have not written it down and I have not said it in a room, and I have been walking about this building like a man carrying a piece of paper he is ashamed of, which is a thing I have done for thirty-two years and I am too old to be doing it in a cold month."
+"I heard it in a corridor on the last day of the twelfth week," said Marek, "and you said a name and then did not say it and then said it, and I have had it for a fortnight and I have not written it down and I have not said it in a room, and I have been walking about this building like a man carrying a piece of paper he is ashamed of, which is a thing I have done for thirty-two years and I am too old to be doing it in a cold month."
 
 "And you want to ask her."
 
-"I want to ask her." He had his right hand in his pocket and his left hand flat on the end of the bench, and he was not a man who took a hand out of a pocket in a room like this and everybody there knew it. "That is the sentence. Eleven words, and I have never said it in a room in my life, and I got it off a man on a wheel who asked three of us for our afternoons by name in the sixth day of the twelfth week. **I am asking her.** And I want to do it properly, which in this building means I go to her door and I tell her what it is before I ask her, and if she says no then the line stays blank and Dalla reads it out tomorrow the same."
+"I want to ask her." He had his right hand in his pocket and his left hand flat on the end of the bench, and he was not a man who took a hand out of a pocket in a room like this and everybody there knew it. "That is the sentence. Fifteen words, and I have never said it in a room in my life, and I got it off a man on a wheel who asked three of us for our afternoons by name on the second day of the twelfth week. **I am asking her.** And I want to do it properly, which in this building means I go to her door and I tell her what it is before I ask her, and if she says no then the line stays blank and Dalla reads it out tomorrow the same."
 
 "Then go to the keeper first," said Renn Vale.
 
@@ -34,11 +34,11 @@ So Renn Vale went with him as far as the clinic return, which is as far as she g
 
 "And nobody is there. And it is not a post anybody can be told to take, because there is no instrument to read — the check is on one note and the vocabulary is dead — and so the only thing a person can do there is **watch water and shout**, and the shout goes to a corridor with a shut waist in it and a school on the far side, and a shout into a shut corridor is a shout into a wall.
 
-"That is the whole of it. It is the worst post in this building and I have been keeping it blank for three weeks because the day I put a name on it is the day that person is a person who stands in cold water six times a week for the good of a floor."
+"That is the whole of it. It is the worst post in this building and I have been keeping it blank for four weeks because the day I put a name on it is the day that person is a person who stands in cold water six times a week for the good of a floor."
 
 "And the woman on the string is already on the stair six times a week," said Marek.
 
-"Yes," said Renn Vale. "Which is why I have known since the fourth day of the twelfth week that that is the answer and have not written it down, and I would like you to understand what you are about to do."
+"Yes," said Renn Vale. "Which is why I have known since the fifth day of the twelfth week that that is the answer and have not written it down, and I would like you to understand what you are about to do."
 
 ---
 
@@ -78,7 +78,7 @@ Then she said the rest of it, and it took about ninety seconds, and she said it 
 
 ---
 
-"Two lines, and no name," said Nera Oduya, from the top of three steps, and she had been up there for the whole of it. "**The page stays blank and the page gets a sentence, and a sentence in a hand is a better thing than a name in a column, and I have been the one refusing to name a person on that line for three weeks and I have not been given anything to change my mind about.** Somebody who comes when a sound changes is not a holder. She is not on anybody's rota. She has refused a post, in her own words, at her own door, to a man who came and asked her properly, and it is the first refusal of a post anybody in this Hearthhold has ever been able to write down as a refusal instead of a gap."
+"Two lines, and no name," said Nera Oduya, from the top of three steps, and she had been up there for the whole of it. "**The page stays blank and the page gets a sentence, and a sentence in a hand is a better thing than a name in a column, and I have been the one refusing to name a person on that line for four weeks and I have not been given anything to change my mind about.** Somebody who comes when a sound changes is not a holder. She is not on anybody's rota. She has refused a post, in her own words, at her own door, to a man who came and asked her properly, and it is the first refusal of a post anybody in this Hearthhold has ever been able to write down as a refusal instead of a gap."
 
 "And the other one," said Bel Ordry. "The one on your own board. The air valve watch, and the name you said in a room on the second day of the twelfth week, and the door you went and stood at on the third day."
 
@@ -96,15 +96,17 @@ Nera did not move.
 
 ---
 
-Wen Pask had spent four days in this Hearthhold and four nights in a corner of a school store and he had not been asked for one hour of anything, and on the Tuesday morning he came to the end of the tally board and asked Tams Quill for a scrap of paper and a bit of pencil, which Tams Quill gave him, and then he stood at the end of the board and did not write on it, which is a thing he had watched a man do eleven times in thirteen weeks and had apparently learned from.
+Wen Pask had spent eleven days in this Hearthhold and eleven nights in a corner of a school store and he had not been asked for one hour of anything, and on the Tuesday morning he came to the end of the tally board and asked Tams Quill for a scrap of paper and a bit of pencil, which Tams Quill gave him, and then he stood at the end of the board and did not write on it, which is a thing he had watched a man do eleven times in thirteen weeks and had apparently learned from.
 
 "This is not a column," he said. "I want to say that first, because I have watched him say it and I am twenty-two and I have had a trade and I know what a column is for. This is four days of a man at a store counting what comes up a road."
 
 "Go on," said Tams Quill.
 
-"**Thirty-nine pails.** Up the middle passage, into the top of the nine steps, since I got here, and I have got who carried them, because it is four or five people and they are the same four or five people every day, and I have got the days, and I have got that four of the five are the same people who stand on the stair, and one of them is fourteen and should not be carrying anything.
+"**Forty pails.** Up the middle passage, into the top of the nine steps, on the four days I have got written down, and I have got who carried them, because it is four or five people and they are the same four or five people every day, and I have got that four of the five are the same people who stand on the stair, and one of them is fourteen and should not be carrying anything.
 
-"And the count is wrong and it is wrong by a lot, because I have been counting pails and not days. I have got a heading and the heading is *pails up*, and I know already that the heading is wrong, and I would like somebody to tell me what a pail is, because I have been a man with a page and I have got no idea what my page is for."
+"And I have got the days, and I have got the rule, because a woman at a counter told it to me twice without being asked to. Twelve on an open day and eight on a shut one, and I have got two of the open ones and two of the shut ones in there, and it comes to forty, and I worked it out twice because I did not believe the first one.
+
+"And the count is right and it is wrong, and it is wrong in a way I could not have found out on a road. I have been counting pails and not days. I have got a heading and the heading is *pails up*, and I know already that the heading is wrong, and I would like somebody to tell me what a pail is, because I have been a man with a page and I have got no idea what my page is for."
 
 "A pail is water on a shoulder," said Mikka Hale, from the frame, "and it is not a day and it is not an hour, and there is a column on that board with nothing over the top of it and nineteen lines in it and a boy of fourteen in it, and you have just described a different column and you have described it better than a woman with a board did in a fortnight."
 
@@ -120,8 +122,8 @@ The anteroom went quiet in the way it has gone quiet about four times in thirtee
 
 "Because he has been holding that timber for a dry water-lock since before the collapse, and it is not his timber, it is held against the work, and every month it sits there the whole of the middle knows somebody is coming for it and planning around it. And nobody in that gate has ever had a piece of paper saying *stop holding it.* I asked at the counter on my fourth day and the woman there said the same words three times, and the third time she said them slower, which is how I know it is not a thing anybody there is proud of.
 
-"So," said Wen Pask, "**has this boundary said it will not come, or has nobody ever thought to say it, because it is not in a book and I have been in eleven rooms of this Hearthhold in ten days and I have not found it in one of them.**"
+"So," said Wen Pask, "**has this boundary said it will not come, or has nobody ever thought to say it, because it is not in a book and I have been in eleven rooms of this Hearthhold in eleven days and I have not found it in one of them.**"
 
-Marek Venn stood at the end of the board and understood, with a clarity that was almost restful, that the whole of what he had to bring to a boundary in the fourteenth week was going to be a question asked out loud, and that it was not going to be asked about a floor or a lip or a post, and that the answer was going to cost this Hearthhold the only piece of wood it had ever been able to name.
+Marek Venn stood at the end of the board and understood, with a clarity that was almost restful, that the whole of what he had to bring to a boundary in the fifteenth week was going to be a question asked out loud, and that it was not going to be asked about a floor or a lip or a post, and that the answer was going to cost this Hearthhold the only piece of wood it had ever been able to name.
 
 He said nothing yet. He was going to say it in a room, in the morning, and he was going to be prepared to be told no, and he had a week of practice at it.

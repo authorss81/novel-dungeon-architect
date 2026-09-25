@@ -24,11 +24,11 @@ She was gone about forty minutes, and nobody in the anteroom did anything with t
 
 Marek Venn stood at the end of the tally board with the slate under his arm and did the thing he had discovered in the seventh week and had got better at in the eleventh, which was to be a man in a room where the best available contribution was silence, and to notice, every time, that the silence was not humility. It was a professional skill, and the reason he was good at it was that he had spent thirty-two years being the man with the instrument, and there was not one hour of this Hearthhold in which the instrument had been the thing anybody needed.
 
-There was a thing he wanted to say to that woman, and it was eleven words long, and it was the sentence he had been in this building to learn, and it was this: *I am asking for your afternoon, and I want to know what it is like.* And it was not a sentence he was entitled to say, because a man who asks a woman for her afternoon is a man asking for a room, and the room was not his, and the woman in it had been asked for nothing in eleven weeks and had said yes to two things, one of which had put a dead man's mother under a slab.
+There was a thing he wanted to say to that woman, and it was fifteen words long, and it was the sentence he had been in this building to learn, and it was this: *I am asking for your afternoon, and I want to know what it is like.* And it was not a sentence he was entitled to say, because a man who asks a woman for her afternoon is a man asking for a room, and the room was not his, and the woman in it had been asked for nothing in eleven weeks and had said yes to two things, one of which had put a dead man's mother under a slab.
 
 So the sentence stayed in his mouth, and what he did with it instead was to understand, standing at the end of a board, that the sentence he had come eleven weeks down a shaft to learn was *may I have your afternoon*, and that the sentence the thirteenth week had actually taught him, in a room with a key in an apron and nine lines on a dowel, was *what is it that you already know how to do that nobody has thought to ask you about*.
 
-Nobody had thought to ask her that. In eleven weeks. And she had been asked twice, both times about a route, and both times she had said the truth about a rope and a cover.
+Not one person in eleven weeks had thought to ask her that. And she had been asked twice, both times about a route, and both times she had said the truth about a rope and a cover.
 
 ---
 
@@ -94,13 +94,13 @@ Jo Verrick had been standing at the frame for the whole of it with her hand flat
 
 "Right," she said. "Then that is the end of it and I am going to say the end of it in a room where nine people can hear me, because the alternative is that I say it to myself at a frame in March.
 
-"I have been looking for a piece of wood since the sixth day of the twelfth week. Four places, and a day in the cold, and a page with thirteen lines on it and a *no* against twelve of them. **The thirteenth line is what the seat wants, and the person who has it is the woman who just said no, and she said it with a reason that is better than hardness, which is what every other owner in this Hearthhold gave me, and this is the fifth.**
+"I have been looking for a piece of wood since the third day of the twelfth week. Four places, and a day in the cold, and a page with thirteen lines on it and a *no* against twelve of them. **The thirteenth line is what the seat wants, and the person who has it is the woman who just said no, and she said it with a reason that is better than hardness, which is what every other owner in this Hearthhold gave me, and this is the fifth.**
 
 "So the seat is not made. I am not saying it is not made this month. I am saying **the hunt is over**, and there is nobody left to ask, and no amount of standing in corridors is going to change it, and I would like that entered as a fact and not as a failure, because I went to five owners and every one of them said no for a better reason than hardness and the sixth said no for the best reason anybody has given me in eleven weeks.
 
 "And I want to say one more thing and then I am going back to my frame. I priced that seat at a day and a half of my shutter route, and a day of corridor, and a day of school, and a day of a pot. I am not going to have that price back. I spent it. **And the pump is running on one cleaning with the bolt-hole a quarter inch open and a check that hisses on one note, and the only thing between that machine and the dip is me and Isel and a chalk line, and I have just run out of the other way.**"
 
-Nobody said *it will be all right*, and the room has not said that in thirteen weeks.
+The sentence *it will be all right* did not get said. Nobody in that anteroom had said it in thirteen weeks and nobody was going to start, and the pump went on being a pump underneath them.
 
 "Noted and read out," said Dalla Sen, and read it out, and then she read out the entry beneath it in her own hand, which she had written while Jo was talking, and which the room had not seen: *the delivery seat, named by the keeper, struck in part at the naming, unfinished; the material hunt closed on the fourth day of this week by the refusal of the sixth owner, in a room none of the boundary was in; the estimate stands at one, in the pump maintainer's own hand, and zero is still refused, and a decision gets made on a day with a man standing in front of you and this boundary does not yet have that day.*
 

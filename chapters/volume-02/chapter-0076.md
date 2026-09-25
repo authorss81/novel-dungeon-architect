@@ -2,11 +2,11 @@
 
 On the Saturday of the thirteenth week the water did not come in, and the reason was that Isel Ferrow was on his shutter route, and the reason he was on his shutter route was that a half-day of shutter work had gone to standing at a pump frame with his hands empty in the twelfth week and nobody had ever replaced it, because a half-day of shutter work is not money anybody in this building was going to be told about, and because a man with a shutter route will always be somewhere the shutter needs him.
 
-The first crossing was due at the first bell on the ninth step with eight pails on a two-day's pot, and at the first bell Isel Ferrow was not on the near lip.
+The first crossing was due at the first bell on the ninth step, and it carries four of the eight pails a shut day gets, because a shut day gets eight and a crossing gets four, and it was due at the first bell and Isel Ferrow was not on the near lip.
 
 "He is at the third level," said Sefu Aran, from the wheel, having gone and looked, which a keeper does not do. "I have sent Bel Ordry. And I am writing this down myself and I am not going to hand it to the clerk, and here it is: *the first crossing of the day was not made at the first bell because the bearer at the near lip was on paid work, and the paid work is his, and it is not this boundary's, and it is the only reason there was a question at all.*"
 
-The crossing went at the second bell and a half. Eight pails, four at a time, fifty-eight seconds off the near landing again, which Jo Verrick has said twice is the best figure in the record for a party with a load in its hands and is worse than the thirty-eight, and which she would rather nobody built anything on.
+The crossings went at the second bell and a half, both of them, eight pails in two crossings of four, fifty-eight seconds off the near landing again on the first of the two, which Jo Verrick has said twice is the best figure in the record for a party with a load in its hands and is worse than the thirty-eight, and which she would rather nobody built anything on.
 
 Mikka Hale's number that evening was **fourteen**, written on her own board in her own hand at the first bell and read out at the fifth bell by a person, and the reason she gave was the whole of it and it took about nine seconds.
 
@@ -22,7 +22,7 @@ Then, at the fourth bell, Sefu Aran asked for the notice to be brought up from t
 
 She came and looked.
 
-"Since the sixth day of the twelfth week," he said, "this book has got in it: a hardwood inventory with an owner against every line. A man's estimate of what is left in a pump, in his own hand, with the time on it. A schoolteacher's rota and three items of her own cost. A keeper's calendar, four days in seven, in her own words, called a calendar. A record of four mornings of a bar against a wall with no conclusion in either direction. A count of six crossings in six cold mornings. A record of a boundary's arithmetic in two columns that both reconcile exactly. A cook's book of favours, begun this week. A closure with a reason in a woman's own hand. A shelf in a store with nine lines on it that is nine hundred years old and has just been described into a page of this one.
+"Since the fourth day of the eleventh week," he said, "this book has got in it: a hardwood inventory with an owner against every line. A man's estimate of what is left in a pump, in his own hand, with the time on it. A schoolteacher's rota and three items of her own cost. A keeper's calendar, four days in seven, in her own words, called a calendar. A record of four mornings of a bar against a wall with no conclusion in either direction. A count of six crossings in six cold mornings. A record of a boundary's arithmetic in two columns that both reconcile exactly. A cook's book of favours, begun this week. A closure with a reason in a woman's own hand. A shelf in a store with nine lines on it that is nine hundred years old and has just been described into a page of this one.
 
 "**Every one of those is a record of somebody keeping something.** Not a name. Not a holder. Not a bond. A record of work, in a book, in a hand, with a day on it. And there is a notice upstairs — a fold of guild paper on a bench — that says the trade will supervise a boy for a year if a **named holder is entered against a named route, in a register kept by the office.**
 
@@ -44,7 +44,7 @@ She had not gone pale. She had gone *careful*, which in Dalla Sen is worse, beca
 
 "And this is the book. **This is the only object in this Hearthhold that a person forty days away can hold.** And a person forty days away cannot hold a room, and cannot hold a woman at a frame, and cannot hold a woman's eleven words. But they can hold this.
 
-"And in nine weeks' time a notice goes into a roll, and it does not need my name in it, and it does not need anybody's name in it, because what it needs is a **record that a route was kept**, by anybody, on any day, in any hand, and I have been writing one of those since the sixth week of the sixth month."
+"And in a term's time a notice goes into a roll, and it does not need my name in it, and it does not need anybody's name in it, because what it needs is a **record that a route was kept**, by anybody, on any day, in any hand, and I have been writing one of those since the sixth week."
 
 The wheel went round twice under the floor.
 
@@ -102,7 +102,7 @@ Nobody fixed it. That is what Dalla Sen entered, and she entered it in her own h
 
 "It is entered that this was not decided. It was arrived at, over eleven weeks, by nine people doing nine kinds of work correctly, and that no person in this room proposed it, and that it is now a fact and cannot be un-arrived at without somebody deciding to un-arrive at it.
 
-"It is entered that the fourth paragraph of a guild notice read in this anteroom on the fifth day of this week provides for the supervision of a trade by a **named holder entered against a named route in a register kept by the office**, and that this boundary has not applied for it, and has not been asked for it, and that the clerk's own assessment is that the boundary has now built the evidence for it without knowing it was building anything.
+"It is entered that the fourth paragraph of a guild notice read in this anteroom on the sixth day of this week provides for the supervision of a trade by a **named holder entered against a named route in a register kept by the office**, and that this boundary has not applied for it, and has not been asked for it, and that the clerk's own assessment is that the boundary has now built the evidence for it without knowing it was building anything.
 
 "And it is entered that I wrote that assessment, and that I would have written it in the sixth week as a kindness and that in the thirteenth week it is a warning, **and that the difference between the two is not a change of mind and it is thirteen weeks.**"
 
