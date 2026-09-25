@@ -4,7 +4,7 @@ The review began with the pump already talking.
 
 The delivery check gave a hard knock before Tams touched the lever, then a second knock as the frame took its first load. The wet mineral seam beneath the housing had widened overnight. A dark line showed along the edge of the service well, and the water mark in the lower gallery stood one finger above the level recorded the day before.
 
-Marek stood beside the public work sheet. The names were all there: Jo at the pump, Nera for air, Sefu for the boundary, Dalla for the record, Renn and Mikka on their watches, Iven for the craft sequence, Oren and Tams for the frame, Pell for the water calls, and Leena for corrections. The sheet was not a charter. It was a promise to inspect the next condition.
+Marek stood beside the maintenance work sheet. Half the board was still blank, and the filled half named tasks rather than people: the pump, the air, the boundary, the record, the door, the clinic return, the frame, the water calls, the corrections, and the craft sequence. Sefu’s name sat under the boundary conditions and Nera’s under the air, because each of them had answered only for the lines they had written. The rest of the names were spoken at the review and not yet on the board. The sheet was not a charter. It was a promise to inspect the next condition.
 
 The anteroom held ten people, including Leena on the litter. That was the working limit from the first test, and Sefu counted the room himself before the pump began. Renn was on the upper landing and Mikka was beyond the clinic gate on their watches, neither part of the ten. Before the count, Oren and Tams had returned Leena from the clinic cot to the litter under her direction; the cot remained beyond the gate. The deeper Hearthhold gate remained closed for new admission. The returning stair was restricted beyond the service bend. Dalla’s local record of the guild papers and Iven’s suspended-bond receipt lay on their separate board, and the locked inspection door gave no route to the surface.
 
@@ -88,11 +88,25 @@ Marek could hear the cost in her voice. Every short interval would take another 
 
 It was better than a claim. It was not free.
 
-Dalla brought the public work sheet to the landing. “Write the decision where everyone can see it.”
+Dalla brought the work sheet to the landing. “Write the decision where everyone can see it.”
 
-Marek took the chalk with his left hand. He began with the route: *Anteroom and service bypass remain conditionally open for attended maintenance and limited boundary work only. No deeper admission. No public route. No guild custody.*
+Marek took the chalk with his left hand. He wrote the heading first and then the sentence under it, and the sentence began the way sentences about routes always began, with the route as its subject: *The route remains conditionally open for attended maintenance and limited boundary work only. No deeper admission. No public route. No guild custody.*
 
-Nera added the air conditions and the three pressure-turn watches. Sefu added the right to close the boundary and the rule that no one could be admitted beyond the gate by emergency pressure alone. Jo added the pump’s short intervals and the cost of each cleaning. Iven added that the gland was dry, the delivery seat was scored, no spare bronze seat had been released, and no permanent repair had been made. Dalla added the locked guild line, the absent rescue, and the cost of retreat.
+Nera added the air conditions and the five standing watches, since the air was only safe while all five were filled: air valve, civic wheel, upper landing, clinic return, and the bell at the threshold. She kept the chalk against the board when she was done.
+
+“Write what happens when one of them is empty,” she said. “You have named who watches. You have not named the room that loses its air.”
+
+Marek read his own sentence back and could not find the fault in it. It had taken him three attempts in this batch to learn that a true sentence could still be an unusable one.
+
+“An empty watch is not a shorter shift,” Nera said. “It is a stopped one. No pump, no occupancy, and no second room on the strength of a person who was not there.”
+
+Sefu added one condition instead of a paragraph: *no admission beyond the gate by emergency pressure alone, and the boundary may be closed at any watcher’s word.*
+
+Jo read it back and stopped on the first two words. “That is still your subject. You crossed *route* out of the heading yesterday and left it in the line, where it does the most damage.”
+
+Marek rubbed out the opening and wrote *the anteroom and service bypass* in its place, so that the sentence described two things a person could go and look at instead of one thing somebody owned. Dalla copied the correction onto the pump sheet so the two records did not drift apart, and added the locked guild line, the absent rescue, and the cost of retreat underneath.
+
+Then Jo wrote the pump in with her own hand: the short intervals, the cost of each cleaning, and the scored seat with no spare released. Iven added only what he could vouch for, which was the condition of the parts. The gland was dry. No permanent repair had been made. Nothing that let the next keeper be handed a promise.
 
 Leena read over Marek’s shoulder. “Add the clinic access.”
 
@@ -116,13 +130,13 @@ Nera added, “And if the air reverses, the route closes regardless of the pump.
 
 Jo looked at the retaining bolt in her hand. “If I can clean this, the pump gets one more attended interval. If I cannot, we stop and write that it stopped.”
 
-Marek looked at the six names on the sheet. They were not beneficiaries. They were not claimants. They were people who had agreed to do work under limits they could not privately revise.
+Marek counted the spaces the board had left open for the people who would fill them. They were not beneficiaries. They were not claimants. They were people who had agreed to do work under limits they could not privately revise.
 
-“Dalla,” he said, “put the next review beside the agreement. The line we already fixed.”
+“Dalla,” he said, “put the review beside the agreement. The line we drafted yesterday.”
 
-She wrote it as they had agreed it: the second work-bell after the next complete pressure turn, or immediately if anything on the board changed.
+She copied the drafted line onto the landing sheet and left it where the board could be read from the grate: the second work-bell after the next complete pressure turn, or immediately if anything on the board changed.
 
-So the sheet was read before it was signed. Sefu read it back aloud the way he read every boundary term, stopping at each name and each stop, and Dalla wrote the reading time at the head of the marks so that nobody could later claim they had agreed to something nobody had heard.
+So the sheet was read before anyone marked it. Sefu read it back aloud the way he read every boundary term, stopping at each name and each stop, and Dalla wrote the reading time at the head of the marks so that nobody could later claim they had agreed to something nobody had heard.
 
 Nera, Sefu, Jo, Dalla, Iven, Oren, Tams, Pell, Leena, and Marek marked the sheet in their own places. Renn and Mikka added their watch marks at the gate after Dalla carried the board to them. The marks were not a public charter. They were an accepted maintenance record among the people who would have to live with its next correction.
 
@@ -144,6 +158,6 @@ Nera looked at the water mark. “Then the route continues only for the next nam
 
 It was not a victory. It was a limited continuation with a cost everyone could name.
 
-Marek set his left hand on the public work sheet. The wrapped plate stayed under its cloth. The guild door stayed closed. The stair stayed restricted. The air gate stayed conditional. The route was not theirs.
+Marek set his left hand on the work sheet. The wrapped plate stayed under its cloth. The guild door stayed closed. The stair stayed restricted. The air gate stayed conditional. The route was not theirs.
 
 It was a route that six outsiders and the relevant Hearthhold maintainers had agreed to keep—for a named review, under named stops, and only while the work remained answerable to the people who lived with its consequences.

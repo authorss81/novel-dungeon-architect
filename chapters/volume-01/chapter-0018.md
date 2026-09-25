@@ -42,7 +42,7 @@ Renn nodded. “And the clinic had nowhere else to send a person who could not w
 
 The statement made the stair larger than a fault in a wall. It had once been a way for children, walking patients, and stretchers to leave the same building without sharing a landing. Now its mechanism repeated the unfinished separation.
 
-Pell shifted on the bench at the side of the fixed landing. His crutch was beside him, and the splinted ankle rested on a folded blanket. “The upper side would fit one person,” he said.
+Pell had his back against the stone beside the fixed rail, his crutch laid across his knees and the splinted ankle propped on the folded blanket from his cot. “The upper side would fit one person,” he said.
 
 “It would fit a person who can cross without changing the balance,” Marek said. “That is not you today.”
 
@@ -116,9 +116,9 @@ Nera touched the air cloth. “And because the next pressure turn could pull the
 
 Iven added, “The guild may call this a faultform. The local use is evidence of a function that failed. The two descriptions can exist together.”
 
-Marek wrote the condition in the copied map: *visible movable slab; stone throat; pressure-fed seam; rope, wheel, counterweight; missing lower receiver; walking human load repeats return; dead pack does not; no crossing; no litter; restricted pending repair and public maintenance terms.*
+Marek wrote the condition in the copied map: *visible movable slab; stone throat; pressure-fed seam; rope, wheel, counterweight; missing lower receiver; walking human load repeats return; dead pack does not; no crossing; no litter; restricted pending repair and resident maintenance terms.*
 
-He added one more line: *return after a public maintenance decision, a local history review, and a load test on the lower side that no room above this bend has to pay for.*
+He added one more line: *return after a resident maintenance decision, a local history review, and a load test on the lower side that no room above this bend has to pay for.*
 
 The phrase was not elegant. It was necessary. Without it, the restriction would look like fear rather than a recorded condition with a future task.
 

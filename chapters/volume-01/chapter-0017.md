@@ -152,7 +152,7 @@ Her voice carried through the gate and faded.
 
 Sefu opened the anteroom for a single attended shift. Ten people could use the room under the old working limit, including one stretcher, for no more than two hours. The deeper gate was closed again once Mikka’s clinic check ended, leaving only the named clinic return under Nera’s air watch. Nera added the new air rule. Sefu added the clinic watch and the stop bell. Dalla wrote the wet seam’s location on the route record, and Iven marked the pump as stopped during every pressure turn until the check could be cleaned.
 
-Marek looked at the old return route in his copied map. It now had three obligations beside it: keep the hatch closed, keep the clinic return watched, and do not treat the returning stair as a passive bypass. The route had become less like a line on a sheet and more like a set of people standing at different points along a changing path.
+Marek looked at the old return route in his copied map. It now carried three standing obligations of its own, distinct from the five watches a pressure turn required: keep the hatch closed, keep the clinic return watched, and do not treat the returning stair as a passive bypass. The route had become less like a line on a sheet and more like a set of people standing at different points along a changing path.
 
 The pump started again beneath them. Its delivery check knocked once and settled.
 

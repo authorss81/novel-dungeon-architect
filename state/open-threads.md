@@ -1,22 +1,23 @@
 # Open Threads
 
-These are active promises after Volume 01, Batch 0002 (Chapters 1–20). The first two sections are the immediate obligation on Batch 0003. The final section is deliberately separated: those are series-level threads from `outline/series.md`, not Volume 01 deliverables, and a batch must not treat them as work due in the next ten chapters.
+These are active promises after Volume 01, Batch 0002 (Chapters 1–20), including the review repairs recorded in `reviews/volume-01/batch-0002.md`. The first section is the immediate obligation on Batch 0003. The volume planning flag is deliberately separated because it is a planning task for the Batch 0004 prompt, not prose work. The final section is series-level canon from `outline/series.md` and `outline/ending.md`, not Volume 01 deliverables, and a batch must not treat those as work due in the next ten chapters.
 
 ## Immediate obligation for Batch 0003
 
 - **OT-08:** The group remains in the Hearthhold air-gate anteroom and boundary work area, not Hearthhold Middle. The route is conditionally open for attended maintenance and limited work only. The deeper gate remains closed to new admission pending a later review and resident decisions.
-- **OT-09:** The false refuge failed all five Room Checks at six-person occupancy. Nera rejected Marek's recorded air plan, and the first pump repair is complete. The public maintenance record now exists, but a larger refuge or permanent public route has not been tested.
+- **OT-09:** The false refuge failed all five Room Checks at six-person occupancy. Nera rejected Marek's recorded air plan, and the first pump repair is complete. The interim maintenance work sheet now exists and has been marked once, in Chapter 20, but a larger refuge or permanent public route has not been tested.
 - **OT-10:** A route can be physically useful without becoming a guild toll road or private claim. The interim work sheet has consent, withdrawal, stop, labor-cost, and no-ownership language; the missing maintenance charter remains incomplete.
 - **OT-11:** The returning stair's physical cycle is mapped: movable slab, throat, rope, wheel, counterweight, and missing lower receiver. It has been black-cord restricted and recorded, not resolved. A local school/infirmary history conflicts with the guild record without providing a complete answer.
 - **OT-18:** The sump pump holds prime only in short attended intervals. The delivery check chatters, its bronze seat is scored, no spare seat has been released, and the gland remains dry. Named local labor, replacement material, and the next review are required.
 - **OT-19:** Dael's order, the old clearance seal, the inspection route charter, the salvage lien, the insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's non-claim receipt are distinct. The guild-controlled surface door is physically closed and guild-financed equipment is frozen or unusable. The order still cannot create air, consent, or ownership.
 - **OT-20:** Sefu Aran's civic veto and Nera Oduya's air authority remain separate. Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale have accepted specific work and watches; their cooperation is not blanket resident consent or authority to admit the crew.
 - **OT-22:** The wrapped empty-seat plate is preserved as evidence and remains on a spread of work cloth on the anteroom bench. Its meaning, the old support diagram, and the boundary's history remain open.
-- **OT-25:** The wet mineral seam beside the pump housing couples the pump, air baffle, service bypass, and returning-stair pressure. The revised route requires a landing watch, clinic-return watch, work-bell relay, and latched bypass. The seam's long-term condition is not solved.
-- **OT-26:** The interim work sheet names the next review at the second work-bell after the next complete pressure turn, or immediately if air, water, pump, stair, or boundary conditions change. That review must remain a real decision point rather than an automatic renewal.
+- **OT-25:** The wet mineral seam beside the pump housing couples the pump, air baffle, service bypass, and returning-stair pressure. A pressure turn requires five standing watches — air valve, civic wheel, upper landing, clinic return, and the work-bell relay — plus evacuation to the upper landing on any watcher's call. An unfilled watch stops the shift. The seam's long-term condition is not solved.
+- **OT-26:** The interim work sheet names the next review at the second work-bell after the next complete pressure turn, or immediately if air, water, pump, stair, or boundary conditions change. That review must remain a real decision point rather than an automatic renewal. Chapter 20 marked the sheet once; a later batch must not treat the marks as permanent.
 - **OT-27:** Jo's first pump-maintenance shift cost one half-day of her tool-route work, and a second interval in Chapter 16 closed short because her own route went long. The next batch must show who pays, rotates, or refuses that labor rather than turning it into free community service.
 - **OT-28:** The crew's drinking during named work periods is provided by the Hearthhold kitchen under a recorded rule, with the sealed condensation liter held for overruns or illness. That is an unpaid obligation the crew has not settled, and it is the same shape of debt as Jo's labor.
 - **OT-29:** Form 7-B is still unsigned in Marrowgate, and the Chapter 15 courier exchange named it as the record that will say who answers for the collapse. The crew has no plan for it and cannot settle it from below.
+- **OT-31:** The Chapter 19 sheet is a draft and the Chapter 20 marks are the only acceptance on record. The distinction matters downstream: the next batch must show the sheet being corrected, shortened, or refused rather than simply renewed.
 
 ## Marek's personal and professional threads
 
@@ -29,6 +30,10 @@ These are active promises after Volume 01, Batch 0002 (Chapters 1–20). The fir
 - **OT-21:** Can Marek's right hand continue to contribute through shared labor and left-hand adaptation, or will the cost force him to give up delicate solo work? He has begun dictating structural observations and accepting Dalla's written record; this remains an earned process thread, not a new power stage.
 - **OT-23:** The surface Cartwright line is physically continuous but locked by Dael's order. The crew has decided not to depend on guild rescue, parts, or records; any future communication must be lawful and local unless the order changes.
 - **OT-24:** Pell is Talla Roke's younger brother in the bible, but the relationship has not been revealed in prose. Preserve the canon without forcing a family reunion or retcon in the next batch.
+
+## Volume planning flag, not Batch 0003 work
+
+- **OT-30:** `outline/volume-01.md:66–74` reserves Chapters 46–50 for a stair two-way route and a resolution in which the survivors reach the Hearthhold boundary. That arrival already happened in Chapters 9–10. The volume outline must be reconciled before any Batch 0004 prompt is written, so that Chapters 46–50 deliver a second, deeper threshold instead of repeating an arrival. No planned beat changes as a result of this flag, and Batch 0003 must not attempt the reconciliation in prose.
 
 ## Series-level threads, not Volume 01 deliverables
 

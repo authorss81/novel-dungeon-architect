@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: `volume-01/batch-0003` (next prose phase; Batch 0002 is complete)
+Current phase: `volume-01/batch-0003` (next prose phase; Batch 0002 is complete, reviewed, and repaired)
 
 Current volume: 1
 
@@ -10,7 +10,9 @@ Last completed chapter: 20
 
 Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0002)
 
-Batch outline: `outline/batches/volume-01-batch-0002.md` (chapters 11–20, written from the delivered prose)
+Batch record: `outline/batches/volume-01-batch-0002.md` (chapters 11–20, written after delivery as a record of the intended cards, not a forward plan)
+
+Review record: `reviews/volume-01/batch-0002.md`
 
 ## Current location and situation
 
@@ -47,7 +49,7 @@ Nera Oduya controls air testing and safe operation of the air gate. Sefu Aran is
 
 Form 7-B remains unsigned, and the Chapter 15 courier exchange named it as the open record of who answers for the collapse. Dael Harrow's temporary route-custody order locks the guild-controlled surface door and freezes guild-financed equipment, but cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's limited non-claim receipt remain distinct. The guild surface line is physically closed; no guild rescue or future part is being counted on.
 
-The interim maintenance work sheet is a local, conditional agreement among named maintainers. It includes consent, withdrawal, stop, air, pump, cost, and next-review terms. It is not a permanent route charter. The returning stair has a separate restriction sheet. The empty-seat plate remains unexplained evidence.
+The interim maintenance work sheet is a local, conditional agreement among named maintainers. It includes consent, withdrawal, stop, air, pump, cost, and next-review terms. It is not a permanent route charter. Chapter 19 produces a legible draft that nobody marks as agreed, because the delivery seat had not been opened; Chapter 20 is the single signature event, where the sheet is read aloud, the reading time is recorded, and the marks are then made. The sheet names five standing watches for a pressure turn — air valve, civic wheel, upper landing, clinic return, and the work-bell relay — and holds that an unfilled watch stops the shift rather than shortening it. The returning stair has a separate restriction sheet. The empty-seat plate remains unexplained evidence.
 
 ## Relationship and power state
 
@@ -58,3 +60,5 @@ Marek has only brief, unreliable impressions of changing load. He has no named s
 ## Immediate next action
 
 Batch 0003 begins at the named review: the second work-bell after the next complete pressure turn, or immediately if air, water, pump, stair, or boundary conditions change. The crew and relevant Hearthhold maintainers must address the scored delivery seat, the local labor/payment question, and the question of whether a larger two-level refuge can be attempted without repeating the false-room failure. The Volume 01 midpoint reversal remains reserved for approximately Chapter 25; the returning stair, empty-seat plate, and larger Lattice mystery remain unresolved.
+
+One planning item is flagged and deliberately excluded from Batch 0003: `outline/volume-01.md:66–74` still resolves Chapters 46–50 with the survivors reaching the Hearthhold boundary, which already happened in Chapters 9–10. This is recorded as **OT-30** in `state/open-threads.md` and must be reconciled in the volume outline before a Batch 0004 prompt is written. It is not prose work for this batch.

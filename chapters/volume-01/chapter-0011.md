@@ -18,7 +18,7 @@ Sefu looked toward the bench. “There is dry floor.”
 
 “A bench is not a bed,” Leena said. “And I do not intend to spend the night learning whether that distinction matters.”
 
-Renn Vale set her lantern on the landing floor and inspected the anteroom threshold. Jo Verrick brought over a low canvas camp cot, its legs bound with waxed cord. Mikka Hale followed with a folded blanket and a stoppered cup of dark water from somewhere beyond the gate, then stopped at the threshold. The cup was not from the crew’s reserve. Its rim had the pale mineral line of a Hearthhold vessel.
+Renn Vale set her lantern on the landing floor and inspected the anteroom threshold. Jo Verrick brought over a low canvas camp cot, its legs bound with waxed cord. Mikka Hale followed with a folded blanket and a stoppered cup of dark water from somewhere beyond the gate, then stopped short of the sill. She had not been recorded as coming back in, and a hand across the stone was still a person in the count. The cup was not from the crew’s reserve. Its rim had the pale mineral line of a Hearthhold vessel.
 
 “May I?” Jo asked Leena.
 
@@ -30,7 +30,7 @@ Marek had a dozen instructions ready. Leena looked at him until he put them away
 
 “Thank you,” she said.
 
-Mikka placed the cup beside the cot. “Small sips. That water is for recovery, not a full ration.”
+Jo carried the cup in from the sill and set it beside the cot. Mikka kept her voice level across the threshold. “Small sips. That water is for recovery, not a full ration.”
 
 “We will not take from the crew’s reserve without record,” Marek said.
 
@@ -132,9 +132,9 @@ Sefu rested both hands on the wheel again. “Room by room and work by work, wit
 
 Marek wanted a single procedure, a clean sequence from test to admission that he could follow until the route opened. The Hearthholds offered something less satisfying and more real: a different decision in every room, with the burden placed on the people who would live with it.
 
-Dalla turned the repair ledger so everyone could see a blank page divided into four columns: *work*, *person*, *limit*, *stop authority*. Beside it lay the public maintenance sheet from the test. Marek laid his hand on the old page.
+Dalla turned the repair ledger so everyone could see a blank page divided into four columns: *work*, *person*, *limit*, *stop authority*. Beside it lay the maintenance sheet from the test. Marek laid his hand on the old page.
 
-“Record the current route as well as the work,” he said. “Ten people in this working interval: the six of us, Nera, Sefu, Dalla, and Jo. One stretcher. Renn and Mikka are at the landing until their return is recorded. The service bypass from the Cinder Steps. The pump temporary. The air route conditional. The returning stair closed. If we are going to work beside you, the record should show what we believe we are doing.”
+“Record the current route as well as the work,” he said. “Ten people in this working interval: the six of us, Nera, Sefu, Dalla, and Jo. One stretcher. Renn is at the landing and Mikka at the sill, and neither of them counts until a named return is recorded. The service bypass from the Cinder Steps. The pump temporary. The air route conditional. The returning stair closed. If we are going to work beside you, the record should show what we believe we are doing.”
 
 “And if your belief is wrong?” Dalla asked.
 

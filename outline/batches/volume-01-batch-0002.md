@@ -1,5 +1,14 @@
 # Volume 01 Batch 0002 Outline
 
+## Status: record, not forward plan
+
+This file was written **after** Chapters 11–20 were delivered, and every card ends with a "Delivered" line. It is a record of what the batch was asked to do and what it actually did, kept so the state files and the next batch prompt can be checked against the intended cards. It is **not** the forward card set for a future batch, and it must not be used as one. The live forward plan for the next phase is `workspace/volume-01/batch-0003/PROMPT.md`; the forward plan for later batches is written when each batch prompt is created.
+
+Where this record and the delivered prose disagree, the delivered prose is canon and this file should be corrected, not the reverse. Two such corrections were made during the review repair pass and are noted in `reviews/volume-01/batch-0002.md`:
+
+- The Chapter 11 card said Renn and Mikka were on the landing and uncounted. The delivered chapter has Renn on the landing and Mikka at the sill, both uncounted, because she hands the recovery cup across the stone rather than carrying it in.
+- The Chapter 17 card said the anteroom was cleared to the upper landing "by the rule written the previous day." No such written rule exists before Chapter 19. The clearance in Chapter 17 is the air condition Nera and Sefu set in the scene; it is written onto the sheet only in Chapter 19, drafted and unmarked, and confirmed in Chapter 20.
+
 ## Batch identity
 
 - **Batch:** 0002
@@ -38,7 +47,7 @@ Keep the chapter engines distinct: civic procedure in Chapter 11, pump labor and
 - **Resistance:** Sefu's authority is narrow and cannot speak for residents; Nera refuses to convert air approval into permission; the four residents each have their own reason not to be folded into one consent; the courier tries to make continuing maintenance look like guild custody.
 - **Major turn:** Dalla Sen announces that the test observers are finished and that nobody agreed to keep a shift. Marek admits he asked Sefu about the test and never asked what came after it.
 - **Emotional or practical consequence:** The four residents draw a line between having volunteered for a test and agreeing to maintenance. Sefu, Nera, and Iven each state the outer limit of their own authority in the same room.
-- **Required continuity facts:** ten occupants for the fresh working interval, one of them on a litter; Renn and Mikka on the landing and uncounted; the courier beyond the incline; the route record shows the six as present for attended maintenance with no civic admission and no claim.
+- **Required continuity facts:** ten occupants for the fresh working interval, one of them on a litter; Renn on the landing and Mikka at the sill, both uncounted until a named return is recorded; the courier beyond the incline; the route record shows the six as present for attended maintenance with no civic admission and no claim.
 - **Ending hook:** The residents ask for a named maintenance shift and a correctable route record before any deeper admission is discussed.
 - **Delivered:** Chapter 11.
 
@@ -108,8 +117,8 @@ Keep the chapter engines distinct: civic procedure in Chapter 11, pump labor and
 - **Location/time:** Anteroom, clinic corner, and upper landing during a stair pressure turn.
 - **Immediate goal:** Keep residents and the injured crew safe while preserving the conditional route.
 - **Resistance:** A wet mineral seam beside the pump housing, the returning-stair pressure cycle heard through a route that seemed to bypass it, a fevered clinic patient who cannot be evacuated, and a tempting service-hatch shortcut that Nera and Marek both reject.
-- **Major turn:** Nera and Marek refuse the bypass for different physical reasons, and the anteroom is cleared to the upper landing by the rule written the previous day.
-- **Emotional or practical consequence:** Five new watch obligations are created — landing, clinic return, air valve, civic wheel, and the bell line — none of which any room test had named.
+- **Major turn:** Nera and Marek refuse the bypass for different physical reasons, and the anteroom is cleared to the upper landing by the air condition Nera and Sefu set in the scene. That condition is not yet written into the work sheet; the sheet that records it is drafted in Chapter 19.
+- **Consequence of the turn:** Dalla separates the five standing watches a pressure turn requires — air valve, civic wheel, upper landing, clinic return, and the work-bell relay — from the three standing obligations attached to the old return route itself, and holds that an unfilled watch stops the shift rather than shortening it. Five new watch obligations are created, none of which any room test had named.
 - **Required continuity facts:** the pump chamber stays isolated; the bypass hatch stays latched; the anteroom is unusable during a pressure turn; the clinic return stays watched.
 - **Ending hook:** The route reopens under conditions that have just been revised, and the pump is limited to short attended intervals.
 - **Delivered:** Chapter 17.
@@ -126,16 +135,16 @@ Keep the chapter engines distinct: civic procedure in Chapter 11, pump labor and
 - **Ending hook:** The map now points to work required before anyone can call the stair a route.
 - **Delivered:** Chapter 18.
 
-## Chapter 0019 — The First Public Work Sheet
+## Chapter 0019 — The Work Sheet Other Hands Could Read
 
 - **POV:** Marek.
 - **Location/time:** Anteroom, the day after the stair restriction.
 - **Immediate goal:** Make the maintenance work legible to the people who will inherit it.
-- **Resistance:** Disagreement over who pays, who can refuse, and what happens if the pump fails while the crew is asleep. Marek's hand cannot keep a line, and a dictated record is not the same as one made by its users.
+- **Resistance:** Disagreement over who pays, who can refuse, and what happens if the pump fails while the crew is asleep. Marek's hand cannot keep a line, and a dictated record is not the same as one made by its users. Every condition has to survive an objection, so Jo questions whether "water at the sill" is an air rule or a pump rule, and Nera rewrites it so nobody must prove they were right before moving.
 - **Major turn:** Iven talks the pump sequence aloud at the grate so Dalla can write it in her own hand, which is how the craft stops being his private property. Dalla becomes the recorder of results.
-- **Emotional or practical consequence:** The sheet states that no pump runs overnight without a named watch, and that withdrawal stops new work and admission without trapping anyone. Leena's care visit to the clinic is staged on the page as care.
+- **Emotional or practical consequence:** The sheet states that no pump runs overnight without a named watch, and that withdrawal stops new work and admission without trapping anyone. Leena's care visit to the clinic is staged on the page as care. Jo refuses to let the sheet be marked as agreed while the delivery seat is still unopened, so the batch's signature event is reserved for Chapter 20.
 - **Required continuity facts:** Nera writes the air limits, Sefu writes consent and stop conditions, Jo's cost stays a cost, and the sheet grants no ownership and creates no public route.
-- **Ending hook:** An interim maintenance agreement accepted by the named maintainers, with the next review line left open.
+- **Ending hook:** A legible draft that nobody has agreed to, with the review line drafted and unmarked.
 - **Delivered:** Chapter 19.
 
 ## Chapter 0020 — A Route That Must Be Kept
@@ -143,9 +152,9 @@ Keep the chapter engines distinct: civic procedure in Chapter 11, pump labor and
 - **POV:** Marek.
 - **Location/time:** Anteroom, the review called on the sheet's own change clause.
 - **Immediate goal:** Keep the conditional route through an ordinary pressure and maintenance change without violating consent.
-- **Resistance:** The delivery seat is scored and has taken a set, no spare bronze seat has been released, the guild line offers no part or rescue, the stair remains restricted, and retreat through the service bypass would mean carrying the same injuries over worse ground.
-- **Major turn:** Marek proposes deeper admission to bring the litter inside, Mikka names it an admission request rather than a maintenance decision, Sefu refuses it, and Marek records the request as refused instead of pushing.
-- **Emotional or practical consequence:** Nobody signs the continuation over a seat nobody can promise. Sefu reads the sheet aloud before the marks are made, and Dalla records the reading time.
+- **Resistance:** The delivery seat is scored and has taken a set, no spare bronze seat has been released, the guild line offers no part or rescue, the stair remains restricted, and retreat through the service bypass would mean carrying the same injuries over worse ground. The sheet is also argued rather than filed: Nera forces a written condition for an unfilled watch, and Jo catches the word *route* still serving as the sentence's subject after Marek crossed it out of the heading in Chapter 19.
+- **Major turn:** Marek proposes deeper admission to bring the litter inside, Mikka names it an admission request rather than a maintenance decision, Sefu refuses it, and Marek records the request as refused instead of pushing. Nobody signs a continuation over a seat nobody can promise.
+- **Emotional or practical consequence:** Sefu reads the sheet aloud before any mark is made, and Dalla records the reading time. This is the batch's only signature event.
 - **Required continuity facts:** the scored seat and the new limit are written beside the old one; short attended intervals only; no overnight run; a replacement or a safe local substitute required at review.
 - **Ending hook:** A limited continuation with a named cost, a named review at the second work-bell after the next complete pressure turn, and a route six outsiders do not own.
 - **Delivered:** Chapter 20.
@@ -154,9 +163,9 @@ Keep the chapter engines distinct: civic procedure in Chapter 11, pump labor and
 
 - Water ledger unchanged: five liters from the collapse plus one separately sealed condensation liter, with the kitchen provision covering named work periods.
 - The pump gains a scored bronze delivery seat, a short-attended-interval limit, and no released spare.
-- The wet mineral seam beside the housing couples the pump, air baffle, service bypass, and returning-stair pressure, and creates five named watch obligations.
+- The wet mineral seam beside the housing couples the pump, air baffle, service bypass, and returning-stair pressure, and creates five named watch obligations: air valve, civic wheel, upper landing, clinic return, and the work-bell relay at the threshold.
 - The returning stair is black-cord restricted with a separate record and a stated reason to return.
-- The interim maintenance work sheet exists and is not a charter; the missing maintenance charter is still incomplete.
+- The interim maintenance work sheet exists as a legible Chapter 19 draft and a single Chapter 20 acceptance; the missing maintenance charter is still incomplete.
 - Iven's Cartwright witness bond is suspended and his work is reportable; he is not yet a full defector.
 - Form 7-B is still unsigned in Marrowgate and is named as an open surface liability.
 - The wrapped empty-seat plate remains unexplained evidence on the anteroom bench.

@@ -32,7 +32,7 @@ The courier’s expression did not change. “The guild can also challenge any c
 
 “That is a claim to be heard,” Iven said, and set the file back in Jo’s basket. “Not a fact to be signed by the person who repaired the pump.”
 
-Marek looked at the blank sheet. A charter was supposed to turn a physical route into a durable agreement. He had spent most of his life believing a properly framed document could keep a repair from becoming a favor, a danger, or a private claim. The Hearthholds were asking for something more difficult: a document that admitted it had to be corrected by the people who used it.
+The blank sheet had no lines on it yet. A charter was supposed to turn a physical route into a durable agreement. He had spent most of his life believing a properly framed document could keep a repair from becoming a favor, a danger, or a private claim. The Hearthholds were asking for something more difficult: a document that admitted it had to be corrected by the people who used it.
 
 “Write a single agreement,” he said. “We will name the anteroom, the service shaft, the pump, the air gate, the maintenance shifts, and the people who can stop the work. No one has to guess which rule applies.”
 
@@ -128,7 +128,7 @@ Nera glanced at him. “That is the first useful sentence anyone has said about 
 
 “It is late,” Iven said. “But it is useful.”
 
-Marek looked at the residents’ names. Renn had written *door and upper landing* in the margin. Dalla had written *record and tool inventory*. Jo had added *pump check, one trial shift*. Mikka had not yet put her name down. She stood at the threshold with a bowl in her hands, outside the counted room.
+The residents had filled the margin faster than Marek had filled the body. Renn had written *door and upper landing*. Dalla had written *record and tool inventory*. Jo had added *pump check, one trial shift*. Mikka had not yet put her name down. She stood at the threshold with a bowl in her hands, outside the counted room.
 
 “I can provide recovery water and meals for the next work period,” she said. “That is not a charter promise. It is what the kitchen can spare while six people eat here.”
 

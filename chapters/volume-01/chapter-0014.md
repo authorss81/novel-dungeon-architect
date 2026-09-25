@@ -144,7 +144,7 @@ Marek looked at her. “I was going to write the new length.”
 
 Iven took the measurement, then let Jo place the stock in the vice. Oren held the long handle while Tams fed the boring bar. Pell called the depth from the bench, where he could see the mark without standing over the tools. Nera watched the air cloth at the kitchen return. Sefu stayed by the gate, where his civic authority remained visible and separate from the work.
 
-The pin was cut by hand, not by a hidden craft. Iven shaped the head with the flat file while Jo tested the fit after every few strokes. When the shutter opened, the air baffle moved cleanly and stopped against the new pin instead of falling shut.
+The pin was cut by hand, not by a hidden craft. Iven drew the head down with the flat file a few strokes at a time, because the worn teeth would take a soft face but never a heavy cut, and Jo tested the fit after every few strokes. When the shutter opened, the air baffle moved cleanly and stopped against the new pin instead of falling shut.
 
 Dalla checked the ledger. “Old pin retained?”
 

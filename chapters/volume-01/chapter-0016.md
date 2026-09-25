@@ -6,7 +6,7 @@ Jo Verrick had carried the basket to the anteroom because the old clasp had open
 
 Jo set the basket on the bench. “This is not emergency work,” she said. “It is the work that keeps emergency work from becoming the only kind there is.”
 
-Marek looked at the clasp. “I can reinforce the handle.”
+Marek turned the clasp over in his hands. “I can reinforce the handle.”
 
 “You can hold the basket while Renn repairs the clasp,” Jo said. “If you take it over, I will have to explain why the temporary maintainer is now the keeper of every object in the room.”
 
@@ -22,7 +22,7 @@ Dalla Sen repaired the spine of the repair ledger with a length of black cord. S
 
 Tams brought the chock line to the floor. Oren checked each knot and laid the line across his forearms before testing it against a dead load. The line did not hold a bearing load, but it marked a route and kept a basket from swinging into the service well. Tams rewound the loose end with the discipline of someone who had done the same work when no one was watching.
 
-Iven cleaned the old flat file and made a new handle for it. He did not claim the file as his property. He wrote the condition of its teeth on Dalla’s maintenance sheet, then placed it in Jo’s basket.
+Iven cleaned the old flat file, whipped a fresh cord binding onto its worn grip, and wrote the condition of its teeth on Dalla’s maintenance sheet. He did not claim the file as his property. He put it back in Jo’s basket with a second, smaller file beside it, and wrote that down too: the small one for finishing, the old one for anything that did not matter if it failed.
 
 “File, no ownership,” he said. “If the teeth dull, the next person replaces it.”
 
@@ -114,7 +114,7 @@ Mikka appeared at the gate. “The canvas is worse than the complaint,” she sa
 
 Nera read the board on the wall. “She is the named operator. The sheet does not allow an unlisted hand on the lever, and the mark has not reached target. An interval that cannot be signed off does not run.”
 
-Marek looked at the water mark, then at the door. The pump had fifteen minutes left, and the water had not done what the interval was written to do. This was the other half of what the residents had been refusing him: not a refusal aimed at the crew, but a schedule that simply went its own way. Nobody was wrong. The water was still there.
+Marek read the water mark, then the door. The pump had fifteen minutes left, and the water had not done what the interval was written to do. This was the other half of what the residents had been refusing him: not a refusal aimed at the crew, but a schedule that simply went its own way. Nobody was wrong. The water was still there.
 
 “Close it,” he said. “Write the reason. Not that the crew was needed elsewhere — that her route went long.”
 
@@ -130,7 +130,17 @@ Jo’s voice came from the gate. “So move it.”
 
 Pell moved it with one hand and kept his splinted ankle on the blanket. The correction entered the record because the tool was in the wrong place, not because Pell had been protected from every consequence of his presence.
 
-By the end of the day, the residents had added a small work board beside the maintenance ledger. It listed seven things: the pump, the door lantern, the kitchen pass, the clinic drain, the shutter route, the chock line, and the water record. Each task carried a name beside it for that day only, and any name could be crossed off when the work changed. Jo’s name stood beside the shutter route and the pump check. Tams’s beside the water record and the lever. Oren’s beside the chock line and the frame. Renn’s beside the door. Mikka’s beside the kitchen pass and the clinic return. Marek’s appeared beside a load observation, but no one had given him ownership of the observation. Leena’s stood beside corrections. Pell’s stood beside level calls and tool marks. Iven’s appeared beside a repair explanation, not a guild claim.
+By the end of the day, the residents had added a small work board beside the maintenance ledger. Seven tasks on it: the pump, the door lantern, the kitchen pass, the clinic drain, the shutter route, the chock line, and the water record. Jo set the names herself, and she read them aloud to anyone who wanted to hear them.
+
+“Shutter route and pump check are mine,” she said. “Water record and the lever are Tams. Chock line and the frame are Oren. The door is Renn. Kitchen pass and clinic return are Mikka. Leena corrects. Pell calls levels and reads the tool marks. Iven explains a repair, which is not a guild claim.”
+
+She stopped at the last line and looked at Marek.
+
+“Load observation,” she said. “That is not a task. Nobody has handed you anything to own.”
+
+“I did not ask for a name.”
+
+“You did not ask not to have one either.” She left his name on the board, which was a decision he had not made, and the board settled nothing about who owed what.
 
 Sefu looked at the board. “This is not citizenship.”
 

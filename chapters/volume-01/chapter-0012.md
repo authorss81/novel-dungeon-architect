@@ -4,7 +4,7 @@ The first named shift began before the route record was dry.
 
 Before Jo took the lever, Dalla confirmed the fresh two-hour interval beside the first review. Renn and Mikka stayed on the landing, the courier remained beyond the incline, and Sefu counted the ten occupants without adding the two on the landing. The pump would run only while the marked time remained on the board.
 
-Jo Verrick stood at the service grate with the pump lever in one hand and Iven’s old flat file in the other. The file had a new wooden grip bound with cord, but the teeth along its edge were worn past the point where anyone would call them serviceable. She had brought it from the boundary work basket after Dalla read the open lines and told her, quite plainly, that choosing one trial shift did not turn her into the pump keeper.
+Jo Verrick stood at the service grate with the pump lever in one hand and Iven’s old flat file in the other. The file had a new wooden grip bound with cord, but the teeth along its edge were worn down to a shallow row that would not take a heavy cut, though they could still draw a burr off a soft face. She had brought it from the boundary work basket after Dalla read the open lines and told her, quite plainly, that choosing one trial shift did not turn her into the pump keeper.
 
 “One shift,” Jo said. “I can learn enough to clean the check. If you want me responsible for it after that, ask me again when I know what the work costs.”
 
