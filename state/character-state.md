@@ -1,77 +1,80 @@
-# Character State — End of Volume 01, Batch 0001
+# Character State — End of Volume 01, Batch 0002
 
 ## Marek Venn
 
-- **Position:** Hearthhold air-gate anteroom, with the conditional route and pump gallery below/nearby.
+- **Position:** Hearthhold air-gate anteroom and boundary work area, with the conditional route and pump gallery below/nearby.
 - **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand is usable but strained from compensating. No new formal power stage.
-- **Mind:** More willing to state uncertainty and accept named limits, but still instinctively tries to own the whole decision. He has learned that a route can be technically useful and politically contested.
-- **Relationships:** Trusts Leena's corrections; respects Iven's craft and Nera's air expertise; accepts Sefu's independent veto. Nera is a professional counterpart, not a rescue reward or instant romantic partner.
-- **Immediate choice:** Keep the pump attended and the anteroom conditional; do not treat the route as theirs or public without a resident-authored maintenance charter.
+- **Mind:** More willing to state uncertainty and accept named limits, but still instinctively tries to fill every blank in a route plan. He has learned that a maintenance sheet is not ownership and that a successful room test is not a welcome.
+- **Relationships:** Trusts Leena’s visible corrections; respects Iven’s craft and Nera’s independent air expertise; accepts Sefu’s civic veto and the residents’ room-specific refusals. Jo’s work and the scored delivery seat have forced him to accept that a local cost may outlast his plan.
+- **Immediate choice:** Continue the conditional route only through named attended shifts and the public work sheet. Do not force deeper admission, claim the route, or pretend the pump is permanent.
 
 ## Leena Orr
 
-- **Position:** Same anteroom, on the litter.
+- **Position:** Anteroom on a litter or the limited clinic cot, under Hearthhold care.
 - **Body:** Right shoulder dislocated in Chapter 1, reduced in Chapter 2, slinged, and protected from weight-bearing.
-- **Mind:** Continues to force Marek to state occupancy, time, exit, and uncertainty. She is not passive or treated as dead weight.
-- **Immediate need:** Stable shoulder, a dry place to recover, and a work process that accepts her survey judgment without asking her to violate the injury.
+- **Mind:** Continues to force Marek to state occupancy, time, exit, cost, and uncertainty. She rejects being treated only as a patient and insists that corrections remain visible.
+- **Immediate need:** Shoulder recovery, a dry place to rest, and a work process that accepts her survey judgment without asking her to violate the injury or turn care into residence.
 
 ## Iven Tallo
 
-- **Position:** At the pump's grated service well and maintenance sheet.
+- **Position:** Anteroom pump grate and maintenance record.
 - **Body:** Uninjured; physically competent and exhausted.
-- **Role change:** Former/active Cartwright route carpenter who has shifted from guild caution to a bounded craft ally. He signed the maintenance sheet instead of Dael's custody order, risking guild standing.
-- **Immediate tension:** He believes a craft can be maintained by tired workers, but the Hearthholds must decide whether his work is a public duty, a guild obligation, or a private favor. He has not fully defected.
+- **Role change:** Craft ally whose bounded maintenance signature has caused a suspended Cartwright witness bond. He has explained the work to residents who may report him and has not signed a custody transfer.
+- **Immediate tension:** He can explain the pump craft, but the local labor and replacement costs now outlast the guild’s ability to certify or pay him. He is not yet a full guild defector.
 
 ## Pell Roke
 
-- **Position:** Same anteroom, using a crutch.
-- **Body:** Fourteen years old; left ankle sprained in Chapter 8, splinted, and limited to supported walking.
-- **Mind:** Refuses to hide an injury or be left behind; his trust returns when practical care and honest limits replace a beautiful but false promise.
-- **Continuity note:** He is Talla Roke's younger brother in the bible, but that relationship has not been revealed in the first ten chapters. Do not force it in the next batch without a planned beat.
+- **Position:** Anteroom bench or boundary work area, using a crutch.
+- **Body:** Fourteen years old; left ankle sprained in Chapter 8, splinted, and limited to supported walking. He cannot run, take unsafe loads, or serve as a bearer.
+- **Mind:** Still refuses to be hidden or treated as useless. He calls readings, sorts tools, and records mismatches, but the work board now gives him a real role rather than token protection.
+- **Continuity note:** He is Talla Roke’s younger brother in the bible, but that relationship has not been revealed in prose. Do not force it without a planned beat.
 
 ## Oren Sill
 
-- **Position:** Same anteroom.
-- **Body:** Uninjured; established as a dependable bearing, shoring, and stretcher hand.
-- **Role:** Remains alive through this batch and is already visible as a possible route-capacity loss in the later Hearthhold crossing. His eventual death must arise from insufficient route capacity, not an unexplained disappearance.
+- **Position:** Anteroom and pump service area.
+- **Body:** Uninjured; dependable bearing, shoring, and stretcher hand.
+- **Role:** Visible in frame lifting, relief work, litter movement, and maintenance labor. He remains alive through this batch; his eventual later Hearthhold-crossing death must arise from insufficient route capacity, not an unexplained disappearance.
 
 ## Tams Quill
 
-- **Position:** Same anteroom.
+- **Position:** Anteroom pump lever and water-record area.
 - **Body:** Uninjured; tired but functional.
-- **Role:** Handles the second chock line, test loads, water records, rest rotations, and the pump lever. His ordinary labor makes the maintenance limits concrete.
+- **Role:** Handles the second chock line, test loads, water records, rest rotations, and pump labor. He makes the temporary route’s ordinary maintenance costs visible.
 
 ## Nera Oduya
 
-- **Position:** Hearthhold boundary air works, controlling the air gate and pump air isolation.
-- **First meeting:** Rejects Marek's recorded Chapter 5 refuge air plan because the same shaft serves intake and exhaust. She supplies the gland seal and key only as recorded pump-crew equipment, not as a gift or permission.
-- **First interior shift:** At the end of Chapter 9, Nera recognizes that the pump's technical success and Sefu's civic refusal can remain true together. The discomfort of that distinction matters more to her than an easy agreement.
-- **Authority:** Technical authority over airflow, air tests, and safe mechanism operation. She does not speak for all residents.
-- **Relationship:** Professional respect is beginning, but she remains independent and skeptical of Marek's desire to make a plan authoritative.
+- **Position:** Hearthhold boundary air works, controlling the air valve, air cloth, baffle, clinic-return watch, and safe air-gate operation.
+- **Authority:** Technical authority over airflow, air testing, and safe mechanism operation. She does not speak for all residents and cannot create civic admission.
+- **Relationship:** Professional respect with Marek is growing through correction and complementary work. She has not become his support character, and no instant romantic or magical bond has been introduced.
+- **Immediate choice:** Keep the outer door open, the bypass latched, the clinic return watched, and the anteroom cleared during pressure turns. Stop the air route if the cloth reverses or the wet seam reaches the sill.
 
 ## Sefu Aran
 
 - **Position:** Hearthhold air-gate anteroom, hand on the civic wheel.
-- **Role:** Elected boundary route keeper. He first answers the old air-keeper signal in Chapter 7 and independently controls admission at the boundary.
-- **Decision:** Allows the crew to remain in the anteroom for attended maintenance under written conditions; does not open the deeper gate or grant Hearthhold consent.
-- **Relationship to Nera:** Deliberately distinct authority. His cooperation is narrower and more important because it carries a veto.
+- **Role:** Elected boundary route keeper. He controls admission at this boundary and can veto passage independently of Nera. He cannot compel every resident to work or consent, and he cannot make an air approval civic.
+- **Decision:** Allows attended maintenance and limited boundary work under the interim sheet; keeps the deeper gate closed to new admission. He accepts that the route can stop, be withdrawn, or be closed without the crew claiming ownership.
+- **Relationship to Nera:** Deliberately distinct authority; cooperation is narrower and more important because each can stop a different part of the system.
 
-## Hearthhold boundary test residents
+## Hearthhold boundary maintainers
 
-- **Renn Vale:** boundary lantern worker; watches both doors during the anteroom test and acts voluntarily.
-- **Dalla Sen:** repair-ledger keeper; remains present during the room test and studies Leena's sling before the admission decision, showing that resident consent is not automatic obedience.
-- **Jo Verrick:** tool-basket carrier; accepts Nera's mid-test instruction about the basket lid.
-- **Mikka Hale:** canvas carrier and test participant; responds to Sefu's final admission statement.
+- **Renn Vale:** boundary lantern and landing/door watch; volunteers for specific work and air observation.
+- **Dalla Sen:** repair-ledger keeper, route recorder, work-bell relay, and consent/cost witness.
+- **Jo Verrick:** tool-basket carrier and trial pump maintainer; cleans the delivery check under Iven’s instruction and records the half-day deferred tool-route cost.
+- **Mikka Hale:** canvas/kitchen and clinic-return support; provides named recovery water and meals, not permanent residence or blanket consent.
 
-Their cooperation is specific to the tested room and maintenance work. None speaks for every Hearthhold or can replace Sefu's civic authority.
+Their cooperation remains room-specific and revocable. None speaks for every Hearthhold resident or can replace Sefu’s civic authority. Their work changes the route’s legitimacy but does not make the six outsiders citizens.
 
 ## Dael Harrow and the Cartwright pressure
 
-Dael is not physically present. His temporary route-custody order locks the guild-controlled surface door and freezes guild-financed equipment, but cannot order air, open the Hearthhold gate, create resident consent, or establish ownership. The old clearance seal, route charter, salvage lien, insurance notice, and non-claim receipt remain separate legal instruments. Dael is an institutional pressure, not the final enemy.
+Dael is not physically present. His temporary route-custody order has locked the guild-controlled surface door and frozen guild-financed equipment. It cannot order air, open the Hearthhold gate, create consent, or establish ownership. Iven’s witness bond is suspended, and the crew has decided not to depend on guild parts, records, or rescue. The old clearance seal, route charter, salvage lien, insurance notice, physical ownership, suspended-bond receipt, and non-claim receipt remain separate.
+
+## Returning stair and evidence
+
+The returning stair is physically restricted by a black cord and a separate record. Its visible slab, throat, rope, wheel, counterweight, pressure-fed seam, and missing lower receiver remain unresolved. The wrapped empty-seat plate rests on a spread of work cloth on the anteroom bench. It is unexplained evidence, not a named power or active One-Seat.
 
 ## Relationship and power guardrails
 
 - No harem structure or instant romance.
-- No formal loadcraft stage, bearing mark, repeatable reading, route change, or automatic repair has been granted.
+- No formal loadcraft stage, bearing mark, repeatable reading, route change, binding, relay, or automatic repair has been granted.
 - The five Room Checks and the conditional occupancy limits are the growth framework.
-- The next batch must show shared labor, changed decisions, and civic responsibility rather than a power-up.
+- The route’s public legitimacy comes from consent, maintenance labor, stop conditions, and review—not from Marek’s ownership or the first builder’s competence.
