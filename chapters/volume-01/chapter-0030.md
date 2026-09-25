@@ -28,6 +28,8 @@ He marked it and read on.
 
 Renn took the sixth watch on the days she could stand it, and named the days she could not before anyone asked her to name anything. Four days out of seven. On the other three the corridor does not open, and everybody in the room understood what that meant, and Mikka said it out loud so it could not be softened later.
 
+She had said in the anteroom that she would never be the sixth, and she had meant it, and the record still said so in her own refusal. What had changed was not Renn. The woman in her rooms who was not walking had gone to the clinic return on Isel's arrangement and a second pair of hands, which meant that for four days in seven Renn had nobody in a bed to choose against a stranger's wet floor. She said that out loud too, before anybody could thank her for it.
+
 "It means on those three days, when Jo is on somebody's shutter, there is nowhere to put a household," she said. "The kitchen line is a walkway. It is not a waiting room and I will not make it one while there is a pot on."
 
 "Then the school corner takes it," Ilsa said, and Jo looked at her, and Ilsa did not look away. "On those three days the school corner is a waiting room. I have nine children and a wall, and the wall is on the kitchen side, and my children are not in the room while it is being used. That is the price and I have decided to pay it, and I want it in the record that I decided it and not that it was arranged for me."
@@ -38,7 +40,7 @@ Jo took the corridor watch and the pump cleaning and a shutter route, and put al
 
 Iven's line was the hardest, because the guild could use it.
 
-"I have given twenty-nine hours of instruction that the Hearthholds are not going to pay me for," he said, "because if they pay me it becomes guild work done under a suspended bond, and Dael's office will use it. I am not a defector. I said in the anteroom that I was refusing to let the guild put the repair under its custody, and I meant it, and it cost the same either way. I want that written exactly like that, so that in a hearing nobody can say I was taken on by the neighborhood."
+"I have given twenty-nine hours of instruction that the Hearthholds are not going to pay me for," he said, "because if they pay me it becomes guild work done while my bond is suspended, and Dael's office will use it. I am not a defector. I said in the anteroom that I was refusing to let the guild put the repair under its custody, and I meant it, and it cost the same either way. I want that written exactly like that, so that in a hearing nobody can say I was taken on by the neighborhood."
 
 "And when the guild asks who keeps the pump sequence when you are not here?" Dalla asked.
 
@@ -46,7 +48,7 @@ Iven's line was the hardest, because the guild could use it.
 
 Leena read the litter condition and the exit plan, and then she said the thing that had been sitting in her since the first test.
 
-"Two and a half feet of door and four bearers and a fouled frame," she said. "There is a number in this document and it is not nine. It is how long it takes four people to get me out of a room that has been approved, on a wet floor, while a pump is running and a bell is going. Call it four minutes. Put the four minutes in, because the next person who reads this is going to count the people and not the minutes, and the minutes are the room."
+"Two feet eight of door and four bearers and a fouled frame," she said. "There is a number in this document and it is not nine. It is how long it takes four people to get me out of a room that has been approved, on a wet floor, while a pump is running and a bell is going. Call it four minutes. Put the four minutes in, because the next person who reads this is going to count the people and not the minutes, and the minutes are the room."
 
 Marek wrote it with his left hand, the letters uneven, and read it back twice, and did not improve the sentence.
 
@@ -76,7 +78,7 @@ Jo looked at the board for a while. "You understand what that means."
 
 She picked it up. She did not soften anything on it, and she did not add anything to it, and that was the correct behavior and he disliked it enormously.
 
-Dalla read the unresolved list one more time, because the list was the true part of the page, and it was still long: the bronze delivery seat, which no one would release; the timber for the school-door lintel, which no one in the building had; the carpenter's wage for a man a guild would not pay; nineteen days of meals, given and not waived; a sealed liter of verified condensation in a stoppered jar; a suspended bond with a name on it; a form unsigned in a Marrowgate office that named who answered for a tunnel collapse, to which six people had now added a floor of a school; and the only physically continuous way down, restricted, corded, and not openable by anyone in this building.
+Dalla read the unresolved list one more time, because the list was the true part of the page, and it was still long: the bronze delivery seat, which no one would release; the timber for the school-door lintel, which no one in the building had; the carpenter's wage for a man a guild would not pay; nineteen days of meals, given and not waived; a sealed liter of verified condensation in a stoppered jar; Iven's bond, suspended and named, which nobody in this room could lift for him; a form unsigned in a Marrowgate office that named who answered for a tunnel collapse, to which six people had now added a floor of a school; and the only physically continuous way down, restricted, corded, and not openable by anyone in this building.
 
 "The next review," Dalla said, and read the line she had written, which was longer than the previous one because the situation was longer: *the third work-bell after the next complete pressure turn, or immediately if the pump stops, if the air cloth moves, if the water reaches the sill, if any watch is empty, if the stair cord moves, or if anybody proposes reopening the gallery.*
 
@@ -88,7 +90,7 @@ The afternoon was ordinary, and the ordinariness was the point.
 
 Mikka's queue came through the kitchen line and past a chalk figure on the floor that told each person their own width, and every single one of them looked down at it, and one child asked why there was a number written where people walk, and Ilsa told him, and he said it was stupid, and Ilsa said that it was, and that it was also going to be there on Thursday.
 
-The pump came on at the fourth bell. Tams took the lever, Oren took the frame, Jo was at the grate with the wrench within reach, and Pell called the water from the bench with his slate on his knees, and the check knocked twice and settled. Nera watched the cloth. Renn was on the landing. Sefu was at the wheel. Dalla was at the threshold with the bell rope, and the board was on the bench beside her, and it was not in her hand.
+The pump came on at the fourth bell. Tams took the lever, Oren took the frame, Jo was at the grate with the wrench within reach, and Pell called the water from the bench with his slate on his knees, and the check knocked twice and settled. Nera watched the cloth. Renn was at the waist with a lamp and a slate, as she was on the four days in seven, and the landing stood empty, which is what a filled sixth watch buys. Sefu was at the wheel. Dalla was at the threshold with the bell rope, and the board was on the bench beside her, and it was not in her hand.
 
 The corridor filled to nine while the pump ran, and emptied when the lever came off, and the sun was not doing anything dramatic to the light; it was a wet afternoon in a stone building and the light came in where it always came in.
 

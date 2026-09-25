@@ -2,7 +2,7 @@
 
 They went up the fixed stair in the morning, all of them, and the eleventh tread still had its hollow note, and nobody stood on it twice.
 
-The party stopped at the stair head, which was the correct place for it to stop, and which was itself a small argument about the room: Leena's litter came up and set down on the landing with Oren and Tams carrying, because the turn at the top was a quarter-turn and a shoulder could not take one; Pell came up on his crutch as far as the landing and no further, and from there he read the pale floor paths through the doorway and said, without being asked, that the deepest one went to the wall and not to the shelf, and that a person who had gone to that wall a hundred years ago was probably a person who had been sent to fetch something and had taken a long time about it.
+The party stopped at the stair head, which was the correct place for it to stop and was itself a small argument about the room: Leena's litter came up and set down on the landing with Oren and Tams carrying, because the turn at the top was a quarter-turn and a shoulder could not take one; Pell came up on his crutch as far as the landing and no further, and from there he read the pale floor paths through the doorway and said, without being asked, that the deepest one went to the wall and not to the shelf, and that a person who had gone to that wall a hundred years ago was probably a person who had been sent to fetch something and had taken a long time about it.
 
 Jo went first with a wedge and a mallet and the small file that was still in the basket, because the deck boards over the third post had to come up and the boards were nailed to the joists with square-cut nails driven at an angle by somebody who had had a hundred years to be careless about it. Tams ran the hand line. Oren took the weight at the stair head and did nothing else, because his whole job that morning was to be a wall.
 
@@ -14,11 +14,11 @@ Iven worked opposite her.
 
 "There is a joist over the fifth that is not over anything you are removing. Leave it." He set his mallet down. "And when the board comes up, put it flat on the joist. Not on the floor. If the floor is stone and the joist is wood, a board laid on stone is a board with a stone under it, and the next person will lift it wrong."
 
-It took the better part of a morning to lift nine boards and lay them flat. The nails came out in pieces. The timber underneath was dark and dry and, in three places, furred with a grey growth that smelled faintly of a cellar. Jo showed it to Iven without a word, and Iven showed it to Marek without a word, and Marek wrote *dry rot at three bays, cause not determined* in the record and did not offer an opinion, because he had no opinion and the growth was not his to explain.
+It took the better part of a morning to lift nine boards and lay them flat. The nails came out in pieces. The timber underneath was dark and dry and, in three places, furred with a grey growth that smelled faintly of a cellar. Jo showed it to Iven without a word, and Iven showed it to Marek without a word, and Marek wrote *grey furry growth at three bays, cause not determined, not named* in the record and did not offer an opinion, because he had no opinion and the growth was not his to explain. Naming it would have been a use of a word he could not earn, and a record that says *dry rot* is a record that has promised the next reader more than the man who wrote it knew.
 
 The hole in the deck was what made the room legible.
 
-From the stair head you could see the four posts and the kerb they stood in, and the kerb was open on the corridor side where the post foot had come up, and the stone of the low parapet above it was gone, and through the gap the light came up off the corridor floor eleven feet below in a long pale bar. Two shoring lengths ran under the third post, wedge-driven, packed by a woman with a sore wrist who had taken the work herself and had been paid in nothing yet.
+From the stair head you could see the four posts and the kerb they stood in, and the kerb was open on the corridor side where the post foot had come up, and the stone of the low parapet above it was gone, and through the gap the light came up off the corridor floor eleven feet below in a long pale bar. Two shoring lengths ran under the third post, wedge-driven, packed in nineteen minutes by Jo Verrick with her hands and no lever, and she had not been paid for any part of it yet.
 
 "No one goes over that bar," Jo said.
 
@@ -72,13 +72,13 @@ Marek stood on a school floor with a hole in it and felt the old thing come up i
 
 "That is fair," he said. "I withdraw it. Take the four feet."
 
-"Recorded," Dalla said.
+Dalla wrote one line, which was that it had been proposed and withdrawn inside the same morning, and did not soften either half of it.
 
 The register boxes came down in the afternoon, on the hand line, and Renn carried them herself and would not let anyone else touch them, and they went into the school corner's own store under a name and a lock and a line in the ledger, and forty-one years of a school that had been keeping records about itself moved out of a room that was about to stop being anything at all.
 
 The sound decking went to Jo, and that was the only good thing in the week, and it was good by accident.
 
-"Twelve sound boards," she said, going through them on the anteroom floor. "Two with dry rot, four with nothing wrong, six that will do for a shutter. That is my shutter route. That is the route open again, and the hinges on two doors that have been catching since the collapse." She looked up. "The gallery paid for my shutters."
+"Twelve sound boards," she said, going through them on the anteroom floor. "Two with the grey growth on them, four with nothing wrong, six that will do for a shutter. That is my shutter route. That is the route open again, and the hinges on two doors that have been catching since the collapse." She looked up. "The gallery paid for my shutters."
 
 "It bought you back a shutter route," Iven said. "It did not pay for it. Nobody who loses something in one place has paid for something in another."
 
@@ -88,8 +88,8 @@ Sefu put his mark beside that, and only that, because his mark on the slate said
 
 Downstairs, the maintenance consequence was already on somebody's list, because the standing stock had gone into a hole in a floor.
 
-The kitchen brace that the six-piece stock had been committed to in the first place was deferred again, and now there was nothing to defer it with. The clinic sill, which was the reason two of the six lengths had been spoken for, was on a list that nobody could now shorten. The school-door lintel was still a cracked head over a two-and-a-half-foot gap, and the two shoring lengths came out from under the gallery post and went under it instead, and Jo said that was the correct place for them and that it was also the end of the timber. And Tams, doing the honest arithmetic at the end of the day, put the number on the board: *stores: no sound timber over six feet; no bronze seat; wedges: nine; lath: none.*
+The kitchen brace that the six-piece stock had been committed to in the first place was deferred again, and now there was nothing to defer it with. The clinic sill, which was the reason two of the six lengths had been spoken for, was on a list that nobody could now shorten. The school-door lintel was still a cracked head over a two-foot-eight gap, and the two shoring lengths came out from under the gallery post and went under it instead, and Jo said that was the correct place for them and that it was also the end of the timber. And Tams, doing the honest arithmetic at the end of the day, put the number on the board: *stores: no sound timber over six feet; no bronze seat; wedges: nine; lath: none.*
 
 Nine wedges. In a building where a bench, a shutter, a brace, and a lintel all wanted to be made at once.
 
-The barrier went across at dusk, and the anteroom got its ten back, and the pump came off the lever and the corridor emptied and the kitchen line carried wash water past a chalk figure on the floor that told every person their own width, and above them, on a stair nobody was going up, a slate said four dates and a name and the word *no*.
+The barrier went across at dusk, and the anteroom got its ten back, and the pump came off the lever and the corridor emptied and the kitchen line carried wash water past a chalk figure on the floor that told every person their own width, and above them, on a stair nobody was going up, a slate said what the room was not, and four dates, and the word *no*.

@@ -24,7 +24,7 @@ Marek took it off and set it aside, and sat down, which he had not planned to do
 
 The argument about meals had been building since the first work period and it came out now, because Dalla had put *meals* in the column and Mikka had walked in to collect the bowls.
 
-"That is my pot," Mikka said, reading the entry upside down from the doorway. "Forty-one strokes. Nineteen days. Do not put my pot in a fund."
+"That is my pot," Mikka said, reading the entry upside down from the doorway. "Sixty-eight strokes. Nineteen days. Do not put my pot in a fund."
 
 "It is a cost," Dalla said. "It belongs in the same column as everything else."
 
@@ -60,9 +60,9 @@ Marek looked at the floor, because she was right to ask it that way.
 
 "I can stop structural work," he said. "I cannot turn my stop into anybody's consent, and I cannot turn anybody's stop into a delay I get to overrule in an hour. If a watch is empty, the corridor is not used, and my part of that is to be somewhere else."
 
-Sefu had been standing at the wheel the entire time, which was his habit, and which meant he had been listening to a fund being invented and dismantled in his own boundary.
+Sefu had been standing at the wheel the entire time, which was his habit and also the reason he had been listening to a fund being invented and dismantled in his own boundary.
 
-"One more thing, and then I will let you have the afternoon," he said. "You have written down nine names and six of them are people who came here from above. Every cost in that column is a cost a person agreed to. If the Hearthholds wanted to bind the six of you to a room, they cannot. I cannot. Jo cannot. The kitchen cannot. There is nobody in this neighborhood with the standing to make a stranger carry a maintenance obligation, and the moment somebody tries, this stops being a place people volunteer to work in and becomes a place people are kept in. Which means every hour any of you puts in here is an hour you are giving, and the record has to keep saying so."
+"One more thing, and then I will let you have the afternoon," he said. "You have written down twelve names and six of them are people who came here from above. Every cost in that column is a cost a person agreed to. If the Hearthholds wanted to bind the six of you to a room, they cannot. I cannot. Jo cannot. The kitchen cannot. There is nobody in this neighborhood with the standing to make a stranger carry a maintenance obligation, and the moment somebody tries, this stops being a place people volunteer to work in and becomes a place people are kept in. Which means every hour any of you puts in here is an hour you are giving, and the record has to keep saying so."
 
 "Then what do we call it?" Marek asked. "A fund that is not a fund. Hours that are given. A ledger that never closes."
 
@@ -70,7 +70,7 @@ Sefu had been standing at the wheel the entire time, which was his habit, and wh
 
 They wrote it in the end as two pages, and Dalla wrote them both.
 
-The first page was what the Hearthholds had spent and what the crew had spent, with no money in either column, because there was no money in this building. The Hearthholds: the standing timber, all six lengths and the bundle of lath, released to a project they did not own; Jo's route, three half-days of pump cleaning and one shutter route closed for the season; the boundary workbench's surface; the pump seat, still scored, still without a spare; nineteen days of kitchen provision, recorded as given and not waived; the clinic's wash water carried past a narrowed corridor; Mikka's and Renn's and Dalla's hours, entered as hours.
+The first page was what the Hearthholds had spent and what the crew had spent, with no money in either column, because there was no money in this building. The Hearthholds: the standing timber, four lengths and the bundle of lath released to a project they did not own, and then the two lengths of reserve opened under a stone lintel that was coming down, entered by Dalla as a reserve and a time and by nobody else as a gift; Jo's route, three half-days of pump cleaning and one shutter route closed for the season; the boundary workbench's surface; the pump seat, still scored, still without a spare; nineteen days of kitchen provision, recorded as given and not waived; the clinic's wash water carried past a narrowed corridor; Mikka's and Renn's and Dalla's hours, entered as hours.
 
 The crew: sixty-one person-hours of labor, no wage, no claim, no ownership of the pump, the corridor, the room, the plate, or the air. Iven Tallo's instruction, twenty-six hours of it, uncompensated, with a suspended Cartwright witness bond attached, which meant the Hearthholds could not pay him for it without turning local craft into guild work, and would not do that.
 

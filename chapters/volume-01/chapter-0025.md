@@ -54,15 +54,15 @@ Mikka called the clinic clear. Renn called the door clear. Dalla rang the bell o
 
 Marek got to the stair head and looked down and the rest of his life divided at that point.
 
-The stone had come down across the waist and taken the lintel of the school door with it. The door still hung on its lower hinge, and the head above it had dropped a hand's width and stayed hanging there, cracked through and hanging. The clear width of the school door, which had been four feet, was now about two and a half.
+The stone had come down across the waist and taken the lintel of the school door with it. The door still hung on its lower hinge, and the head above it had dropped a hand's width and stayed hanging there, cracked through and hanging. The clear width of the school door, which had been four feet, was now about two and a half, and nobody measured it for an hour.
 
 In the corridor below, Leena was on the litter against the school-side wall with a slab of stone dust on the sling, and Oren was on his knees beside her with his hands on the frame, and Tams was six feet away holding the hand line with both hands and no plan. Jo was at the waist with her back to the litter and her hands up, which was the correct place to stand and no use at all. Below the stair, on the corridor floor, the fallen parapet lay across the full width of the dip, and the drain channel ran under it, and the water from the pump's rest interval was already finding a way around the end of it.
 
 Above them, thirty people stood on a deck whose outer joist had visibly dropped, so that the floor now ran down toward the wall in a slope that was impossible to have walked on and had been walked on.
 
-Nobody had been hurt. That was the first fact and it did not last, because the second fact was that the school door was the only exit in the test, and the litter had to go through it, and the litter was four feet long, and the door was two and a half.
+Nobody had been hurt. That was the first fact and it did not last, because the second fact was that the school door was the only exit in the test, and the litter had to go through it, and the litter was four feet long, and the door was not three feet.
 
-"Marek," Leena said, from the litter, "I want to be the first thing out of that door and I am not going to be the first thing through a two-and-a-half-foot gap with a stone lintel over my head."
+"Marek," Leena said, from the litter, "I want to be the first thing out of that door and I am not going to be the first thing through a two-foot-eight gap with a stone lintel over my head."
 
 "You are going to be the first thing out of the room," Marek said. "Through the door, in order, one at a time, and I will be under the lintel."
 
@@ -88,7 +88,13 @@ The work took nineteen minutes and it is the worst hour of Marek's life to date.
 
 They unloaded the deck first, because a loaded deck with a kicked post was a deck that could go. Ilsa walked thirty people off in single file at the stair head, one at a time, at the pace of a class leaving a room, and Iven stood at the top with his hand on the rail and his other hand on her arm, and nobody hurried, and it took eleven of the nineteen minutes. Tams handed sacks down to Oren two at a time and Oren set them on the corridor floor and not on the dip, and the deck came up about half an inch as the load left it and then settled, and the third post stayed where it had gone.
 
-Jo took the wedge set to the waist and worked the two shoring lengths in under the kicked post foot, hands, no lever, in the time it took Ilsa to get twenty-two people down a stair. Tams put his shoulder against the school-door head at the same time and held it while the wedges went in, and the head stopped grinding down and hung there, cracked, four inches lower than it had started, which was the whole difference between a repair and a hole.
+Jo took the wedge set to the waist and worked the two shoring lengths in under the kicked post foot, hands, no lever, in the time it took Ilsa to get twenty-two people down a stair. Oren took the near end of the first length and levered it home with his forearm, because Jo needed both hands on the wedges and nothing in this building was going to be held with one hand. He did not say anything about it at the time. Tams put his shoulder against the school-door head at the same moment and held it while the wedges went in, and the head stopped grinding down and hung there, cracked, four inches lower than it had started, which was the whole difference between a repair and a hole.
+
+The head was four inches low and still creeping, and a hand under a stone lintel is not a thing a building can be asked to do for long. Dalla went out to the stores herself and came back with the two spare lengths, which had not been released, and wrote the word *reserve* on the ledger line and then wrote the time under it, and nobody argued with her about it because there was a stone lintel coming down over the one door a litter had to go through.
+
+"That is the reserve," Jo said, from the floor, without stopping. "Write down that it is the reserve. In a year somebody is going to read a decision and a release as the same word."
+
+"I am writing down that it is the reserve," Dalla said. "I am also writing down that it is the reserve and that I did it, and the time."
 
 Leena went through the gap second, after the first two people, on the litter turned endwise with a person at each front corner, and the litter cleared by a finger on each side. She said the number out loud as she went, because she was still timing things, and Dalla wrote it down afterward and did not know what to do with it and put it in the record anyway.
 
@@ -116,7 +122,7 @@ Sefu nodded and did not soften it. "Recorded as closed by the proposer. That is 
 
 The costs came out in the next hour, and Dalla wrote all of them because that was her job.
 
-The Hearthhold standing timber was gone. Three lengths were in the splice, two were under the post feet, one was under the school-door head, and the bundle of split lath was under the deck spread with half of it crushed. All of it was under a floor nobody could walk on. The repair brace for the kitchen, which the stock had been committed to before any of this began, could not be made at all now, and neither could the clinic sill the other two lengths had been spoken for.
+The Hearthhold standing timber was gone. Three lengths were in the splice, two were under the post feet, one was under the school-door head, the two that had been the reserve were under the school-door head as well, and the bundle of split lath was under the deck spread with half of it crushed. All of it was under a floor nobody could walk on. The repair brace for the kitchen, which the stock had been committed to before any of this began, could not be made at all now, and neither could the clinic sill the other two lengths had been spoken for.
 
 The clear width of the school door was marked on the floor in chalk, and it was two feet eight inches at the head, and it would stay that way until somebody with timber rebuilt the lintel, and there was no timber. Jo's shutter route was now a Thursday and a half-day and then some, and the smaller of Iven's two files was under the deck and was not coming out. The school day was cancelled for the fourth time in a month, and Ilsa wrote that down as a cost to the school and not to the project. The clinic's wash water had to be carried past the dip in single file for a week.
 

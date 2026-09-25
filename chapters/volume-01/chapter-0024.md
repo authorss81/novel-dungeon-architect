@@ -38,7 +38,7 @@ He took Jo, and then Jo took Mikka, and then Mikka took Ilsa, in three steps, an
 
 He never once said the sequence was his. When Dalla wrote the whole thing into the ledger she put *taught by Iven Tallo; carried out by Jo Verrick, Mikka Hale, Ilsa Norr* and Iven read it and asked for one word to be changed to *translated by*, which Dalla did, and then he asked for the word translated to be changed to *set down by*, and Dalla looked at him for a moment and changed it again, and Iven said that was better and left the bench.
 
-Dalla recorded labor the entire time, in columns, and the columns were the argument of the whole batch taking shape. She had a column for the task, a column for the person, a column for the time, and a column she headed *owed*, and she was ruthless about it. By the second afternoon the sheet said that Jo Verrick had given four half-days of tool-route work, that Iven Tallo had given nineteen hours of uncompensated craft instruction with a suspended bond attached to it, that Mikka Hale had given eleven hours of kitchen and recovery support, that Renn Vale had given six hours of door and landing watch, and that Dalla Sen had given her own record-keeping, which she entered as a cost and refused to let anyone call a duty.
+Dalla recorded labor the entire time, in columns, and the columns were the argument of the week taking shape. She had a column for the task, a column for the person, a column for the time, and a column she headed *owed*, and she was ruthless about it. By the second afternoon the sheet said that Jo Verrick had given four half-days of tool-route work, that Iven Tallo had given nineteen hours of uncompensated craft instruction given while his bond is suspended, that Mikka Hale had given eleven hours of kitchen and recovery support, that Renn Vale had given six hours of door and landing watch, and that Dalla Sen had given her own record-keeping, which she entered as a cost and refused to let anyone call a duty.
 
 Renn saw that line and said, "That is not labor. That is a room with a book in it."
 
@@ -76,9 +76,31 @@ Ilsa's refusal came later in the same afternoon, and it came without heat, which
 
 "It is what we can honestly test," Marek said, and the sentence was the least impressive he had ever spoken in that room, and it was the true one.
 
-The declared test finally read like this, and Dalla wrote every word of it where the people who had to live by it could see it.
+The declared test was written up in lines, and it took a morning and an afternoon, and every line had somebody in the room standing behind it.
 
-Occupancy: thirty on the upper deck, six in the lower corridor including one litter on a frame, plus the five named watches at the boundary. No child on the deck. Duration: forty minutes. Gear: one hundred and fifty kilograms of load spread on the deck, thirty-eight in the corridor. Stretcher route: fixed flight of fourteen treads with a quarter-turn at the head, then the corridor, then the waist, then the school door. Exits: the fixed flight and the school door. The anteroom route is not part of this test and may not be used by anyone inside it. Stop authority: Nera for air, Sefu for the boundary and the occupancy, and any person inside may stop the test for the reason they can state in one sentence, with no requirement to prove it first. And one line for the case nobody had a procedure for:
+Dalla read each line back before she wrote the next one, which was slower, and nobody had asked for it.
+
+"Occupancy: thirty on the upper deck, six in the lower corridor including one litter on a frame, and the five named watches at the boundary. No child on the deck. Duration: forty minutes."
+
+"Add the litter's four minutes each way," Leena said. "Four up the fourteen treads and four down through that door. Anybody who counts this test in minutes is counting half of it."
+
+Dalla wrote it into the line, and then read the line back.
+
+"Gear: one hundred and thirty-two kilograms of load on the deck in six sacks, thirty-eight kilos in the corridor in four baskets. Stretcher route: the fixed flight of fourteen treads with a quarter-turn at the head, then the corridor, then the waist, then the school door. Exits: the fixed flight and the school door."
+
+"Write the anteroom out of it again," Nera said, "and write *may not be used* next to it. The anteroom is the only way out of this building for a person who is not walking, and somebody in a hurry is going to read that board and not this room."
+
+So Dalla wrote *the anteroom route is not part of this test and may not be used by anybody inside it*, and read the whole sentence back twice before she let herself go on.
+
+"Stop authority: Nera for air, Sefu for the boundary and the occupancy, and any person inside may stop the test for the reason they can state in one sentence, with no requirement to prove it first."
+
+"Who overrules it?" Jo said. "Because a stop with a reason on it is a stop, and if anybody can overrule a stop in the moment then it is a suggestion with a good excuse attached."
+
+"Nobody overrules it in the moment," Nera said. "The corridor empties, the room empties, and the argument happens afterwards. That is the only version of a stop I will stand behind."
+
+Dalla wrote that one in her own hand, which meant it could not be argued back out of the room later.
+
+And there was one line for the case nobody had a procedure for, which Dalla had found by sitting with it for an afternoon:
 
 *If anyone from the deck reaches the lower corridor before the litter, the corridor party holds at the waist and does not move past it. The deck party holds at the stair foot. Dalla's bell is the signal for either side. Neither side argues with the other until both are still.*
 
@@ -92,17 +114,21 @@ The splice needed three lengths and the deck spread needed the lath, and both ha
 
 "Two for the clinic sill," Dalla said. "Two for the kitchen brace. Two spare for whatever came next, which has been the answer since the winter started."
 
+Then she looked at the two she had not named for a moment longer than the rest of it took.
+
+"And I am going to write down what *spare* means, because in a week one of you is going to read this page and count six. A spare is not a release. Those two are the whole of the reserve, and the reserve is for the next thing that is already broken, not for a thing we have decided to build. If the next thing is already broken this afternoon, then the splice does not happen this week, and we have that conversation instead of this one."
+
 "Release three for a splice we cannot inspect, and we have a floor and no door sill," Jo said. "Release two more and we have a floor, a door sill that is a gap, and no brace. The brace is holding the hearth corner back. Take it out and the corner has to be a curve, and a curve means the pot moves."
 
 Mikka made the call from the kitchen line, and she made it fast, which is how she made most of them. "Take the four. The sill can wait; a sill is a nuisance and a gap is a way in. The brace waits with it, and the corner goes on being a curve, and I will carry the pot round it and stop complaining about it in public."
 
-Sefu, who had not been asked, said the thing that made it a decision rather than a favor. "That releases the Hearthhold standing stock to a project the crew proposed. Write it as the Hearthholds' decision and not as a contribution, because in a year somebody will read a contribution as a claim."
+Sefu, who had not been asked, said the thing that made it a decision rather than a favor. "That releases four pieces of the Hearthhold standing stock to a project the crew proposed, and it leaves two in the reserve that nobody has opened. Write it as the Hearthholds' decision and not as a contribution, because in a year somebody will read a contribution as a claim."
 
-Dalla wrote it as the Hearthholds' decision. Ilsa then asked for two school days to move nine children into the kitchen corner, which Dalla recorded as *school days, given, at the school's cost, not waived*, and which Mikka did not contest, because the school corner was hers and the kitchen corner was Mikka's and the arrangement was between the two of them and not about the crew at all.
+Dalla wrote it as the Hearthholds' decision, in four lines, with the two spares entered as held and not released. Ilsa then asked for two school days to move nine children into the kitchen corner, which Dalla recorded as *school days, given, at the school's cost, not waived*, and which Mikka did not contest, because the school corner was hers and the kitchen corner was Mikka's and the arrangement was between the two of them and not about the crew at all.
 
 The loads went up on Wednesday afternoon and nobody carried a basket they were not named for.
 
-Oren and Tams made the deck loads out of stone, in sacks, twenty-two to a sack, and hauled them up the fixed stair in single file with a hand line because there was no other way to get twenty-two kilos up fourteen treads. Tams counted the sacks and the count went into the ledger. Oren set them where a class would sit, in two rows and an aisle, because the aisle mattered: a room with an aisle is not the same room as a room without one, and Marek had spent a career learning that on drawings and had never once learned it on a floor.
+Oren and Tams made the deck loads out of stone, in six sacks of twenty-two kilos, and hauled them up the fixed stair in single file with a hand line because there was no other way to get twenty-two kilos up fourteen treads. Tams counted the sacks and the count went into the ledger. Oren set them where a class would sit, in two rows and an aisle, because the aisle mattered: a room with an aisle is not the same room as a room without one, and Marek had spent a career learning that on drawings and had never once learned it on a floor.
 
 Jo carried the corridor loads herself, thirty-eight kilos in four baskets, and put them along the wall out of the dip, because water in the dip was the one variable nobody could argue about.
 
@@ -116,4 +142,4 @@ The silence went on long enough to be its own answer.
 
 Renn spoke from the landing, where she was not counted and had said so. "I will man the door. I will not stand on a deck and be told it is safe. I have watched that room for forty years and I have never seen it hold anybody. If you want me to say I believe it, you will have to bring me back after and let me look."
 
-"Recorded," Dalla said, and wrote it down, and Marek did not argue, because the sentence was not a refusal of the test. It was a refusal of a later and larger promise, made in advance, by someone who had earned the right to make it.
+Dalla read that back and wrote it down, and Marek did not argue, because the sentence was not a refusal of the test. It was a refusal of a later and larger promise, made in advance, by someone who had earned the right to make it.

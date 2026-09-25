@@ -18,7 +18,7 @@ The cracked lintel had not dropped straight down. It had dropped and turned, and
 
 So the corridor kept its narrow door, and the narrow door was marked on the floor in chalk with a figure beside it that told a person their own width, which Dalla thought was the most useful thing anybody had written in two weeks.
 
-Tams ran the corridor's test loads after that, because the corridor had to be walked with weight before anyone would let a person walk it in earnest. He made dead loads out of stone sacks and set them along the marked safe strip, then walked them himself, twelve times, in the pattern of somebody carrying a full basin and not looking down, because that was the load that broke a corridor: not a heavy thing, but a heavy thing carried while hurrying. Pell called the water mark from the top of the waist, because a man carrying a basin at that speed does not look at a drain, and the only person watching the drain was a fourteen-year-old on a step.
+Tams ran the corridor's test loads after that, because the corridor had to be walked with weight before anyone would let a person walk it in earnest. He made dead loads out of stone sacks and set them along the kitchen side, out of the fall line and clear of the dip, then walked them himself, twelve times, in the pattern of somebody carrying a full basin and not looking down, because that was the load that broke a corridor: not a heavy thing, but a heavy thing carried while hurrying. Pell called the water mark from the top of the waist, because a man carrying a basin at that speed does not look at a drain, and the only person watching the drain was a fourteen-year-old on a step.
 
 On the seventh pass a sack slid, and the floor under the dip gave a sound like a hand clapping once, and everybody stopped.
 
@@ -58,7 +58,7 @@ Nera set the cloth down. "The school door is the corridor's relief. It is the on
 
 "It is propped," Tams said. "Oren has a line on it."
 
-"A line is not a wall. A line tells me where the door is. It does not tell me how much air the door can move." Nera turned to Marek. "And you have not included the six minutes. Your half an hour is measured from when? If it starts when the pump starts, it includes two rest intervals, and in both of them the water is up, the drain is under load, and the air in this corridor has nothing to push it anywhere except through a gap in a propped head."
+"A line is not a wall. A line tells me where the door is. It does not tell me how much air the door can move." Nera turned to Marek. "And you have not included the six minutes. Your half an hour is measured from when? If it starts when the pump starts, then most of it is one rest interval, and the six minutes are the part that matters, because in them the water is up, the drain is under load, and the air in this corridor has nothing to push it anywhere except through a gap in a propped head."
 
 "Then say what the interval is."
 
@@ -72,11 +72,11 @@ He pushed back once, because he had to, and because the thing he was defending w
 
 "Yes," Nera said. "It is a schedule. And the schedule is honest, which is more than the number was."
 
-The room was quiet for a moment, and then Leena said the sentence that turned it, which she had been building since the third afternoon and which she delivered without looking at either of them.
+The room was quiet for a moment, and then Leena said the sentence that turned it, which she had been building since the anteroom test and which she delivered without looking at either of them.
 
 "Then make the schedule the room," she said. "Not a number of people. A time. Nobody may stand in that corridor unless the pump is running and no watch is empty, and everybody leaves when the lever comes off, and the coming off is announced by the same bell that already exists."
 
-"Thirty-four minutes of pump," Tams said. "In intervals of about fifteen."
+"Twenty-six strokes, the six minutes, nineteen strokes," Tams said. "Thirty-four minutes of pump in a forty-minute cycle, and the six are the part with the water up and the door a door you cannot get a person through. So you get one long use, one gap, and the whole of the opportunity is the next start, and the next start does not come early."
 
 "Write the intervals," Dalla said, and wrote them, and added them to the board: *the corridor may be used only while the pump lever is moving. The lever coming off empties it.*
 

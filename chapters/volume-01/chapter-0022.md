@@ -10,7 +10,7 @@ Marek liked her immediately for the wrong reason and then for the right one.
 
 "Then I will draw it where you can stop me," he said.
 
-They crossed in a named work period with the count kept honestly. The anteroom kept nine of its ten: the six of them, Nera at the air valve, Sefu at the wheel, and Dalla at the threshold with the ledger. Renn stayed on the landing and was not counted. Jo, Mikka, and Ilsa went through the deeper gate ahead of the crew, and Sefu stood at the wheel with it open the whole period, because he had decided in advance that a shut gate was a thing everybody had to be told about before it happened and not after.
+They crossed in a named work period with the count kept honestly. The anteroom kept nine of its ten: the six of them, Nera at the air valve, Sefu at the wheel, and Dalla at the threshold with the ledger. Renn stayed on the landing and was not counted. Jo, Mikka, and Ilsa went through the deeper gate ahead of the crew, and Sefu kept the wheel with the gate open the whole period, because he had decided in advance that a shut gate is a thing everybody has to be told about before it happens and not after.
 
 The lower corridor was not a hallway. It was a working neck.
 
@@ -66,7 +66,7 @@ Ruk Sella came in from the kitchen with a water pail and stopped when she saw th
 
 "Then that is a limit on the use," Dalla said, writing.
 
-"And I will not have it called a night room," Ilsa said, before anyone offered. "Whatever else it is, it is not a night room. A gallery with a floor in it is not a bedroom. It is a room with benches, a shelf, four hooks, a grate in the high wall, and a stair that has been worn in the middle for longer than anyone living remembers. It was a school. It is a school twice a day and a store once a week. I will not hand that over for sleeping."
+"And I will not have it called a night room," Ilsa said, before anyone offered. "Whatever else it is, it is not a night room. A gallery with a floor in it is not a bedroom. It is a room with benches, a shelf, four hooks, a high vent with a broken louvre in it, and a deck with two paths worn through the middle for longer than anyone living remembers. It was a school. It is a school twice a day and a store once a week. I will not hand that over for sleeping."
 
 Marek took out the grease pencil stub and then put it away again, which was the first honest thing he did all morning.
 
@@ -94,7 +94,7 @@ Marek had no answer, and Nera gave him one she was going to take back.
 
 "I want to see the upper gallery before I say anything about the corridor's air," she said.
 
-The air engineer had been quiet since the kitchen line. She had walked the corridor with the dyed cloth held under the high grille, then under the low vent, then at the clinic return, and she had said nothing, which from Nera meant she was still measuring.
+The air engineer had been quiet since the kitchen line. She had walked the corridor with the dyed cloth held under the high grille, then under the low vent, then at the clinic return, and she had said nothing at all, which was how he had learned to know when she was still measuring.
 
 "Grille at the kitchen end, vent at the school end, and the return channel in common with the clinic," Marek said. "That reads as a workable breath path."
 
@@ -122,10 +122,10 @@ Marek looked down the corridor. The boy on Ruk Sella's hip had put a finger into
 
 Ilsa looked at her slate, then at the stair.
 
-"Take Illev," she said. "Not Renn, not the door. I want the person who can read a stone and say what it is doing." She looked at Marek's open right hand, resting against the wall. "And I want the other one too. The one who keeps saying what is missing."
+"Take Iven," she said. "Not Renn, not the door. I want the person who can read a stone and say what it is doing." Iven took his hand off the hearth's back stone. She looked at Marek's open right hand, resting against the wall. "And I want the other one too. The one who keeps saying what is missing."
 
 Leena raised her good hand an inch off the litter rail.
 
-Marek wrote the two work periods into Dalla's ledger with his left hand, and under them the four words that mattered: *no room opened.* Then he asked Nera to write the air question on the same page, so that the survey would start by trying to break the plan rather than by admiring it.
+Marek wrote the two work periods into Dalla's ledger with his left hand, and under them the three words that mattered: *no room opened.* Then he asked Nera to write the air question on the same page, so that the survey would start by trying to break the plan rather than by admiring it.
 
 She wrote: *the gallery's air is unknown until it has been made to fail.*

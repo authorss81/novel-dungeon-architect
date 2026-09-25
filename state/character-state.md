@@ -3,7 +3,7 @@
 ## Marek Venn
 
 - **Position:** Hearthhold air-gate anteroom and boundary work area, with attended work periods in the lower corridor and school corner beyond the deeper gate.
-- **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand usable but strained. No new formal power stage. His five load impressions in this batch gave him nothing usable each time, and he said so out loud in two of them.
+- **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand usable but strained. No new formal power stage. He has three brief load impressions in this batch and one moment of feeling nothing at all, and he says out loud that each of them gave him nothing usable, which is the sentence Jo tells him is the most useful line on the page.
 - **Mind:** He proposed a bigger room and lost it in public, then proposed keeping four feet of the wreck alive and was refused, then handed the work board to Jo Verrick. The control flaw is unchanged in shape and visible in action: he reaches for the decision, other people take it, and he accepts it later than they do. What has changed is that he now states the new practice himself — any change to a room people use is written by the person who will keep it — and that his acceptance of the *schedule* answer over his own *occupancy* answer in Chapter 26 is the first time he has publicly preferred the thing he did not think of.
 - **Immediate choice:** Keep the conditional route and the conditional corridor. Do not reopen the gallery, do not propose a fund, do not write first on any room anyone lives in.
 
@@ -31,7 +31,7 @@
 ## Oren Sill
 
 - **Position:** Anteroom, corridor, stair head, and the school door.
-- **Body:** Uninjured. A sore wrist after the Chapter 25 shoring.
+- **Body:** Alive, and carrying a sore wrist. In Chapter 25 he levered the first gallery shoring length home with his forearm while Jo worked the wedges with both hands, and said nothing about it at the time. The wrist is the price of that minute and must be visible rather than mentioned.
 - **Role:** Visible in every frame — carrying the litter, holding the frame, standing as the wall at the stair head, holding a school-door head with his shoulder, and in Chapter 26 finding that the cracked lintel dropped and turned so the jamb now carries a load it was never built for. He is the batch's practical authority on what can and cannot be propped with one pair of hands.
 - **Survival:** Alive at the end of Batch 0003. The later Hearthhold-crossing death remains reserved and must still arise from insufficient route capacity.
 
@@ -57,7 +57,7 @@
 
 ## Hearthhold boundary maintainers
 
-- **Renn Vale:** door and landing watch; refuses the sixth wet-seam watch on three days of seven, which means the corridor does not open on those days. Refuses in advance to be told the gallery is safe. Carries the register boxes to the school store herself and will not let anyone else touch them. Her refusal is cost-bearing and is not a negotiation.
+- **Renn Vale:** door and landing watch; refuses the sixth wet-seam watch on three days of seven, which means the corridor does not open on those days. Refuses in advance to be told the gallery is safe. Carries the register boxes to the school store herself and will not let anyone else touch them. In Chapter 30 she takes the watch on the four days in seven, and says out loud that her Chapter 27 refusal has not been withdrawn and that what changed was the woman in her rooms going to the clinic return on Isel's arrangement. Her refusal is cost-bearing and is not a negotiation.
 - **Dalla Sen:** repair ledger, route record, work-bell relay, cost witness, and now the person who asks who checks the tally on a day when nobody is bored enough to look. She records *nobody, yet* and treats that as the most honest line on the page. She insists the gallery removal be recorded as removed for safety rather than recovered, so the guild's salvage lien cannot later call it stock.
 - **Jo Verrick:** trial pump maintainer with four paid cleanings, corridor watch, holder of the tool basket and the small file, and — from Chapter 30 — **holder of the work board**. She refuses to let a maintenance obligation be softened, refuses a fund, refuses a fund-shaped meal, and refuses Marek's four-foot remnant in the plainest terms in the batch: a maintained four feet becomes a watch becomes a shift becomes a room.
 - **Mikka Hale:** kitchen, clinic return watch, and meals. She moves the hearth corner rather than give up the brace, she teaches that an interruption is a Tuesday rather than an exception, and she settles the meals as *given at the kitchen's cost and not waived* because a person who is owed cannot also be fed as a favor. She is the one who says an occupied room is not a number.

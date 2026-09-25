@@ -72,7 +72,7 @@ Iven stepped off. The cloth lifted again.
 
 "Someone could. While thirty people are behind them, in the dark, on a stair with a turn, in a room where the air has already gone wrong. That is not a design. That is a hope with a handle."
 
-Marek had been standing very still, because the demonstration had taken his proposal apart in about ninety seconds, and he had seen the reason before the evidence, which was the thing Leena had warned him about three chapters ago and which he apparently could not stop doing.
+Marek had been standing very still, because the demonstration had taken his proposal apart in about ninety seconds, and he had had the answer before the evidence, which was the thing Leena had stopped him doing in the corridor the day before — *say it in words and not as a plan* — and which he apparently could not stop doing.
 
 "Nera," he said carefully, "if the deck comes up and the void beneath it is opened, the low slots are no longer beneath a walkable floor. Then the room has a real supply and the high grille may be its only relief."
 
@@ -110,11 +110,11 @@ Iven agreed. That was the difficulty.
 
 "Then replace it. The question is with what."
 
-Marek had the stores list in his head, because he had asked for it at the review. The Hearthhold repair timber was a named quantity: a six-piece standing stock of sound short lengths, a bundle of split lath, forty feet of good black cord, and a set of hardwood wedges. The standing stock had been committed to the kitchen brace and the clinic sill. The longest sound length in the stores was nine feet.
+Marek had the stores list in his head, because he had asked for it at the review. The Hearthhold repair timber was a named quantity: a six-piece standing stock of sound short lengths, a bundle of split lath, forty feet of good black cord, and a set of hardwood wedges. The standing stock had been committed to the kitchen brace and the clinic sill. The longest sound length in the stores was six feet.
 
-The gallery was twenty-two paces.
+The joists spanned the nine feet of the room's width, outer pocket to post.
 
-"Nine feet," Marek said. "With nine-foot lengths, you splice. A bolted scarf joint, two through-bolts, staggered, iron straps top and bottom. That is a stronger joint than anything the old carpenters would have used, and it is inspectable from the floor."
+"Six feet," Marek said. "With six-foot stock, a nine-foot joist is two lengths and a scarf. A bolted scarf joint, two through-bolts, staggered, iron straps top and bottom. That is a stronger joint than anything the old carpenters would have used, and it is inspectable from the floor."
 
 "It is not inspectable," Iven said. "Not the joint. You can see the straps. You cannot see the ends of the old joists, because they are already inside the posts, and you cannot see the bolt holes because the bolt goes through four hundred years of oak in the dark. What you have built is the one joint in the room whose condition no living person will ever know, and you have put it over a post line, in the middle of a floor where thirty people will be walking back and forth all day."
 
@@ -124,7 +124,7 @@ The gallery was twenty-two paces.
 
 Marek wanted to answer with a calculation. He had the numbers: the crowd load, the joist span, the strap capacity, the bolt spacing. He had done this kind of arithmetic ten thousand times. What he did not have was the state of the inside of a timber in a stone pocket in a room nobody had opened in a living memory, and no arithmetic had ever solved that problem. It had only ever been possible to solve it by not cutting the timber, or by having a better timber, and the Hearthholds did not have better timber.
 
-"Nine feet," he said. "That is the real limit. I am not going to pretend I have timber."
+"Six feet," he said. "That is the real limit. I am not going to pretend I have timber."
 
 "No," Iven said. "You are going to ask for timber, and when they say no, you are going to build anyway with a joint you cannot see, because the alternative is admitting the room is too big. And that is the same sentence that made the lintel in the first room look solid."
 
@@ -144,7 +144,7 @@ Ilsa took the slate from under her arm and looked at Dalla's list without soften
 
 "You are asking me for the school floor," she said. "I will say yes to that when the design says what happens to the children on the day the floor is not there. Until then the answer is no, and it is not mine to soften."
 
-"Recorded," Dalla said, and wrote it down in the same hand as everything else, and looked up at Marek.
+"Noted," Dalla said, and wrote it down in the same hand as everything else, and looked up at Marek.
 
 "The cost is payable," Marek said. "We are not paying it tonight. We are naming it so that when somebody asks whether the room is safe, the answer is a list and not a promise."
 
