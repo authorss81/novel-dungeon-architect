@@ -6,7 +6,7 @@ The delivery check gave a hard knock before Tams touched the lever, then a secon
 
 Marek stood beside the public work sheet. The names were all there: Jo at the pump, Nera for air, Sefu for the boundary, Dalla for the record, Renn and Mikka on their watches, Iven for the craft sequence, Oren and Tams for the frame, Pell for the water calls, and Leena for corrections. The sheet was not a charter. It was a promise to inspect the next condition.
 
-The anteroom held ten people, including Leena on the litter. That was the working limit from the first test, and Sefu counted the room himself before the pump began. Renn was on the upper landing and Mikka was beyond the clinic gate on their watches, neither part of the ten. Before the count, Oren and Tams had returned Leena from the clinic cot to the litter under her direction; the cot remained beyond the gate. The deeper Hearthhold gate remained closed for new admission. The returning stair was restricted beyond the service bend. The wrapped plate lay on its cloth at the far side of the bench, untouched. Dalla’s local record of the guild papers and Iven’s suspended-bond receipt lay on their separate board, and the locked inspection door gave no route to the surface.
+The anteroom held ten people, including Leena on the litter. That was the working limit from the first test, and Sefu counted the room himself before the pump began. Renn was on the upper landing and Mikka was beyond the clinic gate on their watches, neither part of the ten. Before the count, Oren and Tams had returned Leena from the clinic cot to the litter under her direction; the cot remained beyond the gate. The deeper Hearthhold gate remained closed for new admission. The returning stair was restricted beyond the service bend. Dalla’s local record of the guild papers and Iven’s suspended-bond receipt lay on their separate board, and the locked inspection door gave no route to the surface.
 
 “Two hours,” Nera said. “The pressure conditions may shorten it. The pump is attended. The outer door stays open. The clinic return is watched from the kitchen pass. The service bypass hatch stays latched.”
 
@@ -48,11 +48,11 @@ Marek looked toward the locked inspection door. The guild’s pressure dial, rou
 
 “How long does the water give us?” he asked.
 
-Pell looked down the marked shaft. “Two notches before the sill. Less if the pressure turn holds the seam open.”
+Pell looked down through the grate at the marked stone. “Two notches before the sill. Less if the pressure turn holds the seam open.”
 
 Dalla wrote the number without rounding it.
 
-The surface route was not an option they could use simply because they were afraid.
+The surface route did not become an option because they were afraid of not having one.
 
 Sefu watched the deeper gate. “We can close the boundary and keep the anteroom empty. That protects the rooms beyond. It also means the crew has no attended route.”
 
@@ -108,7 +108,7 @@ Pell pointed to the water line. “And add that the lower mark is not a safe ret
 
 “Then leave it where everyone can see it.”
 
-The returning wheel moved once more below the floor. Everyone on the landing became still. The air cloth held. The wet seam did not cross the sill. The stair remained closed, and the missing receiver remained a recorded absence.
+The returning wheel moved once more below the floor. Everyone on the landing became still. The air cloth stayed still. The wet seam did not cross the sill. The stair remained closed, and the missing receiver remained a recorded absence.
 
 When the sound passed, Sefu spoke. “If the pump cannot be restarted under the short intervals, the route closes for use. The crew may retreat toward the Cinder Steps if the retreat can be made under a new review. We do not force the gate open because the alternative is frightening.”
 
@@ -118,13 +118,15 @@ Jo looked at the retaining bolt in her hand. “If I can clean this, the pump ge
 
 Marek looked at the six names on the sheet. They were not beneficiaries. They were not claimants. They were people who had agreed to do work under limits they could not privately revise.
 
-“Dalla,” he said, “put the next review beside the agreement.”
+“Dalla,” he said, “put the next review beside the agreement. The line we already fixed.”
 
-She wrote: *Second work-bell after the next complete pressure turn, or immediately if the air, water, pump, stair, or boundary condition changes.*
+She wrote it as they had agreed it: the second work-bell after the next complete pressure turn, or immediately if anything on the board changed.
+
+So the sheet was read before it was signed. Sefu read it back aloud the way he read every boundary term, stopping at each name and each stop, and Dalla wrote the reading time at the head of the marks so that nobody could later claim they had agreed to something nobody had heard.
 
 Nera, Sefu, Jo, Dalla, Iven, Oren, Tams, Pell, Leena, and Marek marked the sheet in their own places. Renn and Mikka added their watch marks at the gate after Dalla carried the board to them. The marks were not a public charter. They were an accepted maintenance record among the people who would have to live with its next correction.
 
-Jo cleaned the retaining bolt and set the delivery check back into its seat. The bright scrape on the bronze lip remained. She did not promise that the pump would hold. She placed the wrench where the next person could see it, named the cost of the work, and waited for Nera’s cloth to settle.
+Jo cleaned the retaining bolt and set the delivery check back into its seat. The bright scrape on the bronze lip remained, and nobody in the room was willing to sign for a permanent continuation over it. Iven said the lip would have to be faced or replaced before anyone called the pump reliable, and Jo said the stores had no bronze seat and nobody here had the authority to promise one. She did not promise that the pump would hold. She put the wrench where the next person would see it and waited for Nera’s cloth to settle.
 
 “Short interval,” Nera said. “Outer door open. Landing clear.”
 

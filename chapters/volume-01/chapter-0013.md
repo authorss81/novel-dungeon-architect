@@ -1,6 +1,6 @@
 # Chapter 13 — A Charter Is Not a Signature
 
-By late afternoon, Dalla opened a new two-hour record interval at the work-bell. The preceding maintenance interval had been reviewed with the pump stopped, the air cloth steady, and the water below the sill. Sefu counted the same ten occupants; Renn and Mikka stayed on the landing, and the courier remained beyond the incline. The work sheet had acquired more corrections than signatures.
+By late afternoon, Dalla opened a new two-hour record interval at the work-bell. The preceding maintenance interval had been reviewed with the pump stopped, the air cloth steady, and the water below the sill. Sefu counted the same ten; Renn and Mikka kept the landing watch, and the courier sat on the inspection side of the incline with his satchel across his knees. The work sheet had acquired more corrections than signatures.
 
 Marek spread it across the anteroom bench and weighted the corners with two smooth stones. Jo’s cleaning notes ran down one side in cramped, forceful strokes. Nera’s air limits occupied the other. Dalla’s shift record crossed the bottom edge. Sefu had written the boundary conditions in the narrow space between them, and the courier’s documents waited on a separate board where their seals could not be mistaken for the pump’s condition.
 
@@ -18,13 +18,19 @@ Sefu looked from the charter to the deeper gate. “The old charter gives your g
 
 He put his finger on the blank lower half of the page. “A route charter has to start here. Anyone affected can refuse. A room keeper can refuse. The boundary keeper can refuse passage. I can stop the gate, but I cannot make a resident accept a route, and no resident can make me open a mechanism I believe will fail.”
 
-Nera adjusted the dyed cloth above the air valve. “I can certify the air path for a named occupancy, time, pump condition, and stop condition. I cannot certify the character of the people using it.”
+A pump stroke sounded below the floor. Everyone waited until the delivery check had passed its uneven beat before the conversation resumed. Dalla turned the page so the courier could see how much of it was still empty.
 
-“And I can explain what the guild can freeze,” Iven said. “The surface door. Guild-financed equipment. The route witness privilege attached to my name. The inspection record until the hearing. I cannot freeze the Hearthhold pump, the residents’ tools, or their consent. The guild can refuse parts, refuse a record, and refuse rescue. Those are real costs. They are not permission to take the room.”
+“If the guild’s reach ends at the door,” the courier said, “someone ought to be able to say where the local authority begins.”
+
+“Nera can tell you where the air authority ends,” Sefu said. “I can tell you where mine ends. Neither answer reaches the rooms behind that gate.”
+
+Nera adjusted the dyed cloth above the air valve. “I can certify the air path for a named occupancy, time, pump condition, and stop condition. I cannot certify the character of the people using it, and I have never tried.”
+
+Iven was crouched at the far end of the bench over the small tool inventory, turning the old flat file over in his hands. “And I can tell you what the guild can freeze. The surface door. Guild-financed equipment. The route witness privilege attached to my name. The inspection record until the hearing. I cannot freeze the Hearthhold pump, the residents’ tools, or their consent. The guild can refuse parts, refuse a record, and refuse rescue. Those are real costs. They are not permission to take the room.”
 
 The courier’s expression did not change. “The guild can also challenge any claim that its work has been absorbed into a local route.”
 
-“That is a claim to be heard,” Iven said. “Not a fact to be signed by the person who repaired the pump.”
+“That is a claim to be heard,” Iven said, and set the file back in Jo’s basket. “Not a fact to be signed by the person who repaired the pump.”
 
 Marek looked at the blank sheet. A charter was supposed to turn a physical route into a durable agreement. He had spent most of his life believing a properly framed document could keep a repair from becoming a favor, a danger, or a private claim. The Hearthholds were asking for something more difficult: a document that admitted it had to be corrected by the people who used it.
 
@@ -40,7 +46,7 @@ Marek looked at her. “Then we make them agree.”
 
 “You can ask. You cannot make agreement into a consequence of needing a pump.”
 
-Renn remained at the landing lantern bracket, one hand on the door rail. “The four of us can agree to our work. Renn and I can say when we will watch the door. Jo can say when the pump check needs cleaning. Mikka can say when the kitchen cannot spare her. None of us can sign for a resident who has not entered this room.”
+Dalla kept one hand on the repair ledger. “The four of us can agree to our own work. Renn and I can say when we will watch the door. Jo can say when the pump check needs cleaning. Mikka can say when the kitchen cannot spare her. None of us can sign for a resident who has not entered this room.”
 
 “Nor can I sign for every Hearthhold,” Sefu said. “The charter can be an agreement at this boundary. It becomes a wider public charter only when the people who use the route ask for it.”
 
@@ -66,19 +72,17 @@ The courier watched the legal distinctions take shape. “The order does not rec
 
 “Keep it closed.”
 
-The answer came from Sefu, not Marek. He had one hand on the civic wheel and the other on the bench. “The guild line is yours to close. This room is ours to maintain or refuse. You may ask us to hear a claim. You may not turn that ask into a key.”
+The answer came from Sefu, not Marek. He had one hand on the civic wheel and the other on the bench. “The guild line is yours to close. This room is mine to maintain or refuse, and I will ask the rooms behind it. You may put a claim to us. You may not turn putting it into a key.”
 
 The courier looked at the deeper gate. “Some residents may hear it.”
 
 “Some residents may,” Sefu said. “Not all of them. Not by your order.”
 
-A pump stroke sounded below the floor. Everyone waited until the delivery check had passed its uneven beat before the conversation resumed.
-
-Dalla drew a line down the page. “Now the hard part.”
+The delivery check knocked twice under the floor. Dalla waited for the sound to finish, then drew a line down the page. “Now the hard part.”
 
 She wrote *status of the six* beneath the route description.
 
-Jo leaned over the bench. “If they are beneficiaries, they get a room, water, or a share because the route exists. If they are claimants, they get a say because they repaired the pump. If they are temporary workers, they get a shift and leave when the work ends.”
+Jo leaned over the bench. “Do not make me a beneficiary. A beneficiary gets a share because the route exists, and I have watched shares turn into arguments about who deserved them. Do not make me a claimant either. A claimant gets a say because they repaired something, and that is exactly how a repair becomes a door that stops opening. If they are temporary workers, then they take a shift, they go when the work ends, and somebody writes down what they were owed while they were still here.”
 
 “They have already done work,” Iven said. “That gives them a record, not a percentage.”
 
@@ -103,6 +107,14 @@ Marek saw the trouble in the word *claimed*. The crew had carried out the repair
 Sefu nodded slowly. “That part I can support.”
 
 Marek wrote it. The line was not elegant, but it was clear: withdrawal stopped new work and new admission, while the escape route remained open until the room emptied.
+
+Tams had been rewinding the chock line at the edge of the floor through most of that argument, and he did not stop for it. He held up a hand when the talk paused. “The relief chock sits beside the frame, not under it. If somebody says the room has to be emptied in a hurry, they are going to pull that line and bring the frame down on whoever is at the housing.”
+
+“Write that down,” Jo said.
+
+Dalla wrote it down. The pump had a life of its own inside the page, and it did not care whose status was being settled.
+
+Oren pressed down on the frame rail a last time to be sure the packed foot had not worked loose, said nothing, and moved out of the way of the next person to the grate. Pell called the time from the bench, because someone in the room had to, and he had the count before anyone asked for it.
 
 Jo tapped the word *temporary*. “That is not my whole status. I am Jo Verrick. I carry the tool baskets. I do not become a blank space because I am helping a crew repair a pump.”
 

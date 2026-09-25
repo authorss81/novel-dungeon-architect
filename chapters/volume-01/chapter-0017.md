@@ -32,7 +32,7 @@ Sefu moved to the civic wheel. “Clear the anteroom to the upper landing.”
 
 “Move the litter first,” Oren said.
 
-Marek looked toward the clinic corner. Through the open boundary arch, Mikka was beside a low cot. A resident with a fevered wrap lay on it, too weak to stand. The clinic’s low return vent shared a channel with the anteroom’s air baffle, and the channel was beginning to draw backward.
+Marek looked toward the clinic corner. Through the open boundary arch, Mikka was beside a low cot. Isel Ferrow lay on it, wrapped against a fever that had come up over the night, too weak to stand. The clinic’s low return vent shared a channel with the anteroom’s air baffle, and the channel was beginning to draw backward.
 
 “We cannot empty the anteroom and leave the clinic without a plan,” Mikka called.
 
@@ -46,7 +46,7 @@ Marek saw the collision in the plan. If Nera shut the shared baffle to protect t
 
 Nera pointed to the upper landing. “Move the patient there first, then to the kitchen pass. Keep the clinic return open.”
 
-Mikka and Jo reached the cot. Oren took the far side; Tams kept the lever locked. The fevered resident was small enough that the cot could be moved without a stretcher, but the floor route narrowed at the clinic threshold. Jo had to turn the cot sideways, and its lower leg caught the wash basin.
+Mikka and Jo reached the cot. Oren took the far side; Tams kept the lever locked. Isel was small enough that the cot could be moved without a stretcher, but the floor route narrowed at the clinic threshold. Jo had to turn the cot sideways, and its lower leg caught the wash basin.
 
 Marek moved toward it, then stopped. He could lift with his left arm, but the cot needed a coordinated turn, not a stronger person taking over.
 
@@ -78,9 +78,9 @@ The wheel turned again below. This time the sound was close enough that the floo
 
 Nera pulled the stop handle. “Pump stopped. Anteroom empty. Upper landing only.”
 
-Sefu opened the outer service door the full permitted width. Renn moved to the landing with the lantern and watched the stair-side darkness below it. The anteroom emptied in stages: Oren and Tams with the litter, Jo and Mikka with the fevered resident, Iven carrying the work sheet, Leena directing the turn from the cot, Pell staying above the service grate with the case board.
+Sefu opened the outer service door the full permitted width. Renn moved to the landing with the lantern and watched the stair-side darkness below it. The anteroom emptied in stages: Oren and Tams with the litter, Jo and Mikka with Isel on the clinic cot, Iven carrying the work sheet, Leena calling the turn from where they had set her down, Pell staying above the service grate with the case board.
 
-Marek remained near the bearing strip until the last resident crossed. He wanted to feel the pressure one more time. The brief impression came and went, carrying no direction he could trust.
+Marek remained near the bearing strip until the last of them crossed. He wanted to feel the pressure one more time. The brief impression came and went, carrying no direction he could trust.
 
 “Move,” Leena said.
 
@@ -130,9 +130,9 @@ Renn lifted the enclosed lantern. “I can take the upper landing.”
 
 “I can take the clinic return,” Mikka said. “If the cloth changes, I call Dalla. Dalla rings the work bell once for the clinic and twice for the outer valve. When both are clear, she calls the all-clear from the threshold.”
 
-“Put me on the relay,” Dalla said, moving to the threshold. “I can hear both sides without taking the pump or the civic wheel.”
+“Put me on the bell line,” Dalla said, moving to the threshold. “I can hear both sides without taking the pump or the civic wheel.”
 
-Nera kept the air valve. Sefu kept the civic wheel. Jo stayed with the fevered resident after Mikka moved the cot to the kitchen pass. Renn took the upper landing, Mikka took the clinic return, and Dalla watched the threshold for either bell.
+Nera kept the air valve. Sefu kept the civic wheel. Jo stayed with Isel after Mikka moved the cot to the kitchen pass. Renn took the upper landing, Mikka took the clinic return, and Dalla watched the threshold for either bell.
 
 Marek watched the arrangement form. The pressure change had exposed a new labor obligation that no room test had named. A route could be kept only if someone watched the air at the places it moved, not only at the mechanism that controlled it.
 

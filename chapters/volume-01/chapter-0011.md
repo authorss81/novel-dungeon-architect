@@ -1,7 +1,5 @@
 # Chapter 11 — The Room That Holds the Terms
 
-The pump gave its tenth uneven stroke just after the room test ended.
-
 Tams kept the timber lever moving, but the delivery check no longer sounded like a single hard report. It chattered in a ragged double beat, each knock throwing a little vibration through the grate. Nera watched the dyed cloth over the air valve. Sefu watched the water mark beside the sill. The sound was small enough that a tired person could ignore it and large enough to change what everyone else did.
 
 “Stop there,” Nera called.
@@ -10,7 +8,7 @@ Tams eased the lever back. Oren took the weight without being asked, and the pum
 
 Marek had thought the test would give them time. Instead, it had given them a pump that could not be left alone and a room whose two-hour rating had begun with the first person who entered it.
 
-The twelve-person test was over. Sefu pointed to the upper landing and asked Renn and Mikka to step there while Nera reset the air record. A fresh working interval began with the six-person crew, Nera, Sefu, Dalla, and Jo: ten occupants, including Leena’s litter. Renn and Mikka could speak from the landing, but they did not count toward the room until a named return was recorded. The courier stayed on the inspection side of the incline, outside the rated anteroom. Dalla marked the interval’s start and its two-hour limit on the route sheet.
+The twelve-person test was over. Sefu pointed to the upper landing and asked Renn and Mikka to step there while Nera reset the air record. A fresh working interval began with the six-person crew, Nera, Sefu, Dalla, and Jo: ten occupants, one of them on a litter. Renn and Mikka could speak from the landing, but they did not count toward the room until a named return was recorded. The courier stayed on the inspection side of the incline, outside the rated anteroom. Dalla marked the interval’s start and its two-hour limit on the route sheet.
 
 Leena was still on the litter. Her shoulder had held through the test, but the rest of her had not. Color had drained from her face, and she kept her left hand braced beneath the sling as though the weight of the cloth had grown.
 
@@ -68,7 +66,7 @@ The courier inclined his head. “I am not saying the order reaches the gate. I 
 
 “Then it can examine the maintenance sheet,” Iven said. “That is what I signed. Not custody.”
 
-Marek watched Iven square his shoulders. The answer had come quickly, but his injured pride was not the only thing behind it. If the guild called his labor guild custody, the work would survive and he might not. He was choosing a cost he could name over a danger that would arrive wearing his name.
+Marek watched Iven square his shoulders. The answer had come quickly, but his injured pride was not the only thing behind it. If the guild called his labor guild custody, the work would survive and he might not. Marek thought he was choosing a cost he could name over a danger that would arrive wearing his name.
 
 Dalla Sen closed the repair ledger on her thumb. “The test observers are finished.”
 
@@ -92,11 +90,13 @@ The admission did not repair the omission, but it gave the conversation a true p
 
 Sefu released the civic wheel and stood beside it. “My authority is at this boundary. I can keep the deeper gate shut. I can refuse passage across it. I cannot make Renn, Dalla, Jo, or Mikka work a pump, sleep beside a stranger, or give their rooms to a route charter. I also cannot speak for every Hearthhold resident.”
 
-“And if the four residents agree?” Sefu asked, looking around the room. “That binds their work and their rooms. It does not bind people who did not volunteer.”
+Dalla looked up from the ledger. “And if the four of us agree?”
 
-Nera stood beside the air valve. “I can say when the mechanism is safe for the conditions I test. I cannot turn that answer into permission from the residents.”
+Sefu turned the wheel a quarter turn and let it come to its stop against the pawl. “Then it binds your work and your rooms. It does not bind the people who did not volunteer, and it does not bind me out of the right to shut a gate I believe will fail.”
 
-Iven looked down at the pump. “And the guild can lock its own door, deny its parts, or challenge my bond. It cannot write the local shift for you.”
+Nera stood beside the air valve. “And I can say when the mechanism is safe for the conditions I test. I cannot turn that answer into permission from the residents.”
+
+Iven looked down at the pump. “The guild can lock its own door, deny its parts, or challenge my bond. It cannot write the local shift for you.”
 
 The distinctions had been made before. Now the room was forcing them to act like distinctions.
 
@@ -110,7 +110,7 @@ Dalla answered first. “A name beside every task. Not ‘the crew.’ A person 
 
 “I cannot go below,” Pell said. “I can call the marks, though. I can keep the time.”
 
-Jo looked down at the camp cot legs. “Someone has to open the delivery check for sediment. That is not a thirty-second job. The housing pinches the wrench, and the retaining bolt is crooked. Whoever does it needs both hands and a third person on the frame.”
+Jo turned the flat file over in her hands. “Someone has to open the delivery check for sediment. That is not a thirty-second job. The housing pinches the wrench, and the retaining bolt is crooked. Whoever does it needs both hands and a third person on the frame.”
 
 “Iven can teach that work,” Marek said.
 

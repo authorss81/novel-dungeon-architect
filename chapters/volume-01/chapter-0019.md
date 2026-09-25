@@ -24,9 +24,9 @@ Iven took the chalk. His hand was steady, but Marek noticed that he kept looking
 
 “The pump work needs its own sequence,” Iven said. “Otherwise the next tired person will think the delivery check can be opened while the frame is loaded.”
 
-He wrote:
+He did not write it down first. He crouched at the grate instead and talked Jo through it in order, pointing with the chalk: the gland checked and dry first, the delivery shut before any pressure was relieved, the seat cleaned without scoring the bronze, the frame foot packed rather than raised, the pump primed before use, the strokes counted aloud by whoever is not on the lever. Stop for a wet gland, a reversed cloth, a new movement at the housing, or water at the sill.
 
-*Gland dry. Delivery shut before pressure relief. Check seat cleaned without scoring bronze. Frame foot packed, not raised. Pump primed before use. Count the strokes aloud. Stop for a wet gland, a reversed cloth, a new movement at the housing, or water at the sill.*
+Dalla wrote it down as he said it, in her own hand, which was the point. If the sequence lived only in Iven’s memory it would leave with him.
 
 He paused before the next line.
 
@@ -34,7 +34,7 @@ He paused before the next line.
 
 Jo took the chalk from him. “Add that the person who cleans the check records the time and the cost.”
 
-Iven added it.
+He asked for it, and Dalla wrote it, because the point of a sequence is that it survives the person who knows it.
 
 Marek watched the craft become a sequence another person could follow without hearing Iven explain it. The work was still his until he gave it away. That was the difference between a craft lesson and a claim.
 
@@ -54,7 +54,7 @@ Dalla took it up again. “Payment and cost are not the same as permission.”
 
 Jo’s name went beside the pump-cleaning line. “The first cleaning took half a day from my tool route. That cost is not paid by the fact that I learned the work.”
 
-Mikka set a bowl of cooked grain near the edge of the board. “The kitchen can provide recovery water and a meal during a named work period. That is support for the shift, not a promise of permanent room and not a claim on anyone’s labor.”
+From the threshold, Mikka set a bowl of cooked grain near the edge of the board. “The kitchen can provide recovery water and a meal during a named work period. That is support for the shift, not a promise of permanent room and not a claim on anyone’s labor.”
 
 “And Iven’s guild work?” Marek asked.
 
@@ -66,7 +66,7 @@ Marek read the sentence twice. It was not elegant, but it prevented the work fro
 
 “Add a line for the crew,” he said. “Temporary maintainers receive food and water for scheduled work according to the local count. Their own drinking reserve remains separate. They may withdraw from a future shift. They receive no ownership and no permanent room.”
 
-Mikka looked up. “They receive no permanent room, but Leena may use the clinic cot while her shoulder is treated. That is care, not residence.”
+Mikka looked up from the threshold. “They receive no permanent room, but Leena may use the clinic cot while her shoulder is treated. That is care, not residence.”
 
 “Write that separately,” Leena said.
 
@@ -74,17 +74,15 @@ Dalla did.
 
 The board was becoming crowded. Marek tried to add a heading for *route* and found that the term still carried too much assumption. He crossed it out and wrote *physical connection* instead.
 
-Then he wrote *pump* and *air gate* and *maintenance shift* and *boundary record*. Each line had a limit beside it. The plate stayed covered on the work cloth. The guild papers stayed apart. The returning stair restriction had its own sheet, attached by a cord to the route record so nobody could lift the pump plan and leave the stair behind.
+Then he wrote *pump* and *air gate* and *maintenance shift* and *boundary record*. Each line had a limit beside it. The guild papers stayed apart. The returning stair restriction had its own sheet, attached by a cord to the route record so nobody could lift the pump plan and leave the stair behind.
 
 A knock came from the pump.
 
 Jo looked at the delivery mark. “It is time.”
 
-The room did not become empty. Renn took the door lantern. Dalla kept the ledger. Nera watched the air cloth. Sefu stood at the civic wheel. Oren and Tams took the pump frame and the relief chock. Leena remained on the clinic cot with the board balanced across her knees. Pell sat at the bench, calling the water level and the time.
-
 Marek began to assign the work from memory.
 
-“Jo operates. Iven explains. Oren and Tams take the load. Pell calls the mark. Nera watches the air. Renn watches the door. Sefu can stop the room. Leena records corrections.”
+“Jo operates. Iven explains. Oren and Tams take the load. Pell calls the mark. Nera watches the air. Renn watches the door. Sefu can stop the room.”
 
 “Who is writing the result?” Dalla asked.
 
@@ -95,6 +93,20 @@ Marek began to assign the work from memory.
 Marek looked at his left hand, then at the two smooth stones holding the old sheet. His right fingers could not keep the chalk in a line, and his left wrist ached after the stair trip. He could dictate, but a dictated record was not the same as a record made by the people who would use it.
 
 “Dalla,” he said. “You write the result. I will call the structural changes.”
+
+Then the clinic bell went, and the board had to wait.
+
+Mikka appeared at the gate with a request in the same tone Jo used when a route had gone long. Dalla had a name for it: a watch change. Isel’s fever had broken in the night, and Mikka wanted the lower clinic cot cleared and made up, and the clinic corner wanted a person standing in the return channel while it was done.
+
+Sefu looked at Dalla. Dalla looked at Mikka. Neither of them looked at Marek, which was itself an answer.
+
+“Named care period,” Sefu said. “Clinic corner only. Dalla goes as the witness, Jo as the hand. Iven, you stay on this side of the wheel. Oren, you and Tams carry her when it is done, and no sooner.”
+
+Leena chose the moment herself. “Put me on the litter for the walk,” she said. “I want the shoulder dressed while I am in the room, not because the room needs me.”
+
+“Care is not residence,” Mikka said, and went to get the cot clear.
+
+Oren and Tams settled her onto the litter and carried her through. Sefu closed the gate behind her and put his weight against the wheel, and the anteroom kept its ten without a room-count argument. When the dressing was finished and the clinic corner was quiet again, they brought her back, and she came to the board with the board across her knees and a fresh wrap on her shoulder.
 
 Jo looked at the water mark. “And if I stop?”
 
@@ -124,13 +136,13 @@ Renn looked at him. “You can promise that you will name the hour you can cover
 
 “That I can do.”
 
-The pump began its shift.
+Then the pump began its shift, and for the first time the room ran from the board instead of from Marek’s memory.
 
-Jo took the lever. Iven stayed beside the grate, explaining the first check without touching the moving handle. Oren and Tams lifted the frame at the marked points. Pell called the water level. Nera watched the air cloth and the wet seam. Sefu watched the civic wheel. Dalla’s pen moved across the page. Leena called a correction when the pump-parts box was placed too close to the escape line, and Jo moved it without arguing.
+Jo took the lever. Iven stayed beside the grate and talked the sequence aloud exactly as Dalla had written it, so the sheet could be checked against the work rather than trusted. On the third count, Leena called out that the pump-parts box had been set inside the escape line. Jo stopped, moved it, and began the count again from one.
 
 Marek watched the floor. He felt a brief pressure change beneath the bearing strip, then the ordinary vibration of the pump. He did not turn the feeling into a command. He stated what he saw: “The frame is answering the load without a new movement at the plinth.”
 
-Dalla wrote it down.
+Dalla wrote it down, and nobody asked him to read it back.
 
 The work sheet did not make the room safe forever. It made the next action less private.
 
@@ -140,11 +152,11 @@ The sheet was not a public charter. It named no owner, no permanent route, and n
 
 At the bottom, Dalla left one line open:
 
-*Next review: the second work-bell after the next complete pressure turn, or immediately if air, water, pump, or boundary conditions change.*
+*Next review: the second work-bell after the next complete pressure turn, or sooner if the air, the water, the pump, or the boundary changes.*
 
 Marek looked at the open line. It was not a promise that the route would continue. It was a promise that someone would look again.
 
-Sefu hung the board where the pump crew could see it from the grate. The wrapped plate remained on its work cloth. Dalla’s copies of the guild papers and Iven’s suspended-bond receipt remained on their separate board. The returning stair remained restricted beyond the service bend.
+Sefu hung the board where the pump crew could see it from the grate. Dalla’s copies of the guild papers and Iven’s suspended-bond receipt stayed on their separate board, and the returning stair stayed restricted beyond the service bend.
 
 The route was still conditional.
 

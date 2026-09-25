@@ -4,8 +4,8 @@
 
 - **Position:** Hearthhold air-gate anteroom and boundary work area, with the conditional route and pump gallery below/nearby.
 - **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand is usable but strained from compensating. No new formal power stage.
-- **Mind:** More willing to state uncertainty and accept named limits, but still instinctively tries to fill every blank in a route plan. He has learned that a maintenance sheet is not ownership and that a successful room test is not a welcome.
-- **Relationships:** Trusts Leena’s visible corrections; respects Iven’s craft and Nera’s independent air expertise; accepts Sefu’s civic veto and the residents’ room-specific refusals. Jo’s work and the scored delivery seat have forced him to accept that a local cost may outlast his plan.
+- **Mind:** More willing to state uncertainty and accept named limits, but still instinctively tries to fill every blank in a route plan. He has learned that a maintenance sheet is not ownership and that a successful room test is not a welcome. In Chapter 18 he named his own three options for the stair and chose the smallest one; in Chapter 20 he proposed deeper admission under pressure and withdrew the proposal when it was named an admission request.
+- **Relationships:** Trusts Leena's visible corrections; respects Iven's craft and Nera's independent air expertise; accepts Sefu's civic veto and the residents' room-specific refusals. Jo's work and the scored delivery seat have forced him to accept that a local cost may outlast his plan.
 - **Immediate choice:** Continue the conditional route only through named attended shifts and the public work sheet. Do not force deeper admission, claim the route, or pretend the pump is permanent.
 
 ## Leena Orr
@@ -57,12 +57,13 @@
 
 ## Hearthhold boundary maintainers
 
-- **Renn Vale:** boundary lantern and landing/door watch; volunteers for specific work and air observation.
-- **Dalla Sen:** repair-ledger keeper, route recorder, work-bell relay, and consent/cost witness.
-- **Jo Verrick:** tool-basket carrier and trial pump maintainer; cleans the delivery check under Iven’s instruction and records the half-day deferred tool-route cost.
-- **Mikka Hale:** canvas/kitchen and clinic-return support; provides named recovery water and meals, not permanent residence or blanket consent.
+- **Renn Vale:** boundary lantern and landing/door watch; volunteers for specific work and air observation. Her family history of the returning stair is the local record that conflicts with the guild survey.
+- **Dalla Sen:** repair-ledger keeper, route recorder, work-bell relay, and consent/cost witness. She is the person who decides when the water and labor figures are recorded, and in Chapter 19 she becomes the recorder of results.
+- **Jo Verrick:** tool-basket carrier and trial pump maintainer; cleans the delivery seat under Iven's instruction and records the half-day deferred tool-route cost. Her practical craft judgment has already corrected Marek twice in public.
+- **Mikka Hale:** canvas/kitchen and clinic-return support; provides named recovery water and meals, not permanent residence or blanket consent. She named the six outsiders as outsiders and made the limit stick.
+- **Isel Ferrow:** a Hearthhold resident named in Chapter 17 while fevered and unable to stand; her cot movement is the reason the clinic cannot be evacuated during an air reversal. Her fever broke by the night of Chapter 19, reported by Mikka. She exists to make a neighbor room unignorable, not as a plot device.
 
-Their cooperation remains room-specific and revocable. None speaks for every Hearthhold resident or can replace Sefu’s civic authority. Their work changes the route’s legitimacy but does not make the six outsiders citizens.
+Their cooperation remains room-specific and revocable. None speaks for every Hearthhold resident or can replace Sefu's civic authority. Their work changes the route's legitimacy but does not make the six outsiders citizens.
 
 ## Dael Harrow and the Cartwright pressure
 

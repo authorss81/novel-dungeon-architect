@@ -14,6 +14,8 @@ Renn brought a small piece of split wood, a length of black cord, and a flat sto
 
 Marek took the basket. His right hand could not close around the side without his fingers catching on the repaired rim, so he supported it with his left forearm and kept the injured hand open against the cloth. The basket felt lighter than the pump lever, but holding it still required a different kind of attention.
 
+He had come into the room with a question he could not put on the work sheet. Every condition the anteroom had so far was written down: occupancy, time, air, water, escape, stop. None of the pages said what a normal day looked like, or who decided which normal job gave way when a pump shift and a resident’s route wanted the same pair of hands. He had spent three days learning what people would refuse. He had not spent a single hour watching what they did when nothing was wrong.
+
 The ordinary work spread through the room.
 
 Dalla Sen repaired the spine of the repair ledger with a length of black cord. She worked at the bench with the book open, tying each broken stitch back through the cover before smoothing the page flat. Beside her, Mikka counted the meal bowls and wrote a short list of what needed carrying to the clinic corner. She did not ask the crew to help with the kitchen queue. When one of the bowls chipped, she set it aside for the repair shelf rather than pretending it was usable.
@@ -28,7 +30,7 @@ Jo looked at him. “You can say that without pain.”
 
 “Craft is not less painful when it is shared,” Iven said. “It is only less lonely.”
 
-Nera worked at the air valve with a strip of dyed cloth and a small brush. She cleaned the cloth in a covered cup, checked the baffle, and wrote down the color before and after the adjustment. Sefu stayed at the civic wheel, counting the people who entered and leaving. The deeper gate remained closed. The air route remained a route for the anteroom, not a hallway the crew could use because it was convenient.
+Nera worked at the air valve with a strip of dyed cloth and a small brush. She cleaned the cloth in a covered cup, checked the baffle, and wrote down the color before and after the adjustment. Sefu stayed at the civic wheel, counting the people who came in and went out. The deeper gate remained closed. The air route remained a route for the anteroom, not a hallway the crew could use because it was convenient.
 
 Leena sat upright on the cot, her right arm in its sling. She had been awake long enough to reject the first cup of recovery water and ask for the route sheet instead.
 
@@ -94,17 +96,29 @@ The answer earned a small nod. Pell began sorting the files, wedges, and boring 
 
 The morning moved by ordinary intervals.
 
-Tams marked the drinking water. Five liters remained from the collapse, and the separately sealed condensation liter stayed in its reserve. He wrote both numbers on the case board and drew a line between the Hearthhold water and the crew’s supply. No one poured from a resident vessel into a crew skin. Mikka brought small cups for the recovery period and recorded them under the kitchen’s own count.
+Tams marked the drinking water. Five liters remained from the collapse, and the separately sealed condensation liter stayed in its reserve. He wrote both numbers on the case board and drew a line between the Hearthhold water and the crew’s supply. Then he wrote a third line under it, because the two numbers alone would have looked like the crew was living on nothing: *during a named work period the kitchen’s provision is the crew’s drinking supply; the sealed liter is opened only if a shift runs past its interval or a person is unwell.* No one poured from a resident vessel into a crew skin. Mikka brought small cups for the recovery period and recorded them under the kitchen’s own count.
 
-“Water discipline is not only about scarcity,” she said. “It is about knowing whose glass you are filling.”
+“Water discipline is not only about scarcity,” she said. “It is about knowing whose glass you are filling. And it is about knowing who is keeping yours full.”
 
-Oren tested the repaired chock line with a stone and then with Tams’s weight. The line held its position. He marked the result on the maintenance sheet, and Tams added the time. Iven watched the pump’s housing from above, explaining the cleaned check to Jo while the pump rested.
+Oren tested the repaired chock line with a stone and then with Tams’s weight. The line kept its position. He marked the result on the maintenance sheet, and Tams added the time. Iven watched the pump’s housing from above, explaining the cleaned check to Jo while the pump rested.
 
 Near midday, a resident came to the gate with a folded canvas and a complaint about a shutter that had begun to catch. The request was not an emergency. Jo took the tool basket, Renn checked the door, and Mikka marked the time she would be away. The Hearthhold schedule had not stopped for the six outsiders. It had made room for them in places where their work was useful and refused them in places where it was not.
 
 Marek watched Jo leave. The basket was hers. The route was hers. The repair belonged to the household that had asked for it. He could not make the work larger by taking it over.
 
-The pump delivery check gave its uneven knock. Tams started the lever. Oren took the relief. Pell called the water mark from the bench. Nera watched the air cloth. Sefu watched the landing. For a few minutes, the anteroom had a rhythm without a crisis inside it.
+The pump delivery check gave its uneven knock. Tams started the lever. Oren took the relief. Pell called the water mark from the bench. Nera watched the air cloth. Sefu watched the landing. For a few minutes, the anteroom had a rhythm without a crisis inside it, and Tams was covering for an operator who was not on the board.
+
+Then Jo was not back on time, and his shoulders began to sag at the lever.
+
+Mikka appeared at the gate. “The canvas is worse than the complaint,” she said. “She has to go back for the shutter frame. Another half day, and somebody else carries it.”
+
+Nera read the board on the wall. “She is the named operator. The sheet does not allow an unlisted hand on the lever, and the mark has not reached target. An interval that cannot be signed off does not run.”
+
+Marek looked at the water mark, then at the door. The pump had fifteen minutes left, and the water had not done what the interval was written to do. This was the other half of what the residents had been refusing him: not a refusal aimed at the crew, but a schedule that simply went its own way. Nobody was wrong. The water was still there.
+
+“Close it,” he said. “Write the reason. Not that the crew was needed elsewhere — that her route went long.”
+
+Dalla wrote it exactly that way.
 
 Leena set the route sheet across her knees. “Add this,” she said. “Ordinary work is maintenance. It is not evidence that the room is safe forever.”
 
@@ -114,9 +128,9 @@ Pell called from the bench, “The small file is in the wrong place.”
 
 Jo’s voice came from the gate. “So move it.”
 
-He moved it with one hand and kept his injured foot on the blanket. The correction entered the record because the tool was in the wrong place, not because Pell had been protected from every consequence of his presence.
+Pell moved it with one hand and kept his splinted ankle on the blanket. The correction entered the record because the tool was in the wrong place, not because Pell had been protected from every consequence of his presence.
 
-By the end of the day, the residents had added a small work board beside the maintenance ledger. It listed the pump, the lantern, the kitchen pass, the clinic drain, and the shutter route. Each task had a name beside it for that day only. The maintenance participants’ names appeared in two places: Jo’s tool work and Oren’s chock-line check. Marek’s name appeared beside a load observation, but no one had given him ownership of the observation. Leena’s name appeared beside corrections. Pell’s name appeared beside level calls and tool marks. Iven’s name appeared beside a repair explanation, not a guild claim.
+By the end of the day, the residents had added a small work board beside the maintenance ledger. It listed seven things: the pump, the door lantern, the kitchen pass, the clinic drain, the shutter route, the chock line, and the water record. Each task carried a name beside it for that day only, and any name could be crossed off when the work changed. Jo’s name stood beside the shutter route and the pump check. Tams’s beside the water record and the lever. Oren’s beside the chock line and the frame. Renn’s beside the door. Mikka’s beside the kitchen pass and the clinic return. Marek’s appeared beside a load observation, but no one had given him ownership of the observation. Leena’s stood beside corrections. Pell’s stood beside level calls and tool marks. Iven’s appeared beside a repair explanation, not a guild claim.
 
 Sefu looked at the board. “This is not citizenship.”
 

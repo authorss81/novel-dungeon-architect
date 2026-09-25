@@ -42,7 +42,7 @@ Renn nodded. “And the clinic had nowhere else to send a person who could not w
 
 The statement made the stair larger than a fault in a wall. It had once been a way for children, walking patients, and stretchers to leave the same building without sharing a landing. Now its mechanism repeated the unfinished separation.
 
-Pell shifted on the bench at the side of the fixed landing. His crutch was beside him, and the splinted ankle rested on a folded strap. “The upper side would fit one person,” he said.
+Pell shifted on the bench at the side of the fixed landing. His crutch was beside him, and the splinted ankle rested on a folded blanket. “The upper side would fit one person,” he said.
 
 “It would fit a person who can cross without changing the balance,” Marek said. “That is not you today.”
 
@@ -64,9 +64,27 @@ Marek’s left hand found the fixed rail. The pressure beneath it was faint, the
 
 Sefu stepped between the group and the movable slab. “We have enough to restrict it. We do not have enough to repair it.”
 
-Marek looked at him. “The map might help someone repair it later.”
+Marek looked at him. “Then say all three, and I will choose.”
 
-“The map helps someone understand what they are dealing with. It does not give them permission to move the slab or put a person on the lower route.”
+Sefu waited. He was not a man who filled a silence on another person’s behalf.
+
+Marek raised his left hand. “I can map it for a future route. A record of the slab, the throat, the rope, the seam, and the missing receiver is worth more in a year than it is today, and it costs a day’s work and nobody else’s rooms.”
+
+He lowered the hand. “Or I can warn the Hearthholds. That is not a small thing either, because a warning with no repair attached teaches people to be frightened of a room they still have to live beside.”
+
+“And the third?” Leena asked.
+
+“Or we leave it closed, write down what we saw, and say plainly that we do not know enough to touch it.”
+
+Marek looked at the boundary stores where the black cord was kept on its hook. “All three, then, in that order. We map it, we tell the rooms, and we close it. The map belongs to whoever repairs it. The warning belongs to the people who live here. The cord is for today, and today is the only one of the three I can actually do.”
+
+“The map helps someone understand what they are dealing with,” Sefu said. “It does not give them permission to move the slab or put a person on the lower route.”
+
+“Agreed. Nobody moves it, and nobody crosses it.”
+
+Leena had been turning the problem over on the litter. “Then say the third thing in the room, Marek, not only in the record. If we open this later, it will be opened by somebody carrying somebody, because a stretcher is the only way a person like me leaves a building that wants them gone. Whoever holds that end will be standing where the receiver should be. That is the question this stair has been asking since before any of us got here.”
+
+Nobody answered her, because she had not been wrong. Marek wrote a fourth line under the three options: *the lower side must be made to take a load before it is used to take a person.*
 
 Renn pointed to the old painted arrows. “My teacher marked the upper flight for anyone who could walk. The lower mark was for a stretcher. The children were taught not to run because the landing could move.”
 
@@ -88,7 +106,7 @@ Nera watched the air cloth at the stair-side grille. The stair pressure cycle wa
 
 Sefu took a length of black cord from the boundary stores. He tied it across the fixed upper approach, low enough to catch a person but loose enough to remove for a recorded inspection. The cord did not touch the slab, rope, wheel, or counterweight. A Hearthhold mark beside it recorded the restriction in simple strokes: *walking load repeats return. No crossing. No litter.*
 
-Marek watched the cord take the place of a decision he had not yet made. He had wanted to map the stair for a future route. The map existed. The route did not.
+Marek watched the cord go up and felt the choice settle into something smaller than a plan. He had wanted the map to be the beginning of a route. It was going to be an argument, kept in writing, that other people would have to win before anything moved.
 
 Leena looked at the broken receiver. “We are closing it because the lower side cannot be certified.”
 
@@ -100,7 +118,7 @@ Iven added, “The guild may call this a faultform. The local use is evidence of
 
 Marek wrote the condition in the copied map: *visible movable slab; stone throat; pressure-fed seam; rope, wheel, counterweight; missing lower receiver; walking human load repeats return; dead pack does not; no crossing; no litter; restricted pending repair and public maintenance terms.*
 
-He added one more line: *return after a public maintenance decision, local history review, and a safe way for an injured person to leave.*
+He added one more line: *return after a public maintenance decision, a local history review, and a load test on the lower side that no room above this bend has to pay for.*
 
 The phrase was not elegant. It was necessary. Without it, the restriction would look like fear rather than a recorded condition with a future task.
 

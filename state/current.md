@@ -10,6 +10,8 @@ Last completed chapter: 20
 
 Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0002)
 
+Batch outline: `outline/batches/volume-01-batch-0002.md` (chapters 11–20, written from the delivered prose)
+
 ## Current location and situation
 
 The six-person opening party is alive in the Hearthhold air-gate anteroom and the adjacent boundary work area, above the pump gallery. The deeper Hearthhold Middle gate remains closed to new admission. The route is conditionally open for attended maintenance and limited boundary work under the interim work sheet; it is not a public route, a permanent crossing, or a charter granting ownership or residence.
@@ -36,14 +38,14 @@ No opening-party member dies in Batch 0002. The later Oren crossing death remain
 - Chapter 2 used two liters, leaving six clean liters.
 - Chapter 3 used one liter over the half-day watch, leaving five liters from the collapse.
 - Chapter 6 verified and sealed one additional liter of condensation reserve. The five collapse liters and the one-liter reserve remain the drinking supply; the sump is not drinking water.
-- Hearthhold meals and small recovery cups are counted under the resident kitchen's supply and are not silently added to the crew's drinking ledger. The pump draws only flooded sump water.
+- Hearthhold meals and small recovery cups are counted under the resident kitchen's supply and are not silently added to the crew's drinking ledger. During a named work period the kitchen's provision is the crew's drinking supply and the sealed liter is opened only if a shift overruns or a person is unwell. The pump draws only flooded sump water. That provision is an unpaid obligation, not a settled account.
 - The lower cache still contains the screw jack, pry bar, spare timber, and other recorded bulk tools; daily work above the grate uses a separate Hearthhold tool inventory. The scored delivery seat has no released spare.
 
 ## Authority and legal state
 
 Nera Oduya controls air testing and safe operation of the air gate. Sefu Aran is the elected Hearthhold boundary route keeper and independently controls civic admission. Their permissions remain separate: Nera can stop the air mechanism; Sefu can stop or refuse boundary admission; neither can create resident consent for every room.
 
-Form 7-B remains unsigned. Dael Harrow's temporary route-custody order locks the guild-controlled surface door and freezes guild-financed equipment, but cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's limited non-claim receipt remain distinct. The guild surface line is physically closed; no guild rescue or future part is being counted on.
+Form 7-B remains unsigned, and the Chapter 15 courier exchange named it as the open record of who answers for the collapse. Dael Harrow's temporary route-custody order locks the guild-controlled surface door and freezes guild-financed equipment, but cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's limited non-claim receipt remain distinct. The guild surface line is physically closed; no guild rescue or future part is being counted on.
 
 The interim maintenance work sheet is a local, conditional agreement among named maintainers. It includes consent, withdrawal, stop, air, pump, cost, and next-review terms. It is not a permanent route charter. The returning stair has a separate restriction sheet. The empty-seat plate remains unexplained evidence.
 

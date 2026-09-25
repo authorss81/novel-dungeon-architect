@@ -2,9 +2,9 @@
 
 The first named shift began before the route record was dry.
 
-Before Jo took the lever, Dalla confirmed the fresh two-hour interval beside the first review. Renn and Mikka stayed on the landing, the courier remained beyond the incline, and Sefu counted the ten occupants without adding either visitor. The pump would run only while the marked time remained on the board.
+Before Jo took the lever, Dalla confirmed the fresh two-hour interval beside the first review. Renn and Mikka stayed on the landing, the courier remained beyond the incline, and Sefu counted the ten occupants without adding the two on the landing. The pump would run only while the marked time remained on the board.
 
-Jo Verrick stood at the service grate with the pump lever in one hand and Iven’s old flat file in the other. The file had a new wooden grip bound with cord, but the teeth along its edge were worn past the certainty of casual use. She had brought it from the boundary work basket after Dalla read the open lines and told her, quite plainly, that choosing one trial shift did not turn her into the pump keeper.
+Jo Verrick stood at the service grate with the pump lever in one hand and Iven’s old flat file in the other. The file had a new wooden grip bound with cord, but the teeth along its edge were worn past the point where anyone would call them serviceable. She had brought it from the boundary work basket after Dalla read the open lines and told her, quite plainly, that choosing one trial shift did not turn her into the pump keeper.
 
 “One shift,” Jo said. “I can learn enough to clean the check. If you want me responsible for it after that, ask me again when I know what the work costs.”
 
@@ -24,21 +24,21 @@ Iven put his hand through the opening, careful not to lower his shoulder past th
 
 “And if it sprays?”
 
-“Then you were too late and Iven needs to tell you the exact angle before you put your face over it,” Oren said from beside the cover.
+“Then you were too late, and someone has to tell you the exact angle before you put your face over it,” Oren said from beside the cover.
 
-Iven gave him a grim look. “That is also correct.”
+Iven, who was the someone, gave him a grim look. “That is also correct.”
 
 Jo closed the cover until only the lever slot remained. The pump was below, but the work belonged to everyone at the grate.
 
-Tams took the first strokes while Iven talked Jo through the next stage. The pump started, the delivery check remained shut, and the delivery of water began. Only after the sound of the lever completed its repeated rhythm did he ease the check open. The housing knocked hard, then fell into its uneven double beat.
+Tams took the first strokes while Iven talked Jo through the next stage. The pump started and began to work hard against a check that was still shut. Only once the lever had settled into its repeated rhythm did Jo ease the check open and the water begin to move. The housing knocked once, then fell into its uneven double beat.
 
-Pell sat on the bench beside Dalla, his splinted left ankle propped on a folded blanket. A case-board record rested across his knees. He called the water mark at the bottom of the shaft by looking down the open shaft, not down the flooded gallery.
+Pell sat on the bench beside Dalla, his splinted left ankle propped on a folded blanket. A case-board record rested across his knees. He called the water mark on the marked stone below by reading it off the lamp’s reflection in the housing, not by guessing from the noise of the strokes.
 
 “Mark one is under the bracket,” he said. “Mark two is clear. The water is at the first notch.”
 
 “Keep calling it,” Tams said. “Do not be right once. Call it when it changes.”
 
-That was better than asking Pell to pretend his ankle allowed him to work. He was a reader at the grate, not a bearer. He looked pleased, and then embarrassed by the pleasure, as if usefulness were another test he might fail.
+That was better than asking Pell to pretend his ankle allowed him to work. He was a reader at the grate, not a bearer. He looked pleased, and then embarrassed by the pleasure, and put both away before anyone could answer him.
 
 Marek studied the pump housing. The first maintenance plan was clear in his mind: close the outer service door, cover the well, raise the frame with the screw jack, and remove the delivery plate as one unit.
 
@@ -90,7 +90,7 @@ Renn moved the enclosed lantern to a landing bracket where the light covered bot
 
 “The cloth is our warning first,” Nera said. “The enclosed lantern is our confirmation, not an open flame. Do not wait for one if the other changes.”
 
-The well was covered, the outer door stayed open, and the sediment came away. Jo cleaned the seat until the bronze showed an even dull color. Iven checked the bronze face of the gland, then the fiber lining behind it. The gland was dry. The delivery check, when reopened, gave two hard knocks before settling into a cleaner rhythm.
+The well was covered, the outer door stayed open, and the sediment came away. Jo cleaned the seat until the bronze showed an even dull color. Iven checked the bronze face of the gland, then the fiber lining behind it. The gland was dry.
 
 They ran a short draw-down without leaving the well covered. Nera watched the air cloth, Dalla watched the water mark, and Pell called the minute from the bench. The delivery check knocked twice and stopped chattering. The lower step remained clear.
 
@@ -102,7 +102,7 @@ Jo sat back on her heels. “That is all?”
 
 “No.”
 
-At the end of the first two-hour interval, the pump was stopped while Sefu counted the room. Renn and Mikka stayed on the landing, the courier remained beyond the incline, and the ten occupants were unchanged. Nera found the air cloth steady and the water below the sill. Dalla marked the interval closed, and the next cleaning would require a new time before Jo touched the housing.
+At the end of the first two-hour interval, the pump was stopped and the room came back to the count it had started with. Nera found the air cloth steady and the water below the sill. Dalla marked the interval closed, and the next cleaning would require a new time before Jo touched the housing.
 
 The first visible result was a pump that could run through one pressure change. The lower cache still held the bulk tools, but the daily work above the grate needed a different set. Tams began a small inventory board beside the lever.
 
@@ -120,7 +120,7 @@ The courier called the unmarked gallery equipment guild-frozen pending the heari
 
 Iven’s face went cold. “Then it freezes a drawer. It does not make the tools yours.”
 
-Marek looked toward the work sheet, the custody order, and the cache mark Nera had left during the pump repair. The order could make an item difficult to recover. It could not make the item stop being needed. The practical answer was not to carry every tool upstairs, where a later hearing could accuse them of removing guild material from a frozen line. It was not to pretend the equipment belonged to nobody. The cache needed an owner, a reason, and a person who could decide when a tool left.
+Marek looked toward the work sheet, the custody order, and the cache mark Nera had left during the pump repair. The order could make an item difficult to recover. It could not make the item stop being needed. The practical answer was not to carry every tool upstairs, where a later hearing could accuse them of removing guild material from a frozen line, and not to pretend the equipment belonged to nobody. The cache needed an owner, a reason, and a person who could decide when a tool left.
 
 “Nera’s inventory covers the cache,” Iven said. “Dalla records the items needed for the next shift. We leave the jack, pry bar, spare timber, and the Public Works wedges below unless a named work requires one. If the courier wants them moved, he gives us a written order that says where they go and who receives them.”
 
@@ -130,7 +130,7 @@ Dalla bent over the ledger. “The first shift has a cost.”
 
 Jo gave a tired laugh. “It has a cost.”
 
-The repair-route basket had been waiting beside the bench since before dawn. Jo’s ordinary work included carrying tools to a kitchen brace, a wash-room shutter, and two door frames whose hinges had begun to catch. By taking the pump shift, she had not completed any of those jobs. The cost was not a token in a charter; it was half a day’s work deferred and another worker likely to cover it.
+Jo’s repair-route basket had been standing beside the bench since the anteroom test, and none of the six had touched it. Her ordinary route covered a kitchen brace, a wash-room shutter, and two door frames whose hinges had begun to catch. By taking the pump shift, she had completed none of them. The cost was not a token in a charter; it was half a day’s work deferred and another worker likely to cover it.
 
 Dalla wrote it plainly: *Jo Verrick — one half-day of tool-route work for the first maintenance shift. Further cleaning repeats the cost. Payment or rotation to be decided.*
 

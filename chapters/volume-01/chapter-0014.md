@@ -2,7 +2,9 @@
 
 The first invitation beyond the gate came with a condition attached to it.
 
-Sefu said it at breakfast, while Mikka set down a shallow bowl of cooked grain and a strip of preserved salt beside Leena’s cot. The grain had come from the Hearthhold stores, not the crew’s water supply, and Mikka counted every portion on a wooden tally before she sat down herself.
+The courier had spent the night on the inspection side of the incline with his satchel under his coat and the custody order folded inside it. He was not invited to breakfast, and Sefu made no apology for that.
+
+Sefu gave the terms while Mikka set down a shallow bowl of cooked grain and a strip of preserved salt beside Leena’s cot. The grain had come from the Hearthhold stores, not the crew’s water supply, and Mikka counted every portion on a wooden tally before she sat down herself.
 
 “The service shaft is not a public corridor,” Sefu said. “The common kitchen, the clinic corner, and the boundary workbench are not a tour. If you go beyond the gate, you go because a resident has asked for a specific piece of work.”
 
@@ -26,9 +28,13 @@ Mikka pointed toward the deeper gate. “And not everyone can come. Six outsider
 
 “Sefu did. He said the gate. I am saying the rooms.”
 
+“The limit is fair,” Sefu said. “All of you may see the kitchen, the clinic corner, and the bench, on the paths I mark. Two limits. Iven, you do not sit at our table while your name is still in Marrowgate’s hearing; you cross when Jo opens the work period, and you eat after. Pell, you keep to the marked path and step over the clinic sill rather than hopping it.”
+
+Pell’s jaw set. Jo put a hand flat on his shoulder before he could answer, which stopped him more effectively than an argument would have.
+
 The correction was not hostile. It was practical, and it came with a bowl of grain.
 
-Nera secured the air valve in its attended position. Sefu opened the civic wheel by a measured turn. Renn kept the lantern on the outer landing until the last of the crew had crossed. Oren and Tams carried Leena’s litter, with Jo walking beside the front rail to show them where the stone rose. Pell came behind on his crutch, his splinted ankle held clear of the floor.
+Nera secured the air valve in its attended position. Sefu opened the civic wheel by a measured turn. Renn kept the lantern on the outer landing until the last of the crossing party had gone through. Oren and Tams folded the camp cot against the anteroom wall, settled Leena back onto her litter, and carried her over, with Jo walking beside the front rail, showing them where the stone rose and pointing out the low clinic sill to step over. Marek followed with the folded work sheet and the grease pencil. Pell came behind on his crutch, his splinted ankle kept clear of the floor.
 
 The air changed first.
 
@@ -36,7 +42,7 @@ Beyond the gate, a cool current moved across the floor from a broad vent washed 
 
 Marek stopped.
 
-The room held a low stone cooking hood, a long worktop, and three heat baffles arranged in a staggered line. No open flame burned in the kitchen, but the first baffle gave off a dry warmth that made the air above it shimmer. Shelves held bowls, stoppered jars, folded cloth, and bundles of dried stems. A second shelf was marked with short chalk strokes, each one apparently recording a household or a meal shift.
+The room held a low stone cooking hood, a long worktop, and three heat baffles arranged in a staggered line. No open flame burned in the kitchen, but the first baffle gave off a dry warmth that made the air above it shimmer. Shelves carried bowls, stoppered jars, folded cloth, and bundles of dried stems. A second shelf was marked with short chalk strokes, each one apparently recording a household or a meal shift.
 
 “This is the kitchen?” Pell asked.
 
@@ -112,7 +118,7 @@ Marek looked at the flow of baskets, the water line, the air return, and the spa
 
 He could not certify the room for an occupancy he did not know. He could record what it did.
 
-The work area lay beyond the kitchen, behind a low arch. Jo had chosen it because the retaining pin for the air-baffle shutter was stored there. The bench held a vice, a row of boring tools, a bundle of split wood, and a shallow tray of oil-darkened filings. Dalla’s repair ledger sat on a shelf with three other ledgers, each tied shut. A narrow door beside the bench led to a sleeping room. Jo closed it before the crew could see inside.
+The work area lay beyond the kitchen, behind a low arch. Jo had chosen it because the retaining pin for the air-baffle shutter was stored there. Jo opened the work period, Sefu turned the wheel for it, and Iven came through last, wiping his hands. He ate afterward, alone on a stool at the far end of the bench with his back to the room. Nobody joined him, and nobody called it a punishment; it was simply where a man sits when the name on his coat is still in somebody else’s hearing. On the bench stood a vice, a row of boring tools, a bundle of split wood, and a shallow tray of oil-darkened filings. Dalla’s repair ledger sat on a shelf with three other ledgers, each tied shut. A narrow door beside that bench gave on a sleeping room. Jo closed it before the crew could see inside.
 
 “That is not part of the work,” she said.
 

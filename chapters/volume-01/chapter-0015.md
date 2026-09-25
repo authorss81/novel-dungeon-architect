@@ -8,6 +8,12 @@ He had one key and a written count of the papers he carried. The old blue seal w
 
 Iven read the strip without touching it.
 
+“The suspension is separate from the custody order,” the courier said. “One question is whether the guild may hold the route. The other is what happens to a survey record that never got closed. Form 7-B is still sitting unsigned in a Marrowgate office, and it will be sitting there after the hearing. Whoever eventually signs it will be certifying a partial closure no one has tested.”
+
+“That is Marrowgate’s paper,” Marek said. “Not ours to settle from this room.”
+
+“It is also the paper that names who answers for the collapse,” the courier said. “You are below without a signed certificate. That is not a guild matter, but it is a record, and records travel.”
+
 “Can you still inspect guild work?” Dalla asked.
 
 “Not with the guild behind the inspection. I can look at timber, show a joint, and say what I did. The guild does not have to accept my answer.”
@@ -32,7 +38,7 @@ The courier called through the metal, “The hearing will note that the repair c
 
 The footsteps went up the incline and faded.
 
-For a while, nobody spoke. The anteroom had always seemed small because it held too many people. Now it felt small because the door beyond it had become an absolute fact. A paper could be argued with. A locked door only needed a key.
+For a while, nobody spoke. The anteroom had always seemed small because it had too many people in it. Now it felt small because the door beyond it had become an absolute fact. A paper could be argued with. A locked door only needed a key.
 
 Iven picked up the narrow receipt. His thumb rubbed across the guild seal until the edge of the paper began to bend.
 
@@ -78,7 +84,7 @@ Dalla opened the maintenance ledger. Nera listed the air cloth, baffle, valve, a
 
 “And the pressure dial in the guild case?” Marek asked.
 
-“Locked,” the courier had said. “The Hearthholds have their own air gauges. They are not better, but they are ours to read.”
+“Locked,” Nera said. “The Hearthholds have their own air gauges. They are not better, but they are ours to read.”
 
 Iven looked toward the surface door. “Then the route cannot depend on a guild part being released after the hearing.”
 
