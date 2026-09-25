@@ -1,81 +1,83 @@
-# Character State — End of Volume 01, Batch 0002
+# Character State — End of Volume 01, Batch 0003
 
 ## Marek Venn
 
-- **Position:** Hearthhold air-gate anteroom and boundary work area, with the conditional route and pump gallery below/nearby.
-- **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand is usable but strained from compensating. No new formal power stage.
-- **Mind:** More willing to state uncertainty and accept named limits, but still instinctively tries to fill every blank in a route plan. He has learned that a maintenance sheet is not ownership and that a successful room test is not a welcome. In Chapter 18 he named his own three options for the stair and chose the smallest one; in Chapter 20 he proposed deeper admission under pressure and withdrew the proposal when it was named an admission request. Chapter 20 also showed the habit being corrected by other people rather than by his own insight: Nera made him write what an empty watch costs, and Jo caught the word *route* still serving as the subject of his decision sentence after he had crossed it out of the heading.
-- **Relationships:** Trusts Leena's visible corrections; respects Iven's craft and Nera's independent air expertise; accepts Sefu's civic veto and the residents' room-specific refusals. Jo's work and the scored delivery seat have forced him to accept that a local cost may outlast his plan.
-- **Immediate choice:** Continue the conditional route only through named attended shifts and the interim maintenance work sheet. Do not force deeper admission, claim the route, or pretend the pump is permanent.
+- **Position:** Hearthhold air-gate anteroom and boundary work area, with attended work periods in the lower corridor and school corner beyond the deeper gate.
+- **Body:** Right hand has permanent fine-control loss from the Chapter 5 jack crush; left hand usable but strained. No new formal power stage. His five load impressions in this batch gave him nothing usable each time, and he said so out loud in two of them.
+- **Mind:** He proposed a bigger room and lost it in public, then proposed keeping four feet of the wreck alive and was refused, then handed the work board to Jo Verrick. The control flaw is unchanged in shape and visible in action: he reaches for the decision, other people take it, and he accepts it later than they do. What has changed is that he now states the new practice himself — any change to a room people use is written by the person who will keep it — and that his acceptance of the *schedule* answer over his own *occupancy* answer in Chapter 26 is the first time he has publicly preferred the thing he did not think of.
+- **Immediate choice:** Keep the conditional route and the conditional corridor. Do not reopen the gallery, do not propose a fund, do not write first on any room anyone lives in.
 
 ## Leena Orr
 
-- **Position:** Anteroom on a litter or the limited clinic cot, under Hearthhold care.
-- **Body:** Right shoulder dislocated in Chapter 1, reduced in Chapter 2, slinged, and protected from weight-bearing.
-- **Mind:** Continues to force Marek to state occupancy, time, exit, cost, and uncertainty. She rejects being treated only as a patient and insists that corrections remain visible.
-- **Immediate need:** Shoulder recovery, a dry place to rest, and a work process that accepts her survey judgment without asking her to violate the injury or turn care into residence.
+- **Position:** Litter in the anteroom, the lower corridor, and the stair-head landing; limited clinic care access, not residence.
+- **Body:** Right shoulder dislocated in Chapter 1, reduced in Chapter 2, slinged, no weight through the right arm. The litter can only reach the fixed stair's head landing because the turn there is a quarter-turn.
+- **Mind:** She converted two of Marek's abstractions into human facts: that a corridor which cannot hold a litter and a crowd at once makes the person on the litter wait every time, and that a four-minute litter move is a fact about people rather than about stone. Her Chapter 30 condition puts four minutes in the record as the number that matters.
+- **Immediate need:** Shoulder recovery, a dry place, and a work process that keeps her corrections visible. She is now a named condition-writer in the record, not only a patient.
 
 ## Iven Tallo
 
-- **Position:** Anteroom pump grate and maintenance record.
-- **Body:** Uninjured; physically competent and exhausted.
-- **Role:** Craft ally whose bounded maintenance signature has caused a suspended Cartwright witness bond. He has explained the work to residents who may report him and has not signed a custody transfer. In Chapter 16 he re-bound the grip on his old flat file and wrote its worn teeth on the maintenance sheet instead of keeping it as his own, and in Chapter 19 he let Dalla carry the pump sequence in her hand rather than his.
-- **Immediate tension:** He can explain the pump craft, but the local labor and replacement costs now outlast the guild’s ability to certify or pay him. He is not yet a full guild defector.
+- **Position:** Anteroom, the lower corridor, the fixed east stair, the grate.
+- **Body:** Uninjured; exhausted.
+- **Role:** Craft ally with a suspended Cartwright witness bond and **twenty-nine uncompensated hours** of instruction. He has set the authorship down: the plumb line, the wedge work, the drain lid, and the deck-nail sequence are all carried by Jo Verrick, Mikka Hale, and Ilsa Norr in their own hands. In Chapter 28 he is outvoted by Oren on leaving a shoring brace standing, and he takes it without arguing.
+- **Immediate tension:** The Hearthholds will not pay him because payment would turn local craft into guild work under a suspended bond. He says plainly that he is not a defector. His standing with the guild is unresolved and more expensive every week.
 
 ## Pell Roke
 
-- **Position:** Anteroom bench or boundary work area, using a crutch.
-- **Body:** Fourteen years old; left ankle sprained in Chapter 8, splinted, and limited to supported walking. He cannot run, take unsafe loads, or serve as a bearer.
-- **Mind:** Still refuses to be hidden or treated as useless. He calls readings, sorts tools, and records mismatches, but the work board now gives him a real role rather than token protection.
-- **Continuity note:** He is Talla Roke’s younger brother in the bible, but that relationship has not been revealed in prose. Do not force it without a planned beat.
+- **Position:** Anteroom bench, the top of the waist, and the stair-head landing, on his crutch.
+- **Body:** Fourteen; left ankle sprained in Chapter 8, splinted, supported. Cannot run, take unsafe loads, or cross the gallery deck.
+- **Mind:** He has become the person who calls things and reads things: water marks, the store tally, the hollow eleventh tread, the worn floor paths, the tool marks. He is no longer given protective tasks and no longer asks for them.
+- **Continuity note:** Talla Roke's younger brother in the bible; still not revealed in prose. Do not force it without a planned beat.
 
 ## Oren Sill
 
-- **Position:** Anteroom and pump service area.
-- **Body:** Uninjured; dependable bearing, shoring, and stretcher hand.
-- **Role:** Visible in frame lifting, relief work, litter movement, and maintenance labor. He remains alive through this batch; his eventual later Hearthhold-crossing death must arise from insufficient route capacity, not an unexplained disappearance. He and Tams appear by name on the Chapter 16 work board and both carry the frame again in the Chapter 20 review.
+- **Position:** Anteroom, corridor, stair head, and the school door.
+- **Body:** Uninjured. A sore wrist after the Chapter 25 shoring.
+- **Role:** Visible in every frame — carrying the litter, holding the frame, standing as the wall at the stair head, holding a school-door head with his shoulder, and in Chapter 26 finding that the cracked lintel dropped and turned so the jamb now carries a load it was never built for. He is the batch's practical authority on what can and cannot be propped with one pair of hands.
+- **Survival:** Alive at the end of Batch 0003. The later Hearthhold-crossing death remains reserved and must still arise from insufficient route capacity.
 
 ## Tams Quill
 
-- **Position:** Anteroom pump lever and water-record area.
-- **Body:** Uninjured; tired but functional.
-- **Role:** Handles the second chock line, test loads, water records, rest rotations, and pump labor. He makes the temporary route’s ordinary maintenance costs visible.
+- **Position:** The lever, the case board, the hand line, the test loads, the store tally.
+- **Body:** Uninjured; tired.
+- **Role:** He does the arithmetic nobody wants to hear. In Chapter 24 his calculation cuts a declared forty-minute test to about thirty-four minutes of pump, and in Chapter 28 his stock count ends the batch's hope: no sound timber over six feet, no bronze seat, nine wedges, no lath. He carries the water record unchanged: five liters and one sealed liter, with the kitchen provision rule under it.
+- **Visibility:** Named in every chapter of the batch.
 
 ## Nera Oduya
 
-- **Position:** Hearthhold boundary air works, controlling the air valve, air cloth, baffle, clinic-return watch, and safe air-gate operation.
-- **Authority:** Technical authority over airflow, air testing, and safe mechanism operation. She does not speak for all residents and cannot create civic admission.
-- **Relationship:** Professional respect with Marek is growing through correction and complementary work. She has not become his support character, and no instant romantic or magical bond has been introduced.
-- **Immediate choice:** Keep the outer door open, the bypass latched, the clinic return watched, and the anteroom cleared during pressure turns. Stop the air route if the cloth reverses or the wet seam reaches the sill. She also holds the line that an unfilled watch is a stopped shift rather than a shortened one, and that nobody should have to prove they were right before they move.
+- **Position:** The air valve, the clinic return channel, the lower corridor's low end, and the gallery's high grille.
+- **Authority:** Technical authority over airflow, air testing, and safe operation of the air gate. Unchanged and independent. In Chapter 30 she refuses to be paid by a fund and refuses to have the corridor described as a room.
+- **Relationship:** Professional complementarity with Marek, and now a second public disagreement (Chapter 26) that produced a better plan. Chapter 29's marked viewpoint shift gives her distinct interior knowledge — the corridor's air is the pump's air while the pump runs and the stair's air the moment it stops — which is written on the valve board and changes the Chapter 30 decision. No romantic or magical turn has occurred and none is scheduled.
+- **Immediate choice:** Keep the pump chamber isolated during housing work, keep the bypass latched during stair turns, keep the cloth watched, and do not certify the shaft under the corridor. She has stated that there is nobody in this building who can fix it.
 
 ## Sefu Aran
 
-- **Position:** Hearthhold air-gate anteroom, hand on the civic wheel.
-- **Role:** Elected boundary route keeper. He controls admission at this boundary and can veto passage independently of Nera. He cannot compel every resident to work or consent, and he cannot make an air approval civic.
-- **Decision:** Allows attended maintenance and limited boundary work under the interim sheet; keeps the deeper gate closed to new admission. He accepts that the route can stop, be withdrawn, or be closed without the crew claiming ownership.
-- **Relationship to Nera:** Deliberately distinct authority; cooperation is narrower and more important because each can stop a different part of the system.
+- **Position:** The civic wheel, the deeper gate, the threshold.
+- **Role:** Elected boundary route keeper. In Chapter 30 he requires his boundary paragraph to be read and marked separately from the rest, because everything else on the page can be argued and only his part is simply his. He closed the guild line's argument by stating that no resident here has the standing to bind a stranger to a maintenance obligation, and that the deeper gate stays shut to new admission.
+- **Relationship to Nera:** Deliberately separate authority, still the reason the boundary is defensible.
 
 ## Hearthhold boundary maintainers
 
-- **Renn Vale:** boundary lantern and landing/door watch; volunteers for specific work and air observation. Her family history of the returning stair is the local record that conflicts with the guild survey.
-- **Dalla Sen:** repair-ledger keeper, route recorder, work-bell relay, and consent/cost witness. She is the person who decides when the water and labor figures are recorded, and in Chapter 19 she becomes the recorder of results.
-- **Jo Verrick:** tool-basket carrier and trial pump maintainer; cleans the delivery seat under Iven's instruction and records the half-day deferred tool-route cost. Her practical craft judgment has already corrected Marek twice in public, and in Chapter 20 she is the one who notices the word *route* still sitting in a sentence the crew had already agreed to remove. In Chapter 19 she refuses to sign anything until the delivery seat has been opened, which is what makes Chapter 20 the batch's one signature event.
-- **Mikka Hale:** canvas/kitchen and clinic-return support; provides named recovery water and meals, not permanent residence or blanket consent. She named the six outsiders as outsiders and made the limit stick.
-- **Isel Ferrow:** a Hearthhold resident named in Chapter 17 while fevered and unable to stand; her cot movement is the reason the clinic cannot be evacuated during an air reversal. Her fever broke by the night of Chapter 19, reported by Mikka. She exists to make a neighbor room unignorable, not as a plot device.
+- **Renn Vale:** door and landing watch; refuses the sixth wet-seam watch on three days of seven, which means the corridor does not open on those days. Refuses in advance to be told the gallery is safe. Carries the register boxes to the school store herself and will not let anyone else touch them. Her refusal is cost-bearing and is not a negotiation.
+- **Dalla Sen:** repair ledger, route record, work-bell relay, cost witness, and now the person who asks who checks the tally on a day when nobody is bored enough to look. She records *nobody, yet* and treats that as the most honest line on the page. She insists the gallery removal be recorded as removed for safety rather than recovered, so the guild's salvage lien cannot later call it stock.
+- **Jo Verrick:** trial pump maintainer with four paid cleanings, corridor watch, holder of the tool basket and the small file, and — from Chapter 30 — **holder of the work board**. She refuses to let a maintenance obligation be softened, refuses a fund, refuses a fund-shaped meal, and refuses Marek's four-foot remnant in the plainest terms in the batch: a maintained four feet becomes a watch becomes a shift becomes a room.
+- **Mikka Hale:** kitchen, clinic return watch, and meals. She moves the hearth corner rather than give up the brace, she teaches that an interruption is a Tuesday rather than an exception, and she settles the meals as *given at the kitchen's cost and not waived* because a person who is owed cannot also be fed as a favor. She is the one who says an occupied room is not a number.
+- **Ilsa Norr (new):** school corner teacher; nine children, ten on market days. She refuses the register boxes, the gallery as a night room, the deck, and the four-foot remnant, in the same week, and asks for each refusal to be recorded. She moves her class into the kitchen corner on the days the corridor cannot open and records that as a cost to the school. She is the one who called the class movement pattern that broke the gallery floor, and she got thirty people off it in eleven minutes without anyone hurrying.
+- **Ruk Sella (new):** a parent who brings a boy of about six and a second child. She accepts daytime family use of a shared space and refuses nights, on the grounds that the small one wakes when the stone is cold. Her child counts himself into the Chapter 29 test unprompted.
+- **Isel Ferrow:** the fevered clinic resident from Chapter 17 whose fever broke in Chapter 19. He exists to make a neighbor room unignorable, not as a plot device, and does not appear in this batch.
 
-Their cooperation remains room-specific and revocable. None speaks for every Hearthhold resident or can replace Sefu's civic authority. Their work changes the route's legitimacy but does not make the six outsiders citizens.
+Their cooperation remains room-specific and revocable. None speaks for every Hearthhold resident or can replace Sefu's civic authority, and Ilsa's refusals are the clearest statement in the batch that a useful room is still not the crew's to allocate.
 
 ## Dael Harrow and the Cartwright pressure
 
-Dael is not physically present. His temporary route-custody order has locked the guild-controlled surface door and frozen guild-financed equipment. It cannot order air, open the Hearthhold gate, create consent, or establish ownership. Iven’s witness bond is suspended, and the crew has decided not to depend on guild parts, records, or rescue. The old clearance seal, route charter, salvage lien, insurance notice, physical ownership, suspended-bond receipt, and non-claim receipt remain separate.
+Not physically present. His order still locks the guild-controlled surface door and freezes guild-financed equipment, and it still cannot open the Hearthhold gate, order air, create consent, or establish ownership. The guild can still refuse parts, records, and rescue, and now refuses something the crew has learned to want: timber long enough to reset a lintel, and a bronze delivery seat. The salvage lien's reach into identified material is the reason Chapter 28's removal is recorded the way it is. Iven's suspended-bond receipt is a consequence of his bounded maintenance signature, not a custody transfer. Form 7-B is unsigned and now also the record that a crew caused a structural failure.
 
 ## Returning stair and evidence
 
-The returning stair is physically restricted by a black cord and a separate record. Its visible slab, throat, rope, wheel, counterweight, pressure-fed seam, and missing lower receiver remain unresolved. The wrapped empty-seat plate rests on a spread of work cloth on the anteroom bench. It is unexplained evidence, not a named power or active One-Seat.
+The returning stair is restricted, corded, and recorded. Its visible slab, throat, rope, wheel, counterweight, pressure-fed seam, and missing lower receiver are unresolved, and Batch 0003 makes the stair load-bearing for the next volume from three directions: it is the only physically continuous way out, its pressure reaches the corridor the crew has just certified, and its shaft is what the corridor is standing on. The wrapped empty-seat plate rests on a spread of work cloth on the anteroom bench. It is unexplained evidence, and Marek twice declines to read meaning into it.
 
 ## Relationship and power guardrails
 
-- No harem structure or instant romance.
+- No harem structure and no instant romance.
 - No formal loadcraft stage, bearing mark, repeatable reading, route change, binding, relay, or automatic repair has been granted.
-- The five Room Checks and the conditional occupancy limits are the growth framework.
-- The route’s public legitimacy comes from consent, maintenance labor, stop conditions, and review—not from Marek’s ownership or the first builder’s competence.
+- The five Room Checks and the declared-occupancy discipline remain the growth framework, and Chapter 25 is the volume's demonstration that a room can pass an empty inspection and fail under ordinary movement.
+- The new working practice — the person who will keep a room writes the change to it — is a practice, not a title, and it is revocable.

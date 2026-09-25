@@ -63,13 +63,15 @@ The reversal establishes the volume's rule at civic scale: a safe-looking room i
 
 ## Volume climax
 
-Chapters 46–49 bring the group to the same returning-stair system after its first sighting has revealed only a local rule. It has now fully manifested as the only apparent route to the Hearthholds: the stair repeats its first landing and pulls the evacuation line back into a collapsing pressure pocket. Marek coordinates an ordinary timber brace, rope anchors, Nera's air guidance, Iven's craft knowledge, and Leena's survey marks to create a two-way route. He does not defeat the faultform by hitting it; he changes the load and gives the stair a different function to repeat.
+> **Planning note (Batch 0003, OT-30).** This section and "Concrete resolution" below were reconciled before the Batch 0004 prompt was written, because Chapters 9–10 already delivered the group's arrival at the Hearthhold boundary. Chapters 46–50 therefore deliver a *second and deeper* Hearthhold threshold — a route the crew can keep, maintain, and hand over rather than merely reach. No committed escalation, cost, or image below has been changed.
+
+Chapters 46–49 bring the group back to the same returning-stair system after two sightings that have revealed only a local rule, and after the lower corridor has been certified as a place whose air belongs to that stair whenever the pump is not running. The stair has now fully manifested as the only apparent way out of the boundary the crew is maintaining: the slab repeats its first landing and pulls the evacuation line back into a collapsing pressure pocket. Marek coordinates an ordinary timber brace, rope anchors, Nera's air guidance, Iven's craft knowledge, and Leena's survey marks to create a two-way route. He does not defeat the faultform by hitting it; he changes the load and gives the stair a different function to repeat.
 
 The climax costs a crew member and forces the group to abandon salvage and equipment. The route is open for people and air, not for a cart or a private guild claim. Marek's hand has already lost fine control from the failed refuge, and the final crossing makes him depend on another person's readings.
 
 ## Concrete resolution
 
-By Chapter 50, the survivors reach the Hearthhold boundary with a usable route, a partial map, and a damaged Cairn plate bearing an empty single-seat symbol. Nera and the Hearthhold residents insist on an air and occupancy check before admitting the group. The route is not a permanent escape and the guild begins a claim on it.
+By Chapter 50, the survivors have opened a second and deeper Hearthhold threshold: a maintained, handed-over route that the Hearthholds can keep without the crew, carrying a partial map and a damaged Cairn plate bearing an empty single-seat symbol. Nera and the Hearthhold residents insist on an air and occupancy check before anyone crosses, and the check is passed by the people who will live with it rather than by the crew that built it. The route is not a permanent escape, it does not resolve the stair, and the guild begins a claim on it. The crew ends the volume as bounded maintainers on a maintenance obligation, not as the owners of a way home.
 
 Volume 1 resolves the immediate survival promise: the group gets out of the Cinder Steps. It does not resolve whether the Lattice is a refuge, a prison, or a failed civic system. It opens the larger question of who can own a route through other people's homes.
 

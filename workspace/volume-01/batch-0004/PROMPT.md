@@ -1,0 +1,85 @@
+Read AGENTS.md, NOVEL_SPEC.md, outline/ending.md, outline/series.md, outline/volume-01.md (now reconciled per OT-30 — Chapters 46–50 deliver a *second and deeper* Hearthhold threshold, not a first arrival), the finished Chapters 1–30, the Batch 0001, 0002, and 0003 outlines (Batch 0002's and 0003's are post-delivery records, not forward plans), `reviews/volume-01/batch-0001.md` and `reviews/volume-01/batch-0002.md`, the available review logs, state/current.md, state/continuity.md, state/open-threads.md, state/chapter-summaries.md, state/batch-summary.md, state/character-state.md, and the relevant bible entries before drafting. This is Volume 01 Batch 0004, Chapters 31–40. The previous batches are complete; do not restart or rewrite Chapters 1–30.
+
+Write Chapters 31–40 as complete finished prose scenes in order, in close third person on Marek Venn. A Nera viewpoint shift requires distinct interior knowledge that changes a decision; do not repeat the Chapter 9 or Chapter 29 recognition mechanically, and do not add one by default. Do not write an outline, synopsis, checklist, chapter log, or meta commentary in the chapter files. Each chapter must contain physical movement, sensory detail, dialogue, character thought, a changed situation, and a complete emotional or practical beat. Do not pad to reach the count.
+
+## Batch goal
+
+The second half of Volume 01 turns a maintained but limited local room into the problem the volume has been building toward: **the way out**. The crew now maintains a corridor whose air belongs to the returning stair whenever the pump is not running, holds a pump with a scored bronze seat and no spare, has nine hardwood wedges and no sound timber over six feet, and cannot leave cleanly at all, because the service bypass ends at a flooding gallery and the returning stair is the only other way down. Every open thread now points the same direction: a limited way of living has become a limited way of staying.
+
+This batch should move through a review that tests the interim decision, an escalating materials and labor crisis, ordinary labor and craft, the approach to the stair's lower side and its missing receiver, a mid-batch pressure that forces a real civic or structural reversal, the beginning of a worked plan for the stair, and a batch-level climax that does **not** resolve the stair. Chapter 40 should leave the crew at the threshold of the Volume 01 climax, with a plan in hand, a cost already paid, and the returning stair still corded.
+
+The batch must be careful about scale. It is the volume's second half, but the resolution belongs to Chapters 46–50. Batch 0004 ends with the crew armed with a plan and unable to complete it yet.
+
+## Locked continuity to preserve
+
+- The opening party remains exactly six: Marek Venn, Leena Orr, Iven Tallo, Pell Roke, Oren Sill, and Tams Quill. Do not add an unnamed seventh opening-party member or silently lose one. Renn Vale, Dalla Sen, Jo Verrick, Mikka Hale, Ilsa Norr, Ruk Sella, Isel Ferrow, or the Cartwright courier may appear as separate people. Talla Roke may now be introduced if a planned beat requires it, but not as a coincidence.
+- Leena's right shoulder was dislocated in Chapter 1 and reduced in Chapter 2. It remains slinged and cannot bear weight. Do not call it currently dislocated. Her litter reaches only the head landing of the fixed east stair because that head is a quarter-turn, and moving her through a two-and-a-half-foot gap on a wet floor takes four minutes.
+- Marek's right hand has permanent fine-control loss. He uses his left hand, braces work, and accepts help. As of Chapter 30 he has handed the work board to Jo Verrick: **any change to a room people use is written by the person who will keep it**, and he does not write first. Do not grant a formal loadcraft stage, bearing mark, repeatable reading, route change, binding, relay, or automatic repair.
+- Pell's left ankle was sprained in Chapter 8 and is splinted. He uses a crutch, cannot run or take unsafe loads, and cannot cross the gallery deck. He is a working reader — water marks, the store tally, the hollow eleventh tread, floor paths, tool marks.
+- Oren Sill and Tams Quill remain alive. Keep Oren visible as a trained bearing, propping, and stretcher hand, with a sore wrist after the Chapter 25 shoring, and Tams visible as lever, test-load, water-record, and stock-count labor. **No batch death.** Oren's later death remains reserved for the planned Hearthhold route-capacity event in Chapters 46–50.
+- The water ledger remains five liters from the collapse plus one separately sealed liter of verified condensation. Hearthhold kitchen water and meals are recorded separately. The sump pump draws flooded sump water only. Any new drinking water must be found, tested, and recorded before use.
+- The pump has the split bronze-and-fiber gland seal, the restored drive-dog key, a chattering delivery check, and a **scored bronze delivery seat with no released spare and no bronze in the building**. Its rhythm is twenty-six strokes, six minutes off the lever, nineteen strokes. Four cleanings are paid for out of Jo's tool-route work and Jo estimates about four remain. Short attended intervals only, no overnight, no unattended running.
+- The wet mineral seam beside the pump housing couples the pump, the air baffle, the service bypass, and the returning-stair pressure. The service bypass hatch stays latched during stair-pressure turns. The corridor's low end sits directly over the stair-pressure shaft: the corridor's air is the pump's air while the pump runs and the stair's air when it stops.
+- Six watches govern corridor use: air valve (Nera), civic wheel (Sefu), upper landing (Renn), clinic return (Mikka), work-bell relay at the threshold (Dalla), and a **sixth wet-seam watch at the waist** that Renn refuses on three days of seven. An empty watch stops the work; it does not shorten it.
+- **Hearthhold stores: no sound timber over six feet, nine hardwood wedges, no lath, no bronze.** The school-door lintel is a cracked head over a clear width of two feet eight inches, held by two shoring lengths and a hand line, and cannot be rebuilt locally. Any Batch 0004 project that needs material must confront this. Do not quietly resupply the stores.
+- The returning stair is a physical mechanism: visible movable slab, stone throat, pressure-fed seam, rope, wheel, counterweight, and missing lower receiver. A dead pack does not repeat the return; a walking human load does. It was black-cord restricted in Chapter 18 and remains unresolved. Do not cross it with a person, do not repeat the Chapter 18 mapping as new information, and do not resolve it in this batch.
+- The **old school gallery is closed and barricaded at the ninth tread** of the fixed east stair, with a slate carrying four dates and the word *no*. Do not reopen it for a class, a survey, a look, or a night room. Ilsa Norr's refusals (register boxes, night room, deck, four-foot remnant) all stand, and a reopening proposal is a legitimate dramatic beat only if it is refused again.
+- Nera Oduya has technical authority over airflow, air testing, and safe operation of the air gate. Sefu Aran is the elected boundary route keeper and independently controls civic admission. Never let Nera's air approval become resident consent or Sefu's veto become an air-engineering decision. In Chapter 30 Sefu required his boundary paragraph to be read and marked separately; that practice holds.
+- Renn Vale, Dalla Sen, Jo Verrick, Mikka Hale, Ilsa Norr, and Ruk Sella have consented only to specific work, watches, and refusals. Jo now holds the work board. Renn takes the sixth watch four days of seven. Ilsa's school corner becomes a waiting room on the other three days, at the school's cost, by her own decision.
+- Form 7-B remains unsigned. Dael Harrow's route-custody order locks the guild-controlled surface door and freezes guild-financed equipment; it cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's limited non-claim receipt remain distinct. The salvage lien's claim to identified material is why the gallery removal is recorded as removed for safety, not recovered.
+- The wrapped empty-seat plate remains unexplained evidence on its spread of work cloth on the anteroom bench. Do not identify it as the One-Seat, activate it, resurrect Alden, or introduce a new final enemy.
+- The crew is in the Hearthhold air-gate anteroom and boundary work area, with attended work periods in the lower corridor and school corner. The deeper gate remains closed to new admission unless an explicit resident decision changes it.
+
+## Required movement and chapter cards
+
+The engines must be distinct and must alternate pressure types. Suggested shape: civic review; labor; structural problem; a political or economic reversal around Chapter 35; craft; a pressure event; a second reversal or a deepening cost; a worked plan; a batch-climax approach. Adjust the order if the chapters earn a better one, but keep every listed element present and keep Chapter 40 a genuine stop rather than a soft landing.
+
+### Chapter 31 — The Third Work-Bell
+
+Open at the Chapter 30 review, called on its own terms. The interim decision is corrected, shortened, or refused rather than renewed, and the correction should come from a resident who is not used to having their refusal recorded. Show the pump, the wedge count, the corridor's conditions, and the wet seam through an ordinary interval. Establish the real squeeze: nine wedges, no timber, a seat that will not last, and a corridor that cannot be used at all on three days of seven. End with someone asking the question the whole batch depends on — what happens when the pump stops for good — and with the crew admitting they do not have an answer that does not involve the stair.
+
+### Chapter 32 — What the Route Costs Without One
+
+Make the absence of a way out ordinary rather than dramatic. The crew's labor, meals, and watch time are still unpaid in the recorded sense; the kitchen's nineteen days are still unreturned; Iven's hours are still unpayable. Show a day in which a missing part, a missing timber length, or a missing hand is the whole plot, and let the residents' own priorities reorder the crew's. A resident should use the crew's hands for something the crew did not propose. End with a piece of hard information about the route out that costs something to obtain.
+
+### Chapter 33 — The Lower Side of the Stair
+
+An attended, named work period toward the stair's fixed first landing, on the corded near side only, to look at the **lower receiving side** and the missing receiver without crossing the slab. Renn's local history and the guild record must both be load-bearing and must still conflict. Nera's air position, Leena's litter constraint, and Pell's inability to go must shape the plan, not decorate it. A pressure turn must be survived correctly rather than survived heroically. End with something about the receiver that changes the shape of the problem and does not explain it.
+
+### Chapter 34 — Work That Outlives the Batch
+
+Craft and teaching. Iven, Jo, Mikka, and Ilsa build or repair something small that the crew will not be present to maintain: a replacement part, a drain cover, a shutter, a taught sequence, a written routine. It should be a real repair with a real material cost, and someone should refuse to let the crew claim it. End with the crew owning no more than they did before and a working practice that has become ordinary.
+
+### Chapter 35 — When the Wedges Run Out (mid-batch reversal)
+
+The stores hit a real limit. Fewer than nine wedges, or no timber at all for a named repair, or a pump interval that cannot be met because the sixth watch is unfilled. The Hearthholds must choose which ordinary work stops: the kitchen brace, the clinic sill, a shutter, a school repair, the corridor itself. This is a civic and material reversal, not a new emergency. Include at least one resident choosing their own building's repair to stop, and one resident refusing to stop theirs. Marek's funding instinct should fail again in a new way. End with a real sacrifice made by a named person.
+
+### Chapter 36 — A Counter-Support for the Receiver
+
+Marek begins a real plan for the stair's lower receiver, with Iven's craft, Nera's air, Leena's survey, and Oren's bearing work, and with the residents' explicit terms for working near their homes. The plan must be incomplete and must state what it will cost in labor, material, air, and time. Do not let it work. End with the plan's first real obstacle, which is not a monster.
+
+### Chapter 37 — The Turn in the Middle of the Work
+
+A stair-pressure turn during attended work, correctly handled by the watches, that nonetheless costs something real — a person hurt but not killed, a tool lost, a watched condition revealed, or a room damaged. The reversal must come from the ordinary, not from a new faultform or magical attack. Nera and Marek must again contribute different expertise, and Jo's work-board practice must be shown under stress. End with a condition change that alters the plan.
+
+### Chapter 38 — What the Hearthholds Will Not Carry
+
+A hard civic chapter. The residents make explicit what they will and will not carry about a stair project, and at least one refuses outright, including a person the crew has come to rely on. Sefu restates his boundary limits. Nera restates that the shaft under the corridor is not hers to fix and not the crew's to promise. End with a terms list that the crew must accept or walk away from.
+
+### Chapter 39 — The Plan, Named and Undone
+
+Marek writes the plan out in the open, in front of the people who will live with it, and it is corrected line by line by Jo, Leena, Iven, Nera, Sefu, and the residents. A clause should be struck that Marek is attached to. The plan must be complete enough to attempt and incomplete enough to be dangerous. End with the material and labor tally for the attempt, which is worse than the crew can carry alone.
+
+### Chapter 40 — The Corded Door
+
+The batch closes at the stair's fixed first landing, at the cord, with the plan in hand, the cost partly paid, and the stair still restricted. Do not cross it, open it, or repair it. Show the crew and the relevant maintainers standing at the threshold of the Volume 01 climax with a named next step, a named review, and a visible loss. The final image should show the boundary they have maintained continuing to be lived in, with the stair behind them still making its sound.
+
+## Ending guardrails
+
+- Do not grant Marek a formal power stage, bearing mark, repeatable reading, route change, binding, relay, or automatic solution.
+- Do not resolve the returning stair, identify the empty-seat plate, resurrect Alden, introduce a new final enemy, or turn the local room into a permanent public charter.
+- Preserve the slow-burn relationship policy. Nera remains an independent air engineer and civic adult. Any Nera viewpoint shift must be clearly marked and carry distinct knowledge.
+- Keep Leena's shoulder, Marek's hands, Pell's ankle, Oren's support role, and Tams's labor visible. No batch death, and do not spend Oren's later death early.
+- Keep the water ledger, guild instruments, pump limits, air authority, civic veto, stair restriction, material scarcity, and plate evidence distinct.
+- Do not quietly resupply the timber, the wedges, the bronze, or the guild door. Scarcity is the batch's engine.
+- After writing, update the rolling manuscript state files and create exactly one subsequent phase prompt for the next batch (Batch 0005, Chapters 41–50), which carries the stair climax and the second deeper Hearthhold threshold. Do not create more than the next phase.
