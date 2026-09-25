@@ -13,6 +13,6 @@ A civil engineer trapped in a dungeon discovers that every room is a structural 
 
 ## Ending
 The dungeon becomes a self-governing city rather than a new empire owned by its builder.
-
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+
+Bootstrap complete. The bible, series outline, ending outline, Volume 01 outline, and repaired first ten-chapter card set are present. No novel prose has been generated yet; the active phase is Batch 0001, the Chapter 1–10 prose batch.

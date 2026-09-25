@@ -1,13 +1,44 @@
 {
-  "currentPhase": "phase-000-bootstrap",
+  "currentPhase": "volume-01/batch-0001",
   "novel": "novel-dungeon-architect",
   "version": 1,
   "phases": [
     {
       "id": "phase-000-bootstrap",
-      "status": "planned",
+      "status": "done",
       "fallbackUsed": false,
       "range": null,
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free"
+    },
+    {
+      "id": "phase-001-outline",
+      "status": "done",
+      "fallbackUsed": false,
+      "range": null,
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free"
+    },
+    {
+      "id": "phase-002-batch-plan",
+      "status": "done",
+      "fallbackUsed": false,
+      "range": {
+        "start": 1,
+        "end": 10
+      },
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free",
+      "note": "Planning output is complete; the authoritative prose phase is volume-01/batch-0001."
+    },
+    {
+      "id": "volume-01/batch-0001",
+      "status": "planned",
+      "fallbackUsed": false,
+      "range": {
+        "start": 1,
+        "end": 10
+      },
       "attempts": 0,
       "actualModel": null
     }
