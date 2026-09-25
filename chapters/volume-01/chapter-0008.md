@@ -20,7 +20,7 @@ Iven crouched beside the guide rail. “The lower receiver collapsed. Look.”
 
 A broken stone socket lay below the lower flight. The stretcher side had once ended on a support that carried its weight back across the landing. The socket was empty. The upper walking side still ended at the landing, but the lower side had no equal return.
 
-Marek looked at the old marks. “The landing was a balance.”
+The old marks answered him. “The landing was a balance.”
 
 “It was meant to be,” Iven said. “Walking weight above, stretcher weight below. The two routes were supposed to keep the slab level. When the receiver went, the lower load never finished its return. Now the slab repeats the unfinished part.”
 
@@ -42,7 +42,7 @@ Iven frowned. “A person is not a test weight.”
 
 “A person is the condition we need to understand.”
 
-Marek looked at Leena. “You cannot cross the lower flight. Your shoulder cannot take the litter.”
+Marek turned to Leena. “You cannot cross the lower flight. Your shoulder cannot take the litter.”
 
 “I can call the marks.”
 
@@ -100,7 +100,7 @@ The slab returned to its first position. The rope remained attached. The broken 
 
 “For one crossing,” Iven said. “Not for a route. The landing is already taking the difference into the surrounding stone.”
 
-Marek looked at the map. “Then we do not cross.”
+The map gave him no usable crossing. “Then we do not cross.”
 
 Pell stared at him. “You said it was the route.”
 

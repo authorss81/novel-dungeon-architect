@@ -10,7 +10,7 @@ Pell saw the marks before he saw the sleeping platform.
 
 “Measuring who could use it,” Iven said. “A child’s reach. A shelf’s height. The number of people the kitchen expected to feed.”
 
-Marek looked at the route card in his hands. The card’s copy was smudged, the lines uneven but readable. He had been thinking of the old place as a shelter because it had survived. The room told a different story. It had been maintained by people who needed somewhere to wash, cook, sleep, and leave again.
+The old route card remained uncopied in Marek’s hands. His injured hand had made that delay plain before they crossed the breach. He had been thinking of the old place as a shelter because it had survived. The room told a different story. It had been maintained by people who needed somewhere to wash, cook, sleep, and leave again.
 
 Under the worktop, a round cistern cover had been fitted with a hand-sized notch. Tams pried it up. A thin film of condensation shone inside, gathered from the stone above. The water was not connected to the flooded sump.
 
@@ -86,7 +86,7 @@ Leena watched from the litter. “You used to make the lines in one pass.”
 
 Iven turned the sheet. “The map has a Hearthhold maintenance mark. If we take the case, the guild can call it salvage. If we leave it, we lose the panels.”
 
-Marek looked at the case. The two broad side panels could make a shore and a backing board. The old room had given them a place to rest, a verified reserve of water, and a map. Taking the whole case would turn a borrowed record into a claim. Leaving all of it would turn caution into waste.
+The case offered two broad side panels that could make a shore and a backing board. The old room had given them a place to rest, a verified reserve of water, and a map. Taking the whole case would turn a borrowed record into a claim. Leaving all of it would turn caution into waste.
 
 “Take two panels,” he said. “Leave the rest. Write down what we borrowed.”
 
@@ -128,7 +128,7 @@ Pell slid off the bed. “I can walk.”
 
 “You were preparing to.”
 
-Marek looked at the copy of the map. The service shaft lay beyond the wall. A small dark plate was marked behind it, half hidden by a later course of stone. When he spoke the location aloud, dust slid from the seam in a thin vertical line.
+On the copied map, the service shaft lay beyond the wall. A small dark plate was marked behind it, half hidden by a later course of stone. When Marek spoke the location aloud, dust slid from the seam in a thin vertical line.
 
 The room seemed to lean toward the hidden mark.
 

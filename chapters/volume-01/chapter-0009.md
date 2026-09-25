@@ -66,7 +66,7 @@ Iven stepped forward. “I can fit it.”
 
 “Then you can explain each step to the person who has to live with the next one.”
 
-Iven’s mouth tightened, but he nodded.
+Iven’s shoulders drew back, but he nodded.
 
 Nera unlocked a narrow side hatch rather than the main gate. The group could see the pump through it. The pump gallery opened beneath the anteroom through a grated service well, and a long timber lever reached up through the bars so a person in the anteroom could work the pump without entering the flooded bay. The old reciprocating frame stood on its plinth exactly as they had left it, its broken gland shining with damp. The flood gate held behind it. Water moved below the threshold.
 
@@ -80,7 +80,7 @@ Iven and Oren worked at the gland. Marek directed from the left, using the brass
 
 “State each step as you do it,” Nera told Iven. “The next person may not have your hands.”
 
-Iven cleaned the seat, showed Oren how the fiber lining should fold, and named the retaining plate before he tightened it. “The person after me will know what was done and why,” he said. It was not agreement with Nera’s distrust. It was an answer to it.
+Iven cleaned the seat, showed Oren how the fiber lining should fold, and named the retaining plate before he tightened it. “The person after me will know what was done and why,” he said. His answer to Nera’s distrust came through the work.
 
 “Twenty no-load strokes,” she said. “Count them where everyone can hear.”
 
@@ -102,7 +102,7 @@ Marek shook his head. “I don’t know that. I know the frame moved toward the 
 
 Oren checked with the pry bar. The rear foot had lifted a fraction from its bed. They packed it with a wedge from the same case-panel offcut. The pump frame stopped moving.
 
-Marek looked at Nera. “You could have seen that.”
+Marek turned to Nera. “You could have seen that.”
 
 “I saw the air side. You saw the load side.”
 
@@ -146,7 +146,7 @@ The crew eased the lever back. The pump’s temporary success was visible in the
 
 “Sediment is lifting against the seat,” she said. “It will not hold unattended. It may fail again before the next shift.”
 
-Marek looked at the dark pump, the dry gland, and the lowered sump. “Then it is a temporary attended tool.”
+The lowered water and dry gland made the pump look more complete than it was. “Then it is a temporary attended tool.”
 
 “Exactly,” Nera said. “Not a permanent route and not a promise that the lower chamber will stay dry.”
 
@@ -170,28 +170,38 @@ Nera looked toward the hidden rooms beyond the gate. “The air works are mainta
 
 Marek accepted the distinction. “Then tell us what test would make the anteroom usable.”
 
-Nera glanced at Sefu. Sefu looked toward the four workers assembling beyond the gate. “A room test,” he said. “Not an empty inspection. We will count everyone who enters. Nera will watch the air. I will watch the door.”
+Nera glanced at Sefu. Beyond the gate, four workers were gathering the tools and records of an occupied room.
+
+“A room test,” Sefu said. “Not an empty inspection. We count everyone who enters. Nera watches the air. I watch the door.”
 
 “And if it passes?” Iven asked.
 
 “It passes only for the conditions we write,” Sefu said.
 
-Marek looked through the bars at the service shaft, the pump, and the water they had drawn down. The short route was real. The pump was installed, witnessed, and tested. Neither fact was permission.
+His hand tightened on the wheel. “The outer service door remains open.”
 
-Nera turned back to the gate. “Bring the anteroom’s residents in,” she said. “Twelve occupants—eleven adults and Pell—one stretcher, and one hundred and twenty kilograms of gear. We test for thirty minutes with the pump running. If anything reverses, the upper service landing receives everyone.”
-
-Sefu’s hand tightened on the wheel. “And the outer door remains open.”
-
-“For the escape route,” Marek said.
+“For escape,” Marek said.
 
 “For the route that lets us close the room if it closes on us,” Sefu replied.
 
-Sefu opened the outer service door a shoulder’s width. Four Hearthhold workers came through with a lantern, a repair ledger, two baskets of tools, and a folded canvas sheet. They did not step into the deeper rooms. Sefu counted the threshold and kept one hand on the civic wheel.
+* * *
+
+Nera watched the four workers answer from their separate tasks. Renn Vale tested the lantern hook. Dalla Sen checked the clasp on her repair ledger. Jo Verrick held a tool basket by a mended handle, and Mikka Hale shook water from the folded canvas. They knew which hinges failed, which baskets opened unexpectedly, and how much warning the outer door gave before the pressure changed.
+
+Sefu called each by name. All four answered.
+
+They were volunteers, not bodies supplied to make a number. That distinction should have been written beside the pump record too.
+
+Nera had expected the pump’s success to make the argument easy. Instead, the ledger said *temporary*, and Sefu’s hand remained on the civic wheel. The two answers sat together without canceling either. She trusted the discomfort more than she would have trusted an easy agreement.
+
+Sefu opened the outer service door a shoulder’s width.
 
 “Litter first,” he said. “One person at a time.”
 
-Iven and Oren carried Leena across while the others followed. The group entered the anteroom, not the Hearthhold Middle. Nera wrote the pump test on the maintenance ledger and wrote beneath it, *air mechanism only; admission pending*. She handed the ledger to Sefu.
+Renn crossed first and hung the lantern where its light covered both doors. Dalla counted the threshold. Jo and Mikka followed with the baskets and canvas, stopping inside the anteroom. They did not step toward the deeper rooms.
+
+Iven and Oren carried Leena across while the rest of the crew followed. Nera wrote the pump result in the maintenance ledger and added beneath it, *air mechanism only; admission pending*. She handed the ledger to Sefu.
 
 “Do not turn my air approval into their permission,” she said.
 
-Marek watched the hand on the civic wheel. The route was short now, and its next condition had a name.
+She had opened the air side. Sefu still held the door. For the first time, the short route was real enough to be refused.

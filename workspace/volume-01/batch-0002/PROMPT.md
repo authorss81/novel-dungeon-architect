@@ -1,6 +1,6 @@
 Read AGENTS.md, NOVEL_SPEC.md, the series ending outline, outline/volume-01.md, the repaired Batch 0001 outline and its ten finished chapters, state/current.md, state/continuity.md, state/open-threads.md, state/chapter-summaries.md, state/batch-summary.md, state/character-state.md, and the relevant bible entries. This is Batch 0002, Chapters 11–20. The previous batch is complete; do not restart or rewrite Chapters 1–10.
 
-Write Chapters 11–20 as complete finished prose scenes in order, in close third person on Marek except for a clearly marked brief Nera perspective when the air work requires it. Do not write an outline, synopsis, checklist, chapter log, or meta commentary in the chapter files. Each chapter must contain movement, physical detail, dialogue, character thought, a changed situation, and a complete emotional or practical beat. Do not pad to reach a count.
+Write Chapters 11–20 as complete finished prose scenes in order, in close third person on Marek. Chapter 9 now contains the batch's first clearly marked brief Nera viewpoint shift; use another Nera perspective only when later air work gives her distinct interior knowledge, and do not repeat the same recognition mechanically. Do not write an outline, synopsis, checklist, chapter log, or meta commentary in the chapter files. Each chapter must contain movement, physical detail, dialogue, character thought, a changed situation, and a complete emotional or practical beat. Do not pad to reach a count.
 
 ## Batch goal
 
@@ -17,15 +17,16 @@ Turn the Chapter 10 conditional anteroom pass into a real but limited Hearthhold
 - The pump has a split bronze-and-fiber gland seal and a restored drive-dog key. Its delivery check chatters under sediment. It is attended and temporary, not a permanent route or an unattended solution.
 - The returning stair is a physical mechanism: visible movable slab, stone throat, pressure-fed seam, rope, wheel, counterweight, and missing lower receiver. A dead pack does not repeat the return; a walking human load does. It remains unresolved until the planned Volume 01 climax.
 - Nera Oduya has technical authority over airflow, air testing, and safe operation of the air gate. Sefu Aran is the elected boundary route keeper and independently controls civic admission. Never let Nera's air approval become resident consent or let Sefu's veto become an air-engineering decision.
+- Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale are the four Hearthhold residents who voluntarily joined the anteroom test. Give them practical, room-specific interests and actions; do not turn one minor beat into blanket resident consent, collective civic authority, or automatic obedience.
 - Form 7-B is unsigned. Dael Harrow's route-custody order locks the guild-controlled surface door and freezes guild-financed equipment; it cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, and Marek's limited non-claim receipt remain distinct.
-- The wrapped empty-seat plate remains evidence with an unexplained symbol. Do not identify it as the One-Seat, activate the One-Seat, resurrect Alden, or introduce a new final enemy.
+- The wrapped empty-seat plate remains evidence with an unexplained symbol. It now rests on a spread of work cloth on the anteroom bench rather than in Iven's pack. Do not identify it as the One-Seat, activate the One-Seat, resurrect Alden, or introduce a new final enemy.
 - The crew is in the Hearthhold air-gate anteroom, not Hearthhold Middle. The route is conditionally open for attended maintenance only.
 
 ## Required movement and chapter cards
 
 ### Chapter 11 — The Room That Holds the Terms
 
-Open with the first ordinary consequence of the anteroom pass: the pump must be attended, Leena needs a dry place to recover, and the residents need a decision about the six outsiders. Marek's goal is to understand the actual admission procedure without pretending that a successful test equals a welcome. Resistance comes from Sefu's narrow authority, Nera's refusal to speak for residents, the four workers' practical concerns, and the guild order's attempt to turn maintenance into custody. Show a real conversation or work exchange, not a lore lecture. End with the residents requesting a named maintenance shift and a route record before any deeper admission.
+Open with the first ordinary consequence of the anteroom pass: the pump must be attended, Leena needs a dry place to recover, and the residents need a decision about the six outsiders. Marek's goal is to understand the actual admission procedure without pretending that a successful test equals a welcome. Resistance comes from Sefu's narrow authority, Nera's refusal to speak for residents, the practical concerns of Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale, and the guild order's attempt to turn maintenance into custody. Show a real conversation or work exchange, not a lore lecture. End with the residents requesting a named maintenance shift and a route record before any deeper admission.
 
 ### Chapter 12 — The Work That Keeps Water Down
 

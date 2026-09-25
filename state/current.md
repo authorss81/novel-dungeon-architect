@@ -12,7 +12,7 @@ Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0001)
 
 ## Current location and situation
 
-The six-person opening party is alive in the Hearthhold air-gate anteroom, a maintained boundary room above the pump gallery. The deeper Hearthhold Middle gate remains closed. The anteroom is conditionally usable for attended pump work under the written test conditions; the route is not yet a public or permanent crossing.
+The six-person opening party is alive in the Hearthhold air-gate anteroom, a maintained boundary room above the pump gallery. The deeper Hearthhold Middle gate remains closed. The anteroom is conditionally usable for attended pump work under the written test conditions; the route is not yet a public or permanent crossing. Four Hearthhold residents who joined the room test—Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale—remain in the boundary work area; their consent applies to the test and maintenance work, not deeper admission.
 
 The lower Cinder Steps chamber remains flooding behind a temporary flood gate. The returning-stair faultform remains unresolved. The failed sump pump has been repaired and tested but its delivery check chatters under sediment, so it is an attended temporary tool.
 
@@ -46,7 +46,7 @@ Form 7-B remains unsigned. Dael Harrow's temporary route-custody order locks the
 
 Marek and Leena share a practical trust built around named limits and correction. Iven has moved from guild craftsman to reluctant maintenance ally. Nera has rejected Marek's recorded failed-refuge air plan for a correct ventilation reason; her approval remains technical and conditional. Sefu's cooperation is narrow and carries a veto. Pell and the laborers make the cost of every design personal.
 
-Marek has only brief, unreliable impressions of changing load. He has gained a clearer field understanding of the five Room Checks, not a named stage, repeatable reading, bearing mark, route change, or automatic solution. The brass rule has a hairline crack and reacts to the old plate without becoming a lineage token.
+Marek has only brief, unreliable impressions of changing load. He has gained a clearer field understanding of the five Room Checks, not a named stage, repeatable reading, bearing mark, route change, or automatic solution. The brass rule has a hairline crack and reacts to the old plate without becoming a lineage token. The wrapped empty-seat plate now rests on a spread of work cloth on the anteroom bench, preserved as evidence and still unexplained.
 
 ## Immediate next action
 

@@ -42,7 +42,7 @@ He crawled toward Leena. She sat against the wall with her right arm held close 
 
 “First tell me what you see,” she said.
 
-Marek looked at the room again. The floor was not level. A thin seam ran from beneath the fallen slab toward a wall, where a dark line of moisture climbed above the apparent grade. The water at the edge of the light was moving inward.
+Marek studied the room again. The floor was not level. A thin seam ran from beneath the fallen slab toward a wall, where a dark line of moisture climbed above the apparent grade. The water at the edge of the light was moving inward.
 
 “Your shoulder is out,” he said. “I can reduce it, but it will hurt. The arm is still in the socket; the head has come forward and down. I will pull from this angle, not from the wrist.”
 
@@ -52,7 +52,7 @@ Marek looked at the room again. The floor was not level. A thin seam ran from be
 
 “Good. Then tell me what you need.”
 
-Marek looked at Pell’s ankle while Leena watched. The rescue line had left a dirty rope bruise, but the joint was not swollen and the boy could move his toes. “Your ankle is scraped, not twisted,” Leena said. “Keep it raised until we know the floor is steady.”
+He crouched beside Pell’s ankle while Leena watched. The rescue line had left a dirty rope bruise, but the joint was not swollen and the boy could move his toes. “Your ankle is scraped, not twisted,” Leena said. “Keep it raised until we know the floor is steady.”
 
 Marek looked to the broken timber and the frayed rescue line. “A flat surface. Someone to hold your hips. Iven and Oren can anchor the door frame. Tams, keep the lamp low and watch the water. Pell, call out if the floor moves.”
 
@@ -92,7 +92,7 @@ Marek tied the sling more securely. “No weight through that arm. You can call 
 
 “Those are acceptable duties.”
 
-“We have six clean liters after the two I used to get you through the first shock,” Marek said. “The water in this room is not drink water. Nobody touches it without a test.”
+“Break two liters for the first watch,” Marek said. “Six left after that. The water in this room is not drink water. Nobody touches it without a test.”
 
 “Six liters for six people,” Tams said.
 
@@ -150,7 +150,7 @@ Leena made him state the limits aloud.
 
 “Good.” She leaned against the frame, careful of her shoulder. “Say the last part again.”
 
-Marek looked at the dark recess. “A room that looks stable can still be moving. We do not call this safe until we know what it is doing.”
+His attention returned to the dark recess. “A room that looks stable can still be moving. We do not call this safe until we know what it is doing.”
 
 For the first time since the collapse, the crew began to move as though the work might matter. Oren took the first watch without being assigned it. Tams counted the water skins and wrote the level on a piece of case board. Iven checked the timber uprights and pretended not to watch Marek do the same. Pell kept returning to the sealed door at the far side of the room, where a metal plate had been hidden beneath a shelf.
 

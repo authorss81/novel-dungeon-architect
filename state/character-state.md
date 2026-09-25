@@ -45,6 +45,7 @@
 
 - **Position:** Hearthhold boundary air works, controlling the air gate and pump air isolation.
 - **First meeting:** Rejects Marek's recorded Chapter 5 refuge air plan because the same shaft serves intake and exhaust. She supplies the gland seal and key only as recorded pump-crew equipment, not as a gift or permission.
+- **First interior shift:** At the end of Chapter 9, Nera recognizes that the pump's technical success and Sefu's civic refusal can remain true together. The discomfort of that distinction matters more to her than an easy agreement.
 - **Authority:** Technical authority over airflow, air tests, and safe mechanism operation. She does not speak for all residents.
 - **Relationship:** Professional respect is beginning, but she remains independent and skeptical of Marek's desire to make a plan authoritative.
 
@@ -54,6 +55,15 @@
 - **Role:** Elected boundary route keeper. He first answers the old air-keeper signal in Chapter 7 and independently controls admission at the boundary.
 - **Decision:** Allows the crew to remain in the anteroom for attended maintenance under written conditions; does not open the deeper gate or grant Hearthhold consent.
 - **Relationship to Nera:** Deliberately distinct authority. His cooperation is narrower and more important because it carries a veto.
+
+## Hearthhold boundary test residents
+
+- **Renn Vale:** boundary lantern worker; watches both doors during the anteroom test and acts voluntarily.
+- **Dalla Sen:** repair-ledger keeper; remains present during the room test and studies Leena's sling before the admission decision, showing that resident consent is not automatic obedience.
+- **Jo Verrick:** tool-basket carrier; accepts Nera's mid-test instruction about the basket lid.
+- **Mikka Hale:** canvas carrier and test participant; responds to Sefu's final admission statement.
+
+Their cooperation is specific to the tested room and maintenance work. None speaks for every Hearthhold or can replace Sefu's civic authority.
 
 ## Dael Harrow and the Cartwright pressure
 

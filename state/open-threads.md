@@ -19,16 +19,16 @@ These are active promises after Volume 01, Batch 0001 (Chapters 1–10). They ar
 ## First-volume physical and route promises
 
 - **OT-08:** The group has reached a Hearthhold boundary anteroom, not the Hearthhold Middle. The immediate question is whether residents will admit them beyond the conditional route before the Cinder Steps and pump conditions worsen.
-- **OT-09:** The false refuge failed all five Room Checks at six-person occupancy. Nera has rejected Marek's recorded air plan for the correct shared-shaft reason; the repair and the public lesson are not yet complete.
+- **OT-09:** The false refuge failed all five Room Checks at six-person occupancy. Nera rejected Marek's recorded air plan for the correct shared-shaft reason, and the pump repair is complete; the public maintenance lesson and shared record are not yet complete.
 - **OT-10:** A route can be physically useful without becoming a guild toll road or private claim. The missing maintenance charter is now the central civic work.
 - **OT-11:** The returning stair's physical cycle is mapped: movable slab, throat, rope, counterweight, and missing lower receiver. It has not been resolved, and no unmanned pack repeats the return.
 - **OT-18:** The sump pump holds prime for the witnessed test but cannot run unattended because its delivery check chatters under sediment. Someone must maintain it, supply its parts, and decide who bears that labor.
-- **OT-22:** The wrapped empty-seat plate is preserved as evidence. Its meaning, the old support diagram, and the boundary's history remain open.
+- **OT-22:** The wrapped empty-seat plate is preserved as evidence and now rests on a work cloth on the anteroom bench. Its meaning, the old support diagram, and the boundary's history remain open.
 
 ## Legal, civic, and relationship promises
 
 - **OT-19:** Dael's order, the old clearance seal, the inspection route charter, the salvage lien, the insurance notice, physical ownership, and Marek's non-claim receipt are distinct. The order locks a guild door and freezes guild-financed equipment but cannot create air, consent, or ownership. The next batch must not collapse these instruments.
-- **OT-20:** Sefu Aran's civic veto and Nera Oduya's air authority remain separate. The anteroom pass is conditional, and the Hearthholds have not yet granted admission.
+- **OT-20:** Sefu Aran's civic veto and Nera Oduya's air authority remain separate. The anteroom pass is conditional, and the Hearthholds have not yet granted admission. Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale participated voluntarily in the room test; their practical cooperation is not blanket resident consent or authority to admit the crew.
 - **OT-12:** Marek and Nera move from professional antagonism toward chosen partnership through disagreement, shared work, and consequences; no instant attraction or magical bond.
 - **OT-14:** Iven's maintenance signature puts worker-led responsibility ahead of his guild privilege. The next development must show the cost, not erase it or turn him into a full defector without a longer arc.
 - **OT-15:** Mero has not appeared yet; his independent authority to stop unsafe work remains a future promise.

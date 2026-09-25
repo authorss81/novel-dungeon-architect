@@ -82,7 +82,7 @@ Pell looked toward the bend. “We didn’t even see the bad part.”
 
 “The bad part is enough.”
 
-Iven’s mouth tightened. He did not argue. That was more worrying than an argument. He began pulling the timber cart back, and Oren took the opposite end without being asked. Tams wound the second chock line around his forearm and backed toward the entrance.
+Iven’s jaw set. He did not argue, and that was more worrying than an argument. He began pulling the timber cart back, and Oren took the opposite end without being asked. Tams wound the second chock line around his forearm and backed toward the entrance.
 
 Marek went last.
 

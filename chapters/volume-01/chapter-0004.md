@@ -38,7 +38,7 @@ He touched the plinth with his left hand. A pressure ran through the stone, up f
 
 “That is not all you can say,” Iven said. “It is all you can prove.”
 
-Marek looked at him. “Yes.”
+Marek held his gaze. “Yes.”
 
 The admission left him less comfortable than the argument would have.
 
@@ -74,7 +74,7 @@ He drew the distinction aloud.
 
 Leena’s voice came from the higher floor. “If you need a decision, make one. Don’t make a speech while the water makes it for you.”
 
-Marek looked at the damaged tool kit beside the pump. Its case had split open in the fall. Inside were a small saw, a few files, wedges, and a roll of clean cloth. The clean cloth was the last they had. They could use it to pack the hinge and stop grit from scoring the bronze. They could not wash it afterward, and Leena’s shoulder would need clean dressing if the skin opened.
+Beside the pump, the damaged tool kit had split open in the fall. Inside were a small saw, a few files, wedges, and a roll of clean cloth. The clean cloth was the last they had. They could use it to pack the hinge and stop grit from scoring the bronze. They could not wash it afterward, and Leena’s shoulder would need clean dressing if the skin opened.
 
 The tool kit could also be driven into the gap as wedges. It was already damaged. The difference between a ruined tool and a ruined person was not the value of the object but what it could keep from happening next.
 
@@ -140,6 +140,6 @@ Iven looked from the pads to the grille. “That is not a room we can breathe in
 
 The pump housing shuddered once under the pressure, then went still. Without its gland and drive-dog key, it had no prime to lose. Its repair would need a seal and a key. The water would keep pressing against every mistake they had made above it.
 
-Marek looked at the dry pads and the blocked vent.
+The dry pads waited above the blocked vent.
 
 For the first time, the room looked like a promise. That made it more dangerous, not less.

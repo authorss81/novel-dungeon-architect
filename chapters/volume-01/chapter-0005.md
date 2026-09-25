@@ -78,7 +78,7 @@ He tried the door next. The litter had to pass through a narrow landing and turn
 
 “Change?” Leena asked.
 
-Marek looked at the crowd gathering toward the door. Nothing extraordinary was happening. Six people were simply responding to a narrow opening. A person moved to make room, another followed, and the group’s weight gathered at the landing. The floor there was not designed for a moving crowd. It was designed for one person entering a school room.
+The crowd gathering toward the door drew his attention. Nothing extraordinary was happening. Six people were simply responding to a narrow opening. A person moved to make room, another followed, and the group’s weight gathered at the landing. The floor there was not designed for a moving crowd. It was designed for one person entering a school room.
 
 He raised his hand. “Treat the room as full. Everyone moves toward the door as if the air has failed.”
 
@@ -94,7 +94,7 @@ For a moment, no one spoke. The room had passed an empty inspection. It had two 
 
 Leena’s voice came quietly from the litter. “Keeping it would not be caution. It would be choosing who died first.”
 
-Marek looked at the door, then at the shared lintel. “Then we open a controlled breach.”
+His gaze moved from the door to the shared lintel. “Then we open a controlled breach.”
 
 Iven’s face hardened. “You mean through the wall.”
 
@@ -124,7 +124,7 @@ Marek’s right hand opened and closed. The fingers answered slowly. The thumb m
 
 “I should have taken the jack.”
 
-Marek looked at the hand. It was already swelling. “It is not a lesson yet.”
+His right hand was already swelling. “It is not a lesson yet.”
 
 “It will be when you cannot write.”
 
@@ -134,7 +134,7 @@ Pell had stopped marking time. The landing was quiet, but the dust from the lip 
 
 They pulled the remaining water, the lamp, the line, the tools that still worked, the route maps, the flat repair boards they could carry, and the sound short upright. The old room’s spare stock stayed behind: the cracked jars, the boards, the stone dead loads, and the sealed supplies that had made the room look like a refuge. None of it could be reached safely if the lintel moved again. Taking it would mean crossing the same landing with a loaded litter and a floor that had already shown them its limit.
 
-Marek looked at the opening into the domestic room. A washline hung beyond it. A low shelf held a covered pot. The room had been used, not stored like a vault.
+Beyond the opening into the domestic room, a washline hung above a low shelf and a covered pot. The room had been used, not stored like a vault.
 
 “Go,” he said. “Move Leena across first.”
 
@@ -150,13 +150,7 @@ Leena caught Marek’s left sleeve. “Your hand.”
 
 He let her see the failure plainly. The words hurt more than the swelling.
 
-In the new room, Marek tried to copy the old floor plan onto the back of the route card. His right hand could hold the grease pencil only if he clamped it between two fingers. The line wandered. He stopped, handed the card to Iven, and asked him to hold it flat.
-
-“Your left hand is not much better after compensating,” Iven said.
-
-“No. But it is still mine.”
-
-Marek copied the route slowly with his left hand. The line was uneven. He did not hide it.
+In the new room, Marek spread the old floor plan over a crate. His right hand could not keep a pencil point on a turning line, and his left wrist had begun to ache. He folded the plan again without copying it. The next job would need another pair of hands.
 
 The old plan showed a service shaft beyond the domestic room, with several independent routes converging on a maintenance space. Behind the wall, a faint pulse moved through the mineral seam. Dust slid downward, then stopped.
 
@@ -168,6 +162,6 @@ Marek pressed his left palm to the wall. The pressure was there, distant and une
 
 The abandoned refuge groaned behind them.
 
-Marek folded the uneven plan against his chest.
+Marek tucked the unfinished plan against his chest.
 
 “We follow the civic route,” he said. “Before the water decides we have run out of time.”

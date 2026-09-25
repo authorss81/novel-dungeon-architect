@@ -32,7 +32,7 @@ Iven’s thumb hovered over the central shape. “A seat,” he said. “A keepe
 
 “Or a warning not to put a person in the center,” Marek said.
 
-Iven’s mouth tightened. “You can call it a seat, a keeper’s place, a load point, or a warning. The stone has not told us which.” His hands remained above the plate without touching it.
+Iven’s fingers hovered above the empty center. “You can call it a seat, a keeper’s place, a load point, or a warning. The stone has not told us which.”
 
 Pell watched from the platform. “Does it open anything?”
 

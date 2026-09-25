@@ -38,7 +38,7 @@ The boy’s anger was clean and unhelpful. Marek could see him wanting to put hi
 
 “There may be an incline,” Iven said. “The door is set into a transit cut. The outer wheel could be on a licensed line, or it could be buried under a fall. I don’t know which.”
 
-Marek looked at the ventilation collar above the lean-to. “The door shares a vent with the room.”
+His gaze lifted to the ventilation collar above the lean-to. “The door shares a vent with the room.”
 
 Iven followed his gaze. “The old plan has one air shaft behind it.”
 
@@ -112,7 +112,7 @@ Marek felt the pressure shift beneath his left palm again. This time it came wit
 
 Pell stared at him. “You keep saying no.”
 
-Marek looked at the blue mark. “The alternative is saying yes because everyone wants a door.”
+The blue mark offered him no better answer. “The alternative is saying yes because everyone wants a door.”
 
 For half a day they watched the door and the water. They drank another liter between them, small enough that each swallow felt too precious to enjoy. Five liters remained from the collapse. Tams marked the level on the case board. Oren checked the lean-to uprights. Iven explained the clearance mark until Pell could repeat the difference between a survey date and a permission.
 
@@ -126,7 +126,7 @@ At last Iven found a narrow shaft of air moving beside the door. It came from be
 
 “We have a licensed operator who does not want to sign a false record.”
 
-Iven’s mouth tightened. “That is not a guild credential.”
+Iven’s jaw set. “That is not a guild credential.”
 
 “It is the only kind I trust this morning.”
 

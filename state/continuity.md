@@ -6,7 +6,7 @@ Volume 01, Chapters 1–10 are complete as `volume-01/batch-0001`. The current a
 
 ## Opening party and current location
 
-The opening party is exactly six: Marek Venn, Leena Orr, Iven Tallo, Pell Roke, Oren Sill, and Tams Quill. All six survive the collapse and remain alive at the end of Batch 0001. The current physical position is the Hearthhold air-gate anteroom, a maintained boundary room above the pump gallery. The deeper Hearthhold Middle gate is still closed.
+The opening party is exactly six: Marek Venn, Leena Orr, Iven Tallo, Pell Roke, Oren Sill, and Tams Quill. All six survive the collapse and remain alive at the end of Batch 0001. The current physical position is the Hearthhold air-gate anteroom, a maintained boundary room above the pump gallery. The deeper Hearthhold Middle gate is still closed. The four Hearthhold residents in the room test are Renn Vale, Dalla Sen, Jo Verrick, and Mikka Hale; each enters voluntarily, and that room-specific participation does not grant any of them authority to admit the crew into Hearthhold Middle.
 
 Marek began as a 32-year-old Marrowgate civil engineer with no reliable supernatural operation. He carries Alden Venn's damaged brass survey rule, now cracked near its hinge. The rule is an imperfect reader, not a chosen-one artifact, lineage token, or solution.
 
@@ -29,7 +29,7 @@ The damaged hand-tool kit is destroyed as flood-gate wedges in Chapter 4. One sh
 
 - The first lower chamber's floor seams settle unevenly under bodies, water, and the broken shaft. A brief pressure impression appears behind a wall; it is relative and unreliable, not a map or prophecy.
 - The false refuge in Chapter 5 is a six-person school-refuge room. Its two piers share a hollow lintel; its intake and exhaust share one shaft; its drain reverses with the lower passage; its inward door cannot turn a loaded litter; ordinary crowding damages the landing. All five Room Checks fail at the declared load.
-- The old plate is a dense gray-green anchorstone-like plate with an empty central seat/socket inside many support lines. It predates the guild and is preserved as evidence. Its meaning is not identified in this batch. The One-Seat is not an active threat here.
+- The old plate is a dense gray-green anchorstone-like plate with an empty central seat/socket inside many support lines. It predates the guild and is preserved as evidence. In Chapter 10 it is laid on a spread of work cloth on the anteroom bench, still wrapped and unexplained. Its meaning is not identified in this batch. The One-Seat is not an active threat here.
 - The returning stair is a physical faultform. A movable slab runs in visible rails across a stone throat, driven by a pressure-fed mineral seam, rope, wheel, and counterweight. The old school/infirmary procedure used an upper walking route and lower stretcher route; the lower receiver collapsed, leaving an unfinished load imbalance. A dead pack does not repeat the return, while human walking load does. The slab carries people visibly along the same route; nothing teleports. The stair is mapped, not solved.
 - The service bypass is a continuous narrow shaft barely wide enough for a litter carried lengthwise, with one team passing at a time. It reaches the failed pump from the Hearthhold side and ends at the air gate.
 
@@ -39,7 +39,7 @@ The failed reciprocating sump pump has a shattered bronze piston gland and a mis
 
 The witnessed repair test consists of unnumbered priming strokes followed by exactly 20 no-load strokes, then a five-minute draw-down. The sump drops fifteen centimeters; the gland remains dry; Nera's dyed cloth does not change; the flood gate does not leak. The delivery check chatters because sediment lifts against its seat, so the pump is attended and temporary, not a permanent route or unattended solution. The anteroom has a grated service well and a long lever that lets workers operate the pump from above the gallery.
 
-Nera Oduya is the independent Hearthhold air engineer. Her first meeting with Marek is a professional rejection of his recorded Chapter 5 refuge air plan: it uses one shaft for supply and exhaust. Her later air approval remains technical, conditional, and separate from admission. Sefu Aran is the elected Hearthhold boundary route keeper first heard in Chapter 7. He controls civic admission and may veto passage even when Nera approves the air mechanism. Neither speaks for every Hearthhold.
+Nera Oduya is the independent Hearthhold air engineer. Her first meeting with Marek is a professional rejection of his recorded Chapter 5 refuge air plan: it uses one shaft for supply and exhaust. Chapter 9 ends with the batch's first brief Nera viewpoint shift, in which she distinguishes the pump's successful test from resident permission. Her later air approval remains technical, conditional, and separate from admission. Sefu Aran is the elected Hearthhold boundary route keeper first heard in Chapter 7. He controls civic admission and may veto passage even when Nera approves the air mechanism. Neither speaks for every Hearthhold.
 
 ## Legal and civic facts
 
