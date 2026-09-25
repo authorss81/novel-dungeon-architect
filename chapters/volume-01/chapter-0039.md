@@ -20,7 +20,7 @@ The second line: the work is in three steps, and no step is begun until the step
 
 The third line was the school corner floor.
 
-*Step one is the mouth, said Iven, and Jo wrote it down. It is opened and traced, It is opened and traced, and the void under the far end is cleaned to a stated depth, and it is given either a fall to the channel or a shut, and the fall is not cut through the wash room floor without the wash room asked first. This is not optional and it is not a preliminary. I will not have a single piece of work done at that stair until the school corner stops being a mouth, because nine children sit over it and I will not spend your children's air to find out about a rope.*
+*Step one is the mouth, said Marek, and Jo wrote it down. It is opened and traced, the void under the far end is cleaned to a stated depth, and it is given either a fall to the channel or a shut, and the fall is not cut through the wash room floor without the wash room asked first. This is not optional and it is not a preliminary. I will not have a single piece of work done at that stair until the school corner stops being a mouth, because nine children sit over it and I will not spend your children's air to find out about a rope.*
 
 The objection came from Nera, and it was about a single word, and it took the better part of an hour.
 

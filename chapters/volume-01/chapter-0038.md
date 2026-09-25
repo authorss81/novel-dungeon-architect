@@ -86,7 +86,7 @@ Nobody had.
 
 "Nobody in a hearing is going to ask you that," Iven agreed, "because the six of you are not currently in a hearing, and I would like to keep it that way, and I would like to have said this out loud in a room where the people who will be affected heard me say it, and not in a hearing where they hear it from an office."
 
-And then Dalla read the terms, which she had written in nine hands over four days, and she read them slowly, and she stopped at each one and let the room have it, and four of the nine were changed on the spot and two were struck and one of the two that were struck was a line Marek had wanted.
+And then Dalla read the terms, which she had written in nine hands over four days, and she read them slowly, and she stopped at each one and let the room have it, and two of the nine were changed on the spot and one was struck, and the one that was struck was a line Marek had wanted.
 
 She read the first: the stair stays corded, and nothing in this project opens it, and no person is put on the slab.
 
@@ -101,6 +101,12 @@ The third: no work on a day the corridor is open, and none on a day the school r
 "That is three days in seven and it is most of the week," Marek said.
 
 "It is a school," Ilsa said.
+
+"And I will have one more in it," Mikka said, and put her hand flat on the table, which she did before she said the thing she meant to say. "And I will have it in my own words. No work while the covers are being lifted. The school corner's and the wash room's, at the second bell and the fifth. They are lifted by a person, and a person cannot be on your stair and lifting a cover, and if she is not on your stair then nobody is in that wash room, and that is a room with a bed in it and a woman in it who does not know a single one of you."
+
+"Add it," Renn said, "in her words, with my name beside it, because the boundary's refusals are not going to be one-sided."
+
+Dalla wrote it and read it back, and Mikka read it over her shoulder and did not ask for a word changed, which Renn noticed and mentioned twice afterward and only to Jo.
 
 The fourth: the school corner floor is opened and traced before anything is built, and the people who keep that floor are asked first, and the work is done on a day the school does not run.
 

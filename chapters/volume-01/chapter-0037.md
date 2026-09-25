@@ -16,17 +16,17 @@ Not slack. Stopped, with a jar in it, the way a jar goes into a hand that has fo
 
 They did not pull. They counted, and the count came to a number, and the number was not a depth.
 
-"Eight feet of line and a catch," Iven said. "And eleven feet of shaft, by Nera's count, which I have no way to check from this side. So the stone never reached the bottom. It caught on the band on the way down, which is the one thing on this stair anybody has been able to see, and it is a thing a line snags on." He looked up. "Which means the far wall is eleven feet down, and this building has eighteen feet of line in it and every foot of it is spoken for, and I still could not tell you whether there is an eye in that wall, because the light does not go where an eye would be."
+"Eight feet of line and a catch," Iven said. "And eleven feet of shaft, by Nera's count, which I have no way to check from this side. So the stone never reached the bottom. It caught on the band on the way down, which is the one thing on this stair anybody has been able to see, and it is a thing a line snags on." He looked up. "Which means the far wall is eleven feet down, and there are eight feet of line in this building that come free, and I asked Sefu about the black cord in the stores in the second week and he said no, and I have not asked him again, and I still could not tell you whether there is an eye in that wall, because the light does not go where an eye would be."
 
-"The hand line is on the school-door head," Tams said. "The draw cord is eight feet and it is Nera's and it is on the valve board and I have written it on the board, and eight feet is not eleven."
+"The hand line is on the school-door head," Tams said, "and it is eighteen feet of it, and it is Renn's, and I have counted it twice this month because I count things. The draw cord is eight feet and it is Nera's and it is on the valve board and I have written it on the board, and eight feet is not eleven."
 
-"Eight feet is not eleven," Iven agreed, "and it is the only line in this building that came free, and I am telling you the same thing I told you in the anteroom, which is that the length of the line is not the problem. The problem is that the light does not go where an eye would be, and if there is a fixing down there then eight feet and eighteen feet and forty feet would all find the same water." He did not take his eyes off the lip. "Get it up."
+"Eight feet is not eleven," Iven agreed, "and it is the only line in this building that came free, and I am telling you the same thing I told you in the anteroom, which is that the length of the line is not the problem. The problem is that the light does not go where an eye would be, and if there is a fixing down there then eight feet and forty feet and any length at all would all find the same water." He did not take his eyes off the lip. "Get it up."
 
 They were getting it up, and the stone was coming up the throat slow, catching on the bright band on the hollow's front face, and Oren was taking the weight hand over hand, and Tams had the slack in his left and the belay in his right, which was his habit and which nobody had ever thought to change, when Nera's voice came up the string.
 
 "Out. Now."
 
-They were out in fifty seconds. The belay came up behind them with the stone on it and about two feet of line still out, because Oren had stopped paying it out on her word and had taken the weight instead, which is what the four minutes were for and what the four minutes had been bought with.
+They were out in fifty seconds. The belay came up behind them with the stone on it and a foot of line still out, because Oren had stopped paying it out on her word and had taken the weight instead, which is what the four minutes were for and what the four minutes had been bought with.
 
 The wheel turned twice. The cord held. The hatch stayed latched. And this time the anteroom did not come back to ten for nineteen minutes, and Dalla's four minutes and six seconds became four minutes and fifty, and the reason took the better part of an hour to find, because nobody guessed it and everybody looked.
 
@@ -88,7 +88,7 @@ The reason was a category and not a reason, and she knew it, and she wrote it do
 
 Then Sefu disputed a word.
 
-"Forty minutes and fifty seconds is not a stop. It is an evacuation. Say what it was."
+"Four minutes and fifty seconds is not a stop. It is an evacuation. Say what it was."
 
 "I said what it was. I said *turn*."
 
@@ -135,6 +135,12 @@ So that was the cost, and it was the cost that mattered, because the lever was t
 "I am not on the frame and I am not on the lever and I am not on the near side," Tams said, "and I am going to do the water record and the count and the reading of the mark to Isel, and Isel is bad at it, and somebody has to be at it while he is bad at it, and that is a job and I would like it written as a job and not as a favour to a man with a hand."
 
 Nobody argued. It went on the board in his own words, because Dalla had made that a rule in the twenty-fourth day and he had fought it and then stopped fighting it.
+
+And then Jo asked him what happened at the end of the nine days, because she was the one writing the number down and she was not going to have a figure on a page with nothing behind it.
+
+"At the end of the nine days somebody opens my hand in front of me and looks at it," Tams said. "And if it does not open then it is a month and not nine days, and I will say so at the time and not before it."
+
+"Write that under it and not over it," Jo said, and wrote it, and did not soften a word of it, and nobody in the room thanked her for asking, which she also noted and mentioned later and only to Mikka.
 
 And then the condition, which was the last thing and the thing that changed the plan.
 

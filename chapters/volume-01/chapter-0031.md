@@ -108,7 +108,7 @@ And there was no sound timber over six feet, so the school-door lintel stayed a 
 
 And the service bypass behind the anteroom ran continuous stone all the way down to the pump gallery, and the pump gallery was flooding, and below the pump gallery was the chamber they had all come out of, which was failing and was not a place to return to. So the bypass was not an exit. It was a sump with a corridor on top of it and a machine at the bottom of it, and the machine had four cleanings left.
 
-Marek put his left hand flat on the wall at the waist, because it was the thing he did, and the wall gave him nothing. It had given him nothing in the twenty-first day and on the twenty-third and on the twenty-fifth, and it had given him absolutely nothing on the day he had wanted it to most, and it gave him nothing now, and he wrote on the corner of Dalla's slate, in his own uneven hand, the word he had started writing every time: *null.*
+Marek put his left hand flat on the wall at the waist, because it was the thing he did, and the wall gave him nothing. It had given him nothing in the twenty-first day and on the twenty-fifth, and it had given him absolutely nothing on the day he had wanted it to most, and it gave him nothing now, and he wrote on the corner of Dalla's slate, in his own uneven hand, the word he had started writing every time: *null.*
 
 "It's the seat," Jo said, watching him. "You know that."
 

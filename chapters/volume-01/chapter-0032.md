@@ -40,11 +40,11 @@ The room got very quiet, and Marek understood that he was being shown something,
 
 "It is your door," Dalla said. "Say what it costs before anybody starts."
 
-"It costs a board," Jo said, "and I do not have a board that is not already spoken for, and it costs me most of a day out of a route that is already shut, and the shutter I was paid for goes later than I told the household I would finish it." She looked at Mikka. "I want one of the two sound boards in the boundary work area, and I want it released in writing by whoever owns it, and I want the cost of my day in the ledger in my own words and not softened."
+"It costs a board," Jo said, "and I do not have a board that is not already spoken for, and it costs me most of a day out of a route that is already shut, and the shutter I was paid for goes later than I told the household I would finish it." She looked at Mikka. "The six that will do for a shutter are mine and spoken for and the two with the grey growth on them are firewood, and the two under the corridor's kitchen side belong to the corridor and are under nine people's feet this minute. So I want a sound board out of the household store that has never been in anything, and I want it released in writing by whoever owns it, and I want the cost of my day in the ledger in my own words and not softened."
 
 "It is mine," Mikka said, "and I release it, and write it down as released by me and not donated, and I want the third board that I gave you in the twenty-sixth day counted as mine as well, because that is two boards now and nobody has been keeping that count except me."
 
-"Recorded as two, released by Mikka Hale, over her objection and on the record," Dalla said, and wrote it, and the count of Mikka's released timber in this building went from one to two, which was more than the Hearthholds' entire standing stock, which had been six.
+"Recorded as two, released by Mikka Hale, over her objection and on the record," Dalla said, and wrote it, and the count of Mikka's released timber in this building went from one to two, which was a third of the Hearthholds' entire standing stock, which had been six, and which was every sound board in this boundary that any person in it had the right to give away.
 
 "I will feed whoever does it," Ruk said, to Jo, and Jo shook her head.
 

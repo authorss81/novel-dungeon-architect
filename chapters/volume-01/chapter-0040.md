@@ -1,10 +1,14 @@
 # Chapter 40 — The Corded Door
 
-They went down to the cord on a Thursday, the whole party, and the party was not a party, because the plan had reduced it to four and a clerk.
+They went down to the cord on a day the school was not running, in the first hour, the whole party, and the party was not a party, because the plan had reduced it to four and a clerk.
 
 Four because Leena's litter stops at the service bend, and Pell could not take the three steps and a lip on a crutch, and Mikka had closed the kitchen line for the morning and put the anteroom's ten in the anteroom, out of the way of anybody carrying a lamp stand, and Ilsa was in the school corner with a floor that had a mouth in it and a cover that did not sit. Four: Marek, Iven, Oren, Jo. And a clerk, because Dalla Sen did not go down there to see anything, she went down there so that the page would have a person in it who had seen it.
 
+The five posts that mattered that morning did not empty, because a post that empties is not a post; and the sixth of the six watches was not a post at all, because the corridor was shut and the waist is only a post while the corridor is open. Iven had the civic wheel, on the grounds that a boundary keeper cannot hold a wheel and a knot in the same morning. The landing bracket had gone to the woman from the wash rooms, who said yes in one word when Mikka asked her and then lifted a cover and went away again, which is how she does everything. The clinic return and the pump frame were both Mikka's, which everybody believed because she said it was possible. And the bell at the threshold was rung by Ruk Sella, with a boy of seven on her hip and one hand free, who had also said yes in one word and had not been told by anybody that she had been given anything.
+
 The period's terms had been read at the threshold by Jo, in her own hand, and the reading took a quarter of an hour, and nobody in the anteroom had complained about the quarter of an hour, because terms now cost a quarter of an hour and everybody has learned to say so out loud.
+
+Jo read the third one with a thumbnail under it, because it was the one that cost the room and because a term a person can get past is not a term. No work on a day the corridor is open, and none on a day the school runs, and none between the second bell and the fourth. The corridor had been shut since before the light, and the school had not run and was not going to, and the period was named for the first bell, which was the only hour of the day that clause left anybody. Jo said that last part out loud in front of the anteroom, so that the next period would have to say it too.
 
 The stair was exactly as it had been. That was the first thing and it was the thing none of them had been ready for. Nine days had gone by in that building — a floor opened, two fingers crushed, a school halved, a drain cut, a grate of grit under a wash room — and the fixed first landing was a fixed first landing, with the cord across the approach and the slab on its run and the rope where the rope was, and the block in the angle with its groove a hundred years deep and its bright band four inches high and a piece of a wash door still in it doing nothing at all.
 
@@ -12,11 +16,11 @@ The stair was exactly as it had been. That was the first thing and it was the th
 
 Marek put his hand on nothing. He wanted, for about a second and a half, to put his left palm on the fixed rail and feel something, in the way a man puts his hand on a banister he has ridden a thousand times. He did not do it, because he had written the word *null* five times and had said out loud in a full room that he had never once had anything back he could use, and a man who has made that statement in public does not then quietly go and try it for luck on a landing.
 
-He wrote it on the slate instead, because it was the practice, and the practice was: *attended look, fourth period. No cut, no setting, no line. Slate only.*
+He wrote it on the slate instead, because it was the practice, and the practice was: *attended look, fourth named period, first bell. No cut, no setting, no line. Slate only.*
 
-They came in past the cord and looked for a long time. The lit part of the work is over: there is nothing at that socket a person may do, and the reason is not caution and not law. It is that the block is in the near wall's base and the near wall is one stone, and there is no far wall in sight, and everything that would change the condition of that groove is on the other side of a throat nobody may reach.
+They came in past the cord and looked for a long time, and it took most of what they had come for. The lit part of the work is over: there is nothing at that socket a person may do, and the reason is not caution and not law. It is that the block is in the near wall's base and the near wall is one stone, and there is no far wall in sight, and everything that would change the condition of that groove is on the other side of a throat nobody may reach.
 
-"Two hands on that band would take it out in a morning," he said, "and it is the only thing I would put a hand to in this building, and I am not going to, because Renn has said the answer is no and she is not wrong and it is not mine."
+"Two hands on that band would take it out in a morning," Iven said, and then said the rest of it, which was the part he had come down to say. "And it is the only thing in this building I would put a hand to, and I am not going to, because Renn has said the answer is no and she is not wrong and it is not mine to be right about."
 
 "Then what are we here for," Marek said, and it came out more sharply than he had meant it.
 
@@ -26,7 +30,7 @@ Marek read the slate. Then he took the chalk out of his hand — it was in his l
 
 "No," he said, out loud, to nobody in particular, and Jo wrote it down as spoken and at the time.
 
-"Because I would be putting a mark in a stone in a mechanism that belongs to a person who has refused us, on a project nobody has agreed to, in order that a man coming in a year can see where I was on a Thursday. And it would not tell him anything true. It would tell him I was here." He put the chalk back in his hand and did not put it away, which is what a man does who is fighting a habit and is not sure he has won. "So the mark goes in the record, in Jo's hand, on a slate, and the slate lives in the school store with the boxes Ilsa will not let me near. That is where the record is. Not in the stone."
+"Because I would be putting a mark in a stone in a mechanism that belongs to a person who has refused us, on a project nobody has agreed to, in order that a man coming in a year can see where I was on the day of. And it would not tell him anything true. It would tell him I was here." He put the chalk back in his hand and did not put it away, which is what a man does who is fighting a habit and is not sure he has won. "So the mark goes in the record, in Jo's hand, on a slate, and the slate lives in the school store with the boxes Ilsa will not let me near. That is where the record is. Not in the stone."
 
 Iven took the slate out of Jo's hand and read it, and gave it back, and said, "I have cut my name into nine hundred pieces of other people's stone and never once thought about what it was like to read the stone afterwards. The chalk goes on the slate."
 
@@ -42,6 +46,18 @@ She had written, in her own hand, on a page Jo had read back in front of nine pe
 
 "I am not here to work," Renn said. "I am here because the terms say the cord is re-tied by Sefu and me and not by the crew, and Sefu is not going down three steps in front of nine people to do a knot, so I am, and if anybody wants to make that into something, I have been told no." She stood on the near side of the cord. "Also I want to see the band with my own eyes, because I have been told there is one and I have not, and I am not going to be told about my mother's repair by a lantern."
 
+And then she looked at the lamp stand on the step below her, and said nothing about it for a while, and Jo watched her not say something, and then said it out loud, because Jo was the one holding the board.
+
+"No lamp, no stand, no bench on my landing," Jo read. "That is the line, in your hand, read back in front of nine people. And the stand is on the step, below your landing and past the cord, and it comes up with us, and it has been up and down this stair four times, and you have never once come down to look at it, and that is on us and not on you."
+
+"I know where the stand is," Renn said. "I can hear Jo packing its legs at the bend from the room I sleep in."
+
+"Then say it where it goes," Jo said, and gave her the slate.
+
+And Renn said it, and Jo wrote it under the terms, and Renn made her put a name under it, because a line in a boundary's hand that somebody else wrote out is a line that gets read in a year as the boundary not knowing.
+
+"The stand is below the cord and it comes up with the party, and no part of this is on my landing," Renn said. "Renn Vale. And I know where the stand is, and I did not come down to see it, and nobody is to say afterwards that I did."
+
 She looked down for a while.
 
 "That is not hers any more," she said. "The piece is a piece of a block a school gave away, and she put it in a hole, and it held a line for a while, and it did not, and that is all. I do not know who has been moving the line. I have said I will not find out and I am not going to, and I would be grateful if the four of you would stop looking at that stone as though it is going to tell you something, because it is a stone in a hole and my mother is dead and it is not a code."
@@ -52,17 +68,27 @@ Sefu came down after her, and did the knot.
 
 It took him a long time, and he did it in a way none of them had expected: he tied the cord exactly as it had been tied, then tied a second hitch, then untied the second hitch, then re-tied it, and made Jo watch and then made Dalla watch, and then said why.
 
-"You asked who calls the work off on a stair day," he said, "and the page had nobody in it, and Renn said a nobody with a rope is the first thing a building grows. She is right. So there is no person. There is a threshold." He put the cord's end down on the stone. "The stop is this. The cloth, at the valve, from the string, and Nera's word. Any one of the four people who keep a room — Ilsa, Mikka, Renn, and the woman from the wash rooms — saying the word. And the cord itself, which is tied now so that a person who steps past it puts it under tension, and the tension comes back up the string to the bell at the threshold, and the bell is Dalla's, and Dalla is at a threshold and not on a stair."
+"You asked who calls the work off on a stair day," he said, "and the page had nobody in it, and Renn said a nobody with a rope is the first thing a building grows. She is right. So there is no person. There is a threshold." He put the cord's end down on the stone. "The stop is this. The cloth, at the valve, from the string, and Nera's word. Any one of the four people who keep a room — Ilsa, Mikka, Renn, and the woman from the wash rooms — saying the word. And the cord itself, which is tied now so that a person who steps past it puts it under tension, and the tension comes back up the string to the bell at the threshold, and the bell is Dalla's."
 
 He stood up and looked round.
 
-"So it is not a nobody with a rope. It is a door. And I know something about doors."
+"And that is the piece of it I am not going to let go past without saying out loud, because the whole answer is worth nothing if it cannot be worked. I am on a stair, and that is correct for a knot, because a knot is a thing a person does once and then is finished. The bell is Dalla's, and Dalla is not at a threshold today, because Dalla is on a landing with four of you and a page, and a bell with nobody at it is a rope with nobody on the end of it."
+
+Dalla did not put the pencil down. "Then somebody has to be at the threshold, and it has to be a name, and it has to be somebody who is not one of the four, and it has to be somebody who has been asked."
+
+"I have said yes," Ruk Sella said from the threshold above the three steps, where she had been standing with a boy on her hip and one hand on the bell rope since before they went down, and none of them had noticed her, and Jo wrote that down as well.
+
+"Then the keeper did not name her," Sefu said. "Write that beside it."
+
+Dalla wrote it beside it.
+
+"So it is not a nobody with a rope," Sefu said. "It is a door. And I know something about doors."
 
 "That is a good answer," Dalla said, writing.
 
 "It is a good answer," Renn said, "and I want it said that I said the nobody line first, and that I am not withdrawing it, because both of them are true and the second one only exists because I said the first one."
 
-They went up. The party was out of the step in ninety seconds and the near side was as found, which is the one term on the page that has been satisfied every time, and Jo read it back off the slate at the service bend with the four of them standing there, because the reading back is the part that makes a term a term.
+They went up. The party was out of the step in forty-nine seconds, which was faster than either of the two times before it, and the near side was as found, which is the one term on the page that has been satisfied every time, and Jo read it back off the slate at the service bend with the four of them standing there, because the reading back is the part that makes a term a term.
 
 At the top of the three steps, on the level stone, they were met by the rest of the crew and most of the boundary, which is what had happened every time in seven weeks and which none of the six had ever got used to.
 
@@ -70,13 +96,13 @@ Tams was there, and Tams's right hand was in a sling made out of a torn length o
 
 "Right," Dalla said, and put the ledger on the crate, and opened it, because a page of terms is not a thing anybody may carry about in a coat for a week. "This is the reading, and it is a proposal, and I am going to read it, and I want everybody in this room to hear the whole of it including the parts they do not like, because that is the practice and because nobody in this building has got anything to hide from a ledger."
 
-She read it. *The stair's lower side asked for a line a hundred years ago and has had a stone driven into the line-block to stop it ever since.* And the three steps, in the words the room had put on them, and the refusal, which was a refusal and not an attempt, and the last line, which had nothing to put in it, and the two struck clauses in the words of the women who struck them, and the tally.
+She read it. *The stair's lower side asked for a line a hundred years ago and has had a stone driven into the line-block to stop it ever since.* And the three steps, in the words the room had put on them, and the refusal, which was a refusal and not an attempt, and the last line, which had nothing to put in it, and the two struck clauses in the words of the people who struck them, and the tally.
 
 Then she read the tally twice, because it was the only part of the page that was arithmetic, and arithmetic read once is an opinion.
 
 "Forty-eight crew hours on one side and forty-nine and a half on the other," she said, "and the crew cannot carry the second number, and the second number belongs to six named people, and asking is not agreeing, and a person who has been asked may say no and keep saying no and nothing in this building changes for them except that somebody knows."
 
-Nobody marked it. Jo held the board and read it back, and it was in her hand, and then it was in the ledger, and then it was in the school store in a locked box with three registers and forty-one years of a school that had kept records about itself, and Ilsa held the key and would not let Marek near it, and that was correct.
+Nobody marked it. Jo held the board and read the whole of it out again, once, because a page nobody has marked still has to be read twice, and then it was in the ledger, and then it was in the school store in a locked box with three registers and forty-one years of a school that had kept records about itself, and Ilsa held the key and would not let Marek near it, and that was correct.
 
 And then came the part everybody had been waiting for, and Tams did it because he had the tally and because he had a sling on and could not stop, and because the man who keeps the arithmetic is the one who has to read the last line of it.
 
@@ -88,7 +114,7 @@ The school corner: one dressed kerb, one lift bar, one cover, and two fingers of
 
 Ruk Sella's door: closed, crooked, pinned, and it will not stay shut against the wheel.
 
-Tams's right hand: two fingers that will not close for nine days, and after that nobody knew, and the lever is Oren's, and the frame is Mikka's, and the corridor runs on a man who said he was not going to decide a *while* for himself and has been right about it every day since.
+Tams's right hand: two fingers that will not close for the nine days Oren named when he took the lever, and after that nobody knew, and the lever is Oren's, and the frame is Mikka's, and the corridor runs on a man who said he was not going to decide a *while* for himself and has been right about it every day since.
 
 "Marek," he said. "You came into this building with a folding rule, a grease pencil, a damaged chalk case, one cracked lamp, a frayed nine-metre line, and your father's brass survey rule, which has never once told you anything. And you left a screw jack and a pry bar behind in a room that was flooding then and is flooded now." He said it without weight on it, because he was reading a list. "You have got: no sound timber over six feet, seven sound wedges and two dead sticks, and every one of the seven spoken for, a scored bronze seat with four cleanings on it or fewer, a corded stair, a locked guild door, a school that runs four days, a corridor that opens on the days six people agree to open it, a mouth under a school floor, a slab of stone we are forbidden to build on, and a page in a locked box."
 
@@ -96,7 +122,7 @@ He put the chalk down.
 
 "You have not gained a thing that belongs to you. You have written down what you do not have." He lifted his slinged hand an inch off his knee and let it down again. "I will read this again whenever anybody wants to hear a number, and I would like it read at the same time as the plan, and not after it."
 
-And then the two things that had to be named, and Dalla named them, because naming is her trade and she had said in the twentieth day that a decision that does not say when it is looked at again is a decision that has been made to last.
+And then the two things that had to be named, and Dalla named them, because naming is her trade and she had said in the twenty-fourth day that a decision that does not say when it is looked at again is a decision that has been made to last.
 
 The next step was not the stair.
 
@@ -112,9 +138,7 @@ The next review line was the longest Dalla had ever written, and it was the long
 
 "Take the slate out of it," Iven said. "You are naming a slate as a stop and the slate goes in a box in a school store behind a lock a schoolteacher holds, and it will be in a box at midnight."
 
-It was read back with the two changes in it, and the whole of what came out of it was a sentence about a future that nobody in that room had agreed to.
-
-Sefu read his paragraph separately and marked it separately, and then read the whole page back to the room, and nobody marked it as agreed, because there was nothing yet for anybody to agree to, and the page said so in its own last line in Jo's hand: *this page is a proposal until the people whose names are on it have read the line their name is under and said so out loud, and a refusal is written in the same hand and the same size as an agreement.*
+It was read back with the two changes in it, and what came out of it was a sentence about a future that nobody in that room had agreed to. Sefu read his own paragraph separately and marked it separately, as always, and then read the rest of the page back to the room, and nobody marked it as agreed, because there was nothing yet for anybody to agree to, and the page said so in its own last line in Jo's hand: *this page is a proposal until the people whose names are on it have read the line their name is under and said so out loud, and a refusal is written in the same hand and the same size as an agreement.*
 
 Before the queue, Mikka stopped the anteroom and said the one thing she had come down to say.
 

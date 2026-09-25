@@ -10,7 +10,7 @@ Last completed chapter: 40
 
 Last batch summary: `state/batch-summary.md` (Volume 01, Batch 0004)
 
-Review record: none yet for Batch 0004. Batches 0001–0003 are complete, independently reviewed, repaired, and state-tracked; the record for Batch 0003 is `reviews/volume-01/batch-0003.md`.
+Review record: `reviews/volume-01/batch-0004.md` (Volume 01, Batch 0004, Chapters 31–40). Batches 0001–0004 are complete, independently reviewed, repaired, and state-tracked.
 
 ## Current location and situation
 
@@ -22,9 +22,9 @@ The Batch 0004 interim page is in the ledger and in a locked box in the school s
 
 The sump pump is unchanged: split bronze-and-fiber gland seal, restored drive-dog key, chattering delivery check, **scored bronze delivery seat with no released spare and no bronze in the building**. Its rhythm is twenty-six strokes, six minutes off the lever, nineteen strokes. Four cleanings are paid for out of Jo Verrick's tool-route work and Jo's estimate of about four remaining stands, unchallenged. Tams Quill cannot work the lever for nine days, so the lever is Oren Sill's. The frame goes to Mikka Hale, named in Chapter 40's tally and asked for by Oren in Chapter 37 as somebody boring enough not to drift.
 
-The wet mineral seam still couples the pump, the air baffle, the service bypass, and the returning-stair pressure. The service bypass hatch stays latched during stair-pressure turns. The corridor's low end sits directly over an **eleven-foot** stair-pressure shaft. Chapter 34 adds that the air also comes **up** out of the school corner's floor, which is a mouth over a void, and Nera's valve board has never included it.
+The wet mineral seam still couples the pump, the air baffle, the service bypass, and the returning-stair pressure. The service bypass hatch stays latched during stair-pressure turns. The corridor's low end sits directly over an **eleven-foot** stair-pressure shaft. **Chapter 34 finds the void under the school corner's far end; Chapter 37 is where the air and the grit come up out of it**, which makes the school corner floor a mouth on the same pressure line, and Nera's valve board has never included it.
 
-Six watches still govern corridor use: air valve (Nera), civic wheel (Sefu), upper landing (Renn), clinic return (Mikka), work-bell relay at the threshold (Dalla), and a sixth wet-seam watch at the waist that Renn holds four days of seven. An empty watch stops the work; it does not shorten it. The crew is explicitly barred from the rota.
+Six watches still govern corridor use: air valve (Nera), civic wheel (Sefu), upper landing (Renn), clinic return (Mikka), work-bell relay at the threshold (Dalla), and a sixth wet-seam watch at the waist that Renn holds four days of seven. An empty watch stops the work; it does not shorten it. The crew is explicitly barred from the rota. **A post is only a post while its condition is happening:** on a stair day in Chapter 40 the corridor was shut, so the waist was not a post, and the four other posts were held by named substitutes — Iven on the wheel, the woman from the wash rooms on the landing, Mikka on the clinic return and the frame, and **Ruk Sella on the threshold bell**.
 
 ## Locked roster and injuries
 
@@ -54,7 +54,9 @@ Nera Oduya controls air testing and safe operation of the air gate, and has now 
 
 Form 7-B remains unsigned. Dael Harrow's route-custody order still locks the guild-controlled surface door and freezes guild-financed equipment; it cannot open the Hearthhold gate, order air, create consent, or establish ownership. The old clearance seal, old inspection route charter, salvage lien, insurance notice, physical ownership, Iven's suspended-bond receipt, and Marek's limited non-claim receipt remain distinct. Iven's Chapter 38 warning is new and load-bearing: a stair is a route, a route is the only thing with a guild legal instrument, and putting the lower side back into service is how a route charter arrives — so the restriction protects the crew as well as the rooms.
 
-Renn Vale, Dalla Sen, Jo Verrick, Mikka Hale, Ilsa Norr, Ruk Sella, and Isel Ferrow have each consented only to named work and named refusals. Jo holds the work board. Renn's sixth-watch position (four days in seven) is unchanged and her stair-watch refusal is a **wider** refusal of the same thing, not a withdrawal. Mikka has added a refusal: she will not feed stair work. Isel Ferrow is now a trained reader of the water mark, second in a rota of people rather than jobs.
+The **stop on a stair day is a threshold and not a person**: the cloth at the valve and Nera's word, any of the four people who keep a room, and the cord itself, whose tension comes back up the string to Dalla's bell. Sefu has stated the gap in it out loud and it is not closed in principle, only in practice: on a stair day the keeper is on the stair and Dalla is on a landing, so the bell needs a named deputy who has been asked and is not one of the four. Chapter 40's deputy was Ruk Sella, who said yes and was not told she had been given anything.
+
+Renn Vale, Dalla Sen, Jo Verrick, Mikka Hale, Ilsa Norr, Ruk Sella, and Isel Ferrow have each consented only to named work and named refusals. Jo holds the work board. Renn's sixth-watch position (four days in seven) is unchanged and her stair-watch refusal is a **wider** refusal of the same thing, not a withdrawal. Mikka has added a refusal: she will not feed stair work. Isel Ferrow is now a trained reader of the water mark, second in a rota of people rather than jobs. **The unnamed woman from the wash rooms holds a watch post she was asked for by Mikka and was never asked a question about by the crew**, which is the whole of the boundary's consent practice in one person.
 
 ## Relationship and power state
 
