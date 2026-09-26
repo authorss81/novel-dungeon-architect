@@ -26,7 +26,7 @@ Dalla Sen entered the question in his words and entered that nobody answered it,
 
 Then the cook, from the doorway, with the cloth over her arm.
 
-"**Two days,**" said Mikka Hale. "**The seam gave me nothing yesterday and nothing this morning and it is at four threads, and two days is what the pot is, and there are six people in this building who are not this building's and who have eaten out of it for a fortnight. And I have done the arithmetic out loud in this room three mornings running and nobody has answered it, and nobody is going to ask me to. And there is a thing I want entered and it is not about the pot.**"
+"**Two days,**" said Mikka Hale. "**Three mornings now that the seam has given me nothing, and it is at four threads, and two days is what the pot is, and there are six people in this building who are not this building's and who have eaten out of it for a fortnight. And I have done the arithmetic out loud in this room three mornings running and nobody has answered it, and nobody is going to ask me to. And there is a thing I want entered and it is not about the pot.**"
 
 "**Then it goes in,**" said Dalla Sen, with the chalk up.
 
@@ -42,7 +42,7 @@ Bel Ordry came down the step twice and both times he was about to say something 
 
 "**Entered,**" said Dalla Sen, "**and entered that a man who keeps a page brought a sentence to a room and dropped it there and would not say what it was about, and that the clerk did not ask, and that this is the fourth time in three weeks that she has not asked him something and that she is not going to keep a figure of the not-asking.**"
 
-Tams Quill read the board at the sixth bell and it is at eighteen entries, of which eleven are nulls and eight are not, and the eight are a claim, a mark, a row, a plan, a condition, a store and a brace, and the two columns are nine and nine, and the second of them has nothing over the top of it. He gave no reason for the column and she did not ask him for one, and entered that he had offered nothing and that the offer was not madeed, and that a man who has refused five things in three weeks read a board out loud on a Thursday and refused nothing, and that she had watched him not refuse and had entered the watching.
+Tams Quill read the board at the sixth bell and it is at eighteen entries, of which eleven are nulls and eight are not, and the eight are a claim, a mark, a row, a plan, a condition, a store and a brace, and the two columns are nine and nine, and the second of them has nothing over the top of it. He gave no reason for the column and she did not ask him for one, and entered that he had offered nothing and that the offer was not made, and that a man who has refused five things in three weeks read a board out loud on a Thursday and refused nothing, and that she had watched him not refuse and had entered the watching.
 
 The sixth bell came and the day's figure and the total went into the book and neither of them was read out, and the reason went in beside them: a room had gone four days without anybody saying the thing that was being said in it, and a clerk does not stand up and read a total over four days of that.
 
@@ -50,7 +50,7 @@ Two today and two hundred and ninety since the keeper signed. The boundary is at
 
 The count went in under the day's figure in the ordinary way, in the ordinary hand, in the ordinary place, and nobody remarked on it. The clerk said it out loud once, to the anvil end, without stopping in what she was doing: the fortieth week running of a number of days and not a number of anything, thanked once by a man who was not in the building and had not meant it. One hundred and thirty-one days and one hundred and thirty-one nights, and it is not going to be one hundred and thirty-two.
 
-Seventy-five and a half on the crew, unmoved, and the reason for the day in the book where a reason goes: a man at the anvil end has not said nothing for two days -- he has said four sentences and one of them was a refusal -- and a clerk who cannot tell a silence from a fault is not going to hand five people a piece of work in the middle of it.
+Seventy-five and a half on the crew, unmoved, and the reason for the day in the book where a reason goes: a man at the anvil end has not said nothing for two days, he has said four sentences and one of them was a refusal, and a clerk who cannot tell a silence from a fault is not going to hand five people a piece of work in the middle of it.
 
 The pot is two days, the seam gave nothing on three mornings running, the four households at a second gate have nothing, and no figure is attached to that gate by anybody.
 
@@ -78,7 +78,7 @@ He put the chalk on the anvil end and left it there.
 
 He looked at the book on the trestle and not at anybody.
 
-"**And I have got very good at not being found. Thirty-seven weeks in this building and there is no page in it with my hours on it, and there is no register anywhere with my name in a line of it, and the page where a person's hours would go is blank and has three conditions on it and the third of them says nobody is to be sent anywhere to make it true. And I have got extremely good at that, and I have got good at it in a way I could not have got good at anywhere else in my life, and the only reason I have got good at it is that this room made it possible and then had nothing to do with what I did about it.**"
+"**And I have got very good at not being found. Thirty-seven weeks in this building and there is no page in it with my hours on it, and there is no register anywhere with my name in a line of it, and the one page in this building that would take a man's hours has been left blank for thirty-seven weeks on purpose, and the last of the three reasons on it is the only thing I have ever wanted written down anywhere, and nobody is ever going to write it down anywhere. And I have got extremely good at that, and I have got good at it in a way I could not have got good at anywhere else in my life, and the only reason I have got good at it is that this room made it possible and then had nothing to do with what I did about it.**"
 
 "**And that is the reason,**" he said. "**Not the money. I want the money, and there is no version of this evening in which I pretend otherwise. The reason is that a post would take my work out of the only place in this district where nobody owns it, and put it in a book four and a half days up a passage with a heading over it, and a heading is a column, and a column is a post, and I have been in this building thirty-seven weeks arguing with a keeper about exactly that and I will not win my own argument by taking the other side of it.**"
 

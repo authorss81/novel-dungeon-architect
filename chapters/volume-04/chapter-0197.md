@@ -26,8 +26,6 @@ Then the room decided where the reading was to happen, and it took the whole of 
 
 Bel Ordry took the coat off the hook and did not take the page out of it, and put the coat over his arm, and the two of them went up the nine steps together with a slate and a closed page, and the corridor was open and the nine were not in it and the anteroom was empty behind them.
 
-What happened on the common landing took eleven minutes and the clerk entered that it took eleven minutes and entered that the figure was hers and was about her own two errands and not about the reading.
-
 Emrys Callow read the six rows out loud in his own mouth, from the slate, in the order Dalla Sen had written them in, and not in an order that made them better. Jo Verrick stood beside him with her own hand on the slate and checked every figure as he gave it, and read each one back against the page in the coat without opening the page further than the coat allowed, because the page is in four parts and only the first part was out.
 
 "**One, a dwelling room over a cookhouse, permitted eight. Two, a store with a dry vent, permitted twelve. Three, a room with a hearth and a floor of beaten earth, permitted six. Four,**" said Emrys Callow, and his voice did not change, "**a room with nine hearth stones in it, permitted ten.**"
@@ -77,6 +75,8 @@ Then Bel Ordry gave the half against, and he gave it in the standing position at
 "**Then none of that is done today,**" and she said it from the fourth step with the slate under her arm, "**and it is not done this week by anybody in this building, and it is owed, and it is owed out loud now, in a room, by the person who has just named it, and I would like a clerk to enter that it was named and that nobody has started it and that the naming is not a plan.**"
 
 "**Entered,**" and she wrote it standing up, which she has not done in a room in three weeks, "**in a counter clerk's words, and entered that it is owed, and entered that nobody has started it, and entered that the naming of a thing is not a plan and that this building has been confusing the two instruments for thirty-seven weeks and that a man in a room four days up that passage is going to be asked to stamp two pieces of wax and is not going to know that he is the last person in this story who can.**"
+
+The clerk entered the length of it while the landing was still being talked over, and the length of it was eleven minutes, and she entered the eleven minutes as hers and not as the reading's, and entered the reason, which is that a good part of it was spent getting six rows onto a slate in her own hand and in the order they were written in, and that getting them onto a slate is one of the two jobs she has and the reading is not either of them.
 
 Jo Verrick had not moved off the wall.
 

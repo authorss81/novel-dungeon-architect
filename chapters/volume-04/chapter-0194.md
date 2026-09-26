@@ -78,7 +78,7 @@ And then Nella Bray sat down, which she has not done in this room, and put her s
 
 Nobody said anything, because everybody in the room knew that and had known it since Sunday.
 
-"**I want to say what happens to it,**" she said, "**and I want to say it as a fact about a counter and not as an opinion about this boundary, because I have no opinion about this boundary. At the counter a message that has not come back does not wait. It waits until somebody chases it, and the chasing is done by a person, and a person who chases is a person whose hours go in a book with a heading over them, because chasing is work and work is entered. And there is no page in this building where that goes, and the page at the low end is blank and has been for thirty-seven weeks and carries three conditions and the third of them says nobody is to be sent anywhere to make it true.**"
+"**I want to say what happens to it,**" she said, "**and I want to say it as a fact about a counter and not as an opinion about this boundary, because I have no opinion about this boundary. At the counter a message that has not come back does not wait. It waits until somebody chases it, and the chasing is done by a person, and a person who chases is a person whose hours go in a book with a heading over them, because chasing is work and work is entered. And there is no page in this building where that goes, and the page at the low end is blank, and it is not blank for want of a heading over it, it is blank because it carries three conditions, and the third of those three is that nobody is to be sent anywhere to make a thing true, and chasing a message is making a thing true by a person with hours on a page.**"
 
 "**So it is not coming back,**" from behind the trestle.
 
@@ -88,7 +88,7 @@ Nobody said anything, because everybody in the room knew that and had known it s
 
 "**So the true fact about five and a half where a district's book says six is in nobody's book,**" from the step, and slowly, in the voice of a man reading a line off a counter himself.
 
-"**It is in a book,**" said Nella Bray. "**It is in a book in a district four days up that passage, in a foreman's hand, with a day of the week on it and not a date. Whether anybody ever reads it is not the same question and I have never in nineteen years seen a room confuse the two, and this room has confused them since the third week, and that is the only criticism I have of this room.**"
+"**It is in a book,**" said Nella Bray. "**Four days up that passage, in the district, in a hand that belongs to a man who does not work for this boundary, and the day of the week is on it because a day of the week is what a foreman can stand behind and a date is not. Whether anybody ever reads it is a different question, and I have not seen a room in nineteen years confuse the two, and this one has confused them since the third week, and that is the only criticism I have of it.**"
 
 "**And the sheet with the line for the date it was observed,**" said Dalla Sen, and her hand went towards the chalk and stopped there.
 
