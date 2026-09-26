@@ -72,7 +72,7 @@ He put the hand on the table, palm up, and did not close it, and did not try to.
 
 Then Emrys Callow named the three who could not be asked, and he named them before the asking, and he gave a reason for each, and none of the three reasons was one this building had used before.
 
-"**Leena Orr,**" he said, "**and the reason is not the reason from the last three askings, and I am going to say the new one and I would like the clerk to have it exactly. Her trade is reading a thing that is already built, and everything I have asked anybody for in this building has been a thing that is not built yet, and this one is worse than that, because this one is a thing that was built nine hundred years ago and has been standing there with nobody watching it and now it is wet. She is the only person in this building who could tell me what a wall is doing and she can only tell me by putting a rule on it, and the folding rule is in a belt on the fourth of the fortieth week and has been on a belt for twenty-five mornings, and I am not asking the woman who has just told this room four refusals about one wall to come and put her rule on a second one in the same week.**"
+"**Leena Orr,**" he said, "**and the reason is not the reason from the last three askings, and I am going to say the new one and I would like the clerk to have it exactly. Her trade is reading a thing that is already built, and everything I have asked anybody for in this building has been a thing that is not built yet, and this one is worse than that, because this one is a thing that was built nine hundred years ago and has been standing there with nobody watching it and now it is wet. She is the only person in this building who could tell me what a wall is doing and she can only tell me by putting a rule on it, and the folding rule is in a belt and has been on a belt for twenty-five mornings, and I am not asking the woman who has just told this room four refusals about one wall to come and put her rule on a second one in the same week.**"
 
 "**Entered, in the words of the foreman, and it is a new reason and it is not the reason from the last three askings,**" said Dalla Sen.
 
@@ -80,7 +80,7 @@ Then Emrys Callow named the three who could not be asked, and he named them befo
 
 "**Entered, and entered that the clerk did not ask and did not intend to,**" said Dalla Sen.
 
-"**And the third,**" said Emrys Callow, "**and this one is new and it is not about a body and it is the only one of the nine of them that is not about a body, and I would like the room to notice that before I say it.**"
+"**And the third,**" said Emrys Callow, "**and this one is new and it is not about a body and it is the only one of the three of them that is not about a body, and I would like the room to notice that before I say it.**"
 
 He stopped, and the room waited, and it was a waiting that went on slightly too long and everybody in it heard it.
 

@@ -42,7 +42,7 @@ Iven Tallo took his hand off the iron.
 
 "**Nobody is arguing for the pot,**" Iven Tallo agreed. "**And I have watched four people in this room this week get close to arguing for the pot and go somewhere else, and I am not going to be the fifth. I am the man in this room who has spent his life on walls and has never once owned one, and I said that on the fourth day of the thirty-ninth week and nobody asked me about it then and nobody is going to ask me about it now, and what I have learned in the two days since is that there are two waters in this building this week and only one of them is anybody's, and the one that is anybody's is the one with six strangers eating out of it.**"
 
-"**That is the eighth reason and not a reason for the column,**" said Tams Quill, from the end of the bench, without looking up. "**I am not giving it as one. I heard him say it and I am recording that I heard it and that it was not mine and that I am not putting it in my mouth.**"
+"**That is his reason and not a reason for the column,**" said Tams Quill, from the end of the bench, without looking up. "**I am not giving it as one. I heard him say it and I am recording that I heard it and that it was not mine and that I am not putting it in my mouth.**"
 
 "**Entered, and entered that he was not asked for it and did not claim it,**" said Dalla Sen, "**and entered that a carpenter gave a reason in a room this morning which is the second one this week that has not been about the man who gave it.**"
 

@@ -1,6 +1,6 @@
 # Chapter 209 — What It Cost To Stop It
 
-The sixth day of the fortieth week is a Saturday, the corridor is open, and the school ran for the forty-sixth morning in the room at the kitchen-line end, and the nine went up the nine steps at the first bell and came down them at the fourth and went out at the far door, and the nine went down them at exactly the speed they went up them, which had been true since Friday and had not been true on Wednesday. The pump had not run for seven days. It ran at the second bell.
+The sixth day of the fortieth week is a Saturday, the corridor is open, and the school ran for the forty-sixth morning in the room at the kitchen-line end, and the nine went up the nine steps at the first bell and came down them at the fourth and went out at the far door, and this was one more morning of school than Friday and nobody in that anteroom made anything of it. The pump had not run for seven days. It ran at the second bell.
 
 No market came into this building on this day and nobody here went looking for one. The one thing anybody knew about a sixth day arrived in a woman's mouth at the first bell, and what she brought was a fact about a counter, and it was about salvage this time and not about queues.
 
@@ -78,7 +78,7 @@ Then Jo Verrick, from the wall.
 
 "**Then what is it,**" said Bel Ordry.
 
-"**I have not got that,**" Jo Verrick said. "**And I am going to say the thing that I think is the true thing and that nobody is going to like. If a room has a bed under a stone that is going up, and there is water in this building, and there is a wall between the two with a bad repair on one face only, then there is a thing I would want to look at that I have not looked at, and I have not looked at it because I have been reading the party wall every morning for twenty-eight mornings and the party wall is not that wall.**"
+"**I have not got that,**" Jo Verrick said. "**And I am going to say the thing that I think is the true thing and that nobody is going to like. If a room has a bed under a stone that is going up, and there is water in this building, and there is a wall between the two with a bad repair on one face only, then there is a thing I would want to look at that I have not looked at, and I have not looked at it because I have been reading the party wall every morning for twenty-nine mornings and the party wall is not that wall.**"
 
 "**Say the half against that,**" said Bel Ordry.
 

@@ -98,7 +98,7 @@ Seth Wray put the sheet back on the trestle, squared it with two fingers, and di
 
 "**Entered, and entered that the claim is neither granted nor refused and that a hearing is owed and not given,**" said Dalla Sen, "**and entered that a guild's form is lying on this boundary's trestle with a line struck out of it by this boundary's air engineer and a seal number on the corner of it that this boundary's own half against predicted in advance and correctly.**"
 
-At the sixth bell Dalla Sen read the day's figure and the total out loud, both of them, and then did not read the count, and gave the reason herself, and the reason was that a room which has been handed a piece of paper that costs somebody else something is owed a number that is its own.
+At the sixth bell Dalla Sen read the day's figure and the total out loud, both of them, and then read the count, and gave the reason for the order she gave them in herself, and the reason was that a room which has been handed a piece of paper that costs somebody else something is owed a number that is its own before it is owed a stranger's.
 
 "**Three today and three hundred and ten since the keeper signed. The boundary is at four hundred and twenty-seven and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.**"
 

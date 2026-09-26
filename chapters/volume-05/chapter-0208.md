@@ -112,7 +112,7 @@ At the sixth bell the day's figure and the total went in and were not read, and 
 
 Two today and three hundred and twenty-five since the keeper signed. The boundary is at four hundred and forty-two and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.
 
-The count went in underneath that on its own line, in the ordinary hand, and was not read, and no reason was given, and the line has no heading over it and is not going to get one. Wen Pask is one hundred and fifty-three days and one hundred and fifty-three nights, fifty-one weeks of a clerk saying out loud that she is going to keep writing it down. It is not going to be one hundred and fifty-four.
+The count went in underneath that on its own line, in the ordinary hand, and was not read, and no reason was given, and the line has no heading over it and is not going to get one. Wen Pask is one hundred and fifty-three days and one hundred and fifty-three nights, forty-five weeks of a clerk saying out loud that she is going to keep writing it down. It is not going to be one hundred and fifty-four.
 
 The board was walked, and it is at eighteen entries, eleven of them nulls and seven of them not, and the seven are a claim, a mark, a row, a plan, a condition, a store and a brace, and the two columns are nine and nine, and the second of them has nothing over the top of it. Tams Quill gave the eighth reason for the refusal and she did not ask him for a ninth and he did not offer one.
 
