@@ -22,7 +22,7 @@ For a while there was no sound in the room at all. Then Mikka Hale said the sent
 
 ---
 
-**They went through it in the order this room goes through things, and the order is that nobody decides anything until everybody has said the thing they came to say, and the thing Renn Vale said was the one nobody had thought of.***
+**They went through it in the order this room goes through things, and the order is that nobody decides anything until everybody has said the thing they came to say, and the thing Renn Vale said was the one nobody had thought of.**
 
 "**It is not our door,**" she said. "**Nobody in this room has any standing to say one word about that lock and I want that said first, before anybody gets pleased with themselves about the road.**
 
@@ -78,11 +78,11 @@ Dalla Sen put the two pages side by side on the anteroom table, in front of the 
 
 **Three.** A copy of the two sentences went up the middle passage on a courier's hand, in the clerk's hand, unsigned and undated, and Bel Ordry did not put his ring on it, and when Dalla Sen said so out loud he said why in one sentence and did not argue.
 
-"**I have cut a ring into paper for twenty weeks because I keep a page in a coat and a page wants a man on it. I am not putting it on this. **A ring on a sheet is a mark on a sheet, and a mark on a sheet is a thing a person can be found by, and I have spent nineteen weeks arguing that no person in this Hearthhold may be found by a mark, and I am not going to be the first one to break it in a bad week.****
+"**I have cut a ring into paper for twenty weeks because I keep a page in a coat and a page wants a man on it. I am not putting it on this.** **A ring on a sheet is a mark on a sheet, and a mark on a sheet is a thing a person can be found by, and I have spent nineteen weeks arguing that no person in this Hearthhold may be found by a mark, and I am not going to be the first one to break it in a bad week.**"
 
-"And I would like it entered that I wanted to, and that the reason I did not is that a cook stood in front of me and made it a question.****
+"And I would like it entered that I wanted to, and that the reason I did not is that a cook stood in front of me and made it a question.
 
-Dalla Sen entered it, and entered that the sheet carries a clerk's routing mark and no other mark of any kind, and that she had told the keeper of the page that he was going to be asked about his ring before he made the decision and had not, and entered that she had not known she was going to do that when she started.****
+Dalla Sen entered it, and entered that the sheet carries a clerk's routing mark and no other mark of any kind, and that she had told the keeper of the page that he was going to be asked about his ring before he made the decision and had not, and entered that she had not known she was going to do that when she started.
 
 "**And I want the next thing read out and I want it read out by the man who is going to be asked for it,**" said Dalla Sen, and she read it, and then she said it in her own words, because she is the clerk.
 

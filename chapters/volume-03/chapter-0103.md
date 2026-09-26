@@ -48,7 +48,7 @@ Ilsa Norr put Isel Ferrow on the fifth and did not argue, and she had the senten
 
 ---
 
-**They went in two parties and a fifth, and the time was entered, and the time is the thing this chapter is for.**
+**They went in two parties and a fifth, and the time was entered, and the time was the whole argument, because it was the first time nine children and a woman had gone over that ground and come back with a figure nobody had to guess at.**
 
 Renn Vale crossed first. The four children came behind her at a walk, one hand on the wall, and Ilsa Norr walked backwards in front of them saying the names out loud one at a time so that a room full of children would be nine children rather than a number.
 

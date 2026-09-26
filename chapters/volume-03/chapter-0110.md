@@ -82,7 +82,7 @@ Nera Oduya wrote it in four minutes on the back of the anteroom table in her own
 
 "**Entered,**" said Dalla Sen, "**and entered that the rest of it was not asked for, and that nobody in this room is going to ask.**"
 
-And then the clerk did the last part of it herself, at the sixth bell, with the school store open, which is the only reason it could be done, and the school store is open, and it is open because nine register boxes are on hearth stones at the far end of the corridor and the plan's two parts are in a coat, and that is the whole reason and there is nothing else about it.****
+And then the clerk did the last part of it herself, at the sixth bell, with the school store open, which is the only reason it could be done, and the school store is open, and it is open because nine register boxes are on hearth stones at the far end of the corridor and the plan's two parts are in a coat, and that is the whole reason and there is nothing else about it.
 
 The dowel is a nine-row maintenance schedule on a wooden dowel in a locked school store, to a scale, and it has not been out of that store since the register boxes came out of it, with a count column with no names and a condition column with no days and a work column empty on six of nine lines. It has no air on it at all. It is undated and cannot be dated.
 
@@ -126,9 +126,9 @@ Then the column with no heading, which the count has now read out in full twice 
 
 "**Two things I know, and one thing I do not.**
 
-"**The first thing I know is that this boundary has just found out that a page can keep a number after the people have gone. Ten, in a room that has been empty every day for twenty-one weeks, in a hand that is careful, checked twice, in front of a room, against a page that is nine hundred years old and cannot be dated and that nobody in this building has ever had read out to it by anybody. I do not know why. I am not going to write a theory about it this week, and I want that in the book as a decision and not as modesty, because a man with a theory about it on Friday is a man with a theory about it in a month, and we do not have one.******
+"**The first thing I know is that this boundary has just found out that a page can keep a number after the people have gone. Ten, in a room that has been empty every day for twenty-one weeks, in a hand that is careful, checked twice, in front of a room, against a page that is nine hundred years old and cannot be dated and that nobody in this building has ever had read out to it by anybody. I do not know why. I am not going to write a theory about it this week, and I want that in the book as a decision and not as modesty, because a man with a theory about it on Friday is a man with a theory about it in a month, and we do not have one.**
 
-"**The second thing I know is that we have learned how to keep a room by making it a room nobody is in. The price was a wedge out of a school door and an afternoon. It worked. It is holding. Nobody is behind it. And everybody in that room voted for it on Thursday and I voted for it too and I was the only one in that room who could see it was the first of a series, and I did not say so, and I want that said, because the man who can see a series coming and does not say it is the man who ends up explaining it afterwards.******
+"**The second thing I know is that we have learned how to keep a room by making it a room nobody is in. The price was a wedge out of a school door and an afternoon. It worked. It is holding. Nobody is behind it. And everybody in that room voted for it on Thursday and I voted for it too and I was the only one in that room who could see it was the first of a series, and I did not say so, and I want that said, because the man who can see a series coming and does not say it is the man who ends up explaining it afterwards.**
 
 "**And I do not know the other way. I have no idea how you keep a wet room safe with nine children in it and no shelf, and I have had twenty weeks to have an idea and I have not got one, and the person who has to work it out is me.**
 

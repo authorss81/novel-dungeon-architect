@@ -78,7 +78,7 @@ Dalla Sen wrote it on a separate page and the two pages now disagreed on purpose
 
 **Dalla Sen wrote it and did not improve it and did not put it in a column, because it was not a column, it was a woman on a landing.**
 
-**And at the fifth bell, with the door shut and the room empty and nobody in it,** two people stood in front of the shut mouth above the door and read the stone over it, and they read it differently, and neither of them would say what it was.****
+**And at the fifth bell, with the door shut and the room empty and nobody in it,** two people stood in front of the shut mouth above the door and read the stone over it, and they read it differently, and neither of them would say what it was.
 
 **Nera Oduya and Renn Vale, both of them with a lamp, both of them refusing to touch the stone.**
 

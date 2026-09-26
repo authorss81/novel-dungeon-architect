@@ -6,27 +6,77 @@ On the second day of the twenty-first week the clerk found four sentences on the
 
 "**It stays,**" said Bel Ordry. "**A rule in a drawer is a rule nobody has to look at, and this one has a stranger's hand on the other side of it and it is going to be used whether we can see it or not.**"
 
-"Then we will work," said Mikka Hale. "**All of us. Because it is about a wall with water in it, and it is the only one of the instruments in this building that is about a thing any of us touches every day, and I have not got a second thing to do this morning.**"
+"**Then we will work,**" said Mikka Hale. "**All of us. Because it is about a wall with water in it, and it is the only one of the instruments in this building that is about a thing any of us touches every day, and I have not got a second thing to do this morning.**"
 
 ---
 
-**So the room went at it, and it went at it in the shape this room makes documents in, which is that two positions are stated out loud, in full, by a person, before anybody puts a mark on anything.**
+**The air engineer wanted the room to argue it properly, and she wanted to be argued with, and she said so before the chalk was picked up.**
 
-**First position, and it is Renn Vale's,** and it is the conservative one and it is not stupid.
+"**A wall with water in it,**" said Nera Oduya, from three steps. "**That is the fourth. The haunch behind the anteroom's outer service door, four threads and a leaf, two jars a day maybe three, and the only drinking water in this Hearthhold, and it is in the wall of the room that had nine children in it for twenty weeks.**
+
+"**And I have been asked for a piece of work and not consulted for a decision, and the piece of work is that line, and I have written it, and I would like the room to argue about whether it goes on a page or not, because I have a position and I am not putting it in the room without somebody objecting to it.**"
+
+"Then that is two," said Dalla Sen, with the chalk up, "**and the room is going to do this properly. Mikka. Why leave it out.**"
+
+---
+
+Mikka Hale had the pot side of it ready, which meant she had been thinking about it since the fifth bell on Friday and possibly since the second day.
+
+"**Because a document that names three things is a description. A document that names four things is a claim,**" she said. "**And we spent nineteen weeks getting one sentence into a charter — that none of them can be entered against a man — and we did it by naming as few as we could, and every time somebody has put one more thing on a piece of paper in this building it has got harder to keep all of them in a room.**
+
+"**And here is the part I do not want said out loud. The three things in that clause are all of them a person being in danger. A stair, a lip, a valve. A man on a stone, a man under a slab, a hand on a handle. The wall is not a person being in danger. The wall is a thing giving us something, and a wall that gives us something is a wall somebody in four days is going to write *source* against.**"
+
+"**Then put it in,**" said Nera Oduya, "**and you are right about the shape of it and you are wrong about the wall, and I am going to say why I am going to put it in anyway.**
+
+"**A stranger is going to come and ask what this boundary's objects of care are, and if the answer is not on the page then the answer is in somebody's mouth. And a thing in a cook's mouth is a thing a stranger writes down. A thing on a page under a charter is a thing a stranger has to come back for. I said that to a stranger in a corridor on Friday and I said it badly and I have not stopped hearing it.**"
+
+"**That is a real argument,**" said Renn Vale, "**and I am not going to pretend it is not, and I still think the other one is.**
 
 "**Our charter names three objects of care. A stair, a lip and a valve. The air engineer struck the woman's covers out of the reason clause in the nineteenth week because nobody had asked her, and the cook struck the second gate out because it is not a thing to hand a kitchen's water to a stranger in a document about a door, and between those two strikes this document got smaller and safer and it is signed by seven people.**
 
 "**If I add a fourth thing now, I am putting a claim on a wall. A document that names four things can be read as a claim on four things, and the whole of what this boundary has done for nineteen weeks is refuse to make claims, and I would be doing it with my own hand on a Tuesday because a man from the surface asked a question on Friday.**"
 
-**Second position, and it is the cook's,** and it is the other one, and Mikka Hale said it standing at her own board.
+"So put it in," said Bel Ordry, "**but as a second thing and not as a change, and I have thought about this for two days and I am going to say the whole of it and then somebody is going to tell me why I am wrong.**
 
-"**Leave it out and there is no answer on the page. A stranger comes up this passage in ten years and asks what this boundary's four objects of care are, and there are three on a sheet in a room, and the fourth is in somebody's mouth. And you cannot leave the fourth in somebody's mouth, because the moment it is in somebody's mouth it belongs to that person and it will be said in a different tone on a bad day.**"
+"**The charter is signed. Seven hands. Clause nine says what is not in it and that is deliberate, and clause four is a noun with two men in it, and the whole of the argument of the last three weeks is that this document is the boundary's own and it is not a page and it does not travel and the office can neither grant it nor refuse it.** And if you go over that sheet with a second clause you have a document with two clauses, and a document with two clauses is a document with two things that can be argued about separately, and the second of them is going to be argued about by somebody who has never been in this room."
 
-"**That is a real argument,**" said Renn Vale, "**and I am not going to pretend it is not, and I still think the other one is.**
+"Then it goes under," said Dalla Sen. "**Second sheet, under the first, and it does not replace it and it does not erase a clause and it does not touch clause nine, and if anybody wants to know what this boundary is bound by they read the top sheet, and if anybody wants to know what this boundary is actually looking after they read the one underneath.**
 
-"**Then we are two for and two against and the tie is a person,**" said Dalla Sen, "**and the person who wrote the reason on the page is the air engineer, and the person whose object of care it is is the cook, and I am the clerk and I am not going to be the person.**"
+"**And it is dated in the top corner.**"
 
-Both of them said yes, at the same time, and Dalla Sen wrote that down, and Bel Ordry said, "**Then it is two hands and not one, and that is not a compromise, that is the correct shape of it, and I am going to say the next thing and the room is not going to like it.**
+"**It is not,**" said Bel Ordry.
+
+**The clerk stopped with the chalk up.**
+
+"**A page with a date in the top corner is a record of what a building was doing on a day,**" he said, "**and that is the whole of the difference between this boundary's paper and a nine-hundred-year-old schedule that is rolled up in a locked school store four hundred feet from here and has never been read out to any of us by anybody. I have got one date in this building and it means *as at*, and I am not going to write a second one in a month, and if the sheet has no date on it then it says *now*, and *now* is the only honest thing a second sheet can say.**"
+
+"**Write on it, in the clerk's hand, that it has no date on it because it does not record a day, and the first sheet is dated, and the two are not the same kind of thing.**"
+
+Struck, and written in the keeper's words, and the clerk entered that the room had been told a thing about its own page that it had not been told in five months.
+
+---
+
+**And then Nera Oduya did the thing she does,** which is to strike a thing nobody has asked her about, and she did it in nine seconds and she was right.
+
+"**Hold it. There is a covers clause in the charter's reason and it came out in the nineteenth week, and I took it out then and nobody has put it back, and I see a piece of paper going down the road and I am striking it again before anybody explains it to me.**
+
+"**And I am going to say the reason out loud this time instead of writing it, because last time I wrote it and it sat on a page for a week before anybody asked me what it meant. Nobody has asked her. Not once, not in twenty weeks, not by me. Her three conditions stand and they are hers and they are not ours to spend, and a floor in this building is not an object of care in a document that is going to a stranger, and the reason is not that it is dangerous to write down. It is that we have never asked a woman in this building for one thing and we are not going to start in a document.**"
+
+She struck it in her own hand, and Dalla Sen read the strike, and Nera Oduya said: "**There. And if any of you can produce one sentence in which anybody in this building asked her whether her covers could be used as an argument, then I will put them back in myself.**"
+
+There was not one in that room to produce, and Dalla Sen entered that nobody could produce one, and entered that this is the second time.
+
+Then Renn Vale named the price, and she named it to the room and not to the clerk, and she named it in the shape of the thing that had been bothering her since Friday.
+
+"**Two documents can be split,**" she said. "**A charter with a sheet under it is two things, and a thing with two parts can be taken apart, and the part that is easier to hold is the part somebody keeps. In a year — and I mean a year, not a week, I am patient about pages — somebody is going to read the second sheet on its own because it is shorter and it is newer and it has a wall in it that gives them water, and they are not going to read clause nine underneath it, and clause nine is the sentence that says the ninth room and the four treads and the wash rooms and the mouth are not in any of this and that it is deliberate.**
+
+"**That is the price and it is not small and I am not going to argue against it, because the alternative is that a wall with the only drinking water in it is on nobody's paper, and I have watched a cook in this room have to describe that wall out loud to a stranger in a corridor on Friday. A page that can be read wrong is better than a secret that has to be told.**"
+
+"**Then write the price on it,**" said Bel Ordry. "**In the room's words and not mine. It is going to say that the charter and this sheet disagree by one object of care and that this is deliberate, exactly as the cook has already made them disagree by one number.**"
+
+---
+
+**And then Bel Ordry said the thing about his own hand,** which made it two hands and not one, and that is not a compromise, that is the correct shape of it.
 
 "**I cannot sign. The second signature on the charter below the keeper's is the cook's and the third is Renn Vale's, and the keeper is on a road, and this boundary is not going to reopen a signed instrument, and it is not going to have a sheet go up a road with a hole in it where a signature ought to be.**"
 
@@ -36,39 +86,13 @@ Both of them said yes, at the same time, and Dalla Sen wrote that down, and Bel 
 
 ---
 
-**And then Nera Oduya did the thing she does, which is to strike a thing nobody has asked her about, and she did it in nine seconds and she was right.**
-
-"**Hold it. There is a covers clause in the charter's reason and it came out in the nineteenth week, and I took it out then and nobody has put it back, and I see a piece of paper going down the road and I am striking it again before anybody explains it to me.**
-
-"**And I am going to say the reason out loud this time instead of writing it, because last time I wrote it and it sat on a page for a week before anybody asked me what it meant. Nobody has asked her. Not once, not in twenty weeks, not by me. Her three conditions stand and they are hers and they are not ours to spend, and a floor in this building is not an object of care in a document that is going to a stranger, and the reason is not that it is dangerous to write down. It is that we have never asked a woman in this building for one thing and we are not going to start in a document.**"
-
-She struck it in her own hand, and Dalla Sen read the strike, and Nera Oduya said: "**There. And if any of you can produce one sentence in which anybody in this building asked her whether her covers could be used as an argument, then I will put them back in myself.**"****
-
-There was not one in that room to produce, and Dalla Sen entered that nobody could produce one, and entered that this is the second time.
-
-Then she said the other thing about the second sheet, and the room had not asked her to, and it is the sentence the chapter is built on.
-
-"**And now say the price out loud, because somebody is going to have to say it and it will not be me.**
-
-"**Two documents that say the same thing are one document. Two documents that do not say the same thing are two, and they can be split, and a split is not a disagreement — a split is a thing where a person in the middle picks the one that suits him. We have a charter with three objects of care and we are about to have a sheet with four, and the charter is on a scrub board and the sheet is going to be on a table, and the second one leaves this building.**
-
-"**So we are about to make it possible for a person forty days away to hold a document that says this boundary has four objects of care and another that says it has three, and to take whichever one he came for.**"
-
-"**Then do not write four,**" said Renn Vale.
-
-"**Then we are back to a room with a wet floor and a stranger's question in ten years,**" said Mikka Hale, "**and I have been a cook in this building for twenty weeks and I have watched this boundary get itself into a hole twice by being careful, and both times the hole was a document that was too small, and both times it was me that had to make it bigger.**"
-
-"That is the argument and it is a good one and it is a bad one," said Bel Ordry, "**and I am going to write the sheet and I am going to write the price on it, and the price is going to be in the room's words and not mine, and it is going to say that the charter and this sheet disagree by one object of care and that this is deliberate, exactly as the cook has already made them disagree by one number.**"
-
----
-
-**They wrote the second sheet at the fourth bell, on butcher's paper, in two hands, with a date in the top corner and no name at the top of it.**
+**They wrote the second sheet at the fourth bell, on butcher's paper, in two hands, with no name at the top of it and no date in the top corner of it,** and the reason it has no date is on it in the clerk's hand, in Bel Ordry's words, because it does not record a day and the first sheet is dated and the two are not the same kind of thing.
 
 It does not replace the charter. It does not erase a clause. It does not touch clause nine, and the ninth room and the four treads and the wash rooms and the school corner's mouth and the blank line are still not in it, and it is still deliberate, and the second sheet says so by referring to the clause and not by repeating it, because a repeated clause is a second clause and a second clause can be argued with separately.
 
-It names **a wall with water in it, and the water in it, and the two jars a day, and the fact that nobody has asked the woman whose room holds the other thing of care in this building for one single thing in twenty weeks.** It is signed in the air engineer's hand and the cook's hand, and by nobody else, and Dalla Sen entered that nobody else was asked, and that this is the first document in this building signed by two people.
+It names **a wall with water in it, and the water in it, and the two jars a day, and the fact that nobody has asked the woman whose room holds the other thing of care in this building for one single thing in twenty weeks.** It is written in the air engineer's hand and the cook's hand, and signed by the cook alone, and by nobody else, and Dalla Sen entered that nobody else was asked, and that this is the first document in this building signed by two hands and one signature.
 
-Then Bel Ordry wrote the clerk's copy of the four sentences out, fair, in her hand, because a document that is going to be looked at twice has to be legible twice, and he did it in his own hand for the original and she did it in hers for the copy, and the two are word for word, and Dalla Sen read the copy back against the original in the room, twice, which took four minutes and is now the way this room checks anything.
+Then Bel Ordry wrote the clerk's copy of the four sentences out, fair, in his own hand, and she did it in hers for the copy, and the two are word for word, and Dalla Sen read the copy back against the original in the room, twice, which took four minutes and is now the way this room checks anything.
 
 **And the boundary went from two instruments to three: the charter, the sheet, and a four-sentence procedure about a body the charter does not mention. All three are about this building. Not one of them is about the four households.**
 
@@ -90,7 +114,7 @@ Nobody said anything to that either, in the room or after it. Dalla Sen wrote it
 
 ---
 
-**And then, at the fifth bell, with the room at its number and the second sheet on the table and the four sentences in a clerk's hand, the clerk did the thing this room has owed a man for a month, and she did it out loud and in front of everybody and she did not pretend it was anything else.**
+**And then, at the fifth bell, with the room at its number and the second sheet on the scrub board under the charter and the four sentences in a clerk's hand, the clerk did the thing this room has owed a man for a month, and she did it out loud and in front of everybody and she did not pretend it was anything else.**
 
 "**Bel Ordry. Your coat. I want to look at the four parts.**
 
