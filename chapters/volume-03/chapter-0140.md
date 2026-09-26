@@ -8,7 +8,7 @@ He had it out on the anteroom table at the second bell and it was not a drawing,
 
 "**I am going to do this with a piece of rope and a lump of stone and I am going to say the reason out loud first, because the last thing anybody in this building did with a floor was a stove and it was the right call and it cost a girl of nine her foot."
 
-"**This is the second way out of this building. It is the only one there is. The stair goes down to a landing and there is a slab over eleven feet that is packed and not held and there is a person under it and the post under that has never been built. The mouth in the school corner is open and has been since the first week of the twenty-sixth week and it is warm and it goes into the throat and nobody in this building has ever stood in it."
+"**This is the second way out of this building. It is the only one there is. The stair goes down to a landing and there is a slab over eleven feet that is packed and not held and there is a person under it and the post under that has never been built. The mouth in the school corner is open and has been since the fifth day of the twenty-second week and it is warm and it goes into the throat and nobody in this building has ever stood in it."
 
 "**And this is the other one, and it is not a route and I am not going to call it a route in a room."
 
@@ -50,11 +50,11 @@ For a while the room was quiet, and the pump got four strokes in, and a woman fr
 
 **Eighteen mornings in, the school ran in a room with a re-adopted condition in the second column of its row and a strip of crate board under a propped hearth stone, and the strip was holding, and the fire was not lit, and the light in that room was off nine stones.**
 
-**At the first bell the two of them stood in the doorway of the school corner, which is open and has been open since the first week of the twenty-sixth week and is not used and is not going to be used, and looked at the lintel above its mouth, which has four marks and a groove in it that are damaged.**
+**At the first bell the two of them stood in the doorway of the school corner, which is open and has been open since the fifth day of the twenty-second week and is not used and is not going to be used, and looked at the lintel above its mouth, which has four marks in it and a groove under them, and the four marks are damaged and the groove is not.**
 
 Renn Vale read the four marks out of the light, one at a time, and then Marek Venn read them again from under them at an angle, and they were not the same four marks.
 
-"**Two of these are the same mark and I have read them both ways and the fifth stroke is a stroke and not a stop,**" said Renn Vale.
+"**One of the four is two strokes and I have read it both ways and the fifth stroke is a stroke and not a stop,**" said Renn Vale.
 
 "**The fifth stroke is a stop,**" said Marek Venn, "**or it is the middle of a letter and there is no letter. I have read that lintel in this building for twenty-seven weeks and I have got two readings and I have got no third one, and I am not going to cut a mark in the stone to find out and I would like it entered that two people read it differently and that it has not answered either of us."
 

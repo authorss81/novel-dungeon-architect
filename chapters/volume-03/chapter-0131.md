@@ -6,7 +6,7 @@
 
 Renn Vale put it in a room at the second bell, standing on the landing with the pump's check off and the pump running underneath her, in the flat voice she uses for a term.
 
-"**I lifted a condition on Saturday morning in this building and I said out loud that lifting it was worth exactly not being the one a doctor looks at, and I have had a week to think about what I own now, and what I own is a room with nothing on it."
+"**I lifted a condition on Monday morning in this building and I said out loud that lifting it was worth exactly not being the one a doctor looks at, and I have had a week to think about what I own now, and what I own is a room with nothing on it."
 
 "**There is a slate in this building that has a condition on it about clay under a sill, and a condition on it about a mark on a jamb, and a condition on it about a room that runs water, and there are ten rows on the plan and every one of the ten has a condition in the second column with no number and no day on it. And the room at the kitchen-line end of this corridor has a row and the second column of that row says what it says, and the condition it names was lifted, and the slate it lives on has nothing on it about that room this morning."
 
@@ -128,7 +128,7 @@ She stood on the anteroom step and did not come in and put the lamp down where e
 
 "**I have been in three places in the last hour and I have put my hand in all three of them and I am going to say the thing I can say and I am not going to say the thing I cannot."
 
-"**Under the bed joint in the school corner there is water. That room has been shut as a room since the first week of the nineteenth week and it was opened as a room in the first week of the twenty-sixth and it is dry as a bone and it has a bed joint in the floor with water standing in it, and I did not go in there to look, I stood in the doorway with the lamp because it is a room nobody is using and I am not going to be the person who starts using it."
+"**Under the bed joint in the school corner there is water. That room has been shut as a room since the fourth day of the twentieth week and it was opened as a room on the fifth day of the twenty-second, and it is dry as a bone and it has a bed joint in the floor with water standing in it, and I did not go in there to look, I stood in the doorway with the lamp because it is a room nobody is using and I am not going to be the person who starts using it."
 
 "**And between the second and third hearth stones of the room at the kitchen-line end there is water again, and it came up on the first stroke this morning and it is four threads and it is warm."
 

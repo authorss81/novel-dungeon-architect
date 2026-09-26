@@ -1,14 +1,14 @@
 # Chapter 139 — The Only Plan Anybody Can Use
 
-**Shut for the corridor on the fourth day of the twenty-seventh week, a Thursday, and the school did not run, and the water came up at the waist for the second time in a fortnight and stood there, and the boundary emptied two rooms into the anteroom using a page that five people refused to sign, and the anteroom's second way out is a word, and the word could not be said by anybody in it, and nobody died and the plan worked.**
+**Shut for the corridor on the fourth day of the twenty-seventh week, a Thursday, and the school did not run, and the water at the waist had not been off the fill since the Thursday before, and the boundary emptied two rooms into the anteroom using a page that five people refused to sign, and the anteroom's second way out is a word, and the word could not be said by anybody in it, and nobody died and the plan worked.**
 
 **It is the best thing anybody in this building has done in twenty-seven weeks and a physician said so in a room and then said the other half of it, and the board was walked, and a man with a hand that will not close wrote a number of people in his own book and gave it to a woman and not to a page.**
 
 Jo Verrick found it at the first bell and came up the nine steps at a run, which she has not done in this building in twenty-seven weeks, and got to the top of the steps and had to stop.
 
-"**It has come back over the fill. Not into the channel, not into the low end, over the fill. It is standing on the ground at the waist about the height of my knee and it is not moving and there is nobody putting water there."
+"**It is over the fill and it has been over the fill since the Thursday before, and nobody in this room said that out loud this morning, and that is the whole of why I am standing here. Not into the channel, not into the low end, over the fill, and it did not come up today. It is standing on the ground at the waist about the height of my knee and it is not moving and there is nobody putting water there."
 
-"**And I have said out loud in this building, and Jo Verrick said it, that nobody measures that fill. Three of us agreed not to and I gave the reason on Thursday and the reason was that if we ever measured it and it was moving we would have to say so out loud, and then people would stand on it, and then a person would be under it who is not the one already there."
+"**And I have said out loud in this building, and Jo Verrick said it, that nobody measures that fill. Three of us agreed not to and I gave the reason on the Thursday before and the reason was that if we ever measured it and it was moving we would have to say so out loud, and then people would stand on it, and then a person would be under it who is not the one already there."
 
 "**So the water is on it and it is not moving and we do not know whether it is holding, and I am going to say the next part in the shape of a woman who has kept a rule for twenty-seven weeks and has just found out what a rule costs when the thing it was about turns up."
 

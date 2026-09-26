@@ -68,6 +68,8 @@ Renn Vale said no, and she said the reason before she said the no, and Leena Orr
 
 "**And I am entering it in that order and the order is the finding. I have been putting a reason beside two facts and nothing between them for twenty-seven weeks and this is the first time I have had to put a decision beside them, and a decision is a different animal and I do not have a category for it either.**"
 
+Marek Venn had been in the room for all of it and had said none of it, and when a physician said that a promise about a place where nobody can stand is a lie told in a column, he put his right hand flat on the back of the bench, which is what that hand does now when it will not close, and he was doing an arithmetic he has been avoiding for a fortnight. The only advice anybody in this Hearthhold has acted on this month got a girl of nine a broken foot. The advice given in this room a minute ago is a row nobody is going to write. He could not work out which of the two was the more dangerous and he could not work out whether it was his business to find out, and he has never once in twenty-seven weeks not found out.
+
 ---
 
 **At the fourth bell the plan went round the room and five people were asked to sign it, and five people said no, and Dalla Sen entered each reason as it was given and did not improve one of them.**

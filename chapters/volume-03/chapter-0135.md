@@ -74,6 +74,8 @@ She came down one step, which she does not do, and she stood in a room's width o
 
 "**I have written: the boundary keeps a permitted occupancy on a public plan and will not give a count, and gives a count when the room is emptying and calls it a count and not a permission, and the count is not on the plan. That is what I have. And I am going to carry that up the passage, and I am going to say that I have read a plan with twelve numbers in it and not one of them counted by anybody, and my office will want a regime for that, and a regime is not a threat, and I want that said in this room by me before anybody else says it here.**"
 
+Marek Venn had been against the anteroom wall since the second bell and had not said a word, and what he had been doing for the last hour was listening to a man from four days up a passage set out, accurately and without any pleasure in it, the thing he himself had done in the twenty-fourth week. A number in a column that nobody has counted. He had counted nothing and had been right about it every time, and a girl of nine was on the fourth step with a strip of crate board under her foot, and he could not find the place in his own argument where those two things stopped being one thing.
+
 ---
 
 **One more time the physician was asked, in front of two people from a surface federation, whether a plan with a number in it was acceptable, and he gave the same answer he gave on Monday and added one sentence to it.**

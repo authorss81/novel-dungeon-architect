@@ -100,7 +100,7 @@ What they argued about was short, and it was a fifth thing nobody had put on the
 
 **At the seventh bell a man with a hand that will not close found the one thing on that page that was a lie, and it was a lie by leaving something out, and he could not fix it, because the rule in this building is that a change to a room is written by the person who keeps the room, and he is not that person.**
 
-He had the kitchen part of the plan on the anteroom step with a lamp on it and he read the second column of the tenth row four times and then went and got the clerk and made her read it out of the book where the original was.
+Marek Venn had the kitchen part of the plan on the anteroom step with a lamp on it and he read the second column of the tenth row four times and then went and got the clerk and made her read it out of the book where the original was.
 
 "**Say the second column of the tenth row out loud, and say it out of your own book and not off the page, and then say what the book says under it.**"
 
