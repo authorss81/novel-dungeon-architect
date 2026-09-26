@@ -28,7 +28,7 @@ Nobody asked her to.
 
 The anteroom's terms were said by a person and repeated by the clerk, and they are said on a seventh day as well, and they were said here at the second bell, which is when they are said on a shut day, because a seventh day is not a shut day and is not an open day and the only honest hour for them on it is the one a shut day uses. The count was ten including one litter for no more than two hours and did not change. The outer service door was the one a body went out of. The fifth of those six terms was in a room with both the people it names in it, and nobody read it, and the clerk entered that he had named it and read nothing, which is the fourth day running she has entered that and the first one on a day when there is nothing to be frightened of. The pump was attended, and stopped on a rising water line chalked on the frame, and the line has still not moved.
 
-Then the room got to the third thing, and the third thing came out of the kitchen-line doorway from a woman with a slate under her arm who had been in the room since the first bell and had not said anything, which is not what she does on an ordinary morning.
+Then the room got to the third thing, and the third thing came out of the kitchen-line doorway from a woman who had come in at the first bell with a slate and had not said anything since, which is not what she does on an ordinary morning.
 
 "**Two of them are shut,**" said Nella Bray. "**Two Hollowmarks. Correctly, on the schedule, with the day in the first column and the second column empty because there is nobody to put in it, and the seals are the Compact's and not ours. That is the whole of what I have and I am going to give it to you the way I would give it to a person at a counter, which is all of it, in the order, with no opinion in it.**"
 
@@ -46,7 +46,7 @@ Dalla Sen wrote for about half a minute and did not read any of it back.
 
 "**And the cost of that, said out loud by the woman who paid it, and not by me,**" and she turned the slate over on the trestle so that nothing was on it, "**is that on Friday morning this room put a price on what it had done. A number said out loud in this anteroom becomes a number this room has agreed to. So nobody in this building can say how many people are in the anteroom on a school morning, and the only figure anybody can find is a ten on a stranger's sheet, and I know the real one because I feed people. That was the price and I said it in my own mouth before anybody decided on anything.**"
 
-"**And what has come up that passage this morning is the bill,**" she said, "**and nobody in this room should be ashamed of it, because a woman at a counter did her work on an ordinary day with an ordinary pen and the office is entitled to act on a rule it wrote and is right about. The bill is for a number this boundary would not give.**"
+"**And what has come up that passage yesterday is the bill,**" she said, "**and it sat on this table through a night with nothing crossing anywhere in this building, and I have looked at it four times since the light came up, and nobody in this room should be ashamed of it, because a woman at a counter did her work on an ordinary day with an ordinary pen and the office is entitled to act on a rule it wrote and is right about. The bill is for a number this boundary would not give.**"
 
 "**And the half against that, which is mine, and it is the only thing I have got and it is not much,**" said Bel Ordry. "**The bill is not for the number. The bill is for thirty-seven weeks of being right about a thing that turned out to have a price, and a boundary cannot refuse a price by being right about it, and I have been standing on this step for a week telling a room that a decision not to know is a decision, and it is a decision, and decisions are what a schedule is made of.**"
 
@@ -56,7 +56,7 @@ She wrote the first fact. Then she turned the page a long way forward, and wrote
 
 "**I am entering them one at a time,**" she said, "**and I am entering them with nothing beside them on purpose, and I am going to say out loud why, because a clerk who puts a reason beside a fact is doing the safest thing in the world and the safest thing in the world is what has made every bad map in this district.**"
 
-"**Two Hollowmarks are shut. The line along a join in a party wall is in two places instead of one. On the seventh morning a thing in that wall was not nothing. That is the whole of what is in this book this morning and no two of them are next to each other and none of them has a reason beside it, and there is not going to be one.**"
+"**Two Hollowmarks are shut. The line along a join in a party wall is in two places instead of one. On the seventh morning a thing in that wall was not nothing. That is the whole of what is in this clerk's book this morning and no two of them are next to each other and none of them has a reason beside it, and there is not going to be one.**"
 
 "**And here is what I am refusing, out loud, so that a person in a year can check it. I am not joining the second of them to the nine-hundred-year-old dowel, or to the charter, or to the mouth at the end of the school corner, or to the four steps nobody in this building has gone down, or to the room four steps below the far side of that landing, or to the air engineer's theory, or to the plate on the shelf above that bench. Seven things, named in a room, in this order, and I am not joining any of them to the first or the third, and if somebody in this room wants to do that on a day when I am not here then I would like it entered that it was possible.**"
 
@@ -72,7 +72,7 @@ Bel Ordry gave the half against that, and he gave it from the step without comin
 
 Then the air engineer came down one of her three steps and stopped, which is the second of the three and is as far as she comes for air, and she had the dyed cloth out and not out.
 
-"**I gave this room a word once,**" she said, "**on the seventh day of the thirty-fourth week, and I said twice would make it a thing this room knows instead of a word a woman carried in from somewhere else, and I am not saying it a second time this morning and I am not saying a different word either.**"
+"**I gave this room a word once,**" she said, "**on the seventh day of the thirty-third week, and I said twice would make it a thing this room knows instead of a word a woman carried in from somewhere else, and I am not saying it a second time this morning and I am not saying a different word either.**"
 
 "**And the reason, because somebody will ask me for one and they may as well have it in my mouth. The word I gave was for a thing that is happening because a room is finishing something it never finished. I do not know that this is that. I have got two facts and neither of them is mine, and a woman who reads walls has told me the line is in two pieces and a keeper has told me there was a sound, and that is three people in a room describing a thing and not one of them has been on the other side of it.**"
 
@@ -104,7 +104,7 @@ The sixth bell came and the day's figure and the total went into the book and ne
 
 One today and two hundred and ninety-eight since the keeper signed. The boundary is at four hundred and fifteen and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.
 
-The count went in underneath that on its own line, in the ordinary hand, and was not read, and no reason was given for that either, and the line has no heading over it and is not going to get one. Wen Pask is one hundred and thirty-four days and one hundred and thirty-four nights. It is not going to be one hundred and thirty-five.
+The count went in underneath that on its own line, in the ordinary hand, and was not read, and no reason was given for that either, and the line has no heading over it and is not going to get one. Wen Pask is one hundred and thirty-four days and one hundred and thirty-four nights, forty-three weeks of a clerk saying out loud in a room that she is going to keep writing it down. It is not going to be one hundred and thirty-five.
 
 The crew are at seventy-five and a half and did not move, and the reason for the day is in the book, and the reason is that a room with three things in it that nobody can explain has nothing to hand five men, and a crew asked to go and look at a thing that cannot be named would be a crew asked to have an opinion, and this boundary does not put opinions in five men's heads on a Sunday.
 

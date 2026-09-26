@@ -8,7 +8,7 @@ It was a warm morning for the depth of it, which happens twice, and the flags by
 
 "**On a sixth day the carriers come down off the road,**" said Nella Bray, at the first bell, with her slate under her arm. "**And that is the one day of the week a counter at a middle gate has a queue in it made up of people who are not clerks. A person who wants to be heard at the end of such a day is heard after four people who have been in a carriage for two days, and all four of them want the same thing, and all four of them leave. So the end of a sixth day is the best hour there is and it is the hour nobody plans for, because it is not in the column.**"
 
-"**Entered, as a fact about counters, and not as a finding,**" said Dalla Sen, "**and entered that a day of the week is the reason a person would walk up a passage on it, and that this is the first time in thirty-seven weeks that a day of the week has been entered in this book as a reason for anything at all, and I want it findable.**"
+"**Entered, as a fact about counters, and not as a finding,**" said Dalla Sen, "**and entered that a day of the week is the reason a person would walk up a passage on it, and that this is the first time in thirty-seven weeks that a day of the week has been entered in this clerk's book as a reason for anything at all, and I want it findable.**"
 
 Jo Verrick had the frame at the first bell, a finger and two-thirds, and the party wall was a quarter of an inch, the eighteenth reading, and the same as seventeen, and the string was where the string was. She did not put the rule in the join, and she gave the reason again for anybody who had not been in the room for it, which is that a rule belongs in a joint and a joint is not a gap, and Tams Quill wrote nothing on his knee.
 
@@ -40,7 +40,7 @@ She let the pump get a stroke in.
 
 Then she named them, and she named them standing up, and she did it in the order a clerk would give a list.
 
-"**Emrys Callow, who is a shoring foreman and not a keeper of anything and not a clerk and not the man with the page in his coat, and who has five men of his own in this building and eleven days of not taking the middle gate's work, and the reason he has not taken it is that he has none and he stopped looking for one on the fourth day. And me, who is a clerk at that counter, and who keeps two rooms off the far end of this anteroom, and whose name is on a slip in a carrier's hand at that gate because I put a form off a board six weeks ago and wrote two sentences in a clerk's book about it.**"
+"**Emrys Callow, who is a shoring foreman and not a keeper of anything and not a clerk and not the man with the page in his coat, and who has five men of his own in this building and fifteen days of not taking the middle gate's work, and the reason he has not taken it is that he has none and he stopped looking for one on the fourth day. And me, who is a clerk at that counter, and who keeps two rooms off the far end of this anteroom, and whose name is on a slip in a carrier's hand at that gate because I put a form off a board eight weeks ago and wrote two sentences in a clerk's book about it.**"
 
 "**I am not a hero and I have said so in this room,**" she said, "**and neither is he, and he would tell you the same about himself in his own mouth and would be right.**"
 
@@ -92,7 +92,7 @@ Then Mero Senn said it, from the doorway, in the shape he has.
 
 Nobody said anything for a moment.
 
-"**And that is not a joke and I am not making it,**" he said. "**I am telling a room that the mechanism the two seals are aimed at does not stop for the man carrying the thing that aims at it. A plan with a named person in it is not a plan. He is not going to be crushed by this. He is going to be found, and being found is worse, and if he is not back in a week then the person standing at that counter has a name and a description and a reason to write both down and neither of those is anybody in this room.**"
+"**And that is not a joke and I am not making it,**" he said. "**I am telling a room that the mechanism the two seals are aimed at does not stop for the man carrying the thing that aims at it. A plan with a named person in it is not a plan. He is not going to be crushed by this. He is going to be found, and being found is worse, and if he has not come down that passage by the time this room has stopped counting then the person standing at that counter has a name and a description and a reason to write both down and neither of those is anybody in this room.**"
 
 "**The half against that,**" said Iven Tallo from the anvil end, and he had the chisel in his right hand and his left open and flat on the anvil where it has lain all month, "**is that a man who goes up a road with two forms in his coat is not a load, and that this boundary has spent thirty-seven weeks refusing to put a name in a second line and it is not going to start by putting his in one at the top of a passage. And nobody thanks me for that and nobody blames me for it either, and I would like the clerk to enter both of those in the space where a reason goes and to put nothing beside them.**"
 
@@ -100,13 +100,13 @@ Nobody said anything for a moment.
 
 Tams Quill turned the piece of chalk he has not used over twice while the reasons were going, and Dalla Sen saw him do it, and she waited until the room had finished talking and then asked.
 
-"**A nineteenth entry.**" "**No.**" and he did not look up.
+"**A nineteenth entry.**" "**No.**" and he went on turning the chalk over without looking up.
 
 "**Reason,**" with the chalk held up and its point resting against the knuckle of her other hand.
 
 "**Two seals.**" He turned the chalk over once in his hand and shut it away. "**A seal is a thing that is on a thing, and what I have on this board is things a person can find a room by looking at a piece of slate instead of walking into it, and the day a withdrawal of two seals goes on that board then this board has a second line on it. The first line would say what was withdrawn and the second line would say who withdrew it, and there is no version of that which is not a page with two lines and a heading over them, and this building has been refusing those for thirty-seven weeks and I will not hand one to a man with a piece of chalk.**"
 
-"**That is a sixth reason and it is the best of the six,**" said Bel Ordry from the step, "**and it does not need improving on, and I will say in a room that a man has now refused six things in three weeks and that I do not know what happens when he stops, and that I have been saying that for two weeks and that it is the only sentence I own.**"
+"**That is a sixth reason and it is the best of the six,**" Bel Ordry said, still on the step, "**and it does not need improving on, and I will say in a room that a man has now refused six things in three weeks and that I do not know what happens when he stops, and that I have been saying that for two weeks and that it is the only sentence I own.**"
 
 "**Then it is a seventh thing and it goes the same way,**" and he put the chalk in his pocket, "**and I am not the man who works out in advance what it is going to be.**"
 
@@ -132,7 +132,7 @@ Emrys Callow named one of his five to hold for the four days. He did it out loud
 
 "**The reason I am the one going is that a clerk at that counter cannot take her own office's seal off her own office's form. She has told me that twice today in about nine words and she has not once made it sound like a favour to her. A person who works in a building is a person the building has already said no to. I do not work in one.**"
 
-"**And I want it entered that whatever happens at that counter, refusing it is not one of the things I will have done. I have not taken it for eleven days and I have not refused it, and those are two different things and I have been standing on the difference for a fortnight without knowing what it was for. If a man offers me six weeks of paid shoring at that gate on Saturday I am going to have to do something with my face, and I would like the room to know in advance that I have not worked out what, and that I have not asked anybody to help me work it out.**"
+"**And I want it entered that whatever happens at that counter, refusing it is not one of the things I will have done. I have not taken it for fifteen days and I have not refused it, and those are two different things and I have been standing on the difference for a fortnight without knowing what it was for. If a man offers me six weeks of paid shoring at that gate on Saturday I am going to have to do something with my face, and I would like the room to know in advance that I have not worked out what, and that I have not asked anybody to help me work it out.**"
 
 Then the form went out on the table and two people looked at it, and one of them changed it.
 
@@ -170,7 +170,7 @@ At the sixth bell the clerk entered the day's figure and the total in the book a
 
 Three today and two hundred and ninety-seven since the keeper signed. The boundary is at four hundred and fourteen and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.
 
-Under that, in the ordinary way and in the ordinary hand, the count went in where it goes, under a line that has no word on it and never will have one. Wen Pask is one hundred and thirty-three days and one hundred and thirty-three nights, and it is not going to be one hundred and thirty-four, and she said out loud, once, to nobody in particular, that it was a number of days and not a number of anything, which is the thirty-eighth week running she has said it in a room, and then she said that she had said it, and had not been thanked, and was not going to stop.
+Under that, in the ordinary way and in the ordinary hand, the count went in where it goes, under a line that has no word on it and never will have one. Wen Pask is one hundred and thirty-three days and one hundred and thirty-three nights, and it is not going to be one hundred and thirty-four, and she said out loud, once, to nobody in particular, that it was a number of days and not a number of anything, which is forty-two weeks running she has said it in a room, and then she said that she had said it, and had not been thanked, and was not going to stop.
 
 The crew are at seventy-five and a half and did not move, and the reason for the day is in the book. The reason is that a room which has this morning put the only thing it had out of the building through a door is not going to turn round in the same hour and hand five men a piece of work. A room that has just sent something away and is immediately asking for something back is a room that wants to still be in charge, and this building has spent thirty-seven weeks finding out what that costs.
 
