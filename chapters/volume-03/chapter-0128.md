@@ -116,7 +116,7 @@ Dalla Sen said the thing she had come to say, which was not a fact.
 
 Tams Quill had the chalk in his left hand and his right one open and flat in his lap, and he read both columns, and named no day, and gave no reason for not naming one.
 
-"**The crew are at fifty-six and a half and have not moved since Thursday. The boundary is at a hundred and eighteen and a quarter — four today, a hundred and one since the keeper signed — and it adds by the day the work was done, and both columns reconcile, and they have reconciled for twelve weeks. A man of twenty-two is sixty-three days and sixty-three nights into a count that is his own, and he carried a lamp in here at the first bell and put it down and went away without being told, and I noticed, and I am not going to say anything else about it.**"
+"**The crew are at fifty-six and a half and have not moved since Thursday. The boundary is at two hundred and eighteen and a quarter — four today, a hundred and one since the keeper signed — and it adds by the day the work was done, and both columns reconcile, and they have reconciled for twelve weeks. A man of twenty-two is sixty-three days and sixty-three nights into a count that is his own, and he carried a lamp in here at the first bell and put it down and went away without being told, and I noticed, and I am not going to say anything else about it.**"
 
 Then he got the chalk to the side with nothing over the top of it, and stopped with it a finger off the wood, and Dalla Sen said **Go on**, and he did not for about four seconds.
 

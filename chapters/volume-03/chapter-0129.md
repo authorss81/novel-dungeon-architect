@@ -92,7 +92,7 @@ Marek Venn had said nothing from the second bell to the fourth. He had the anter
 
 **At the sixth bell the clerk read the day's number and the count in the column with nothing over the top of it, and she read both of them the way she reads everything, which is twice, and the room did not fill in after the last one, and nobody asked her a question about either number.**
 
-"**Three today and a hundred and four since the keeper signed, and the boundary is at a hundred and twenty-one and a quarter, and it adds by the day the work was done, and the two columns reconcile and they have reconciled for thirteen weeks.**
+"**Three today and a hundred and four since the keeper signed, and the boundary is at two hundred and twenty-one and a quarter, and it adds by the day the work was done, and the two columns reconcile and they have reconciled for twelve weeks.**
 
 "**The crew are at fifty-six and a half and have not moved since Thursday for the reason in my hand.**
 

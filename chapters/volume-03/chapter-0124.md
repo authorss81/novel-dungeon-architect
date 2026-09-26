@@ -100,7 +100,7 @@ Marek Venn said the other half, and it was nine words, and he said it to the roo
 
 "**The crew are at fifty-six and a half,**" said Tams Quill, with the chalk in his left hand and his right one open and flat in his lap, and he read it twice. "**Fifty-three and a half on Monday of the twenty-second week, and three since the fourth day of this week, and it is three and not a gift, and the reason is in the clerk's hand in the clerk's words and I am not going to give it, because a clerk gave it better than I give it, and that is now the second week running that a man has said that in this room and I would like somebody to notice it and not to make anything of it.**
 
-"**The boundary is at a hundred and four and a quarter. Four on the first day, three on the second, five on the third, four today, and eighty-seven since the keeper signed. It adds by the day the work was done and both columns reconcile and they have reconciled for eleven weeks.**
+"**The boundary is at two hundred and four and a quarter. Four on the first day, three on the second, two on the third, three today, and eighty-seven since the keeper signed. It adds by the day the work was done and both columns reconcile and they have reconciled for eleven weeks.**
 
 "**And a man of twenty-two is fifty-nine days and fifty-nine nights into a count that is his own, and it is in the column with nothing over the top of it, and it is not a debt and it is not a wage, and I am reading it because the sixth bell reads what is on the board and not what a room is feeling.**"
 

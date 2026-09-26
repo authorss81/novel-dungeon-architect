@@ -118,7 +118,7 @@ Then Ilsa Norr said the day's cost, in her own words, and it went in the book in
 
 **At the sixth bell the clerk read the six things, and the day's number, and the count in the column with nothing over the top of it, and she read the last one twice, and the room did not fill in after it, and nobody asked her anything, and that was the whole of the week.**
 
-"**Two today and a hundred and six since the keeper signed. The boundary is at a hundred and twenty-three and a quarter, and it adds by the day the work was done, and the two columns reconcile, and they have reconciled for thirteen weeks.
+"**Two today and a hundred and six since the keeper signed. The boundary is at two hundred and twenty-three and a quarter, and it adds by the day the work was done, and the two columns reconcile, and they have reconciled for twelve weeks.
 
 "**The pot is ten. It has not gone up since the fifth day of the nineteenth week. I am going to say it one more way and then never again: it did not move on the night a man died in the low end of this corridor, and there were eleven people behind a shut door in the same week, and neither of those things changed a number on a cook's board, and I do not know what that is worth and I am not going to be told.
 

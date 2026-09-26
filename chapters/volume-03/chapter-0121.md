@@ -146,7 +146,7 @@ Of the nine hearth stones, the second is the one that matters. They are the ligh
 
 "**And a man of twenty-two is fifty-six days and fifty-six nights into a count that is his own, and he is at the kitchen line counting pails, and he is the only person in this Hearthhold who has never once been asked to be anywhere.**"
 
-Marek Venn went down to the foot of the nine steps after that and stood where he has stood every evening of this book with his left hand open on his knee, and it did not close, and the count was in the room again under the pump's check, low and uneven and counted, like a thumb run along the edge of a plate, and he knew what it was and knowing it did nothing at all.
+Marek Venn went down to the foot of the nine steps after that and stood where he has stood every evening since the first week with his left hand open on his knee, and it did not close, and the count was in the room again under the pump's check, low and uneven and counted, like a thumb run along the edge of a plate, and he knew what it was and knowing it did nothing at all.
 
 **In twenty-four weeks he had said out loud in a room, more than once, that this boundary was out of ordinary means. It had now said it twice about two different rooms, and the second time it was said about a room with nine children in it and a hearth corner in it and nine register boxes on its stones, and the only thing anybody in this building could pack that threshold with was the same clay that the anteroom's frame is packed with, and the anteroom's frame is a finger and a bit out of true and going a finger a week in this cold.**
 
