@@ -124,7 +124,7 @@ At the sixth bell the clerk gave the room the day's number and the total, and ga
 
 "**The pot is nine days. Jo says the seam gave two yesterday and one on Wednesday and four threads and eight in the nineteenth week, and I have said in five weeks running that the number for how fast that is going is not mine to make, and it is still not mine to make, and I am saying it in my own hand and not in a column.**"
 
-"**The count. Wen Pask is one hundred and six days and one hundred and six nights into a count that is his own, and it is not going to be one hundred and seven. And I have noticed the shape of that number this morning before I read it, and I am entering the noticing and not the number, and I would like it recorded that nobody in this room said one word about it at the sixth bell, including me.**"
+"**The count. Wen Pask is one hundred and six days and one hundred and six nights into a count that is his own, and it is not going to be one hundred and seven, and I have said in fifteen weeks running that I am going to keep writing it, and I am writing it. And I have noticed the shape of that number this morning before I read it, and I am entering the noticing and not the number, and I would like it recorded that nobody in this room said one word about it at the sixth bell, including me.**"
 
 "**And I did not walk the board, and the reason is that a keeper is in this room and a board is a column with a heading on it, and I am not bringing the two into the same ten minutes on the day a man comes up nine steps.**"
 

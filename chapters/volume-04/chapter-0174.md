@@ -22,11 +22,11 @@ Nobody asked. A man who keeps a page looked at the sheet for a while and then sa
 
 Then she did the thing that made the morning a fact in a room instead of an argument about a stranger's paper.
 
-"**Nobody is going to strike anything on that sheet,**" she said. "**A woman struck a column and three rooms off a printed schedule in this room in the thirtieth week in nine seconds and gave no reason, and I have written in this book since then that striking a thing is a lie with a line through it, and it does not get done today either, and not because the second printing is different. It does not get done because this boundary is not going to be the people who make a document shorter.**"
+"**Nobody is going to strike anything on that sheet,**" she said. "**A woman struck a room out of a printed schedule in this room on the fourth day of the twenty-ninth week in nine seconds and gave no reason, and I have written in this book since then that striking a thing is a lie with a line through it, and it does not get done today either, and not because the second printing is different. It does not get done because this boundary is not going to be the people who make a document shorter.**"
 
 "**Then what are we going to do with it,**" said Bel Ordry, "**because doing nothing with a printed schedule is how a thing becomes this boundary's practice, and you have spent a month teaching me that difference.**"
 
-"**We are going to read it against a document.**" She went to the shelf and came back with the coat, and Bel Ordry took the coat out of her hands, which he has not done in this room, and neither of them said anything about it. "**The plan is four parts in sixteen rows and the second column of every row is conditions with no number and no day on them, and they were written by the people who keep the rooms, and fifteen of the sixteen are filled and one is not, and I have never once read them out in a room and neither am I today.**"
+"**We are going to read it against a document.**" She went to the shelf and came back with the coat, and Bel Ordry took the coat out of her hands, which he has not done in this room, and neither of them said anything about it. "**The plan is four parts in sixteen rows and the second column of every row is conditions with no number and no day on them, and they were written by the people who keep the rooms, and all sixteen of them are filled, and I have never once read them out in a room and neither am I today.**"
 
 "**Then what is the second column for,**" said the carrier.
 
@@ -64,7 +64,7 @@ The room did not make a sound. A woman who keeps that room was standing at the k
 
 "**Are you going to write a row for it,**" said Renn Vale.
 
-"**No,**" said Dalla Sen. "**The plan has sixteen rows and the sixteenth has a name in the space where the keeper will not write one, and a row for that room is not a row this week. It gets no row, and it is not going to get one because a piece of paper four days up a road has printed it.**"
+"**No,**" said Dalla Sen. "**The plan has sixteen rows and there is no name anywhere on it, and the one line in it that is empty is the keeper's and he will not fill it, and I am not going to fill it for him this week either. And a row for that room is not a row this week. It gets no row, and it is not going to get one because a piece of paper four days up a road has printed it.**"
 
 "**Say the other half, because nobody in this room is going to be kind to me,**" said Mero Senn, from the doorway. "**I have refused in writing to certify that room and I stand in the same anteroom as the clerk, and neither of those things is going to keep a printed sheet from having it in a column, and I would like that said this morning by a person and not found out in a month.**"
 

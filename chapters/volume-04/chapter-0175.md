@@ -30,7 +30,7 @@ Then the anteroom's terms were said at the fourth bell, and the word was said by
 
 Then Mero Senn asked the question, and he asked it standing up, and he had his bag against the wall and had not sat down all morning, and Dalla Sen wrote nothing while he said it and wrote it all down afterwards.
 
-"**A fortnight ago a room found out that four sentences a clerk had written to govern a pair of hands had been applied to a piece of wood. Not by me and not by any of you. A room did it, in a room, and the clerk stood at the wall and gave the room away for four minutes, and the finding was that the four sentences had bound a work and not a building, and a building outlasts the terms of a work.**"
+"**Six days ago a room found out that four sentences a clerk had written to govern a pair of hands had been applied to a piece of wood. Not by me and not by any of you. A room did it, in a room, and the clerk stood at the wall and gave the room away for four minutes, and the finding was that the four sentences had bound a work and not a building, and a building outlasts the terms of a work.**"
 
 "**Say your question, Mero, and say it as a person with a question and not as an objection, because a room that hears an objection to a thing it did two weeks ago is going to hear it as an accusation.**"
 
@@ -44,9 +44,9 @@ Then Mero Senn asked the question, and he asked it standing up, and he had his b
 
 "**And say what a room should do with a question,**" said Marek Venn, "**because a physician has put a question on a table and there is a piece of beech over a door and a woman who can take it out and a clerk with a book, and all four of those things are in this room. The room has been extremely good at noticing things and not very good at saying what should happen.**"
 
-"**Then say it, and say it as the man who cut the splay, because nobody else in this room is going to say it as badly as I will,**" said Iven Tallo.
+"**Then say it, and say it as the man who cut the splay, because nobody else in this room is going to say it as badly as I will,**" said Marek Venn.
 
-Marek Venn had been in the anteroom since the first bell with his own book open on his forearm and had put nothing in it for three days.
+The book had been open on his forearm since the first bell and he had put nothing in it for three days.
 
 He had been waiting since Saturday for a morning when the answer to something was going to be useful, and he had told himself twice this week that he would not wait for one.
 
@@ -62,7 +62,7 @@ Nobody improved on it, and the pump got four strokes in, and Dalla Sen entered i
 
 "**Entered, and entered that a man said *I do not know* three times in a room this week and put three facts under it, and that this is the first time in thirty-four weeks he has done that without being asked twice. And entered that the difference goes in as a fact and not as a virtue, because he has been asked twice this week and I have counted.**"
 
-Then the board, and the nineteenth thing on it, and the man who read it.
+Then the board, and the eighteenth thing on it, and the man who read it.
 
 "**Eighteen,**" said Tams Quill, with the chalk in his left hand and the right one flat and open in his lap, and no day named. "**Eleven nulls, one claim, one mark, one row, a plan, a condition, a store and a brace. Nine in the ordinary column and nine in the one with nothing over the top of it. The claim's condition has not been met and the mark is not coming off the board.**"
 
@@ -74,11 +74,11 @@ Then the board, and the nineteenth thing on it, and the man who read it.
 
 "**I gave a tenth reason a fortnight ago and it cost me something I have not worked out. The eleventh is not about a word over a column. It is this.**" He did not pick the chalk up. "**A brace is on that board and a brace is a thing somebody is going to have to keep, and that is why it is on there. A keeper is a person, and a person on a board is a thing on a board, and the day a returning man is a nineteenth entry on a piece of slate then he is a thing that gets kept. And there is a man standing in this room who says he does not know what this building is for, and he is me, and I have been eleven weeks not knowing it, and I am not going to find out by putting a person on a list of things.**"
 
-"**Say the other half of it,**" said Dalla Sen, "**and then say whether the count can be asked about, because that is the part somebody is going to want.**"
+"**Say the other half of it,**" said Dalla Sen, "**and then say whether the number can be asked about, because that is the part somebody is going to want.**"
 
-"**The half is that if a keeper is not on that board then nobody in this building is, and that is correct, and I have been getting that for eleven weeks without knowing I was getting it.**" He picked the chalk up at last. "**And the count can be asked. Eighteen. I have just said it, and you did not send anybody anywhere to hear it, and I would like that entered in those words, because a person who has to be found before a number can be read is a person being kept and I have just refused to do it twice in one morning.**"
+"**The half is that if a keeper is not on that board then nobody in this building is, and that is correct, and I have been getting that for eleven weeks without knowing I was getting it.**" He picked the chalk up at last. "**And the number can be asked. Eighteen. I have just said it, and you did not send anybody anywhere to hear it, and I would like that entered in those words, because a person who has to be found before a number can be read is a person being kept and I have just refused to do it twice in one morning.**"
 
-"**Entered, in his words, that the board is at eighteen and that no nineteenth entry has gone on it, and that the word over the unheaded column would be *keeper* and there is now a keeper in this building and the word still does not go on, and entered that the count can be asked without anybody being sent for.**"
+"**Entered, in his words, that the board is at eighteen and that no nineteenth entry has gone on it, and that the word over the unheaded column would be *keeper* and there is now a keeper in this building and the word still does not go on, and entered that the number can be asked without anybody being sent for.**"
 
 Then the clerk read the two things back to the man who had said them on Saturday, which is the practice, and the practice is that somebody says a thing in a room and a second person reads it against what was said and asks him whether it is the same.
 
@@ -110,7 +110,7 @@ Then, at the kitchen-line doorway, with nine children behind her in a room that 
 
 The room heard a woman who certifies air admit in a doorway that the number she has been carrying for a fortnight is the number for a room as it is and not for a room as it will be. And heard her say that she was not going to be told it was wrong by a room that wanted to be comfortable, and that she had said it out loud on purpose, on a morning when nine children were in the next room.
 
-At the sixth bell the clerk read the day's number and the total out loud, both of them, because she had said at the second bell of Thursday that she would read them on the third day of the week and had not yet given a reason for changing her mind. The count was read at one hundred and ten, and the board was walked at eighteen entries for the last time this week.
+At the sixth bell the clerk read the day's number and the total out loud, both of them, and it was the first time in two days that she had read either of them, and on Tuesday the reason was a printed sheet that had been open on that table since the second bell with a column on it headed for a person. The count was read at one hundred and ten, and the board was walked at eighteen entries for the last time this week.
 
 "**Two today and two hundred and thirty-two since the keeper signed. The boundary is at three hundred and forty-nine and a quarter, and it adds by the day the work was done, and the two columns reconcile, and the counter is at seventeen.**"
 
@@ -124,16 +124,16 @@ At the sixth bell the clerk read the day's number and the total out loud, both o
 
 The brass survey rule in the pocket of the coat on the hook had said nothing for twenty-five weeks, and the wrapped plate on the shelf above the same bench had been unopened for thirty-four. Neither of them was in a room and neither of them moved.
 
-The anteroom's frame is a finger and two-thirds out of true. The count is at one hundred and ten and is not going to be one hundred and eleven. The school door at the far end of nine steps is shut with nothing wedged in it, and two sound wedges in this building are spoken for and two are not. The page where a person's hours would go is blank, and it has three conditions on it, and the third of them says that nobody is to be sent anywhere to make it true.
+The anteroom's frame is a finger and two-thirds out of true. The count is at one hundred and ten and is not going to be one hundred and eleven. The school door at the far end of nine steps is shut with nothing wedged in it, and three of the five sound wedges in this building are spoken for and two are not. The page where a person's hours would go is blank, and it has three conditions on it, and the third of them says that nobody is to be sent anywhere to make it true.
 
 **On the third day of the thirty-fourth week the school ran for the thirty-first morning in the room a printed sheet has in its second column, and a cook was asked about the fire for the tenth time and refused for the tenth time.**
 
 **The pot is nine days and going to eight, and four households at a second gate have nothing.**
 
-**A physician asked a room whether it was a good idea that the terms that governed a pair of hands had been extended to a piece of wood, and a carpenter gave the half against it.**
+**A physician asked a room whether it was a good idea that the terms that governed a pair of hands had been extended to a piece of wood, and gave the half against it himself, and no carpenter was in the room to give one.**
 
 **A man who cut the splay said he did not know, and put three facts underneath it for the first time in thirty-four weeks without being asked twice.**
 
 **And a man who reads a board said no to a nineteenth entry, and gave the eleventh reason of his life, and it was not about a heading. A person on a board is a thing on a board, and the day a returning man is an entry on a piece of slate then he is a thing that gets kept.**
 
-**The count is at eighteen, and it can be asked without anybody being sent for.**
+**The number is at eighteen, and it can be asked without anybody being sent for.**
