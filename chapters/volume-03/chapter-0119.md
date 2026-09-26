@@ -14,7 +14,7 @@ Hollis Ashe introduced herself again before anybody asked, because that is who s
 
 "**Which is my form. One. An inscription, bearing or otherwise, observed on a structure within a boundary beneath a surface inspection line. Two. The date observed. Three. The condition under which it acts, in the observer's words or the holder's. Four. The limit under which it acts, in the same words. Five. The person who keeps it.**"
 
-Not one person in that room said anything for about four seconds, and one of those seconds was the clerk finding that she had written *the holder's* in her own ledger, on the ninth page, in a hand that was hers, six days ago, when she was copying Bel Ordry's four sentences out fair for the second time and had mistyped a word.
+Not one person in that room said anything for about four seconds, and one of those seconds was the clerk finding that she had written *the holder's* in her own ledger, on the ninth page, in a hand that was hers, from the second day of the week before last, when she was copying Bel Ordry's four sentences out fair for the second time and had mistyped a word.
 
 "**Strike it,**" said Bel Ordry.
 

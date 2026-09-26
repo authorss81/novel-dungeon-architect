@@ -1,6 +1,6 @@
 # Chapter 112 — The Head Of The Frame
 
-**The second day of the twenty-second week was the day Marek Venn did the thing he had said out loud in a room ten days before he was going to do it, in the anteroom, with nine people in it and the corridor shut behind them, and there was no bell for it.**
+**The second day of the twenty-second week was the day Marek Venn did the thing he had said out loud in a room on the fourth day of last week, in the anteroom, with nine people in it and the corridor shut behind them, and there was no bell for it.**
 
 **The anteroom was emptied at the second bell for the second time in two days,** and Jo Verrick said what she thought of that before anybody asked her.
 
@@ -10,9 +10,9 @@ They went out in the strokes, four at a time and the fifth on Isel Ferrow's shou
 
 Then Marek Venn said the thing.
 
-"**I said in this room ten days ago that there was one thing left that was not a reading and that I was not going to do it, and the clerk wrote down that she did not understand the second half of it and was not going to pretend she did, and she was right not to, and I am not going to explain it now either.**
+"**I said in this room on the fourth day of last week that there was one thing left that was not a reading and that I was not going to do it, and the clerk wrote down that she did not understand the second half of it and was not going to pretend she did, and she was right not to, and I am not going to explain it now either.**
 
-"**I have been not doing it for ten days. I have decided on and off, mostly off, and I want the room to know that, because a man who says he has been thinking about a thing for ten days sounds braver than a man who has been arguing with himself for ten days, and it was the second one.**"
+"**I have been not doing it since the fourth day of last week. I have decided on and off, mostly off, and I want the room to know that, because a man who says he has been thinking about a thing sounds braver than a man who says he has been arguing with himself, and it was the second one.**"
 
 "**Say what the thing is,**" said Nera Oduya, from three steps, in the flat voice she keeps for things that are not about air.
 
@@ -194,6 +194,6 @@ Nobody was frightened, and nobody asked.
 
 **Nothing in this building is safer than it was this morning.** The shoring still holds and it is still stone and lime and one wedge out of seven. The packing is still clay. Nine children are two hundred feet away at the far end of a corridor that is shut today, and a school corner with a wet floor is shut with a wedge that came out of a school door, and the water in the wall of the room they used to sit in is the only drinking water in this Hearthhold.
 
-**Ten days ago he said in a room that he was not going to do it, and he had not done it for ten days, and he did it this afternoon for an afternoon and a hand.**
+**He said in a room that he was not going to do it, and he had not done it since, and he did it this afternoon for an afternoon and a hand.**
 
 **The grease mark was on the jamb** where anybody coming through that door would see it, and it was going to be seen, and the woman who handed him the sentence had known that when she handed it over.

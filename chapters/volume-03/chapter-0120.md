@@ -68,13 +68,13 @@ He put his hand flat on the sheet, the way everybody in this building puts a han
 
 ---
 
-**At the fourth bell the market route's answer went out, on a market day, carried by a man who was going that way anyway and by nobody else,** and it went out with two sentences on it and no name and no signature, and Bel Ordry did not put his ring on it, and Dalla Sen put a clerk's routing mark on it and nothing else, and she told him she was going to tell him about his ring before he decided and she did.**
+**At the fourth bell the market route's answer went out, on a market day, carried by a man who was going that way anyway and by nobody else,** and it went out with two sentences on it and no name and no signature, and Bel Ordry did not put his ring on it, and Dalla Sen put a clerk's routing mark on it and nothing else, and she told him she was going to tell him about his ring before he decided and she did.
 
 Pettin Rahl was in the anteroom with his own business on his back, on a market day, going to the gate at the bottom of the road, and he said he would carry a sheet and that he would not charge for it and that he was going there anyway.
 
 "**Say the charter's part out loud,**" said Dalla Sen, "**because I want it in a room and I want it before the sheet leaves anybody's hand.**
 
-"**The road up the middle passage is not shut and will not be shut for a delivery and nobody may be charged for it. **This is not a delivery. That is the whole reason it is going today and on no other day, and if I hand it to a man on a carrying day it is a delivery and the charter does not cover it and this boundary is not going to be the first instrument in this story to bend a rule it wrote itself.**"
+"**The road up the middle passage is not shut and will not be shut for a delivery and nobody may be charged for it. This is not a delivery. That is the whole reason it is going today and on no other day, and if I hand it to a man on a carrying day it is a delivery and the charter does not cover it and this boundary is not going to be the first instrument in this story to bend a rule it wrote itself.**"
 
 "**Say that again slower,**" said Pettin Rahl, "**because I have carried a great many things on carrying days and I never once thought about it.**
 
@@ -100,9 +100,9 @@ A man of twenty-two was fifty-five days and fifty-five nights into a count that 
 
 **And a survey party's finding went on a wall in this boundary's own hand and undated, and it said that this sector is stable, and it was correct, and it was the first correct thing anybody had said about this building from outside it in twenty-three weeks.**
 
-Marek Venn stood at the foot of the nine steps at the seventh bell with a sheet of drawing in his hand that he had read four times and a left hand in his pocket that had burned nine days ago and does not close at night, and the pump's check came off, and the sixth minute of the low end of the corridor came and went with nobody standing at the low end of it, and the room above him was full and rated for ten and could be emptied in the strokes by anybody who asked, and when it was empty the word did not need saying.
+Marek Venn stood at the foot of the nine steps at the seventh bell with a sheet of drawing in his hand that he had read four times and a left hand in his pocket that had burned on a Tuesday and does not close at night, and the pump's check came off, and the sixth minute of the low end of the corridor came and went with nobody standing at the low end of it, and the room above him was full and rated for ten and could be emptied in the strokes by anybody who asked, and when it was empty the word did not need saying.
 
-He had said in this room three weeks ago that he was not going to do the one thing he had left. He had done it on a Tuesday for an afternoon and a hand, and it had held a bit of nothing for nine days, and the woman who kept the terms had taken it off with a cloth, and the head was where it had been, and the sound was still in the room, and he was a man who could not leave and was not needed, and both of those had been true for three weeks and one of them had stopped being true on Tuesday and neither of them had been a relief.
+He had said in this room on the fourth day of a week before last that he was not going to do the one thing he had left. He had done it on a Tuesday for an afternoon and a hand, and it had held a bit of nothing until the Wednesday, and the woman who kept the terms had taken it off with a cloth, and the head was where it had been, and the sound was still in the room, and he was a man who could not leave and was not needed, and both of those had been true for three weeks and one of them had stopped being true on Tuesday and neither of them had been a relief.
 
 **And the survey was right.**
 

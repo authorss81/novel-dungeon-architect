@@ -8,7 +8,7 @@ Jo Verrick put her rule against the jamb at the first bell and looked at a line 
 
 "**It has not moved.**" She took the rule away and put it back. "**And I am going to say the rest of it and I am not going to be pleased about it. It has not moved by a hair, and I laid the rule against this jamb at the first bell on the second day of this week with a hair out of one of the nine's heads across the chalk, and the hair is still across the chalk, and a hair is not a measurement and I have said that twice and I am saying it again.**
 
-"**So a thing that has gone out a finger and a bit in a fortnight and a finger a week in the cold has not moved a hair in nine days, and nobody in this building knows why, and I have told that room twice that I do not like it and I am telling it a third time and I am going to be wrong about being worried, because I am worried, and being wrong about being worried is the best thing that has happened to me in three weeks.**"
+"**So a thing that has gone out a finger and a bit in a fortnight and a finger a week in the cold has not moved a hair since the second day of the week before last, and nobody in this building knows why, and I have told that room twice that I do not like it and I am telling it a third time and I am going to be wrong about being worried, because I am worried, and being wrong about being worried is the best thing that has happened to me in three weeks.**"
 
 Renn Vale read the condition out loud, standing on the landing, in her own hand, off her own page, and nobody stopped her.
 
@@ -16,7 +16,7 @@ Renn Vale read the condition out loud, standing on the landing, in her own hand,
 
 "**Then it is met,**" said Dalla Sen.
 
-"**Then it is met,**" said Renn Vale, "**and the clerk is going to do this in the order the room does things in, and I am going to say that the first three are not going to take a minute and I am going to say that I have waited nine days to do them and that I am not going to do them quickly, because the last thing this building did quickly was a floor.**"
+"**Then it is met,**" said Renn Vale, "**and the clerk is going to do this in the order the room does things in, and I am going to say that the first three are not going to take a minute and I am going to say that I have waited since last Tuesday to do them and that I am not going to do them quickly, because the last thing this building did quickly was a floor.**"
 
 ---
 
@@ -40,7 +40,7 @@ So Renn Vale took a cloth off the line of chalk and the smear of grease with a c
 
 ---
 
-**And then the count came in, and it was the same count, and it did not stop, and he had known for nine days that it was not going to.**
+**And then the count came in, and it was the same count, and it did not stop, and he had known since the mark went on that it was not going to.**
 
 It was under the pump's check, low and uneven and counted, like a thumb run along the edge of a plate, and Marek Venn had known what it was since the second day of the week before last and had been told by three people that it was a sound in a room he already had.
 
@@ -54,11 +54,11 @@ And the sound stayed.
 
 "**Say the plain of it.**"
 
-"**The thing I did on Tuesday cost me an afternoon and a hand and I do not have either of those back, and the sound in the room is still in the room, and I put a mark on a stone to tell a seam to hold a bit of nothing and it worked for nine days and the frame is where it was on Tuesday, and the sound is not the frame.**"
+"**The thing I did on Tuesday cost me an afternoon and a hand and I do not have either of those back, and the sound in the room is still in the room, and I put a mark on a stone to tell a seam to hold a bit of nothing and it worked from that Tuesday to this one, and the frame is where it was on Tuesday, and the sound is not the frame.**"
 
 "**Then what is the sound,**" said Bel Ordry.
 
-"**I do not know,**" said Marek Venn. "**And I have not known since the fourth day of the nineteenth week and I have had nine days to guess and I have not guessed, and if a room wants the answer to that I would like it written in the book in my own words that I do not know and I am not going to fill the gap with a theory about a building.**"
+"**I do not know,**" said Marek Venn. "**And I have not known since the fourth day of the nineteenth week and I have had since last Tuesday to guess and I have not guessed, and if a room wants the answer to that I would like it written in the book in my own words that I do not know and I am not going to fill the gap with a theory about a building.**"
 
 Dalla Sen wrote it, and read it back, and then she stopped with the chalk up and said: "**I am going to ask you now and I have not asked you at the sixth bell, which is what I said I would not do, and the reason I can ask now is that the thing you were going to explain has stopped existing.**"
 
@@ -112,7 +112,7 @@ Renn Vale said, "**Say the width.**"
 
 Bel Ordry said, "**I would like somebody to object to that in a room, out loud, because I have known this building for a month and you have never once left a thing set the way you would have set it and told us not to touch it.**"
 
-"**I would have set it narrower,**" said Nera Oduya. "**That is the whole of the objection. I have been down that room twice this week and the floor under the mouth is dry, and I do not know what a mouth does when the room under it stops being wet, and I have no measurement I trust, and there is a mark on a frame in this building that was holding a bit of nothing nine days and I never got a figure off it, and I do not trust a figure I did not take.**
+"**I would have set it narrower,**" said Nera Oduya. "**That is the whole of the objection. I have been down that room twice this week and the floor under the mouth is dry, and I do not know what a mouth does when the room under it stops being wet, and I have no measurement I trust, and there is a mark on a frame in this building that was holding a bit of nothing since last Tuesday and I never got a figure off it, and I do not trust a figure I did not take.**
 
 "**So I have left it wider than I would have left it, and I would like it to be set by somebody who has to keep it rather than by me, and if a woman in this building whose room it is reads that and disagrees with me she is going to come up there and change it and I am not going to argue with her, and I am not going to be thanked either, because this is air and not a favour.**"
 

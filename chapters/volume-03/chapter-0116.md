@@ -50,7 +50,7 @@ She came out after four minutes with nothing and stood in the doorway and said s
 
 ---
 
-**The answer came up the middle passage on a courier's hand some weeks later and it was not dated, and Dalla Sen read it out in the anteroom at the fifth bell with the room at its number, and it was said twice, and then she said it in her own words, which is the thing she does.**
+**The answer came up the middle passage on a courier's hand and it was not dated, and Dalla Sen read it out in the anteroom at the fifth bell with the room at its number, and it was said twice, and then she said it in her own words, which is the thing she does.**
 
 **The Middle's route keeper had written it himself, in his own hand,** and it was four lines, and the second line was a line off a sheet nine hundred years old.
 

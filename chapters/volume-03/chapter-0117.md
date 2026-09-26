@@ -104,7 +104,7 @@ Iven Tallo said the sentence the room needed and said it from the bench.
 
 Marek Venn put his hand out to the column and then took it back, and nobody saw him do it except the clerk, and the clerk entered that she had seen it and had not written it down, which is a thing she has done twice in twenty-two weeks and one of the twices was about a man who could not go up a road.
 
-He had wanted to say *then let me take it*, and he had a hand that could hold a sheet, and there is a difference between a man who can carry a piece of paper four days up a passage and a man who can be useful at the end of it, and he knew the difference, and it was the whole of what he had learned in five months, and it had cost him a fortnight of deciding and a burning hand and a mark that was off a wall by Thursday.
+He had wanted to say *then let me take it*, and he had a hand that could hold a sheet, and there is a difference between a man who can carry a piece of paper four days up a passage and a man who can be useful at the end of it, and he knew the difference, and it was the whole of what he had learned in five months, and it had cost him a fortnight of deciding and a burning hand and a mark on a doorframe that a man had already stood in a doorway in front of for four seconds and not stopped at.
 
 "**Then it goes up on a market day,**" said Bel Ordry, "**with a person who is going that way anyway, and I want it entered that I have not got a person who is going that way, and that we are waiting for a market day and not sending anybody.**"
 

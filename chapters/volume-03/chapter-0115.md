@@ -34,9 +34,9 @@ When she came back up she said three things in the order she said them, and the 
 
 "**So the room opens, and the floor is dry, and the school is not in it, and I am going to write both of those on the same line.**"
 
-Marek Venn heard it and did not say anything, and what he did not say was *I did that*. He had put a line of chalk and a smear of gland grease on a doorframe on the second day of this week, and eight days later a room with a wet floor in it was dry, and the room was open, and nine children were two hundred feet away in the worst room in this building, and both of those sentences were true and the second one was going to be true on Friday as well.
+Marek Venn heard it and did not say anything, and what he did not say was *I did that*. He had put a line of chalk and a smear of gland grease on a doorframe on the second day of this week, and by the fifth day of it a room with a wet floor in it was dry, and the room was open, and nine children were two hundred feet away in the worst room in this building, and both of those sentences were true and the second one was going to be true on Friday as well.
 
-He had spent twenty-two weeks learning that a boundary could make a room safe by making it a room nobody was in, and he had said so out loud in this room ten days before he did the other thing, and now the other thing had produced a dry room nobody was in, and he could not tell which of the two sentences frightened him more, and the honest answer was the first one.
+He had spent twenty-two weeks learning that a boundary could make a room safe by making it a room nobody was in, and he had said so out loud in this room on the fourth day of last week and had done the other thing on Tuesday, and now the other thing had produced a dry room nobody was in, and he could not tell which of the two sentences frightened him more, and the honest answer was the first one.
 
 ---
 
