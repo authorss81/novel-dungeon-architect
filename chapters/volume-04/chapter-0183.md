@@ -4,13 +4,13 @@ The fourth day of the thirty-fifth week is a Thursday, and the corridor is shut,
 
 The water at the waist was where the water at the waist is, about the height of a knee, and it was not moving, and three people in this building have never measured it on purpose and have given that reason out loud in a room. The review page at the low end was blank with its three conditions on it, and the third of them said that nobody is to be sent anywhere to make it true. The floor was not approached. No name went on it and no row was asked for. Behind that page are four treads and a rail. The treads are dry. Nobody has been on them since this book began, and nobody went near them on any morning of this week, and a rail is a rail.
 
-On the anteroom table, under the chalk line two documents lie with their columns the same way up and nothing written under the line. They have lain there since Thursday. A wax head at each top corner. A page in a coat that has been on a table nine days. The line is on this table and is not in the plan and is not on the leaf.
+On the anteroom table, under the chalk line two documents lie with their columns the same way up and nothing written under the line. They have lain there since Thursday. A wax head at each top corner. A page in a coat that has been on a table six days. The line is on this table and is not in the plan and is not on the leaf.
 
 Nella Bray put it on the table at the second bell without anybody asking her, which she had decided on the way up the nine steps and had told nobody, and she did it the way a clerk does a thing she has decided to do and is not going to argue about.
 
 "**The first column is a day of the week,**" she said. "**It is a fifth day. It has been a fifth day since it was printed and nobody has asked it to be anything else, and the second printing is the one that is in this building. The second column is headed for the person who will be present and there is nothing in it against three rooms, and two of those rooms are struck, and the third one is the room at your kitchen-line end, and it is not struck.**"
 
-"**Read the covering on it,**" said Dalla Sen.
+"**Before the columns. The covering on it,**" said Dalla Sen, and did not touch the sheet.
 
 "**Struck before it ever reached this room, in a hand that is not the printer's, and I did not strike it and neither did anybody in this building,**" Nella Bray said, "**and I have now seen the same thing twice and I am not going to say a third thing about it.**"
 
@@ -36,23 +36,27 @@ The clerk entered that in his words. She entered that the elected keeper of this
 
 "**The half against it is this, and I am giving it before it is proposed so nobody can say a woman who keeps a corridor was easy to persuade. A room which accepts the day of a sheet has agreed to be looked at on somebody's day, and a room which agrees to be looked at on a day has to be ready on that day, and being ready on that day is a thing you cannot do. You can be ready on a day you chose. That is the whole difference between a keeper and a post and it took me thirty-five weeks and a carpenter's question to be able to say it.**"
 
-Nobody improved on that, and the air engineer came down two steps and stopped and said the thing she had been carrying since the day before, out loud, in a working morning, with nobody in the room who had asked her for it.
+Renn Vale had said it early on purpose and the room let it stand, and then the air engineer came down two steps and stopped and put on the table the thing she had been carrying since the day before, out loud, in a working morning, with nobody in this room who had asked her for it.
 
 "**Then here is the cheap thing, and I am going to say it in my own words and I am going to say it before somebody else does it better.**" Nera Oduya had the dyed cloth in her hand and had not unfolded it. "**We keep the day. Tomorrow is a fifth day and a fifth day is a school morning and the room at the kitchen-line end will be empty of nine children, because the woman who keeps it emptied it on a Warden's instruction on Wednesday and would empty it again for one morning if a man from an office walked in and asked her to. My name goes in the second column tonight. I will be the person who is present. Three rooms get looked at, one of them empty, nobody is hurt, no door is shut, and the sheet goes back down the passage with a mark on it that says this boundary attended.**"
 
+"**She told this room yesterday that she would not,**" said Bel Ordry, from the step. "**In this anteroom, with nine children behind her in a corridor and her own mouth on it, and the clerk wrote it in the woman's words, and it is in the book, and a cheap thing standing on a thing somebody said out loud in this room a day ago is not a cheap thing. It is arithmetic with a lie in the bottom of it.**"
+
+"**I know what she said yesterday and I am not asking her to do it,**" Nera Oduya said, and unfolded the dyed cloth and folded it again. "**I am asking her to be in the building. Those are two different requests and one of them costs this boundary nothing, and I have picked the one that costs nothing, and I would like that picked out loud in a room and not written down afterwards.**"
+
 Nobody said anything for long enough that the pump got three strokes in.
 
-"**I want that written down in the space where a reason goes, and the reason is not a reason, and I am going to say it anyway,**" she said. "**The reason is that I wrote a sentence in this room a fortnight ago that says I will not certify a building that has said no to nothing. And this boundary has said no to nothing. It has not been asked to say yes to anything. It has said yes to a piece of timber that was on the floor before anybody could refuse it, and it has said yes to a count it did not ask for, and it has said yes to a page in a coat that has been on a table for nine days.**"
+"**I want that written down in the space where a reason goes, and the reason is not a reason, and I am going to say it anyway,**" she said. "**The reason is that I wrote a sentence in this room a fortnight ago that says I will not certify a building that has said no to nothing. And this boundary has said no to nothing. It has not been asked to say yes to anything. It has said yes to a piece of timber that was on the floor before anybody could refuse it, and it has said yes to a count it did not ask for, and it has said yes to a page in a coat that has been on a table for six days.**"
 
 "**That is three yeses,**" said Bel Ordry, from the step.
 
-"**That is three yeses and no no, and a sheet that goes back down a passage with a mark on it is a fourth yes, and I am the person who put my name next to it, and I have not been asked about any of this and I am not waiting to be asked, because a condition nobody asks about is a condition that is only mine.**" She did not look at Marek Venn. "**And the honest part is that the cheap thing is not only cheaper, it is safer. If this boundary goes on not answering, the next thing that comes up that passage is not a question. I have watched an office for nineteen years from the other side of a counter and I am telling you as somebody who has watched one that a boundary which has never said no is a boundary somebody will arrange instead of asking, and arranging is cheaper for them and it is the same for us except that we did not choose the day.**"
+"**That is three yeses and no no, and a sheet that goes back down a passage with a mark on it is a fourth yes, and I am the person who put my name next to it, and I have not been asked about any of this and I am not waiting to be asked, because a condition nobody asks about is a condition that is only mine.**" She did not look at Marek Venn. "**And the honest part is that the cheap thing is not only cheaper, it is safer. If this boundary goes on not answering, the next thing that comes up that passage is not a question. I have been the only person who certifies the air in nine rooms of this Hearthhold since I was nineteen, and in nine years not one of those nine has ever said no to a thing anybody asked it for, and I know what an office does with a room like that, because I have watched it do it twice to somebody else. Arranging is cheaper for them and it is the same for us except that we did not choose the day.**"
 
 Then the man who keeps a page said the thing he had been carrying, and he said it badly, and he said so first.
 
 "**Thirty-five weeks ago a man from a surface federation said a sentence in this room and I wrote it in this building's book and entered it in his words, because I believed it was his and not ours. A regime is not a threat. It is a schedule. And a thing which is scheduled is not a thing that is refused.**"
 
-"**That is Pettin Rahl's sentence and it is in this book as his,**" said Dalla Sen.
+"**That is Pettin Rahl's sentence and it is in this book as his,**" said Dalla Sen, not looking up from the book.
 
 "**It is, and I want to say the other half of putting it in a book, and I have never said it in thirty-five weeks.**" Bel Ordry had his hands at his sides. "**I put a visitor's sentence in this room's record and I have watched this week two people use it as a reason to do a thing, and one of them was me on Tuesday when I did not defend my own page, and the other one was the woman who keeps a corridor saying it out loud in front of six strangers at half past eight this morning. The sentence is good. It is the best sentence anybody has brought into this room. And a room that has a good sentence in its book from outside is one step away from having a policy handed to it, and I am the man who wrote the step down, and I would like the clerk to enter that I said so in the room where it happened rather than in a year in a letter.**"
 
@@ -60,17 +64,17 @@ Dalla Sen entered it in his words, and entered that a man who keeps a page has s
 
 "**The half against all of it, and I am going to give it as a person who does this work,**" said Nella Bray, "**and I would like the room to notice that I have not said one word against it from a chair. A thing which is scheduled is not a thing which is refused. That is a true sentence. And not answering a schedule is an answer, and it goes in somebody's book, and the somebody is not in this room, and the sentence that goes in it is going to be that this boundary was scheduled and did not attend, and that sentence is going to be true.**"
 
-"**Then what do you want us to do,**" said Renn Vale.
+"**Then what do you want us to do,**" said Renn Vale, and nobody answered her for a moment.
 
 "**I want you to let the day come and go and not write a word about it,**" Nella Bray said. "**Not refused. Not accepted. Noted. And I want somebody in this room to understand that I am not being clever. I have read four hundred of these and the ones that get answered take a month and the ones that get ignored take a form, and a form is a thing a clerk has to do something about, and a clerk who has to do something about it does it.**"
 
 "**Then the clerk would like to say what she is not going to do,**" said Dalla Sen.
 
-She had her chalk down. She had had it down for four minutes.
+She had her chalk down. She had had it down for four minutes, which is the longest she has ever kept it down in this room without saying anything.
 
 "**I am not going to write the word refused,**" she said, "**and I have thought about it and here is the whole of the thinking, in the room, because a clerk who decides this alone at the sixth bell has made a policy. Pettin Rahl's sentence has been in this book since the thirtieth week and it is the reason we are not going to write a word, and the reason is his sentence and not mine, and that is exactly the thing Bel Ordry has just told this room we are one step away from, and he is right, and I am going to use it anyway, and I would like the book to say that I knew what he said and used it.**"
 
-"**Enter that,**" said Bel Ordry.
+"**Enter that,**" said Bel Ordry, from the step, and Dalla Sen did not look up.
 
 "**I am entering it,**" she said. "**A thing which is scheduled is not a thing which is refused, and this boundary has not refused a schedule. It has declined to answer one. Those are two different acts and only one of them is a thing an office can act on.**"
 
@@ -80,13 +84,13 @@ She had her chalk down. She had had it down for four minutes.
 
 "**It is a clerk refusing to write a word,**" she said. "**And if that is a policy then Bel Ordry can have it in a book with the rest of my reasoning, which is in a book.**"
 
-"**So what goes in the space,**" said Renn Vale.
+"**So what goes in the space,**" said Renn Vale, with the slate against her hip and no intention of taking it out.
 
 "**That the day came,**" said Dalla Sen. "**And that a man from an office was expected on the fifth day at this building, and that this boundary had nothing to say to him and gave him nothing to write, and that a woman who works at the counter four days up the middle passage asked this room three times this morning not to make a thing of it, and that I am entering her asking the same way I enter everything anybody says to me.**"
 
 The air engineer then asked for her own sentence to be written out in full and read back to her, which is not a thing she has ever done in this room.
 
-"**Write all of it,**" she said, "**and read it back, and do not tidy it.**"
+"**Write all of it,**" Nera Oduya said, "**and read it back, and do not tidy it.**"
 
 Dalla Sen wrote it out and read it back. Nera Oduya stood and listened to the whole of it with her hands at her sides, and when it was done she said that the four words it was missing were not missing by accident.
 
@@ -96,7 +100,7 @@ The clerk entered the concession as a thing that was proposed in a room by the p
 
 Iven Tallo had been at the anvil end for most of the morning with the chisel in his right hand and his left open and flat on his knee, and he came over and put the chisel down, which is what he does before he says a thing he means.
 
-"**Three things about a column and a person,**" he said. "**One, a name in a line is not a person. Two, a person is the only one of the three things in this building that can be told to stop. And three, there is a piece of paper four and a half days up a road with a route-holder's name in the second line of it and that second line is empty, and I have not put anything in it, and nobody in this room has asked me to, and I would like the book to keep saying that last part for a while.**"
+"**Three things about a column and a person,**" he said, and held up three fingers off the anvil end and then put the hand down again. "**One, a name in a line is not a person. Two, a person is the only one of the three things in this building that can be told to stop. And three, there is a piece of paper four and a half days up a road with a route-holder's name in the second line of it and that second line is empty, and I have not put anything in it, and nobody in this room has asked me to, and I would like the book to keep saying that last part for a while.**"
 
 Nobody asked him, and the clerk entered that nobody asked, and entered that a carpenter said in a room that a person is the only one of the three things that can be told to stop, and did not say the rest of what he was thinking, and that the rest of what he was thinking is available to him and not to this room.
 
@@ -135,3 +139,5 @@ The board was not walked and the reason was entered, and the reason was that a m
 No sixth piece of work has been asked of anybody this week, and the reason is in the book. The reason is that the cheapest thing in the room was put on the table by the person with the authority over the air, and a second thing was put on the table by a woman who does that work for a living at a counter four days up a passage. A room cannot hand five people a piece of work in the middle of deciding which of two sentences it is going to be standing behind.
 
 The pot is eight days and going to seven. The four households at a second gate have nothing, and no figure is attached to that gate by anybody.
+
+The corridor stayed shut from the first bell to the sixth. The anteroom had nine steps and a pump in it and a trestle with two documents lying on it under a chalk line, and nothing had been written under the line, and the name Nera Oduya had said out loud in it was not on either of them, and that was the shape of the whole morning.

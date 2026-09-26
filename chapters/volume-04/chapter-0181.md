@@ -10,17 +10,19 @@ There was no sheet under a seal and no road hand's tally and no clerk's book. Th
 
 Dalla Sen put her chalk down. She had been up since before the first bell with a slate she had not written on, and the reason she had not written on it was that a clerk who fills a slate in advance of a thing arriving is a clerk who has decided what the thing is.
 
-"**What you are, and before anybody stands anywhere,**" she said. "**Five of you carry. The sixth does not, and I have watched you come up nine steps and I would like the room to hear which of you is which before it decides anything at all.**"
+"**What you are, and before anybody stands anywhere,**" she said, and left the chalk where it was. "**Five of you carry. The sixth does not, and I have watched you come up nine steps and I would like the room to hear which of you is which before it decides anything at all.**"
 
 The woman answered, and her voice was not loud and did not want to be.
 
 "**I am a clerk at a counter at the middle gate, four days up the middle passage, and I do not carry. My name is Nella Bray and I have had it in a book on a shelf for six weeks and nobody in this building has ever written it down. The five are a shoring crew and their foreman is the tall one and his name is Emrys Callow and he will say his own.**"
 
-"**Say your own,**" said Callow. He set his pack down where the anteroom's floor is dry. "**Emrys Callow, forty-one, shoring, nine years, and I held a cleared-risk post-holder's bond in this district until I put it in a hand and did not go back for it. That is the whole of my history and I would rather it was said in a room than found out in a week.**"
+"**Say your own,**" said Dalla Sen, and set the chalk on the edge of the trestle where she could reach it.
+
+Callow set his pack down where the anteroom's floor is dry. "**Emrys Callow, forty-one, shoring, nine years, and I held a cleared-risk post-holder's bond in this district until I put it in a hand and did not go back for it. That is the whole of my history and I would rather it was said in a room than found out in a week.**"
 
 Nobody improved on that, and the woman who keeps a corridor came down four steps with her slate under her arm and stood between the trestle and the kitchen-line doorway, which is where she stands when she is going to be needed in two directions at once.
 
-"**The reason you are here,**" Renn Vale said. "**Both of you. And I have asked a room for that in this building for thirty-five weeks and I have never once got a straight answer to it, so I would like it as a sentence and not as a history.**"
+"**The reason you are here,**" Renn Vale said, with her back to the steps. "**Both of you. And I have asked a room for that in this building for thirty-five weeks and I have never once got a straight answer to it, so I would like it as a sentence and not as a history.**"
 
 Callow did not sit down. "**We will not carry for a man whose name is on two lines of a form,**" he said. "**Both lines. A route-holder's name in one and the name of the person responsible for a load in the other, and it is the same man in both, and the five of us carried for him for two years and our names were on neither line and not on any of them, and when a load came down wrong in the thirty-first week of last year the figure in the district book was a man who was not standing in the passage.**"
 
@@ -38,7 +40,7 @@ He had been standing on the third step with his hands at his sides and the page 
 
 Nobody said anything for about a minute, and the pump got four strokes in.
 
-"**I filled in two lines on a form at that counter in the ordinary course of an ordinary morning,**" said Nella Bray. "**Both of them were correct. I did not know what the section under them was used for and I was not asked and I am not going to stand here and pretend I was careful. And six weeks ago I took your form off your board, and the rule said your form was wrong, and the rule was right, and I have been right about both of those and I would like the room to notice what that does to a person.**"
+"**I filled in two lines on a form at that counter in the ordinary course of an ordinary morning,**" said Nella Bray, who had not sat down either. "**Both of them were correct. I did not know what the section under them was used for and I was not asked and I am not going to stand here and pretend I was careful. And six weeks ago I took your form off your board, and the rule said your form was wrong, and the rule was right, and I have been right about both of those and I would like the room to notice what that does to a person.**"
 
 "**What it does to you,**" said Renn Vale, "**is not a thing I am going to guess at, and I am not going to hand you a sentence to say about yourself because you are the first person in six weeks to walk into this room and tell us we were right to be angry.**"
 
@@ -50,11 +52,11 @@ Then Renn Vale put the second thing on the table, and she did it standing, with 
 
 "**Go on then,**" said Callow, "**since you have started it.**"
 
-"**The other half is that you are both talking about forms and neither of you is talking about a wall,**" Renn Vale said, "**and there is a party wall in this building with six timber shores on one side of it that arrived on Monday under somebody else's order, and a line of nothing about two fingers wide in it on the other side, and I have been waiting since Friday for one of you to ask me what the work is, and neither of you has, and I am not going to tell you what the work is.**"
+"**The other half is that you are both talking about forms and neither of you is talking about a wall,**" Renn Vale said, and turned the slate over in her hand. "**And there is a party wall in this building with six timber shores on one side of it that arrived on Monday under somebody else's order, and a line of nothing about two fingers wide in it on the other side, and I have been waiting since Friday for one of you to ask me what the work is. Neither of you has. I am not going to tell you what the work is.**"
 
 That went into the book in her words, and the clerk entered that a woman who keeps six things declined to describe a piece of work to two strangers who came four days to do it, and entered that the reason she gave was that she wanted to be asked, and entered that nobody asked.
 
-"**Then I am asking,**" said Marek Venn. "**What is the work.**"
+Marek Venn put his hand flat on the cover of the book he had shut. "**Then I am asking.** **What is the work.**"
 
 "**No,**" said Renn Vale. "**You are not asking on my behalf and you are not asking because I have just told you that I want to be asked. You are asking because you have been on that landing for two hours this morning and off it, and because you have decided not to be the man who measures a wall today, and because the book is on the table with the page turned out and I read it upside down from where I stand.**"
 
@@ -62,9 +64,9 @@ Marek Venn shut the book, and it did not take him four seconds, and he noticed t
 
 "**Before you do,**" said Renn Vale. "**If you ask, I will tell you, and the six of them will know that the man who drew a hole in that wall for three days is the man who came and asked them to come. And that is not a reason to keep a room from its work. It is the reason a room is careful about who it lets stand next to it.**"
 
-The seventh stranger's silence went on long enough that the light on the flags went from grey to the other kind of grey, and then Emrys Callow said the thing that turned the morning.
+The room did not improve on what she had said, and the silence after it went on long enough that the light on the flags went from grey to the other kind of grey, and then Emrys Callow said the thing that turned the morning.
 
-"**We will not work that wall for free,**" he said. "**I am not saying that as a threat. I am saying it because it is the fifth day of a week and my five men have a district rate and no district work, and if they stand on that landing for another week they are five men in a Hearthhold being fed out of a pot by a woman who has not got a pot to spare, and I know that, because I have eaten out of other people's pots on other walls for nine years and I have never once been asked to say so out loud in a room before I did it.**"
+"**We will not work that wall for free,**" he said. "**I am not saying that as a threat. I am saying it because it is the second day of a week and my five men have a district rate and no district work. If they stand on that landing for another week they are five men in a Hearthhold being fed out of a pot by a woman who has not got a pot to spare, and I know that, because I have eaten out of other people's pots on other walls for nine years and I have never once been asked to say so out loud in a room before I did it.**"
 
 Mikka Hale, who was at the kitchen-line doorway with a cloth over her arm and had not come further into the room all morning, said one sentence.
 
@@ -74,25 +76,25 @@ Mikka Hale, who was at the kitchen-line doorway with a cloth over her arm and ha
 
 Then the two of them said their reasons, and they said them a long way apart, and neither of them was the reason the other one gave.
 
-Nella Bray said it flat and to the room and not to anybody in it. "**I do not trust this boundary because I cannot find out how many people are in it. I have stood at a counter for nineteen years and every instrument that comes through that counter about a building is a number of what a building is allowed, and I have never in nineteen years been sent one that was a number of what is in it, and I would not have noticed the difference until a man in this room put a page on a table beside a stranger's paper nine days ago and said out loud that ours was the worst page in the district.**"
+Nella Bray said it flat and to the room and not to anybody in it. "**I do not trust this boundary because I cannot find out how many people are in it. I have stood at a counter for nineteen years and every instrument that comes through that counter about a building is a number of what a building is allowed, and I have never in nineteen years been sent one that was a number of what is in it, and I would not have noticed the difference until a man in this room put a page on a table beside a stranger's paper four days ago and said out loud that ours was the worst page in the district.**"
 
 Bel Ordry put his hand flat on the coat, and not on the page, and he was careful about where it went.
 
 "**I said that about my own page, in this room, in my own words, on a Thursday, and I said it because I was frightened,**" he said. "**And I am not going to argue with a woman about it this morning. The part of it she has read is the part that is printed on somebody else's paper, and it is the same part, and it is on mine.**"
 
-"**Entered,**" said Dalla Sen, "**that a man who keeps a page declined to defend his own instrument in a room with a stranger in it, and that he gave the reason first and that the reason was in the space where a reason goes and not in a column.**"
+"**Entered,**" said Dalla Sen, and the chalk moved. "**That a man who keeps a page declined to defend his own instrument in a room with a stranger in it, and that he gave the reason first and that the reason was in the space where a reason goes and not in a column.**"
 
 "**And the half against waiting,**" Bel Ordry said, "**and it is Renn's because she is the one waiting, so I am only going to say the other half of what she said. If these two stand on a landing for another week with nothing to do and no pay, they will take the next work that comes, and the next work that comes will be under a line with a name on it, and that name will not be any of ours and it will be a man with two of them.**"
 
 Callow took that without moving.
 
-"**That is the best argument anybody has made to me about anything since I came up your steps,**" he said, "**and I am not going to pretend I have an answer to it, and I would like it entered that I did not have an answer to it.**"
+"**That is the best argument anybody has made to me about anything since I came up your steps,**" he said, and his hands stayed where they were. "**And I am not going to pretend I have an answer to it, and I would like it entered that I did not have an answer to it.**"
 
 Dalla Sen entered that a stranger had asked a room for a thing to be written down in a book, and that the room had written it down. She entered the reason she did it in four seconds instead of the four she usually takes. The reason was that those were the first two names to come into this room in thirty-five weeks. A clerk who waits for certainty before she writes a name down is a clerk who is going to be the reason a name is missing in a year.
 
 She put six names on the slate in her own hand, out of the woman's mouth, one at a time, and read them back herself. Jo Verrick read the slate against it, and it was the same. Then Nella Bray read the slate back to a clerk who has been this boundary's clerk since the nineteenth week, and said it was right. Dalla Sen entered that a stranger had checked a clerk's hand and found nothing to change.
 
-Then, at the fourth bell, the anteroom's terms were said by a person and repeated by the clerk, and the count was ten including one litter for no more than two hours and did not change, and the outer service door was the one a body went out of, and the fifth term was in a room with both the people it names in it, and the pump was attended. The six strangers were not in the anteroom when it was said and Renn Vale said why, in one line, and the line was that a crossing that takes nine people through a room rated ten does not need a seventh pair of eyes standing in it counting.
+Then, at the fourth bell, the anteroom's terms were said by a person and repeated by the clerk, and the count was ten including one litter for no more than two hours and did not change, and the outer service door was the one a body went out of, and the fifth term was in a room with both the people it names in it, and the pump was attended. The six strangers were not in the anteroom when it was said and Renn Vale gave the reason in one line, and the line was that a room with a number on it is the wrong place to stand and count a crossing that everybody standing in it can already see happening.
 
 Nobody was asked for a sixth piece of work, and the reason was put in the book, and the reason was that six people had come into this room and had not asked this boundary for anything, and that a clerk who asks five people to carry a piece of work on the back of six strangers who have not yet said whether they will stand next to them is asking them to be looked at.
 
