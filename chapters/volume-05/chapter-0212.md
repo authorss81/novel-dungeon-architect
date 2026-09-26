@@ -8,7 +8,7 @@ Renn Vale put her ear to the wall at the first bell, four times over, and report
 
 The terms were said, all six, by a person and repeated by the clerk, and the third of them was new and was said without anybody being asked whether it was right, and the clerk entered that the cook was in the room and entered not one word about whether it was true. Ten including one litter for no more than two hours, and it did not change. The outer service door is the one a body went out of. The fifth of the six is in a room with both of the people it names in it, and he named it and read nothing, and the clerk entered that she did not ask him to read it on a morning when two people were about to go into water. And the sixth was the pump, and the pump runs, and nobody said out loud that the pump is the reason two people were going down a wet stair at the second bell, and the clerk entered that nobody had said it.
 
-Then the man at the end of the trestle said the thing he had been carrying for three weeks, and he did not say it the way anybody expected, and afterwards two people in that anteroom said so.
+Then the man at the end of the trestle said the thing he had been carrying for a week, and he did not say it the way anybody expected, and afterwards two people in that anteroom said so.
 
 "**I am not going to say what I know,**" Marek Venn said, "**and I am going to give you the reason for that in my own words first, because I have given four reasons in a fortnight and every one of them was about other people and the clerk has entered that four times, and this one is also about other people and I am going to say so out loud before she does.**"
 
@@ -86,7 +86,7 @@ Then Iven Tallo put his hand flat on the iron at the anvil and said a thing that
 
 "**Say more than that,**" said Dalla Sen.
 
-"**There are nine people in the water past that chamber,**" said Iven Tallo. "**On the far side of it, in a passage that goes on, and they are up to their chests and they have a line tied round the third one from the front because somebody tied it, and I have been in this building nine weeks and I do not have a sentence for what I am looking at and I am going to say the pieces of it instead. They are nine. They are not dressed like this building's people and they are not dressed like anybody who lives in a house. They have a foreman with them because the one at the front is a man of about fifty with grey at the side of his head and he is not shouting and he is holding a line. And he looked at two people coming down a wet stair in a building he has never been in, and he did not shout at us, and he said nine words.**"
+"**There are nine people in the water past that chamber,**" said Iven Tallo. "**On the far side of it, in a passage that goes on, and they are up to their chests and they have a line tied round the third one from the front because somebody tied it, and I have been in this building forty weeks and I do not have a sentence for what I am looking at and I am going to say the pieces of it instead. They are nine. They are not dressed like this building's people and they are not dressed like anybody who lives in a house. They have a foreman with them because the one at the front is a man of about fifty with grey at the side of his head and he is not shouting and he is holding a line. And he looked at two people coming down a wet stair in a building he has never been in, and he did not shout at us, and he said nine words.**"
 
 "**What were the nine words,**" said Bel Ordry.
 

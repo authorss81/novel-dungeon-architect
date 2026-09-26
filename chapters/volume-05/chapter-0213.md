@@ -26,7 +26,7 @@ He put the cup down.
 
 "**The half against is that a foreman who goes into a room first is a foreman who is not there when his five come up,**" Emrys Callow said. "**And I know that and I have thought about it for a fortnight and I have not found a better sentence, and if somebody in this room has one they can have it after I have said the thing I have to say and not before.**"
 
-Then Mero Senn took his bag off the wall and set it on the floor, which he has done once in this building in nine weeks and once in a fortnight.
+Then Mero Senn took his bag off the wall and set it on the floor, which he has done twice in this building and the second time was three days ago.
 
 "**I am not going to take it apart,**" he said, "**and I want it entered that I am not, and I want the reason entered, because a man who keeps a rule for a week and then breaks it on the day the rule was due is a man who is telling a room what the rule was for.**"
 

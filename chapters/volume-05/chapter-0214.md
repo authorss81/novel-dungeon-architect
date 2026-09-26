@@ -104,7 +104,7 @@ Nella Bray wrote for about as long as it takes to say a sentence and read it out
 
 Mikka Hale did not look up from the cloth over her arm.
 
-"**Two. Warm, and there is a stove in this building that has not been lit in nineteen weeks and that stove is not mine to promise, and what I can promise you is that this room will go and find out whether there is anything in it that can be lit without setting a school on fire, and that finding out is a work and not a gift.**"
+"**Two. Warm, and there is a stove in this building that has not been lit in twenty weeks and that stove is not mine to promise, and what I can promise you is that this room will go and find out whether there is anything in it that can be lit without setting a school on fire, and that finding out is a work and not a gift.**"
 
 "**Three. Fed, and that is the same pot,**" Nella Bray said, "**and the pot is at three days and the seam gave nothing yesterday and I have written *fed* and I have not written how much, because the woman who holds that number will not have it written and a slate is not where that number goes.**"
 
@@ -132,7 +132,7 @@ Mikka Hale did not look up from the cloth over her arm.
 
 "**And the number,**" said Bel Ordry.
 
-"**That is the ninth,**" said Tams Quill, "**and I have said it out loud before she writes it, and I have said it a fortnight after the eighth and not in the same week, and I would like it entered that the ninth and the eighth are six weeks apart and that I have not been in any particular hurry.**"
+"**That is the ninth,**" said Tams Quill, "**and I have said it out loud before she writes it, and I have said it six days after the eighth and not on the morning after it, and I would like it entered that the ninth and the eighth are six days apart and that I have not been in any particular hurry.**"
 
 Nobody told him thank you, and nobody told him he was wrong, and Dalla Sen entered the ninth and entered that he had said the number before she wrote it and that the reason was in his words and was not about him.
 

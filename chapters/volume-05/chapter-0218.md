@@ -24,7 +24,7 @@ Nella Bray had her slate and read it in a clerk's voice, which she can do and wh
 
 "**One. The ground: a gallery at the lower end of a passage off the second gate, with rooms off it.**"
 
-"**Two. The person responsible for the load, in a clerk's hand, and there is a name in it, and I have read that name four times in three weeks and it is not a name this boundary knows.**"
+"**Two. The person responsible for the load, in a clerk's hand, and there is a name in it, and I have read that name four times in a fortnight and it is not a name this boundary knows.**"
 
 "**Three. The salvage: water, timber, metal, salt-crust, and anything a person can take out and carry.**"
 
@@ -52,7 +52,7 @@ She read it.
 
 Seth Wray put a hand flat on the table.
 
-"**That is the claim,**" he said. "**I have carried it up four days and left it and I have never read the fifth line out loud to anybody, and I read it on the road in about the second hour because I could not stand carrying a thing I had not looked at, and I have been carrying that fifth line for eleven days and I have not been able to put it down and I have not been able to say why.**"
+"**That is the claim,**" he said. "**I have carried it up four days and left it and I have never read the fifth line out loud to anybody, and I read it on the road in about the second hour because I could not stand carrying a thing I had not looked at, and I have been carrying that fifth line for a fortnight and I have not been able to put it down and I have not been able to say why.**"
 
 "**Say why,**" said Bel Ordry.
 
@@ -62,11 +62,11 @@ Seth Wray put a hand flat on the table.
 
 "**Say the half against that,**" said Bel Ordry.
 
-"**The half against is this boundary's and it has been in this room for eight weeks and it does not work, and I would like it entered today that it is still here and that it is still correct and that a hearing has not improved it by one word,**" said Bel Ordry. "**A road a person carries a load along is not a recognised road unless there is a named person responsible for the load. The rule is standing. The office is right about the rule. And a claim over a room full of water is a claim over a thing that cannot be carried, so the second line asks for a person responsible for a load on a ground where there is no load, and a form that cannot be answered correctly is a form that cannot be used, and that argument is correct and it has been correct since the fourth day of the thirty-ninth week, and on Saturday a woman from a counter said her own objection stopped holding the day a piece of timber went out on a cart, and the claim is answered anyway, by somebody competent, in a clerk's hand, four days away.**"
+"**The half against is this boundary's and it has been in this room for eighteen days and it does not work, and I would like it entered today that it is still here and that it is still correct and that a hearing has not improved it by one word,**" said Bel Ordry. "**A road a person carries a load along is not a recognised road unless there is a named person responsible for the load. The rule is standing. The office is right about the rule. And a claim over a room full of water is a claim over a thing that cannot be carried, so the second line asks for a person responsible for a load on a ground where there is no load, and a form that cannot be answered correctly is a form that cannot be used, and that argument is correct and it has been correct since the fourth day of the thirty-ninth week, and on Saturday a woman from a counter said her own objection stopped holding the day a piece of timber went out on a cart, and the claim is answered anyway, by somebody competent, in a clerk's hand, four days away.**"
 
 He put his hand flat on the sheet.
 
-"**And now the part I came to say and I would like it said before anybody else says anything,**" Bel Ordry said. "**The fifth line of that form names three places. A schoolroom with a hearth stone in it, a pump house, and a store at the top of the middle passage. I put the third of those three on a line in this room on the fifth day of the fortieth week and I said I did not know it was on a line and that I would have to leave to find out. A child of nine then said the whole of it better than I had, and this clerk entered it as a guess with the word guess in the space where a reason goes.**"
+"**And now the part I came to say and I would like it said before anybody else says anything,**" Bel Ordry said. "**The fifth line of that form names three places. A store at the top of the middle passage on the north side, a pump house below it, and the foot of a passage off a second gate. And I will say the thing that is wrong with me before anybody else says it, which is that I have been saying them all week in the order the room had them in and not the order the paper has them in, and the schoolroom is not one of the three and it was never on the paper. I put the first of those three on a line in this room on the fifth day of the fortieth week and I said I did not know it was on a line and that I would have to leave to find out. A child of nine then said the whole of it better than I had, and this clerk entered it as a guess with the word guess in the space where a reason goes.**"
 
 "**Say the rest of it,**" said Nella Bray.
 

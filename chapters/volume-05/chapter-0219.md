@@ -20,7 +20,7 @@ She came back at about the fifth bell with her boots full and the chalk in her h
 
 "**Say where in this building,**" said Dalla Sen, and her voice was not different at all.
 
-"**In the pump station,**" said Nera Oduya. "**In the floor of this anteroom, under this pump, and it finishes in the head of this pump's own frame, in a groove about the width of my thumbnail, a hand's breadth under a line of chalk, that a woman in this room found nine days ago and could not read.**"
+"**In the pump station,**" said Nera Oduya. "**In the floor of this anteroom, under this pump, and it finishes in the head of this pump's own frame, in a groove about the width of my thumbnail, a hand's breadth under a line of chalk, that a woman in this room found nineteen days ago and could not read.**"
 
 The pump was between strokes, and it made no sound at all.
 
@@ -56,11 +56,11 @@ Nobody in that anteroom said anything for what the clock in the corridor would h
 
 Nera Oduya did not say it again. She turned round to the pump and put her thumb under the string Jo Verrick had taken out of her belt and laid on the frame about an hour before, and took it out again, and the thumb came out of it right.
 
-"**Say the half against that,**" said Bel Ordry, "**because a man in this room argued in this room nine days ago for running a pump against a nine-hundred-year-old groove in the head of that frame, and said he would argue it again in nine hundred years, and said he was not a person anybody should take advice from about a pump, and every word of that was correct and none of it was what he meant.**"
+"**Say the half against that,**" said Bel Ordry, "**because a man in this room argued in this room ten days ago for running a pump against a nine-hundred-year-old groove in the head of that frame, and said he would argue it again in nine hundred years, and said he was not a person anybody should take advice from about a pump, and every word of that was correct and none of it was what he meant.**"
 
 "**Your half against first,**" said Nera Oduya.
 
-"**My half against is that I was arguing for a groove when I should have been asking who cut it,**" said Bel Ordry. "**I have spent forty weeks telling rooms that a mark is not a rule and a rule is not a mark, and on the fourth day of the thirty-ninth week I stood in this room and argued that a groove nine hundred years old was a rule, and the reason I gave was that a thing that is already there is not a reason, it is a thing that was already there. And I was right that it was a rule. I was wrong about what being right costs. The pump has been sitting on the low point of a nine-hundred-year-old fall and pumping the water back up it for nineteen weeks, and the reason nobody noticed is that a groove is a groove and a groove does not look like an instruction. I have been wrong in this building four times and I knew about three of them.**"
+"**My half against is that I was arguing for a groove when I should have been asking who cut it,**" said Bel Ordry. "**I have spent forty weeks telling rooms that a mark is not a rule and a rule is not a mark, and on the sixth day of the fortieth week I stood in this room and argued that a groove nine hundred years old was a rule, and the reason I gave was that a thing that is already there is not a reason, it is a thing that was already there. And I was right that it was a rule. I was wrong about what being right costs. The pump has been sitting on the low point of a nine-hundred-year-old fall and pumping the water back up it for nineteen weeks, and the reason nobody noticed is that a groove is a groove and a groove does not look like an instruction. I have been wrong in this building four times and I knew about three of them.**"
 
 "**Now my half against,**" said Nera Oduya. "**It is not clear. I want that said before anybody writes a sentence about it. The channel is nine hundred years old and it is full of scale — that is ordinary. Scale is what a channel makes when it has been doing its work for nine hundred years, and scale is what you expect, and I have said in this room that I would not explain a seam and I am not going to explain this. But I could not see how far down the run is clear. It is clear at the cistern end. It is clear at the chamber. It is not clear where it comes in under this floor and I cannot see that part at all from the top, and I am not going to stand in a room and tell you where it stops being clear, because I do not know, and a person who guesses about a rate gets hurt.**"
 
