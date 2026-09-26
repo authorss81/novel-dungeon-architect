@@ -58,7 +58,7 @@ Then the cook gave the number and would not give the word.
 
 Dalla Sen wrote nothing for a moment, which everybody in the room noticed and nobody remarked on.
 
-"**Entered, and entered that the cook asked me not to,**" she said. "**Entered that the road to the middle gate is four days and that the pot is four days. And entered that I am putting the two figures next to each other with nothing between them for the third time in this volume, and that I am not entering what they are.**"
+"**Entered, and entered that the cook asked me not to,**" she said. "**Entered that the road to the middle gate is four days and that the pot is four days. And entered that I am putting the two figures next to each other with nothing between them for the third time, and that I am not entering what they are.**"
 
 "**That is a clerk managing a record,**" put in Bel Ordry from the step.
 

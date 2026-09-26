@@ -106,7 +106,7 @@ The anteroom's terms were said by a person and repeated by the clerk, and the co
 
 At the sixth bell the clerk entered the day's figure and the total and did not read them, and the reason was entered too, and the reason was that a room had just agreed to do a morning it could not name and a clerk does not stand up and read a total in front of a thing nobody in the room can see the shape of. Two today and two hundred and seventy-six since the keeper signed. The boundary is at three hundred and ninety-three and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.
 
-The count was read at one hundred and twenty-six and it is not going to be one hundred and twenty-seven, and she has said in thirty-five weeks running that she is going to keep writing it, and nobody has thanked her.
+The count was read at one hundred and twenty-six and it is not going to be one hundred and twenty-seven. For thirty-five weeks she has said out loud that she is going to keep writing it down, and for thirty-five weeks nobody has thanked her for the promise, and she wrote the number again this morning and turned the slate face down over it.
 
 The board was walked at the sixth bell at eighteen entries, nine in the ordinary column and nine in the column with nothing over the top of it, and the column is not headed, and no reason for it was given and none was asked for.
 

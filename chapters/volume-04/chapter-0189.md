@@ -128,7 +128,7 @@ At the fourth bell the anteroom's terms were said by a person and repeated by th
 
 At the sixth bell the clerk entered the day's figures and the total and left both of them unsaid, and the reason was entered too, and the reason was that a room had named a figure of days in it and a clerk had refused to give one, and a clerk who reads a total out loud on a morning when the only numbers in her head belong to a foreman is handing her morning to a foreman. Two today and two hundred and sixty-eight since the keeper signed. The boundary is at three hundred and eighty-five and a quarter, it adds by the day the work was done, both columns reconcile, and the counter is at seventeen.
 
-The count was read at one hundred and twenty-four and it is not going to be one hundred and twenty-five, and the clerk said out loud that it was a number of days and not a number of anything, and she has said that in thirty-three weeks running, and nobody has thanked her.
+The count was read at one hundred and twenty-four and it is not going to be one hundred and twenty-five. The clerk has said out loud for thirty-three weeks that it is a number of days and not a number of anything, and in thirty-three weeks nobody has thanked her once, and this morning she said it and then wrote down that she had said it, which is a different thing from being thanked and she knows the difference.
 
 The board was not walked, and the reason was entered, and the reason was that a man who reads numbers had given nothing away for two days running and a board is not the place to go looking for what a man is holding.
 
