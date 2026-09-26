@@ -104,8 +104,6 @@ He looked at it. He had it in his hand the right way up, and he had read that co
 
 He read the strike too — the modal in Renn Vale's hand, struck out, and Nera Oduya's replacement in her own hand — and Dalla Sen said the thing she had come to say, which was not a fact.
 
-Dalla Sen said the thing she had come to say, which was not a fact.
-
 "**I am going to enter a decision on a page tonight and I am entering it because a room in a book is allowed to look like an accident and this one is not going to.**
 
 "**A condition in this building is checked by being read out again, word for word, against the original, by a second person, in a room, and compared. That has happened in this building four times in three weeks: a mark's condition when it was written and when it was met, a floor's condition when it was met, a room's condition when it was written and when it was lifted, and a column's reason just now.**
