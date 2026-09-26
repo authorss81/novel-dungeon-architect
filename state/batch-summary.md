@@ -1,3 +1,52 @@
+# Batch Summary — Volume 04, Batch 0004 REPAIR RECORD (Chapters 176–180, revised in place)
+
+> **This record is added above the Batch 0004 delivery record and does not replace it.** The delivery record is beneath this one, unaltered, and it remains the record of what the batch set out to do. This record is the record of what happened to the five chapters afterwards, and it supersedes the delivery record's **craft baseline figures only** — every plot fact, figure, date, guardrail and hand-off in the delivery record still stands and has been verified against the repaired files.
+
+## What happened
+
+**An independent review of Volume 04 Batch 0004 was run after the batch was delivered. It made six findings against the prose. All six were accepted. Four were repaired in the five chapters; two could not be repaired without changing planned plot and were converted into constraints on the next phase instead. The full record, with every measurement and its method, is `reviews/volume-04/batch-0004.md`, which is now a two-part document: the writer's self-review, and the repair.**
+
+**Nothing about the batch's story changed.** No beat was moved, no figure altered, no date changed, no guardrail traded, no character given a new act, and `outline/volume-04.md` and the planned ending were not touched. What changed is how the chapters are built: a device was removed, a shape was changed, one continuity error was fixed, one arithmetic gap was closed, and the records were corrected.
+
+## The four prose repairs, in numbers
+
+| | as delivered | as repaired |
+|---|---|---|
+| words, `wc -w`, five chapters | 19,015 | **16,844** |
+| fully-bold epigraph and recap paragraphs | 43 | **0** |
+| spoken paragraphs opening with a formulaic demand for speech | 52 | **0** |
+| clerk recitations opening *Entered, in his words* | 26 | **1** |
+| bare *Say* imperatives, kept deliberately | — | **2** (+ the physician's *So say the name* in 178) |
+| quoted share, batch | 62.3% | **52.4%** |
+| duplication groups on 151–180 touching this batch | 0 | **0** |
+
+Per chapter: **3200, 3499, 3052, 3511, 3582** words, inside the range Volume 03's late chapters ran. Quoted share **53.6, 46.9, 58.6, 53.7, 50.1**, against Volume 01's 25–40% and Volume 03's late 60–75% — the batch sits back inside the range the series started in, and the Batch 0005 prompt now carries a forty-five-to-sixty-five guide with seventy named as the point where a chapter has no scene left in it.
+
+**The 2,171 words removed were recap blocks and spoken recitations of the clerk's own bookkeeping. No plot-bearing prose was cut, and the chapters were deliberately not lengthened back out to prove a point about a ceiling that did not exist.**
+
+## The 4000-word ceiling is retired
+
+**The ceiling is not in `AGENTS.md`, `NOVEL_SPEC.md`, `outline/volume-04.md` or the bible. It first appears in `reviews/volume-04/batch-0003.md` and in the Batch 0004 and 0005 prompts, and the evidence that it was being written to rather than against is on the record: Chapters 179 and 180 were delivered at 4303 and 4142 and cut by roughly sixty edits, landing at 3999 and 3977 — one and three words under a number that was never canon.** It is now removed from the Batch 0005 prompt and from the review record, and **lengths are reported as measurements, not scored against a figure.**
+
+**The trimmed prose stands. Un-trimming it would have meant writing filler into chapters that are currently tight, and would have undone the much larger repair in the recitation ritual.** This is stated rather than argued, because the reviewer offered two remedies and only one of them was right for this batch.
+
+## One continuity error found and fixed, and one gap closed
+
+- **Chapter 179's deleted epigraph said the lime repair came away at the third bell** and that the clerk entered four facts in that order and did not say the word for the thing until the fourth bell, **while the scene had Jo Verrick finding the gap at the first bell.** The spoiler block and the scene contradicted each other and this state file's own Chapter 179 summary had inherited the block's version. **The scene wins: the prose now says the lime let go in the night, Jo reads the wall at the first bell, Sefu listens, Iven names the join, and the air engineer comes down the four steps at the fourth bell with the word she will not say twice.** `state/chapter-summaries.md` has been corrected to the scene, with the correction marked so a later phase inherits the right timeline and does not reintroduce the deleted one.
+- **Chapter 180 said the clerk read the total out loud and never stated either figure**, so the batch's closing **+1 / 243 / 360.25** existed only in this state layer and the independent review's arithmetic check had to take those two numbers from here rather than from the page. **Both figures are now on the page**, with the reason she read them aloud on that morning and on none of the other four. The batch's arithmetic is now reconcilable entirely from the prose: increments 2, 3, 2, 3, 1; running 234, 237, 239, 242, 243; boundary 351.25, 354.25, 356.25, 359.25, 360.25.
+
+## What did not change, and is stated so the record is honest
+
+- **Spoken lines remain bold.** That convention is established across thirty chapters and 1,428 lines, and reversing it inside a repair phase would leave 176–180 inconsistent with 151–175 and 181–199. **The truth about Volume 04's markup is that bold currently means *this is somebody's utterance*, and it does not yet carry emphasis within a line.** The Batch 0005 prompt now reserves in-line `**` for a verbatim document phrase or a coined term, capped.
+- **Chapters 171–175 still carry 36 fully-bold epigraph and recap paragraphs.** Already-delivered Batch 0003 prose, not touched, named in the prompt so the count is a recorded divergence rather than an oversight.
+- **Two of the batch's five turns are still triggered by a delivery** — a courier arrives in 176, a repair lets go in 179 — because both are canon and required by the outline. What changed is where the weight sits: 176 now opens three days into Marek's private hunt for a lie and takes the leaf as an interruption, and 179 opens on Jo's thumb coming out of the string wrong. **The general half of that finding is now a rule for the next batch: at least three of 181–185 must turn on somebody deciding something, and a document may arrive but may not be the cause.**
+
+## The two repository disagreements, restated
+
+**`state/phase-ledger.json` is controller-owned and still reads `volume-01/batch-0002`** while the work is at Volume 04 Batch 0004 and the next phase is Batch 0005. It is three volumes stale, the mismatch is load-bearing because `state/current.md` and the ledger disagree about which phase is live, and it was not edited from a writer or repair phase because it is not that phase's file. It is named here, in `state/current.md` and in the Batch 0005 prompt rather than hidden.
+
+**The batch-card ladder has now lapsed for three consecutive batches** — `outline/batches/` holds Volume 04 Batches 0001 and 0002 and nothing for 0003, 0004 or 0005. The review called it two batches overdue and a writer-phase decision. **It is three overdue and it was still not taken, for a reason now on the record in three files: a repair phase must not create a new planning artefact, and the only permitted creation in this phase was already spent.** The gap is left visible and named. Restarting it is a separate decision with its own record, and the cards would have to be written for the batch actually being delivered.
+
 # Batch Summary — Volume 04, Batch 0004 (Chapters 176–180)
 
 > **Reading order in this file.** The **Volume 04, Batch 0004 delivery record** is at the head, below. Beneath it, unaltered, is the **Batch 0003 record**, then **Batch 0002**, then **Batch 0001**, then the **Volume 03 records**. **A delivery record is added, not substituted.**
