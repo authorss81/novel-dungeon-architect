@@ -1,113 +1,111 @@
 # Chapter 103 — The Last Walk
 
-The third day of the twentieth week was open for the corridor, which was a Wednesday, and the school ran its first bell in the school corner for the last time, with all nine children standing on the dry half of a floor they had dished themselves over twenty weeks, and then nine children and a schoolteacher walked the length of the corridor past the dip and the waist to the kitchen-line end at a walk, four at a time, in two parties and a fifth, and the time it took is in the book.
+On the third day of the twentieth week the corridor was open and the school was not running in the school corner, and that was the whole of the decision, and every part of it was made on Monday by people who could have made it differently and did not know it yet.
+
+Ilsa Norr took nine children out of the school corner at the first bell and put them in the corridor, and then she had to get them down it, and what she had to get them past was the waist.
+
+**Three places in this run are not one place, and this is the first of them.** The school corner is a room. The waist is not a room and it is not the low end and it is not a length of corridor: it is a narrowing between the dip and the school door with its own fill in it, and the ground at the waist has moved three times, and the third wedge that holds the newer part of it is up a quarter of an inch and a bit, and it has not been measured, by three people, on purpose, and one of the three is Renn Vale and she will say why in a room when somebody asks.
 
 ---
 
-The first bell was not a decision. It was the day the arrangement said the school ran, and there were nine children in a room with a ceiling and a teacher who had decided they would have one bell of it in there before they were asked to walk anywhere at all, and the floor's wet corner had a rope round it and the nine of them stood on the other side of the rope and did their reading.
+**The crossing was staged the way a crossing is staged in this building, which is that it takes four minutes longer than it should, and every one of those four minutes is somebody refusing to let a thing happen faster.**
 
-"**Write that down,**" Ilsa Norr said to Dalla Sen, who was on the landing with the book. "**Write that we chose the dry half and not the room, and write that it was the last bell in it and that I am not going to have it written as though the room did anything.**"
+The terms are Renn Vale's terms and they have been since the seventh term and they do not take a number where a condition will do.
 
-"And the floor?"
+"**Four at a time. At a walk, and a walk is a walk and not a hurry, and a child who runs in this corridor is a child in the dip and not a child on a journey. In the strokes and not in the six minutes, because in the six minutes the low end stands in water two inches deep and I will not put a person in that with nine of them behind. A bearer at the near lip. Two readers, one at the school door and one at the kitchen line. The plinth reader's word is a warning and not a stop; the stop is the cloth, the cord, and any of the four people who keep a room. And it is not for a cart.**"
 
-"**The floor did what it did. Put it in the second column, wet, at the low corner, and moving. It is not going to be dry by tomorrow and I would rather the page said so every morning for a month than be right once.**"
+"**You have not said who goes first,**" said Dalla Sen.
 
----
+"**I have not, and I am not going to, and that is not an oversight, that is the seventh term working.** Whoever goes first puts a child on that fill on the strength of a person saying so out loud, and I have spent twenty weeks arranging to be a person who is never that person, and I am not going to start on a Wednesday."
 
-The crossing was not a rescue and there is no version of this book in which anybody is to be praised for it.
+"Iven," said Ilsa Norr.
 
-Renn Vale set it out at the second bell on the corridor floor, in the open, in front of the school and the schoolteacher and anybody else who wanted to stand there, because she has never once in this Hearthhold set out a term indoors where it could be agreed with.
+"**Iven,**" said Renn Vale, "**and Iven will say no or yes and not both, and Isel Ferrow will be the reader at the school door because Isel Ferrow is the first reader of a stair in this building and has been for twenty weeks and there is nobody better in here.**
 
-"**Four at a time, at a walk.** Not five, and I have thought about five, and the number five is the number at which this corridor stops being a corridor and starts being a queue over eleven feet of shaft, and I have watched four people at a walk take a fill that I have never measured, and I am not going to learn the answer in front of nine children.
+"And Mikka Hale is at the kitchen-line end with the second reader and I am at the near lip and I am going to say the next thing out loud and then I am going to do it, and I would like the clerk to write it before I do it."
 
-"**A bearer at the near lip, and the bearer is Jo Verrick, and the bearer is not one of the four, and if the bearer goes over then nobody tells me, I want that in the room's mouth, because the lip is not held, it is packed, and the next time that slab turns somebody will be under it and it will be Jo Verrick.**
+Dalla Sen's chalk was up before she finished.
 
-"**Two readers, one at each end, and the plinth reader's word is a warning and not a stop.** The stop is the cloth, the cord, and any of the four people who keep a room, and it is not the boy. **The boy reads a number and does not stop anybody.** And the waist is not a post today."
+"**I am not going to put my hand on the fill,**" Renn Vale said. "**I am going to walk on it in front of nine children and a reader and a bearer and I am going to be the first thing across and I am going to be the heaviest thing I can manage to be while still being a person who has to get back, and then I am going to stand on the other side and watch the rest of them come, and I will not touch it. I have not measured it. Three of us decided that on purpose in the fifteenth week and the reason is that a person with a hand on a fill has made a decision that the ground is fine, and a person with a hand on a fill keeps their hand there.**"
 
-"**It is not a post on any day the corridor is shut,**" Renn Vale said, "**and it moved three times on a Sunday nobody was standing on it, and that is the only time it has moved that anybody can prove, and I would like the clerk to enter that as the sentence it is, because a post is a post while its condition is happening and this one has not been a post since the eleventh week.**"
+"**Entered in the clerk's hand and entered in her words,**" said Dalla Sen, "**and I am going to add that she said it before she did it and not after.**"
 
-She said the rest of it in her own words and Dalla Sen wrote it and read it back.
+Iven Tallo looked at the fill and then at the waist above it and said, "**Four minutes and it is the right number. It is a small number for nine children and a narrow place and it is the right number because the sixth child is the one nobody plans for.**" And then he said the other thing, out loud, to the room, which is his habit and which the room now expects and which has stopped being a thing anybody thanks him for.
 
-Then she stood on the waist with both feet on it and said, out loud, in front of everybody:
-
-"**I am not going to put a hand on this fill.** I have said the reason and I am going to say it again in the place, because in four weeks somebody is going to stand here and remember that Renn Vale crossed it eleven times and think that means something about it. **I crossed it eleven times because there is no other way to the school. That is not a measurement. That is a woman going to work.**"
-
-And she stepped off it and did not touch it, and Dalla Sen entered that she said it before she did not.
+"**I am not on your rota and I know that. I am going across that because a person asked me in a room and the terms were said out loud and my terms are mine. I am not doing it for the hours. Nobody put the hours on it and if anybody puts the hours on it I will take them off again and I will take them off in front of you.**"
 
 ---
 
-Marek Venn counted the crossings and did not lead any of them, and he had never in five months found it as hard to stand at a wall and watch people walk over ground he could not measure as he did that morning.
+Nera Oduya came down to the school door, which is four steps and one more than she has come into anything in twenty weeks, and she was there for the air and not for the ground.
 
-The first party went at the second bell and was four children and a fifth, and the fifth was a girl of nine who was counted twice on the first attempt because she was on the list and then somebody read the list and she was on the list again, and she said, *I know I am, I am going, put me down twice so nobody loses me.*
+"**One thing and then I am going back up,**" she said. "**It goes at a walk, and a walk means a child is breathing and a walk is the only speed at which a body is a stable object in a moving current. Do not let anybody hurry this because it is the last time. Nine children in a hurry in a corridor two foot eight wide is a room of nine and a half, and the half is a child at the front who has stopped because he has arrived, and everything behind him stops because of the half.**"
 
-The bearer was at the near lip. The two readers were at the ends. Nobody went faster than a walk and nobody turned round, because Renn Vale had said out loud that a child who turns round on that fill is a child who stops.
+"**Then the fifth goes with a bearer,**" said Ilsa Norr.
 
-Leena Orr was on the other side of the waist, at the clinic return, where she had been since the fourth bell on the second day, and she watched the whole thing from a chair she had moved herself, and she was not asked for anything and she was not asked to count and she called one thing across the corridor at the third bell in a voice that carried perfectly.
+"**The fifth goes with a bearer and a bearer who is not you,**" said Nera Oduya, "**and I say that as an air engineer and not as a person who has opinions about mothers. If you carry the last one you will be at the front with your back to him and you will not know what he is doing, and he will be the one in the dip.**"
 
-"**The first four are over.**"
-
-"Entered," said Dalla Sen, from the fourth step.
+Ilsa Norr put Isel Ferrow on the fifth and did not argue, and she had the sentence ready and did not get it out in time.
 
 ---
 
-The time was taken and the time is in the book in a clerk's hand, and it is the only clock anybody in this building has run all week that anybody would call a stopwatch.
+**They went in two parties and a fifth, and the time was entered, and the time is the thing this chapter is for.**
 
-First party, second bell to second bell and a bit. Second party, second bell and a bit to third bell. The fifth, with two adults either side of her, at the third bell.
+Renn Vale crossed first. The four children came behind her at a walk, one hand on the wall, and Ilsa Norr walked backwards in front of them saying the names out loud one at a time so that a room full of children would be nine children rather than a number.
 
-Forty-one minutes, and a quarter of an hour of that was the two adults, and the clerk entered that separately because a number that includes a person who is only there to be counted is not a time.
+Two and a half minutes for the dip and one and a quarter for the waist, and nobody hurried either of them, and Isel Ferrow at the school door said the count out loud at both ends of every party like a woman reading a delivery.
 
-"**Entered: forty-one minutes and a quarter of an hour of adults,**" said Dalla Sen. "**And entered that nobody ran, and entered that the bearer did not go over, and entered that the third wedge at the waist is up a quarter of an inch and a bit and is the same quarter and the same temper and was not touched today, and entered that I am the clerk and I have written down three things today that are not numbers because they happened and I would like somebody to tell me the name of the column they go in.**"
+At the waist the bearer stopped the party for eleven seconds, and the reason, which Isel Ferrow gave at the near lip, was that the third wedge is up a quarter of an inch and a bit and it has been up that way since the fifteenth week and **nobody had touched it, and everybody in the corridor knew that nobody had touched it, and that was the whole of the danger and the reason they stopped was so that a person had said so out loud.**
 
-Nobody told her, which is the fourth time.
+Nobody put a hand on the wedge.
 
----
+At the low end, past the waist, the second reader at the kitchen line was Mikka Hale, and she read the party across, and the two parties and a fifth were on the kitchen-line side in nine minutes and forty seconds from the first bell, and Dalla Sen entered the time, and then entered underneath it, in her own hand, that the terms say four minutes and it took nine, and that **the terms were not wrong and the terms were written for six pails a day and not for nine children and a schoolteacher, and the room should decide whether to write new terms or to break these ones every Wednesday.**
 
-At the fifth bell the boy read the first column out.
-
-Pell Roke was on the bench at the top of the nine steps with his ear against the stone and his splint on the floor beside him and the middle part of the plan propped against the anteroom table's edge where he could see it, and reading numbers is what he is for, and nobody had asked him to and nobody had to.
-
-"**One,**" he said. "**Two. Three. Four.**" He went along it. "**Five. Six. Seven. Eight.** The ninth is a dash.
-
-"**That is the count column and there is no name on it anywhere and I have read it nine times and I do not know what the numbers are numbers of.**"
-
-Nobody told him either, and Dalla Sen said, "**Entered that the boy asked the same question out loud in a room with eight people in it and that nobody answered him, and entered that I am the clerk and I do not know the answer, and entered that this is the second time in five months a person in this building has asked me a question about our own page and I have had to write down that I do not know.**"
-
-"**Ten,**" said Renn Vale, from the landing, in the voice she uses for the anteroom's number, and the anteroom was shut and empty and had been since the first bell.
-
-"**Ten is the anteroom,**" said the boy.
-
-"**Ten is the anteroom,**" she said, "**and the anteroom is empty and has been since the first bell, and I am not going to have a room's number argued about in front of a crossing, and the number is the number and the room is the room, and if anybody wants to know what a number on that page is a number of they can ask it in a room where the answer will not be somebody's fault.**"
-
-She said it the way she says the other thing, which is as a term, and Dalla Sen wrote it down, and the crossing went on.
+"**I am not going to write new terms on a Wednesday,**" said Renn Vale.
 
 ---
 
-Then the school was on the other side, and it stayed there, and nobody said anything about it for about a minute and a half, and the minute and a half is in the book because the clerk entered the interval.
+Pell Roke was on the bench at the top of the nine steps with his ear against the stone and his crutch across his knees, and he did not go down the steps and he did not go into the corridor and he did not go over the waist, and nobody asked him to, and at the fifth bell he was asked for something else.
 
-The kitchen-line room is a bad room and it was bad within four minutes of nine children being in it.
+"**Say the numbers,**" said Dalla Sen, from the fourth step, which is not a question but which he had clearly been waiting for since the second day of the eighteenth week.
 
-The floor is dished toward the hearth corner, which takes the warmth out of a room that has no other way to be warm. There is no mouth in it. There is a ceiling low enough that a fourteen-year-old cannot stand up in it, and the smallest of the nine is six. **And there is no shelf, because the shelf is on two beech props in a school store four hundred feet away, and the two beech props stay under the shelf where they have been for five months, and the school is going without a shelf and the nine register boxes have not come across yet and will not come across until the day this batch has not got to yet.**
+She gave him the middle part of the plan, which is the part that lives in the kitchen, and he read the first column out loud in the anteroom at the fifth bell, in order, nine rows, and he is fourteen and has a splint on his ankle and he read a column of figures off a piece of butcher's paper in a voice that did not go up at the ends.
 
-Ilsa Norr took the room at the sixth bell, sat down on the floor with her back against the wall where the wall was dry, and put her hand flat on the flags, and then wrote.
+"**Ten. Four. Eight. Ten. Six. Nine. Five. Two. And a dash.**"
 
-She wrote it on the kitchen's paper because it is the paper in the building and she does not have any other, and she read it out at the sixth bell in the anteroom with the room at its number and six people down the nine steps listening, and it is the sixth line of that kind this boundary has produced in five months and it is the only one anybody has read out twice.
+"**And the count out loud for the room,**" said Dalla Sen, and he did that too, and the anteroom held ten at that number and had done so every time anybody came through it for twenty weeks, and it was empty since the first bell.
 
-"**The school is now at the kitchen-line end. It is in a worse room. It is past the waist.**
-
-"**And the school is on the far side of a fill from the clinic and from me, and I am not going to pretend I have agreed with that and I am going to make it happen anyway, and both of those are true and I want them on the same line.**
-
-"**I have taught nine children in three rooms in five months. Two of the rooms were rooms that somebody else had a use for. This one is a room that nobody has had a use for, and the reason it is available is that nobody wanted it, and I would like that said out loud in a room because in a year somebody is going to look at nine children in a low room past a fill and think somebody chose this.**"
-
-"**Nobody chose it,**" said Iven Tallo. "**It is what was left. That is the whole of my craft and most of my life.**"
-
-"**Then say that too,**" she said, "**and I will put it in the same hand.**"
+Tams Quill read the board afterwards with his right hand open and flat in his lap and named no day, and the boundary's column was up four today and twelve since the keeper signed, and the column with no heading read the way it reads, and a man of twenty-two was **thirty-eight days and thirty-eight nights** into a count that was his own and was not a register and was not a number of anything except a man who has nothing else to count.
 
 ---
 
-She did not thank anybody and she did not complain, and she did not say the word *moved*, and at the sixth bell the six things were read and the six were the same six with two more on them, and the two more were a wet floor and a bad room, and the pot was ten days and had not gone up, and the school was somewhere it could not leave quickly and the woman who had put it there could not cross back to it quickly either, and both of them knew it, and neither of them said it, and Dalla Sen entered that neither of them had said it and that she had watched both of them not say it and that she was not going to write down what she thought it meant.
+At the sixth bell the school was in the room at the kitchen-line end, and the school was not in the school corner, and the two facts are not the same fact and Ilsa Norr made the clerk write them as two.
 
-At the seventh bell Marek Venn was on the bench at the top of the nine steps with the plan's middle part propped in front of him and his left hand in his lap, and he was doing the thing he does, which is putting his hand on a piece of work to see whether it would hold and then putting his hand on a calendar.
+"**Write this in my words and in one line,**" she said, "**because I know what it looks like on a page and I am not going to have it read wrong later.**
 
-**There was now a way to shut the school corner for good.** A door, a wedge, and nothing bought. It cost nothing, it stopped nothing, and every person in this building could see it, and nobody had said it out loud yet, and he noticed that he had seen it himself at about the fourth bell and had said nothing for three hours, and that he had a whole afternoon of reasons and every one of the reasons was a reason why not to be the first one.
+**The school is on the far side of a fill from the clinic and from me, and I am not going to pretend I have agreed with that, and I am going to make it happen anyway, and both of those are true, and I want them on the same line.**"
 
-And there were two other places on the route the school now walked — **the low end of the dip, two foot eight wide, on the edge of eleven feet of shaft, and the waist** — and nobody in this building had said anything at all about either of them, and both of them were still open.
+Dalla Sen wrote it on one line and read it back and Ilsa Norr said yes.
+
+Leena Orr was at the clinic that day, on the far side of the waist, three days in seven, and she was not asked to do anything and she was not asked how she was, and when Dalla Sen came down to say that the school had crossed, Leena Orr said one thing up the corridor and it was: "**Then somebody had better write down that the clinic is on this side, because in a month one of those nine is going to have a bad knee and she is going to be the one who has to be carried back and I am the one who will be asked to be carried back with her.**"
+
+Dalla Sen wrote that down, in the clerk's hand, exactly as it was said.
+
+---
+
+**The school corner was empty and dry at the edges and dark at the low corner, and it had a lamp in it and nine children's absence in it, and the shut mouth in its wall was warm and going into the throat.**
+
+Renn Vale looked at it for a while from the school door and said nothing, and then she said one thing, to the corridor and not to anybody.
+
+"**There is a way to shut that room.**"
+
+There was no answer, and she did not go on, and Dalla Sen entered that the sentence was said and that nobody answered it, which is now the third time in twenty weeks that the clerk has entered a sentence nobody answered.
+
+**And there are two other places on the route the school now walks, the low end and the waist, and nobody in this building has said anything whatever about either of them, and both of them are still open.**
+
+Jo Verrick came back up the corridor at the seventh bell with her rule in one hand and the lamp in the other, having gone back down to look at the school corner floor once more on her own, because that is what she does with a floor. She stopped at the school door on the way past and said one thing, and it was not for anybody in particular.
+
+"**The bed joint runs out from under the low corner away from the door, along the party wall, and the party wall is the one with the mouth in it.** And I have been in this building twenty weeks and I have never once put my hand on the inside of that wall, because there is nothing in that wall anybody has ever asked me about, and a man who has not been asked does not get a hand.
+
+"**And the floor is dished toward the door and the joint is dished away from the door, and those are the same fact told twice, and I do not know what a man is supposed to do with a fact told twice and I am not going to pretend I have.**"
+
+Then she went down the nine steps with the lamp and nobody followed her, and the corridor was open, and the fifth day of the week was the day after tomorrow, and the school would cross on it, and nobody had said out loud whether nine children and a teacher and nine register boxes could do it in a morning.

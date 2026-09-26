@@ -1,129 +1,119 @@
 # Chapter 102 — Two Rooms
 
-The second day of the twentieth week was shut for the corridor, which was a Tuesday, and the school did not run, and by the first bell there were three rooms in this Hearthhold that nine children could be taught in, and by the sixth bell there were none, and the reason there were none was that all three were refused by the people who keep them and every one of the three refusals was correct.
+On the second day of the twentieth week a room with a wet floor created a search, and the search went through this building like a hand through a shelf, and found three rooms and refused all three, and none of the refusals was a veto.
 
-The three were on a slate. That is how the room found out. Renn Vale wrote them on the slate at the first bell and stood it against the kitchen wall where anybody coming through could read it, and Dalla Sen copied the slate into the book at the second bell and read the copy out, and nobody argued with the slate because the slate is the oldest instrument in this building and the only one that has never once been found to be a copy of anything.
+Mikka Hale wrote the list on the back of a day-board because there is nowhere else in this building to write a list, and it is a kitchen board and the list is a kitchen list and the kitchen is the only room anybody here can be trusted to be honest in, and Dalla Sen said so out loud and entered it.
 
-**1. The anteroom.** Ten including one litter, no more than two hours, on a frame a finger and a bit out of true, on a rule about a word.
+On the back of a day-board, the list read: **the anteroom. The school store. And the third one, which is not written on the board, and everybody in this room knows what it is, and we are not going to write it.**
 
-**2. The school store.** Nine register boxes, two beech props, and two parts of the plan under a shelf.
-
-**3.** And on the slate there was a third line with a dash on it instead of a name, and Renn Vale had written the dash herself, and she stood next to it all morning and she did not once look at it.
+**Nobody wrote it, and nobody said it, and the not-saying took about four minutes off the front of the morning.**
 
 ---
 
-The anteroom was refused in four minutes and the refusal was not the keeper's.
+**The anteroom was refused by the man whose job it is to decide who is let into it,** and he refused it in a room and not on a landing, which was a thing he made a point of.
 
-"The anteroom is not a classroom and I am not the person who has to say that twice," said Renn Vale from the landing. "**It holds ten including one litter for no more than two hours. Nine children is nine and a schoolteacher is one and that is ten and one litter with nowhere to put the litter.** It has been at its number for five months and it has a frame out a finger and a bit because clay shrinks, and its second way out is a word that has to be said in a room and repeated by the clerk, and **the word is *door*, and the frame is the door.**"
+"**I am not going to refuse it from the wheel,**" said Sefu Aran. "**A keeper who refuses a room from a wheel has made the wheel into the room's terms and Renn Vale has told me for three weeks that I must not do that twice. So I have come down and I am refusing it standing up.**"
 
-"And a tired person at the fourth bell in a bad month will say the word," said Nera Oduya, from three steps, reading her own line off the page and not the slate.
+"**Then say it,**" said Nera Oduya, "**and say the reason, and the reason had better be the reason and not the words.**"
 
-"**And a tired person at the fourth bell in a bad month will say the word, and the word will be true, and the door will still be a finger and a bit out of true, and I have said in a room that the rule is about the word and this is about the stone, and the two of them are on the same page in the same clerk's hand and I am not going to unwrite either of them.**"
+"**The reason is the room and the reason is the word.** The anteroom holds ten including one litter and no more than two hours, and the second way out of it is a thing a person says in a room and a clerk writes down, and if a tired person at the fourth bell in a bad month does not say the word then there is no second way out of that room at all.
 
-"The price is bigger than the frame," said Mikka Hale. "**The price is that the school and the busiest room in this building become the same room, and then every day this Hearthhold has a school in it is a day it has eleven people in a room rated ten, and there is no version of a good week in which that is a good idea.**"
+"**And you are proposing to put nine children in it. Not nine people passing through it in four minutes at a walk. Nine children, for the length of a school day, in the busiest room in this Hearthhold, on a frame that is a finger and a bit out of true, with their second way out being a sentence.**"
 
-"**That is the whole of the anteroom,**" said Renn Vale, "**and it goes on the slate with a cost and not with a number, because my terms do not take a number and a room is not a count.**"
+Nera Oduya made him say how he knew, and he did not have to work for it, which is the difference between the two of them and always has been.
 
----
+"**Because the room you have just described is a room that cannot breathe if I am not standing in it,**" she said, "**and the air in the anteroom comes in at the service door and leaves at the service door, and the school corner's mouth is shut and has been for twenty weeks and is going into the throat and not out of it, and if you put nine children on the other side of that door in a room whose other door is a word, then the word is a ventilation shaft and it is the only one, and on the day I am not here it is a room with nine children in it and one door.**"
 
-The school store was refused by the schoolteacher, in her own doorway, having emptied it herself, in the same shape she had emptied it in the thirteenth week.
+Quiet for a moment, and then Bel Ordry said:
 
-It took her eleven minutes and nobody helped her. Nine register boxes went out onto the corridor floor in two stacks of four and a one, in the order they were in, and the two beech props stayed where they were under the shelf, because the props are the shelf's legs and not the shelf's furniture, and the two parts of the plan stayed under it in the order they were in, in a fold, with nothing written on the outside.
+"**Then that is three refusals of the same room in three different hands and none of them was the argument, and the argument is going to be made by somebody who is not me in about four minutes and I would like to be asked to write it down when it is.**"
 
-"There," she said. "**There is no school in it now. There are two parts of a page in it and nine boxes and a shelf, and I have not had my hands on that room since the sixth week and I would like it entered that I emptied it myself.**"
+He was not asked to write it down. It was made by a cook, at the third bell, and it was two sentences, and the second one is the reason the whole morning went the way it did.
 
-"It was yours to give," said Bel Ordry, from the school door.
-
-"**It was mine to give and I am giving it to nobody.**" She put her hand flat on the frame of the doorway, which is a thing she does. "**A school does not go into a store. There is a shelf in here with two beech lengths under it and the two beech lengths are the only honest thing in this building that has not moved in five months, and if nine children are going to be taught off that shelf then the record of this boundary is going to be sat on, and a record that gets sat on is a record that gets moved, and a record that gets moved is a record that is a thing somebody was carrying.**"
-
-"And on the third day of the nineteenth week," said Dalla Sen, "**four of those boxes went up nine steps on a litter.**"
-
-"Then that is four of them that somebody has to be in the room with," said the schoolteacher, "**and I have nine children and a floor that is wet and I am not a clerk. I am not carrying the record. I am teaching nine children, and one of the two has to happen and it is not going to be both, and I would like the room to know which one I picked.**"
-
-"**You picked the school,**" said Bel Ordry.
-
-"**I picked the school, and the school is worse off than it was on Monday, and the school is dry.**"
+"**Nine children in the anteroom means the anteroom's second way out is nine children, and a second way out that is nine children is not a second way out, it is a queue.** And the water-carrying goes down nine steps and through the school door and along that corridor, and the school is in it twice a day, and I am not having my corridor full of small people every bell for the rest of the winter because somebody was frightened of a floor."
 
 ---
 
-The third line on the slate had a dash on it instead of a name, and the room got within twenty feet of it at the fourth bell, and Renn Vale stopped it in the shape in which she stopped a party in the twelfth week, which is that she does not interrupt a thing, she lets it arrive, and then she says the sentence that is older than anybody making it.
+**The school store was refused by the person who keeps it, and she emptied it herself, and it took her the whole of the morning and she did it before she said anything.**
 
-Somebody — Dalla Sen, from the fourth step, with the book in her hand and the good faith of a woman who is trying to write down what a room has — said the sentence that makes a room a room, and got as far as the word *floor*, and Renn Vale said:
+Dalla Sen came down the corridor to find out why the room was quiet and found a schoolteacher on her knees with nine register boxes stacked in two towers in the corridor, a shelf's worth of slates under one arm, and a broom.
+
+"**You are emptying it,**" said the clerk.
+
+"**I am emptying it,**" said Ilsa Norr.
+
+She set the last box down and stood up in the middle of the corridor and said the reason, and she said it to the corridor and not to a person.
+
+"**I emptied this store in the thirteenth week when the roof came in and I have done it twice since and I am not going to be asked to do it a fourth time for a thing that is not going to stay done.** The school is not going into a store. A store is a place you keep things in for a week and then you take them out of, and nine children are not a thing you take out of."
+
+Dalla Sen read that back in her own hand and then said, with the chalk up, "**And I am going to add the reason you did not give, and you are going to tell me if I have got it wrong. The nine register boxes are the boundary's record.**"
+
+"**They are,**" said Ilsa Norr. "**Nine of them, one for every week, and a room you teach in is a room you sit on the record in, and the smallest one in this building has been a room people have written things down in since before anybody here was born.**"
+
+Renn Vale said one thing about that from the landing, and it was the shortest thing she said all week.
+
+"**And the plan is in there.**"
+
+It was. Two of its four parts were under a shelf in the school store, on two beech lengths laid across two pails, and the shelf was the shelf the nine register boxes stood on, and **the two beech lengths were the props under the shelf the boxes stood on**, which is the sort of fact this building has never had a name for and does not need one.
+
+"**Then they come out of it,**" said Bel Ordry, and he said it without moving, "**and I will carry them, and I want it entered that the keeper of the plan moved the plan out of the one room on the list that the plan was in, and that the plan is now in my coat and a coat is a worse place than a locked store and I am telling the room that myself.**"
+
+"**Write it,**" said Dalla Sen.
+
+---
+
+**And then the room walked toward the third one, and Renn Vale stopped it twenty feet short of the sentence, in the same shape she stopped a party in the eleventh week, and nobody in the corridor had any idea she was going to do it until she had done it.**
 
 "**No.**"
 
-Dalla Sen stopped, and did not finish the word, and stood there with her hand up, and that is how everybody in the anteroom knew that the dash on the slate was about the floor of a room and not about a room.
+It was not loud. It has never been loud.
 
-"**Say the rest of the sentence,**" said Renn Vale.
+"**We are not going to say that word in this building today, and I am not going to be the one who says it, and I am not going to explain why, and the reason I am not going to explain is that the explanation is nine hundred years of women saying no to a room in this building and every one of them was right.**
 
-"**I was going to ask what the condition of the floor is in it, and I am not going to finish asking it, because I have worked out what I was doing.**"
+"**Enter it in your book. Write it down. Put it in with no name against it and do not strike one line out of it, and do not shorten it either.**"
 
-"**You were going to finish asking it and you were going to do it in a room with nine children’s whole future in it and the asking was going to be decent.** That is the thing I am stopping. **Not the sentence. The decentness.** I stopped a party once for exactly this and I have thought about it for eight weeks, and the reason I stopped it then and the reason I am stopping it now are the same reason and it is older than any of us and it is not mine.
+Dalla Sen's chalk did not move for a second, and then it did, and what went in the repair ledger in the clerk's hand that afternoon is four lines long and has no name at the top of it and no name at the bottom of it, and Mikka Hale read it before it was closed and said it was the right four lines and did not say anything else about it.
 
-"**Write this and write it in my words and put no name against it and strike nothing out of it.** *The floor in that room is not asked about. Not its condition, not its use, not its count, not its cover, and not by a person who means well, and the reason is not the boundary's to give and has never been the boundary's.*"
-
-"And the reason belongs to her," said Dalla Sen.
-
-"**The reason belongs to her and she is not in this room and she is not going to be asked, and I have not asked her, and that is not modesty, that is the third of three conditions she set in writing in the fourteenth week and I am the one who enforces it and I have never had to.**"
-
-The clerk wrote it. She read it back. She did not read a strike back, because there was no strike.
-
-"**Entered,**" she said, "**and entered that there was no strike, and entered that the line on the slate has a dash on it and not a name, and the dash is the room's and not the clerk's, and I am going to leave the dash on.**"
+Nobody went near the floor. Nobody was sent to it. Nobody was asked about it. **The covers stay struck out of every instrument in this building, and the reason for that is in a woman's hand in a book, and nobody has asked her.**
 
 ---
 
-Then Marek Venn offered the crew's hours to move the school, and it took him eleven seconds to be stopped, and the person who stopped him was not Jo Verrick this time.
+**And then Marek Venn made the mistake he has been walking toward for two days, and it was a small one, and it was the right mistake, which is the worst kind.**
 
-"I can move it," he said. "**Me and the crew. I am not on the rota and I cannot stand a watch and I know both of those things, and I have just said I am not on the rota, which is how I know the offer is not a favour.** The five of us will take the boxes and the shelf's worth across on the open day and the boundary will not owe us for it, because nobody has asked us, and a thing nobody has asked us for is not a debt."
+"**Then take the crew's hours.**"
 
-Renn Vale came down a step and stood in front of him and did not raise her voice at all.
+Three people answered at once and the third one was the one he had been waiting nineteen weeks to hear from and it was not the answer he wanted.
 
-"**Say the last part again.**
+"**No,**" said Renn Vale. "**And do not offer it again this week, and I am going to say why in the room and in the order.**
 
-"**—a thing nobody has asked us for is not a debt.**"
+"**That column is not a debt. It has not been a debt since the fifth day of the nineteenth week and a man named himself in a room and said the reason. It is not a rota either and you are not on it and neither is any of the five of you, and you cannot stand a watch and I have not asked any of you to and I am not going to.**
 
-"**It is not a debt and it is not a favour, and those are the two halves of why you are not doing it, and you have only said one of them.**
+"**So what that column is now is a quantity of asking. It moves when somebody in a room asks the five of them for a work, with the terms said out loud, with a person named who can be told no. And nobody has asked them for anything since the obligation was discharged, because this boundary has just discovered it can get on without them.**"
 
-"**Your column is a quantity of asking. It is not a quantity of engineering and it has not been since the thirteenth week, and Tams has said that in this room and I have said it and the keeper has signed it, and the three of us saying it does not make it true. It is true because it is what the numbers are.** A quantity of asking goes up when somebody in a room asks, with the terms out loud, and a person named. **You are standing in a schoolroom at the fourth bell offering to help, and nobody asked you, and if I let it stand then on the sixth day of the twenty-second week, when a room wants two of you for four hours for a thing none of us can do, I will have to say to you that I let a man work for nothing in the fourteenth week and made a rule out of it, and I will have said that to a room.**"
+"**We could get on a lot better without them,**" said Iven Tallo, from the fourth step, without looking up.
 
-"I know."
+"**Then nobody has asked,**" said Renn Vale, "**and if a man with a hand out is not asked then what he is doing is a favour, and a favour is a loan with no date on it. Put that in the book. Put the whole of it in, including that I have now said no to this man twice in two days and the second one is worse than the first because the first one he expected.**"
 
-"**Then do not do it,**" she said. "**Go and stand somewhere else.**"
+Dalla Sen put it in the book.
 
-He went and stood somewhere else, and it was the second time in nine weeks that he had been stopped by a person in a room for offering the same thing, and the second time was worse, because the first time he had been tired and the second time he was not, and being not tired meant it was a habit and not a mood.
+**The crew's hours did not move. They have not moved since the fifth day of the nineteenth week and they did not move on the second day of the twentieth, and the reason is now written down in a room in a woman's hand, and it is not a number and it is not a feeling, and it is the first time anybody has written down what a column is for.**
 
----
+Marek Venn sat on the fourth step with his right hand in his lap and worked out what he had done, and it was this. Twenty weeks ago he had five people who would go up a shaft with him because he asked. He had a boundary that could not be left alone and five people who had to stay in it, and the staying had been the debt and the debt had been the worst thing in his life and had also been the only reason he was any good at anything.
 
-Tams Quill walked the board at the sixth bell and named no day and gave no reason, which is what he has done for four volumes' worth of boards and which he went on doing without being asked twice.
+The debt was discharged on a sentence, and there was nothing underneath it, and what was underneath it was that four of the people in this Hearthhold were better at this than he was and had never once asked him for anything, and he had spent a fortnight twice reaching for a column that could not be reached, and both times a person had stopped his hand, and the second time the person had been right.
 
-"**The crew's is fifty-two and a half,**" he said. "**It has not moved. Not today, not this week, and I am going to say the reason out loud because the reason has been said to me twice in two days and I would like the room to have it from me.**
+He had nothing to offer the room at the fourth bell. He had a right hand that would not close, a left hand that had burned in the nineteenth week and was serviceable today, nineteen weeks of a reputation he could not control, and a brass survey rule in a coat on a hook that had said nothing for eleven weeks. Three of those were useless. The fourth was the only thing he had ever owned that had ever said anything at all and it had said it once, on a wall, in the second week, and he could not repeat it and had said in a room that he would not.
 
-"**It has not moved because nobody has asked them for anything.** Every hour I have entered against this column for five months was asked for by a person, in a room, with the terms said out loud and a person named. **The water's record and its three readings went in the other column, with the cook's name and the clerk's on them, and the water came out of a wall, and that is correct, because the water was found by a resident and a resident's good week is not a work.** And this week a man offered to move nine boxes and was refused, correctly, and **the refusal is not a work either.**"
-
-"**And the count's own is not moving either,**" said the air engineer, from three steps, "**and I notice that a man who put four hours into a door and a page in three weeks has put nothing in since, and I would like it entered that the boundary has not asked the crew for anything since the day the charter was signed and that this is the first fortnight in nineteen weeks in which that is true.**"
-
-"**It is not the first fortnight,**" said Tams Quill. "**It is the second week. The first was the week the charter was signed in and nobody asked anybody for anything, and I did not think that was worth saying, and it turned out to be worth saying.**"
-
-"And the boundary's column," he said, "**is a hundred and twenty-one and three quarters, and here are the four items, and it adds.**
-
-"**Ilsa Norr, one and a half — a school corner emptied by its own keeper and a floor found at the low side and a word struck off it in a cook's hand. Jo Verrick, one — a bed joint located with a rule and a knee and a destination refused in her own words. Dalla Sen, one — a refusal entered with a dash on it and no name against it and no strike. Bel Ordry, one — three candidate rooms checked and refused in the hands of the three people who keep them.**"
-
-"**Four and three quarters since the end of the nineteenth week, and it adds, and I have walked it twice, and I have named no day, and I have not been asked for a reason and I would notice if I was.**"
+So there was nothing. He was twenty weeks into a building he could not leave and had nothing anybody wanted, and the building knew it, and had known it since Friday, and had been kind about it in the way this room is kind about things, which is by not mentioning it in a book.
 
 ---
 
-The day ended with no room, and with a slate that had three lines on it and two refusals and a dash, and with a sheet of the kitchen's paper on which Mikka Hale had written what had to be true by the fourth bell on Wednesday, and the sheet was four lines long and three of them were about water and one of them was about a floor, and the one about the floor said:
+At the sixth bell the clerk read the six things, and among the entries in her own hand was the boundary's figure, which had gone up by four today and by eight since the keeper signed, and the cook's number, which was **ten days and had not gone up and was not going to**, and a man of twenty-two **thirty-seven days and thirty-seven nights** into a count in a column with nothing over the top of it.
 
-"**A schoolroom floor that is wet at the low corner and moving is a floor that nine children are going to be on by the first bell on the third day. It is either dry by then, or they are not on it. There is no third thing and I am not going to be the one who decides which at eight in the morning with nine of them looking at me.**"
+Nera Oduya took her board at the fourth bell and went down to the school corner, alone, and stood in the wet corner for a while with her hand not touching anything, and then came back up and said one thing about it, which the clerk entered.
 
-And then the room ran out of rooms and somebody said the thing that had been sitting at the back of the whole morning, and it was said by Iven Tallo, who had been in the school store doorway for an hour saying nothing, which is his habit and not his politeness.
+"**The mouth in that wall has been shut twenty weeks and the floor under it has been wet for however long it has been wet, and I am not going to say those two things are connected, and I am also not going to say they are not, and I am going to write *not established* on it and I would like somebody to object to that word too.**"
 
-"**There is one more,**" he said. "**Kitchen-line end. Past the hearth corner, before the clinic return. It has not been a classroom in the five months I have been in this building, and I have been in every room in it, and the reason it has not been a classroom is that it is a bad room. It has a dished floor, a hearth corner that eats warmth, no mouth, and a ceiling a fourteen-year-old cannot stand up under.**"
+Nobody objected.
 
-"Then it is the only one left," said Ilsa Norr.
-
-"**It is the only one left,**" Iven Tallo agreed, "**and I have been in this Hearthhold five months and I have been trying to work out whether I am the man who says the last true thing of the day or the man who says the first one tomorrow, and I have decided it is the second, so I am going to say it now and get it in the book.**
-
-"**It is past the waist. And the waist has moved three times. And three people in this building have decided on purpose not to measure it, and I am one of the three, and my reason for not measuring it is that a man with a rule on that fill has made a decision that the ground is fine.**"
-
-The room did not fill the space after that, and the corridor was shut, and the school did not run, and the sixth bell went, and the pot was ten days and had not gone up, and the anteroom held ten on a word and a frame, and a person was still under a lip.
+**There is one more room in this building. It is at the kitchen-line end of the corridor, it is past the dip and past the waist, it has a hearth corner in it and no mouth and a ceiling a fourteen-year-old cannot stand up under, and nobody has taught nine children in it in twenty weeks. It is a worse room. It is also the only one left, and it is on the other side of a fill that has moved three times and that three people have agreed, on purpose, never to measure.**

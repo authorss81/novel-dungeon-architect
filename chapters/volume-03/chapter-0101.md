@@ -1,159 +1,119 @@
 # Chapter 101 — Under The School Floor
 
-The first day of the twentieth week was shut for the corridor, which was a Monday, and the school did not run, and the only reason the school corner had an empty full morning in it was that nine children were somewhere else for the first time in three days.
+The corridor was shut on the first day of the twentieth week, and that is the only reason the school corner had an empty morning in it since the school began.
 
-Ilsa Norr found the water at the second bell, and she found it the way she finds everything, which is by counting what is not supposed to be there.
+Ilsa Norr found the water at the second bell. She was on her knees at the low corner of the floor with her sleeve pushed back and her hand flat on a flag, and she is a person who counts children and not barrels, and the thing she found was not a leak and was not a faultform and it was nobody's fault at all, which was the worst of the three.
 
-"**A schoolroom floor is a floor,**" she said, "**and I have been standing on the answer since the eleventh week.**"
+"**It is cold,**" she said. "**And it is wet, and it is not under the sink end, it is at the door end, and the door end is the end that is worn.**"
 
----
+Then she stood up and said the sentence that the whole of the next nine days is going to be about, and she said it to a room and not to a man.
 
-It was not a puddle. That was the first thing three people tried to make it into and the first thing she would not let it be.
-
-The low corner of the school corner is the corner nearest the school door, and the flagstones there are laid in a shallow dish about the width of a hand's span, and a dish that deep in a building like this does not surprise anybody. **Nine children had been on that corner every third, fifth and sixth day for twenty weeks, and a dish in a floor is not a fault. A dish is a use.** The floor is dished toward the school door because the children come in through the school door and stand in the same place and turn the same way, and a floor that has been walked like that for twenty weeks is a floor that has learned where the walking goes.
-
-What was in the dish was not standing water. It was **dark**, in a way the stone two feet away was not, and it went across the corner in a band about a foot wide, and where the band crossed the joint between two flags the joint had a line of it in it, and the line was not straight.
-
-"**Found,**" said Dalla Sen, with the chalk up, and she said it before anybody had said the word, because that is the order this room does things in and it has been the order since the eighteenth week and she is not going to be the person who reorders it in a hurry. "**Found, located, tested, recorded, and not before.** Somebody say where."
+"**A schoolroom floor is a floor. I have been standing on the answer since the eleventh week.**"
 
 ---
 
-They located it with a thread and a folding rule and a knee, because there is no instrument in this building that reads water in a floor and there are two knees.
+It took about four seconds for the room to believe her, which is the correct amount of time, and then everybody in it knelt down.
 
-Jo Verrick knelt at the school door with the three-foot rule out of her apron and laid it across the corner twice and did not have to be asked to say the thing that a floor says when it is only doing one thing.
+Jo Verrick came up with her three-foot folding rule out of her apron, put it across the floor, looked at it for a while, and then put it the other way, which is what Jo Verrick does. The flag Ilsa Norr had her hand on was dished, and then Jo Verrick said one number.
 
-"**It is not the weather,**" she said. "**It has not moved with the weather in three days and I have been in this room in three weathers, and it has not moved with the weather once.** And it is at the low side and the low side is where the room has been dished, and the water is in the joint under the flags and not on top of them, and **it has found the low side of a floor that nobody has ever looked at**, and I would like it entered that four people have walked over that corner every third day for twenty weeks and looked at it, and I am one of the four, and none of us looked at it, because it is a floor and it is a school and a floor in a school is a floor."
+"**A finger and a half of fall to the door, and it did not get that way in a month. Nine children, three days a week, going out the same door for twenty weeks, and the stone under them going down where they go.**"
 
-"**Where does it go,**" said Nera Oduya, from three steps, and Dalla Sen entered that **she had been asked for a piece of work and not consulted for a decision**, which is the way this boundary asks her and which she entered herself four days ago in a room where nobody had asked her to enter it.
+Renn Vale said it from the landing, and she said it the way she says things that are not about structure.
 
-The air engineer came down three steps and looked at the band in the joint and put two fingers on the stone at the school-door end and then went along the wall, on her knees, at a crawl, with her hand flat on the plaster, all the way to the anteroom door, and she did it in about ninety seconds and she did not say anything while she did it.
+"**Then that is a wear surface and a wear surface is a use.** A thing in this building gets worn where it is used and it does not get worn where it is admired, and I have been on this landing twenty weeks and I have watched that door sill go shiny in the middle where they put their feet down and nobody has ever once asked it why."
 
-Then she stood up and said, "**The bed joint under this floor runs to the haunch behind the outer service door. It is the same line. It is not the same joint. There is stone between them and there is forty feet of floor and a doorway and I am telling you it is a line and not a hole, because that is the difference that matters today.**"
+Dalla Sen wrote that down and then stopped with the chalk up and said, "**I am going to write *wear* on a public page and I want somebody to object to the word before I write it, because I have learned that word in this building twice this month and I was wrong the first time.**"
 
-"And the seam?" said Renn Vale, from the landing, which is where she was and is always.
-
-"**The seam has not gone anywhere and has not increased. I put my hand on it at the fourth bell yesterday and it is the same four threads and the same leaf and the same warm.**" Nera Oduya turned round. "**The seam has not increased. The seam has found the low side of a floor that nobody has looked at, and that is a different sentence from the seam has found a way out, and I would like the room to hear the difference because one of them is a problem and the other one is a nuisance.**"
-
-Dalla Sen wrote it and read it back, and read the strike back after it.
-
-"**Objection,**" said Mikka Hale. "*Nuisance.* Take it out."
-
-"It is a floor," said Nera Oduya. "**A floor is a nuisance until it is under nine children and then it is a floor, and I have spent five weeks in this building refusing to let a word do a job it has not been hired for.**"
-
-"**Then take out the word and put in what it is,**" said the cook, "**which is a wet floor in a schoolroom that nine children are going to stand on tomorrow, and put my name on it, because I am the one who will be standing over it at the fifth bell asking whether anybody has dried it.**"
-
-Struck, and written in the cook's hand, and repeated.
-
-Then the clerk wrote *damp* in the condition place on the line for the school corner, and Renn Vale stopped her.
-
-"**No.**"
-
-"It is what it is—"
-
-"**It is wet.** *Damp* is a word with a weather in it and this is not a weather. **And I am not doing the wet thing again in this room.** I said in the fourteenth week that I could not tell which of the two wrote the other one down, the plan's *wet* or my four days, and I have not learned since, and neither has the floor, and I am not going to stand in a room and let two things that might be one thing get put next to each other a second time without somebody knowing which of them is which.** Write *wet at the low corner of the room and moving*, and leave it there."
-
-Struck, and written in her own words, and the clerk entered that the second column of the school corner's row now has three words in it where it had two, and that the condition on that row has no number and no day of the week on it, and that is the standing arrangement of this page.
+There was no objection to the word, which she entered, and then went on to the next question, which is how this room finds out whether a word is any good.
 
 ---
 
-Then the room found out where the water wanted to go, and it was the worst place in the building.
+**Found, then located, then tested, then recorded, and not one step before the one before it, with a person in the room who is able to object to a line: that is how this room stages everything, and that is how this morning went.**
 
-The air engineer had said the water had a direction. She had not said it had a **destination**, and when Jo Verrick asked for one, at the fourth bell, with the rule still flat across the corner and her knee still on the flags, Nera Oduya gave the answer she had worked out in ninety seconds of crawling along a wall, and it was wrong.
+**Located** was Jo Verrick's, and it took her twenty minutes and a lamp and the low sound of somebody counting.
 
-"**There is a fall to it,**" she said. "**The joint runs to the haunch and the haunch is dressed stone and the floor of this room is above the corridor's line by about the height of your knee, and a joint that is wet will find a way down, and if we open the low corner we can lead it into the covered channel in the dip and the dip takes it and the dip already takes the pump.**"
+"**There is a bed joint under this floor.** Flag on bed joint, bed joint on a course, course on the fill, and the bed joint runs out from under the low corner away from the door, along the party wall, six feet, and it comes up into the haunch behind the outer service door.****
 
-"**No,**" said Jo Verrick.
+"**And the whole of it is nine inches below this floor at its lowest and it does not have to go up anywhere, because the water does not climb, it spreads, and a spreading thing finds the low side of a floor that nine children have worn dished toward a door.**"
 
-"The dip takes the pump—"
+Then the air engineer said the wrong thing, in public, in front of a room, and it was a reasonable wrong thing, and nobody consoled her.
 
-"**The dip takes the pump for six minutes after the lever comes off, and then the water stands in it two foot eight wide on the edge of eleven feet of shaft, and the low end of that corridor is where it stands, and I have a chalk line on the frame of that pump that a woman in a sling drew and it has not moved.**" She got the rule off the flags at last and folded it, which she does four times an inch. "**You have told me where the water wants to go and I am telling you where it wants to go and we are both talking about the same six minutes. There is nowhere to lead it that is not the worst place in this building, and if you open that corner and lead it down you have made a drain into a room that fills.**"
+"**No,**" said Nera Oduya, from three steps. "**That is not the seam. I will not have the seam put under a school floor in a book without somebody arguing it with me. The seam is a lime joint in a dressed stone haunch and this is a bed joint under a floor, and between those two things there is a course of stone, and a course of stone is what a course of stone is for. Water does not come through dressed stone because it wants to.**"
 
-The air engineer stood there.
+She had it in a sentence and the room waited for her, and Dalla Sen wrote it in the book in her own hand exactly as it was said, and then Jo Verrick went and got a lamp.
 
-"**Then it does not drain,**" she said. "**I have said a thing in a room that is not true and I am not going to take it back, because the first half of it is true and the second half is not, and a person who takes half of it back teaches the room to believe the other half.** The joint runs to the haunch. **It is not a drain and this room is not a cistern and I do not know what it is, and I have been in this building five months and I have just found out that I do not know, and I would like that written down in a clerk's hand without anybody being kind about it.**"
+"**Air engineer,**" she said, from the party wall, four minutes later, "**come and look at this and do not touch it.**
 
-"Entered," said Dalla Sen, "**in the air engineer's words, and I am not going to be kind about it either, because the clerk's job is not to be kind, it is to be right, and there are now two things in this building's book that the air engineer does not know and one of them is new.**"
+"**There is a stone out of that course and a stone back in it, and the one that is back in is in lime and the lime is a finger wide, and the bed joint runs out of the bottom of the patch and your bed joint is not in the haunch. The haunch is where the water comes out. The patch is where it comes in.**"
 
-Nobody consoled her. Bel Ordry, who was standing at the school door with the two parts of the plan still in the school store and not in his coat because there was nowhere in this room to keep a coat, looked at the band in the joint for a while and said nothing at all, which for him was a position.
+Nera Oduya came and looked at it and stood up again and said, in her own words, which the clerk wrote in her own hand beside her own words:
 
----
+"**Then the course is not continuous, and that is a fact about this building that nobody in it knew, and I was wrong, and I want it entered that I was wrong and not softened, and I want it entered that I said no before I looked, because that is what I do and today it cost a room forty minutes of a morning it did not have.**"
 
-Marek Venn put his hand in the haunch at the fifth bell, because Ilsa Norr had traced the joint along the wall with a thread and a piece of chalk and told him exactly where to put it, and because he had asked her instead of guessing, and because it is a habit and habits have been the worst thing in this building twice.
-
-He got nothing. The same nothing he has been given eleven times, and it took forty seconds instead of ten, and at the end of it his left hand was warm and his head was not, and he knew the difference between those two things now and it did not help.
-
-"**Twelve,**" said Tams Quill, from the bench, with the chalk in his left hand and his right one open in his lap. "**Ordinary column. Your own hand. The haunch, the warm, and the fact that a schoolteacher told you where to put it.**
-
-"**Nine in the ordinary column and three in mine, which is twelve in all, and I am not moving it, and I have said the reason before and I am not going to say it a fourth time, and the reason is that nine of these you went and found and three of them you were sent to.**"
+Dalla Sen entered both halves and repeated the strike she had already made, which is a thing she does.
 
 ---
 
-And then he did the stupid thing, and he knew he was doing it while he was doing it, which is not the same as not doing it.
+**Recorded** was where the fight was, and the fight was a preposition, and this room has fought about a preposition before.
 
-"**Then cap it,**" he said.
+**On the page the clerk had it already:** *the water under the school corner's floor is from the seam in the anteroom's haunch.*
 
-He said it to the room and not to anybody, and the room went the way a room goes.
+"**Strike *from*,**" said Nera Oduya. "**Write *in a joint that runs to the haunch*. *From* asserts a cause and this page has a place and a patch in a course and three people's hands and no cause at all. If somebody in a year comes at this boundary about a wet floor, I want the page to make them go and find the patch themselves.**"
 
-"**Cap the seam,**" he said. "**Not the floor. The seam. Four threads in a dressed joint and a leaf the size of a hand, and if we put a hard thing across the mouth of it we can hold the water in the wall where it is instead of losing it under a schoolroom floor, and the water stays in the pot, and the floor dries, and nobody has to move nine children anywhere.**"
+It was struck. It was replaced in her hand. Dalla Sen read the line and then the strike, because a clerk who repeats a correction without repeating the strike has corrected nothing.
 
-Mikka Hale put her hand flat on the door frame of the school door and left it there.
+And Mikka Hale then said the thing nobody had got to, and she said it with her hand flat on the flag, and it is the reason the morning went the way it went.
 
-"**Say the rest of it,**" she said.
+"**Now stop. All of you. Look at what we have just found.**
 
-"**The rest of it is that there is no mortar of the right kind in this Hearthhold and there is no timber and there are two jars a day, maybe three, and that is all the water anybody in this building drinks.**"
+"**That is the water this boundary drinks.** Two jars a day, maybe three, out of a joint in the haunch behind our own service door, and it is in my separate numbers and it is not in the pot and it has never been in the pot, and you all know that, and it is the only drinking water anybody in this building has found.
 
-"**Keep going.**"
-
-"**The only thing in this building that will hold against that water is more clay, and clay shrinks as it dries, and a cap that shrinks takes the water with it when it lets go. It does not seal. It closes the mouth for about as long as the clay is wet and then it comes off the joint and the joint is wider than it was and it gives the wall somewhere else to go.**"
-
-"**Yes,**" said the cook. "**And then where does the water go.**"
-
-"**Into the floor. Into the bed joint. Into the haunch. Back where it was, and now with a mark on the wall that a stranger can see.**"
-
-"**And the pot.**"
-
-Marek Venn stood in the middle of the school corner with his left hand at his side and worked out the last ten seconds of it in front of eleven people, because they were not going to wait.
-
-"**The two jars are your separate numbers,**" he said, "**and the two jars are not the pot and the pot is not the two, and you have said that out loud in this room and you said it for a reason. So if I cap the seam, the pot does not go up. The pot stops being topped. It is ten today and it is not going to be eleven tomorrow, and you would find that out at the fifth bell, on your own board, in your own words, and you would not find it out from me.**"
-
-The cook took her hand off the frame.
-
-"**That is the whole of it,**" she said. "**Say the rest of it to the room, because the room did not hear you say it, the room heard a man talk about clay.**"
-
-"I did not say that part out loud."
-
-"**You said it three times in your head and once in the middle and I have been listening to you in your head for five months, and you are going to have to do that less.**"
-
-Renn Vale came down one step, which she does when she is going to hold a term.
-
-"**And I will add the other half so that the room has both.** You have not proposed a bad fix. **You have proposed the ordinary fix, and it is the right fix for a wall, and it is the wrong fix for this wall, and the reason is that a joint that has water in it is carrying something, and this boundary has never once found out what.** You cap a joint you cannot account for, you have made a change to a load path in a building with no timber and no second pair of hands and a frame a finger and a bit out of true, **and you did it on a Monday morning in a schoolroom, and the whole of what I have been arguing for since the sixth week is that a change to a room people use is written by the person who will keep it.** I keep this room's floor. I have not been asked."
-
-Nobody said anything, and then Marek Venn said the thing that was in the room and had been in the room since the fourth day of the nineteenth week, and he said it to the four walls of a schoolroom with nine children not in it.
-
-"**Then I have nothing left but the one thing I cannot do twice,**" he said. "**I have said in this building that anybody who comes and asks me to read a boundary is going to be told no, and I have said it twice since, and I meant it both times, and I am telling you now that I have run out of ordinary answers four days earlier than I thought I had, and the only thing I have left is that, and I am not going to use it on a floor.**"
-
-Dalla Sen wrote nothing for about four seconds, which is the longest she has ever sat still, and then she wrote, and read it out.
-
-"**Entered: that a man said in the school corner on the first day of the twentieth week that he had nothing left but the one thing he cannot do twice, and that the clerk did not understand it, and that she is not going to guess in a book what it means, and that if it turns out to be a thing she can say in a year, somebody will have to say it for her.**"
-
-Renn Vale said, "**That is the fourth time this building has written down a person saying they do not understand something and it is the first time it has been the clerk, and the clerk has been the only one of us who has never needed it.**"
+"**And there are nine children who sit six feet from it.**"
 
 ---
 
-They did not cap the seam, and they did not put a drop of that floor in anything, and no closure was added to anything on the first day of the twentieth week.
+Marek Venn got up off the step.
 
-What they did instead was decide, in a room, with the cost named out loud, to do nothing until the fourth bell on the second day, and the cost was named by three people and it was three different costs.
+He had the answer in his mouth and it was the correct answer and it is the answer a man says in a tunnel in a hurry, and it was *we could cap it*. Lime, a stone, a wedge, a hand and forty minutes, and the patch in the course is a finger wide and could be closed in a way that would hold for a season.
 
-Jo Verrick's cost was stone. "**There are seven sound wedges and two dead sticks and one of the seven is in the anteroom frame and a different one is in the waist, and if I put my hand on that joint to find out how much of it there is I will find out by taking the packing out of a wall that is holding a door, and the door is a finger and a bit out of true already.**"
+He did not say it.
 
-Renn Vale's cost was a room. "**The corridor is shut today and the school is not running and that is the only reason this corner has an empty morning in it, and if we spend the morning looking at a floor we spend the morning we have got. On the fourth day the corridor is shut again and the school is not running and there is nothing else to do with it.**"
+He worked out the rest of it in about the length of time it takes to count five, and what the rest of it was, was this. **Capping that patch stops the only drinking water this boundary has found. The only thing anybody in this Hearthhold can put against it is clay, and clay shrinks as it dries, and a cap that shrinks takes the water with it when it lets go.** And underneath that, worse: **the two jars are the cook's separate numbers and not the pot, so the pot would not go up. It would stop being topped. And Mikka Hale would find that out at the fifth bell and not from him.**
 
-Ilsa Norr's cost was the only one nobody had thought of and she gave it in one sentence at the sixth bell, standing in the middle of her own floor with her shoes wet through.
+So instead he said, out loud, to a room, in the wrong order, which is his habit:
 
-"**Then what is the school going to do on Wednesday,**" she said.
+"**Then the floor is the problem and not the water. We are not going to move the water. We are going to get nine children off a dished floor and we are going to do it before Wednesday, because Wednesday is a corridor-open day and Wednesday is the last day that school runs in this room.**"
 
-Nobody answered her, and the room did not try, and the six things were read at the fifth bell and the six were the same six with two more on them, and the two more were the charter's number at the top of it and the two jars, and nobody filled the space after the last one.
+Then he sat down again, and eleven people let him, and the clerk wrote down the decision and the cost of it in the same line, and the cost is that **the school does not run here tomorrow either**, and nobody found a way to make that not be the sentence.
 
-The school corner's floor was wet at the low corner, and the joint under it ran to the haunch behind the outer service door, and the water was not the weather, and there was a floor in a school in this building that had been walked into a dish for twenty weeks without anybody looking at it, and the boundary had found it on a Monday because on a Monday the room was empty and the school was somewhere else, and **that was a good Monday and it was the only reason and it is not a plan.**
+Ilsa Norr asked the question before anybody else had thought to, which is what she is for.
 
-The pot was ten days and had not gone up, and the seam gave two jars, maybe three, and the twelve nulls were nine in the ordinary column and three in a column with nothing over the top of it, and the anteroom held ten including one litter for no more than two hours on a frame a finger and a bit out of true, and a person was still under a lip.
+"**Then what is the school going to do on Wednesday.**"
+
+There was no answer, and two people in that room already knew they were the only two in it with a right to one, and both of them said nothing, and the reason the second one said nothing is the next chapter.
+
+---
+
+At the fourth bell he went up to the haunch with the door standing open behind stone and clay, and put his left palm flat into it, and it was warm, and it was exactly as warm as Jo Verrick had said it would be, and the reason that mattered was the same reason it had mattered three weeks ago, which is that the thing has not changed in the time since somebody last touched it, and the only way anybody in this building has ever found out which one of two things they are holding is by going back.
+
+He got nothing. Four degrees, which is about what the wall is at that height, a hand's breadth, the loudest thing in the anteroom, for the twelfth time in his life.
+
+"**Twelve,**" said Tams Quill, with the chalk already in his other hand and his right hand open and flat in his lap where it lives. "Ordinary column, your own hand, the place, the temperature, the reason. **And I am not moving it, and that is now the fourth time I have not moved one of yours and the condition has not changed and I am not going to change it in a room where a woman has just knelt on a floor.**"
+
+"Why is it the ordinary column," said Bel Ordry, who is the man who is going to be asked.
+
+"**Because he was asked for it,**" said Tams Quill. "**A woman told him where to put his hand, the same as the tenth, and the tenth is in the ordinary column and so is this. The column with no heading is for things that came and got nothing when he went and found them on a cold wall in the dark on his own.**"
+
+**Eleven entries became twelve. Ten nulls and one claim became eleven nulls and one claim, and the arithmetic is nine in the ordinary column and three in the column with no heading, and the clerk did it twice.**
+
+Marek Venn wrote his own entry in his own left hand in the ordinary column, because the right one cannot hold a pencil flat and has not since a jack in a dry service tunnel a long way above his head, and he was aware of the whole room watching him do it and he let them, and that is the fourth time and it is still not the same as it was.
+
+Then he sat on the anteroom step with his left hand open on his knee and did a piece of arithmetic that had nothing to do with the board, and it went like this. Twenty weeks ago he was the only man in this Hearthhold who could lay his hand on a wall and be useful, and there has been exactly one other such man since and she has a three-foot folding rule in her apron and found the patch in the course with a lamp in four minutes. There is a woman who counts children and not barrels and who has been standing on the answer to this floor since the eleventh week. There is a woman who keeps a book and who asked the only question that found the water in the first place. There is a woman with a slate who has seven terms and an eighth and who caught the real objection to a room in the time it took him to clear his throat.
+
+There is a corridor two foot eight wide over eleven feet of shaft, and a right hand that will not close, and a left hand that burned in the nineteenth week, and a boundary that can just about keep itself, and **none of the four of them is on the rota and none of them can stand a watch and all four of them have more of this building in their hands than he does.** He had spent twenty weeks building a case for being the man who goes, and the case had got weaker every week, and he had not noticed it getting weaker because he had been the one doing the going.
+
+Then Dalla Sen read the board out at the sixth bell, because that is what the sixth bell is for, and the column with no heading read the way it reads, with nothing over the top of it: a leg, a bundle, **thirty-six days and thirty-six nights**, a half hinge, a line refused, a page gone out of sight, and a wage, and the count still does not head it and nobody in that room has asked him to for four batches.
+
+**At the sixth bell the school corner stood empty with the lamp in it,** and the low corner of its floor dark at the edge of a flag, and nine children would have been in it on Wednesday, and the boundary had a week to find them a room. The mouth in the shut wall above them was warm and had been shut for twenty weeks and was going into the throat and not out of it, and no rate had been published, and nobody opened it and nobody was going to open it this week.
+
+**There are two other rooms in this building that nine children could be taught in, and this boundary owns neither of them, and one of them holds the plan.**

@@ -1,157 +1,175 @@
 # Chapter 105 — The Line Above The Steps
 
-She came up the middle passage at the first bell on the fifth day of the twentieth week with a permit in her hand and she introduced herself before anybody asked her, and asked for all of it to be entered, and neither of those is unusual in this building any more, and the two things that were unusual about her were that she was from the surface and that she was not from an office anybody here had met.
+She was in the anteroom at the second bell on the fifth day of the twentieth week, and nobody in this building had seen her come in, and she had a chalked station number on a wooden tally and a folded permit, and she introduced herself before anybody asked, and the first thing she said was that she was sorry, and the second thing she said was that she was not going to put the tally down.
 
-"**Hollis Ashe. Stonelight Compact, route inspection. Forty-one years old, sixteen years in the service, and I am not the Cartwright office and I am not going to pretend to be.** I work a line of chalked stations on the surface above the Cinder Steps, nine of them, and I have walked it four times this season, and I am on the ground today because station four is over a footprint and I have been asked what is under it."
+"**Hollis Ashe. Stonelight Compact, route inspection. Forty-one. Sixteen years. My permit covers a line of stations on the surface above the Cinder Steps and the approach to it, and it does not cover this, and I am not going to pretend to you that it does.**
 
-"Ask what you like," said Sefu Aran, from the wheel. "**But ask it in a room, and it is a corridor, and the corridor is open and there are nine children at the far end of it on their bell.**"
+"**I am going to leave the tally on the table, because you can read it and because I would rather you knew what line I am on than wondered. And I am going to say, before I ask anything, that I have a line of stations on the surface above the Cinder Steps and a permit to work it, and that neither of those covers this, and that I have been told there is a charter here and I have not seen it and I am not entitled to it.**"
 
-"I am asking it in a corridor," she said. "**I will ask it anywhere. I have been doing this sixteen years and I will tell you the whole of what I am, and then you can decide what to do with me, and I would rather you did it quickly because the water goes up at the second bell and I am standing in it.**"
+Bel Ordry looked at her for a second and then said, "**Then you are the first person from the surface who has ever stood in this room, and I am going to tell you what that means before I decide anything, and I am going to decide it out loud, because I do not think I can do it quietly and I do not think we can afford for me to have tried.**"
 
----
+"**Go on.**"
 
-She was good. That is the part that mattered and it is the part nobody in the anteroom was ready for.
+"**Clause four of our charter says the office may see the plan when it asks, in a room, to a person. The office in that clause is the Cartwright office. It is one office. It is named in the document and it is the only one it means. You are not the Cartwright office, and so there is no procedure for you in this room, because we have never had to write one.**"
 
-She did not look at the stair. She looked at the pump, and at the water record, and she asked for the second one before she asked for anything else, and when Dalla Sen read it out — three readings, three vessels, three hours, one of them taken with the pump off, no colour, no smell, not drunk, the word *clean* struck in a cook's hand and repeated by the clerk — Hollis Ashe read the whole thing twice with her head on one side and then said the thing that made four people in that room look at each other.
+"**Then write one now,**" said Hollis Ashe.
 
-"**Somebody struck a word out of that,**" she said, "**and somebody read the strike back out, and the two of them are in two hands. I have read a great many water records in sixteen years and I have never once seen the strike read back.**"
-
-"I read it back," said Dalla Sen, "**because a clerk who repeats a correction without repeating the strike has corrected nothing, and I have been told that by a cook and I am not going to let it get lost.**"
-
-"Then the record is good," said the inspector, "**and I am going to write that down, and I want you to understand what I am writing, because I am writing it in a book that goes to a surface office. I am writing that this boundary's drinking water is found, tested, recorded, and struck in the order it was found, and that it is not added to its other water, and I am not going to pretend that is ordinary. **In sixteen years I have seen four boundaries do that.**"
-
-"Four," said Mikka Hale.
-
-"**Four,**" said Hollis Ashe. "**And three of them were doing it because somebody in a surface office made them do it.**"
-
-Nobody thanked her. Dalla Sen entered what she had said and where it was going, which was up a road, and entered that the clerk did not know what to do with a compliment that is also a report.
+"**That is exactly the problem and I am glad you said it out loud, because it means I do not have to pretend to anybody that it is an accident.**"
 
 ---
 
-Then she asked to see the plan.
+**They wrote it in a room, with the people it concerned in the room, in about forty minutes, and the room argued about it for thirty of those, and the whole of the argument is the reason the morning was never about a visitor.**
 
-Bel Ordry took it out of his coat in four parts at the anteroom table and did not give it to her, and she did not ask for it, and Dalla Sen entered both of those things.
+Bel Ordry drafted it sentence by sentence in the room, out loud, arguing each one before he got to the next, and Dalla Sen wrote it out fair afterwards in her own hand. It is four sentences long and it is the first document in twenty-one weeks that a person in this building has written for an audience that is not in this building.
 
-"You can see the third column," he said. "**In this room, at this table, to you, and it does not go out of the room, and the fourth column is empty and unheaded and it stays shut, and the first column is a count with no name on it and I am not showing it to a stranger and I have thought about it for four days and I am not going to be talked out of it.**"
+"**One. A person of that office who asks is answered in a room, and to a person, and not in a corridor and not through a child.**"
 
-"You are showing me your work and not your capacity," she said. "**That is a real distinction and it is the right one, and I have met two boundary-keepers in sixteen years who could not make it, and both of them were wiped. I am not asking you for the first column and if I had a warrant I still would not, because a warrant is a piece of paper and the first column is not a piece of paper.**"
+Renn Vale objected to that before he had finished it, and her objection was to the whole of it and not to a word.
 
-"Then what do you want," said Dalla Sen, from the fourth step, which is a thing a clerk does when a stranger has said two sentences in a row that belong in a book.
+"**Then it is a document that lets this boundary say no, and you have written a rule that a stranger can use to shut a room.** Every office that ever wrote anything for us wrote it so that they could refuse us, and this one does it with a sentence about how polite we are going to be. **Put the other half of it in. If there is no procedure, then the answer is that there is no procedure, and that is an answer, and it is the true one, and it has to be on the sheet or the sheet is a door with manners on it.**"
 
-"**I want it in words,**" said Hollis Ashe. "**All eight filled lines, in the words they are written, in a hand that is not the keeper's. Not the page. The words. Because I cannot carry a page out of a room and I have got no use for one, and because a page in four parts in a coat is a page that somebody has to hold, and what I actually have to put in my book at the other end of this is a description somebody can read, and the only description that travels is a description in words.**"
+"**That is right,**" said Bel Ordry, "**and it is worse than the sentence I wrote, and put it in.**" Dalla Sen wrote the first sentence as two, with the other half in it, and read it back, and Bel Ordry said yes.
 
-Nobody had thought of that in five months. It had been in the room in a different shape every day since the sixth week — the *two sentences with no name and no signature*, the *six things read at the fifth bell*, the *four-sentence thing Bel Ordry was refused the chalk for* — and the shape she was asking for was **a thing in a clerk's hand that is a description of this building and can be given to a person who was never in it**, and it had never once been put on the table as something anybody wanted.
+"**Two. The plan is not carried out of this building. The fourth column is not shown. The first column is not read.**"
 
-Mikka Hale said, "**Give it to her.**"
+Renn Vale told him that the second sentence was wrong, and it was wrong in the way that gets people hurt.
 
-"Mikka—"
+"**A stranger who is refused the plan will write down that there is a plan and that this boundary will not show it, and a document that says a thing is refused is worth more up a road than a document that shows a page. You are not hiding it by not showing it. You are making it louder.**"
 
-"**Give it to her, and I want it read out loud, and I want the eight that are filled read as the eight people wrote them and not as a summary, and I want the woman from the wash rooms' row not in it, and I want the ninth line not in it, and I want the anteroom's row read whole without anybody saying the word *person* on it, and then give it to her, because she is the first person who has asked us for a thing we can actually give.**"
+"**Then say what two should be.**"
 
-Dalla Sen wrote the third column out in words on the kitchen's paper, in her own hand, at the anteroom table, and read it out as she wrote it, and it took an hour and ten minutes, and **the third column left this building in a clerk's hand for the first time in nineteen weeks**, and it is the batch's first toll and it was done by a competent woman doing her job and by a clerk who has never once refused a stranger a thing in five months.
+"**The plan is a page in four parts and it is in a coat and it does not come out of this building, and the fourth column is empty and has a reason in two hands, and the first column is a count of nobody’s name, and I am telling you all three of those on the record so that nothing about that page is a surprise to you in ten years.**"
 
-Hollis Ashe folded it into the inside of the permit case and said, "**I will not lose this and I will not lend it and I will not copy it, and if anybody at the other end asks me what the highest count in the building is I will tell them I was not shown it.**"
+That went in, in Renn Vale’s words, and the second sentence grew from one line to four and is most of the reason the document took forty minutes.
 
-"**Why that,**" said Bel Ordry.
+Dalla Sen then said, "**Before you write the fourth, I am going to say the one nobody in this room is going to want to hear at the second bell on a Friday, and then you can write it or not.**"
 
-"**Because the moment I have that number I have a number for a room, and a number for a room in a report is a claim about a room, and there is a woman in a surface office in my own service who files claims about rooms every day of her life and does not mean any harm by it at all.**"
+"**Say it.**"
 
----
+"**The fourth sentence is going to say that this may be shown to that office and to no other body, and we cannot keep that. The road up this middle passage is open and is not to be shut, and a sheet of paper is not a person, and anybody on that road can read a thing over a woman’s shoulder at a counter. We are writing a promise this building is not able to keep, and I would rather write it and be caught keeping it than leave it out and be caught having thought about it.**"
 
-Then the mouth in the shut school corner, which is shut, and has been shut for twenty weeks, and is warm, and goes into the throat rather than out of it, and has no rate on it.
+"**Then write it,**" said Bel Ordry, "**and write that the clerk said so, and put her sentence in front of mine, and I will not argue with it, because she is right and because I have never once in twenty weeks seen a promise come true in this Hearthhold and I have seen four fail.**"
 
-She had the door open on a wedge in ninety seconds and one look at it and the shutter off the ground, and she did not go in, and she asked who was keeping it.
+So the fourth sentence names that office and no other body, and says that it names no holder, and says that if it is asked for a second time the answer is the same as the first, and it also carries the clerk’s sentence in front of it, and Bel Ordry said the second half of that was the only part of the four sentences he was certain of, and Dalla Sen entered that he said so and entered that she agreed with him and entered that they were probably both wrong.
 
-"**It is on the page and it is in the third column in a departing woman's hand and it says *I will not* three times, and the reason I have not opened it is that a rate would have to be published and I am not publishing one,**" said Nera Oduya, from three steps.
+Mikka Hale on the third sentence. "**It is the one that is going to cost, and I want it cost on a page. It is the sentence that lets this room hand a stranger a description of itself in writing. And there is a man in this building who has spent twenty weeks keeping a page in a coat so that a stranger could not carry it out of a room, and I want him in the room for this sentence, and I want him to hear it, because we are about to do the thing he has been not doing, on purpose, in front of a person with a permit.**"
 
-"**An unpublished rate is not a rate, it is a private rule, and I have read four of those in sixteen years and three of the four were wrong and the fourth was written by a man who died.**" The inspector wrote in her book. "**You have a shut mouth in a room that is shut, which is a room doing nothing, and a shut room doing nothing has no air problem, and you have got that by accident and by good sense, and I am going to write *no active exposure* against this and it is going to be one line out of forty on my form and it will protect you for about a year.**"
+Bel Ordry said, "**I know. I want it written that I know.**"
 
-Nobody in the anteroom had ever had a piece of paper be *for* them before and it took a while to get into the room at all.
-
-Then she was in the anteroom at the fifth bell with the room at its number, and she asked the question that everybody in this building has been carrying, and nobody knew that somebody was carrying it.
-
-"**What is the anteroom's second way out?**"
-
-"**A word,**" said Marek Venn.
-
-She stopped writing. "**Say it again.**"
-
-"**The word is *door*. It is said out loud in a room and the clerk repeats it, and until the word is said the outer service door is not in the anteroom's rating.**"
-
-She wrote it down. It took her four seconds and it is in her book in her own hand on the surface of the world, and **Marek Venn watched a woman put a rule into a book and understood, about a second and a half after it happened, that he had just described a rule that can be handed to somebody**, and that the second way out of the busiest room in this Hearthhold is now a sentence in a stranger's possession on a chalked line above the Cinder Steps, and that the sentence is true, and that being true is what makes it heavy.
-
-He did not warn the room. He stood on the fourth step of nine with his right hand in his pocket and his left hand at his side and he watched four people who would have to stand in that room hear it, and he thought about the shape of the thing that had just happened, and he did not open his mouth, and **it is the smallest version of the thing he has been doing in this building since the sixth week, and it is the first one that has got out of the building.**
-
-"**The frame on that door is out of true,**" he said, instead, which was true and was not the answer, and he said it because a man who has just handed a rule to a stranger does not get to also hand over a problem in the same breath.
-
-"**How far,**" said Hollis Ashe.
-
-"**A finger and a bit, at the head, because clay shrinks as it dries and there is no mortar of the right kind in this Hearthhold and no timber coming. It is shored with stone and lime and a wedge. It holds and it is not fixed. The carpenter said it will be a door that gets harder to open and then a wall with a door in it, and she said it on a knee with a rule in her apron and I am not adding anything to that.**"
-
-"**And your rule is a word,**" she said, "**and the door is a wall, and you have both of those in a book, and I am going to write *rated by assertion* against that room and I want you to know what I am writing means.**"
-
-"**I know what it means, and I have a word for it, and the word is *acknowledged*.**"
+Dalla Sen wrote that down in the clerk's hand and read it back and Bel Ordry said yes.
 
 ---
 
-Then she asked the last question, at the fifth bell, in a room, in front of everybody, and it is the batch's question and nobody answered it and nobody has answered it since.
+**And then Hollis Ashe asked her questions, and they were good questions, and two of them were things this boundary already knew and had not said out loud to a person who had not lived in it.**
 
-"**Your school is at the kitchen-line end,**" she said. "**I have been past it. It is in a room with a low ceiling and it is a bad room and it is dry. And it is past a fill that your own woman will not put a hand on and will not let a child put a hand on, and you have told me so yourself, in your own words, twice, without being asked.**
+"**How does your water reach you.**"
 
-"**So I am asking the question a person on my line has to ask, and I am asking it properly and I am asking it in a room. Who is the person that answers for the school on the waist?**"
+"**Two jars a day, maybe three. Out of a lime joint in a dressed stone haunch behind our own outer service door, in a room that is rated ten including one litter. It is entered separately in the kitchen's numbers and it is never added to the pot.**"
 
-Renn Vale read the standing arrangement out loud, in her own words, standing on the landing, which she has never once had to do for a stranger before: four at a time, at a walk, in the pump's window, with a bearer at the near lip, two readers, the plinth reader's word a warning and not a stop, the stop being the cloth, the cord, and any of the four people who keep a room.
+She wrote that down and did not comment on it, and then she said, "**And you are drinking out of a wall you are also standing under.**"
 
-"And the seventh term is mine," she said, "**and the school is Ilsa Norr's, and between the two of them that is the whole of what there is.**"
+"**We are,**" said Bel Ordry.
 
-"**That is not what I asked,**" said Hollis Ashe. "**I asked who takes the decision if the ground under that school moves while the school is standing on it.**
+"**Then that is the first thing I am going to have to write, and I am going to write it, and I want to say now while you can ask me not to: I am going to write that this boundary has found drinking water in the fabric of a room it occupies and has tested it and is using it, and I am going to write that the fabric of that room has a joint in it that has been found with a stone out of a course and a stone back in it in lime, and I am going to write that nobody knows where that water goes when it leaves the joint.**
 
-"**Not who keeps the road. Not who keeps the school. Who says the nine children come back.**"
+"**That is not an accusation. I have written that sentence about four other places and it has been true in three of them.**"
 
-The room was quiet for about eleven seconds and Dalla Sen counted them, because she counts, and she entered that she had counted them.
+Nobody asked her not to, and nobody argued with her about it, and the room sat with a stranger writing down a fact about itself in a hand that was not in a hurry.
 
-"**Nobody,**" said Renn Vale. "**I will not put a person on that fill and I will not put a hand on it, and a person who keeps a room is not a person who stands on moved ground over eleven feet of shaft, and if I stood there I would be deciding the ground was fine, and I have said in a room that I do not do that. So there is no person, and it is not a gap, it is a refusal, and I have made it deliberately and I would make it again.**"
+"**Second question. The anteroom at the top of your steps. What is its second way out.**"
 
-The inspector wrote that down too, and Dalla Sen watched her write it, and what Dalla Sen was watching for was whether the woman would put a *ticked* mark in her book, and she did not, and at the end of the day the clerk entered that the Compact's route inspector had entered the boundary's answer in her book without a mark against it, and that she had entered the question.
+There was a pause, and Marek Venn answered it, and he answered it because he was the man who had sat on a bench with a cloth round his hand for a week and because it is what a person says when a competent outsider asks a simple question in a room with nine people in it.
 
----
+"**A word.**"
 
-Bel Ordry wrote the four sentences at the anteroom table at the sixth bell, in his own hand, with the clerk reading as he wrote and repeating the corrections, and it is the first document in twenty-one weeks that a person in this building has written for an audience that is not in this building.
+"**Say more than that.**"
 
-"**One. A person from an office this charter does not name may come to this boundary and ask, and will be answered in a room, by a person, and to a person.**
+"**The outer service door is the second way out. It is on four rusted pins and it is packed with stone and clay and it holds and it is not fixed, and the frame at its head is a finger and a bit out of true, and it is going a finger a week in the cold. So the door cannot be relied on as a second way out, and the air engineer wrote a line about that in our own plan, and the keeper ruled that the word is said in a room by the person who is going to be in the room, and the clerk repeats it, and nobody says it to a door. So the second way out is a word.**"
 
-"**Two. They may be shown the plan's third column in words in this room, and it does not leave the room.**
+Hollis Ashe wrote that down. She wrote all of it, and it took her a while, and she wrote it in a hand that was not in a hurry, and Marek Venn watched her do it and understood — about four seconds too late, and the only person in that room who had understood it, and the way he understood it was that the sentence he had just said out loud to a stranger was a **rule**, and that a rule is portable and a door is not, and the air engineer had said so in this room in the last week of the nineteenth week with a finger on a page, and nobody had done anything about it.
 
-"**Three. They may not be shown the first column, the fourth column, the ninth room, the four treads, the wash rooms, or the mouth, and the reason is the reason in clause nine and it is written in the charter.**
-
-"**Four. Nobody in this boundary will be entered against a route because of anything said in that room, and if anybody asks for that, it is to be refused in that room and entered in the book.**"
-
-"It has no date on it," said Bel Ordry, when Dalla Sen reached for the corner of the sheet with the chalk.
-
-"It is going to have a date on it—"
-
-"**It is not.**" He said it flatly. "**A page with a date in the top corner is a record of what a building was doing on a day, and that is the whole difference between this boundary's paper and a nine-hundred-year-old schedule in a locked school store, and I am not going to write the second one of those in a month. It goes under the charter with no date on it and it says so.**"
-
-Then Mikka Hale said the price out loud, and she said it to the room and not to the clerk.
-
-"**Two documents can disagree,**" she said, "**and a document that can disagree is a document that can be split. We have just written a second thing under a first thing, and now there are two, and in a year a stranger is going to read them both and pick the one that is easier to hold. That is the price of this and I am not going to pretend it is a small one and I am not going to argue against it, because the alternative is that the wall with the water in it is on nobody's paper at all and a stranger will come and ask me what it is and I will have to describe it out loud to somebody in a corridor.**"
-
-Hollis Ashe read the four sentences twice and asked for a copy and was given one in Dalla Sen's hand, and she said, "**This is a good procedure. It is also the first procedure anybody has written for me in sixteen years and I have been signing other people's for all of them, and I am telling you that I now hold a copy of a document written by a person I have met, about a body I belong to, that I can use at a counter, and that none of you can take it back and that I would not if I could, because I could not work without one.**"
-
-"**Then it has a use,**" said Bel Ordry.
-
-"**It has a use that is not the one you meant,**" she said, "**and you knew that when you wrote it, and I do not think you are sorry, and I think you wrote it anyway, which is the correct thing to do and is not the comfortable one.**"
+**He did not say anything. That is the whole of the flaw, doing its work, in the smallest possible way, and it happened about four feet in front of nine people who did not see it either, and the reason he did not say anything is that he could not have said it in a sentence that would not have sounded like a man explaining a door to a visitor.**
 
 ---
 
-At the seventh bell, at the top of the nine steps, with the school gone home down the corridor and the pails in and the water-carrying read, **Sefu Aran said that he was going up the middle passage in the morning and gave the reason in his own words and nobody argued with him and nobody thanked him.**
+"**Third,**" she said, "**you have a stair. It goes down from the anteroom.**"
 
-"**The first of the month falls in the week after next, and I told this room on the fifth day of the nineteenth week that I would say a true sentence to four households at a counter in person, and I am a man who does not let a thing he has said out loud go out of date, and a date with a number on it is the only kind I have ever respected and the only kind I have ever been able to swear to.**
+"**It is not a route and it is not in anything,**" said Bel Ordry.
 
-"**So I am going up the middle passage, four days to the middle gate, and I am not coming back with anything, and I am not sending anybody, and I am going to say the true sentence to two brothers and their sister and one house that only carries, and the true sentence is that nothing comes and that this boundary looked after itself while they carried water up four sets of steps, and I have said the words of it in this room once and I am going to say them again in a room four days up the road and I am not going to soften them and I am not going to send anybody with a page instead.**
+"**I will write that in your words.**" She wrote it in his words. "**And I will write next to it that a form is standing unattended at your top, which the clerk at my office has told me about and which I have not seen, and that you have told me the stair is not a route and I have no instrument to make you prove it and I am not going to invent one on a Friday afternoon.**"
 
-"**The first bell tomorrow. And the room runs without me, and I would like it entered that I said that as a fact and not as a hope.**"
+"**Nobody goes down it,**" said Nera Oduya. "**There are four treads on the far side and nobody has been on them and nobody is going to be, and I have refused to certify the air in that shaft for eighteen weeks and I have said so in this room and I have said so in a book.**"
 
-"Entered," said Dalla Sen, "**and entered that the room did not argue and did not thank him, and entered that both of those are the correct thing and that the clerk noticed.**"
+"**Then I will write that, in your words, with your office on it,**" said Hollis Ashe, "**which is more than you have offered me and I would like you to notice that I noticed.**"
 
-And then the clerk read the six things, and the six were the same six with three more on them, and the three more were a second sheet to be written, a word said to a stranger and written down, and a keeper going up a road in the morning, and nobody filled the space after the last one, and the pot was ten days and had not gone up, and the plan was in a coat in four parts and had not left the building, and the third column was in a permit case four hundred feet above the Cinder Steps in a woman's own hand, and a person was still under a lip.
+Then she put the chalk down, which was the signal she had set for herself at the door, and asked the one that mattered, in the middle of a room, in the ordinary tone of somebody who had a list.
+
+"**Then who is the person that answers for the school on the waist.**"
+
+---
+
+Nobody answered.
+
+It is worth being exact about how long, because this room has answered a stranger's questions in under a minute twice in twenty weeks, and this time the silence went on and on, and in it somebody's stomach made a noise, and Dalla Sen said afterwards that she counted to eleven and that she would not have counted if she had thought of it first.
+
+Marek Venn knew the answer. He had watched it cross on Wednesday in two parties and a fifth in nine minutes and forty seconds, and the answer was *Renn Vale, and Isel Ferrow, and Mikka Hale, and a woman with a slate, and a boy with a crutch who cannot cross it.*
+
+**He did not say it, and he has thought about why ever since, and the reason is in the book in his own hand and it is this: the second he said it, that arrangement became an office. A room with a person who answers for it is a room with a holder, and this boundary spent nineteen weeks refusing to make one, and it made one on a Wednesday by accident and did not notice until a stranger asked it a question in front of a witness.**
+
+Renn Vale answered instead, and she answered the question that had actually been asked, and she was owed it.
+
+"**There is no person. There is a woman with a slate and seven terms and an eighth, and a reader, and a cook at the far end with a hand up, and they are all here on the day they are here and none of them is here on a day they are not. I have been the person who answers for that waist for twenty weeks and I have held it with my hands and I have not got a name for it because I have never been asked for one and because nobody up here has ever met me and would not know what to do with the name.**"
+
+"**That is a worse answer than a name,**" said Hollis Ashe, "**and I am going to write it as a worse answer than a name, because a room that says it has nobody is at least telling the truth about itself, and my office cannot act on a truth, and I would like somebody to understand what that costs a person in a room like this.**"
+
+---
+
+**And then she asked, in the ordinary way, whether she should write down that the boundary refused her, and the room did something in the last four minutes of that day that Dalla Sen entered as the first honest thing anybody did all week.**
+
+"**No,**" said Bel Ordry. "**We did not refuse you. We were not covered. There is a difference and it is the whole of the difference and I would like it in your book in that form, because a *refused* is a thing that can be appealed and a *not covered* is a hole in somebody's paper, and if the word goes in as *refused* then in a year somebody will cite this room as a boundary that would not be inspected, and this boundary would rather be cited as a boundary whose charter does not reach.**
+
+"**Write *not covered*. And write in your own hand that you were told so in a room, by the keeper of a page, on a Friday, and that nobody argued you out of it.**"
+
+Hollis Ashe looked at him for a second and then said, "**I will write that. And I am going to tell you what it costs me, because I would rather you had it than worked it out in a year: *not covered* is a hole, and a hole in a paper is a thing my office fills, and my office fills it with an instrument, and I am not going to be the one who tells you that I will argue against the instrument. I am going to carry your hole up and I am going to say that the boundary was honest about it, and there is no version of that which does not end with me writing a procedure of my own.**"
+
+"**I know,**" said Bel Ordry. "**That is why I said it out loud.**"
+
+She left at the fourth bell with the tally and the permit and a clerk's hand's worth of words, and the corridor was open, and nine children were in the worst room in this building at the far end of it, and nobody went with her but the words.
+
+---
+
+**And after she had gone, two things happened in the anteroom, and the second one is the reason a man who has asked to be suspicious of him in a month has not been.**
+
+**First, Marek Venn told Bel Ordry to his face what he was.**
+
+"**You have written the first rule this building has ever written about a person who is not in it, and you wrote it in forty minutes, and I have been in this Hearthhold twenty weeks and I could not have written one sentence of it.**
+
+"**And I am telling the room that I do not think that is a compliment to you. I think it is the whole of the problem. A man who can be found is a man who can be checked, and a man who cannot be found is a man who has to be trusted, and there is not one of those two things in this charter and I have watched nineteen weeks of this building refuse to have either.**
+
+"**So the answer to your question is no. A page in a coat is not a system. It is a man, and he is thirty-five, and the man is very good, and in twenty weeks he has got very good at writing documents that nobody in this room can imagine being abused with, and that is exactly the man I would want writing them, and it is exactly the man I could not check.**"
+
+"**Enter that,**" said Bel Ordry, "**in my words and not improved.**"
+
+"**I will enter it in your words, and I am not going to improve it, and I am not going to argue with it either, because the man who has no standing to say it is the one who said it and he is right, and a man who is right and has no standing is still right.**"
+
+**Second was the thing that was not said,** and it is the reason the sentence is still in this room.
+
+Dalla Sen said it at the sixth bell, while she was reading the board, and it was a thing she had been carrying since the second bell.
+
+"**There is a chalked inspection line on the surface above the Cinder Steps. It has been there — her words — for nine seasons. This boundary has been having an argument about the middle gate's pails for twenty weeks and it has been having it under an inspection the whole time and none of us knew, and I am not going to make a sentence out of that tonight because I do not know what it is yet.**"
+
+And nobody in the anteroom filled the space after it, and the corridor was open, and the school was at the far end of it, and a man of twenty-two was forty days and forty nights into a count that is his own and is in a column with nothing over the top of it, and the count has no heading and the count has not given a reason this week and has not been asked for one since he said he was running out of them.
+
+---
+
+**And at the last bell of the day the elected keeper of this boundary came off the wheel and told the room he was going up the middle passage in the morning, and gave the reason in his own words, and the room did not argue with him and did not thank him.**
+
+"**The first of the month falls in the next-next week and I promised four people a sentence at a counter and I am the only one who can say it. Four days up the middle passage to the middle gate and then on, and I am not going to say how far, because I do not know and neither does anybody else in here, and a man who puts a number on a road he has not walked is a man who will be asked for it at a counter.**
+
+"**I am not going to be back inside this month and I am not going to say when I will be back, and I want that written down as me not saying it and not as a decision, because it is not a decision. It is that I do not know, and a keeper who gives a date he cannot keep has given a clerk a thing to be right about.**"
+
+"**Then who holds the wheel,**" said Renn Vale.
+
+"**That is the right question and I am not going to answer it tonight, and I am leaving two sentences with Dalla Sen to be read to anybody who has to act on them, and they are the same two sentences I gave this room and they are about four households and they are not good, and I am not going to soften them by saying them again out loud.**"
+
+**And he went up the middle passage in the morning with two true sentences in his coat, and nobody in this building has said since when he will get there.**
