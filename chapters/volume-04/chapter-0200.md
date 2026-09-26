@@ -38,7 +38,7 @@ Nobody in the anteroom said anything.
 
 He turned the cup round on the table a quarter of a turn.
 
-"**Four words. That is the whole of what was said to me across three days by anybody in that office and none of it was a concession and all of it was correct. I have not been refused. I want that said, because I said on Saturday in this room that a person gets refused, and I was wrong about that, and the clerk is going to want the reason for it and here it is: I was wrong about what an office does and I was right about how a person behaves in one, and those are two separate things and I have had twelve days to get them the right way round.**"
+"**Four words. That is the whole of what was said to me across three days by anybody in that office and none of it was a concession and all of it was correct. I have not been refused. I want that said, because I told this room on Saturday what I thought the answer was going to be, and the clerk is going to want the reason for what I got wrong and here it is. What I told this room on Saturday was that a person who works in a building is a person the building has already said no to, and two people in that building have done the two things I said could not be done and neither of them was asked. What I also told this room on Saturday was that the woman at that counter was honest with me and never once made it sound like a favour to her, and that is exactly what happened, and I have been wrong about one of those and right about the other and those are two separate things and it has taken me twelve days to get them the right way round.**"
 
 "**The other number is the insurance office's and it is not that counter's to strike, and the woman at the counter told me so in one sentence on the first morning and wrote nothing down about it. It was struck through on the third morning by a man who has worked at that counter for twenty-two years and who is not a hero and who does not want to be thanked and who did it in about four seconds, and he did it because a head on a sheet is a piece of wax with a number on it and the counter was holding the sheet.**"
 
@@ -92,7 +92,7 @@ Iven Tallo set the chisel down on the anvil and left it there, and kept his left
 
 Nobody said anything.
 
-"**And I am not asking what is in them,**" he said. "**I have not asked this room what is in that gap once in a month and I am not starting this morning, and I have watched four people in this building come close to asking it and go somewhere else, and the fifth of those four people will not be me, and I would like it entered that I have said so before I asked what I did ask.**"
+"**And I am not asking what is in them,**" he said. "**I have not asked this room what is in that gap once in a month and I am not starting this morning, and I have watched four people in this building come close to asking it and go somewhere else, and I am not going to be the fifth, and I would like it entered that I have said so before I asked what I did ask.**"
 
 Then he gave the reason he was asking, in his own mouth, which nobody had asked him for and which he had plainly been carrying for a fortnight.
 

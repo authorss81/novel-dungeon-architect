@@ -108,7 +108,7 @@ Tams Quill turned the piece of chalk he has not used over twice while the reason
 
 "**That is a sixth reason and it is the best of the six,**" Bel Ordry said, still on the step, "**and it does not need improving on, and I will say in a room that a man has now refused six things in three weeks and that I do not know what happens when he stops, and that I have been saying that for two weeks and that it is the only sentence I own.**"
 
-"**Then it is a seventh thing and it goes the same way,**" and he put the chalk in his pocket, "**and I am not the man who works out in advance what it is going to be.**"
+"**Then whatever comes next goes the same way,**" and he put the chalk in his pocket, "**and I am not the man who works out in advance what it is going to be.**"
 
 Dalla Sen entered that he had given none for the column with nothing over the top of it, and that she had not asked, and that a man who has refused six things on six different grounds read a board out loud on a Saturday and refused nothing else, and that she was not going to keep a figure of any of it.
 
