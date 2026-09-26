@@ -40,6 +40,8 @@ Then he stopped reading, and held the sheet, and said the reason he was not goin
 
 Then Dalla Sen did the thing she had never done in this building, and she did it in front of a carrier with a proper seal on his cover, and what she did was read a document against itself and find the hole, and the hole was not the guild's.
 
+Both of the carrier's hands went flat on the cover the moment it was on the table, the way a man holds a thing he has come to be a witness to, and they did not come off again for the rest of the morning.
+
 "**I am going to read the outside of this against the inside of it and I am going to do it in this room and not in a corridor, and I am going to say when I am doing it so that the man who brought it can hear me do it.**"
 
 "**Inside: a post in a named route, in a register kept by an office, with a named holder, in exchange for a bond and a fee and a year of attendance.**"
@@ -64,7 +66,9 @@ Renn Vale came down two steps for the first time in two days, which she does not
 
 "**The rest of it is that I have spent a month telling this building that a name on a page about a room is a handle, and a title is a post is a box a letter goes into, and a post is what a blank page becomes when somebody fills it in. And this is a post. Somebody has drawn it, in a stiff cover, and put my name in it, and it is lawful, and it is in this Hearthhold, and it would be the first post in this building since the ninth room was given a name and a row, and the row was refused.**"
 
-"**And the person it will find,**" she said, "**is not me. It is a boy on a bench at the top of nine steps with a crutch and an ear against a stone, and it is going to find him because his master's name is going into a register and a boy's roll number goes with it, and I am not going to be the woman who says in a room that a boy is not a route to anything, because a boy is a route to a roll, and everybody in this building knows it and one of them has said it out loud and it was not me.**"
+"**And the person it will find,**" she said, "**is not me. It is a boy on a bench at the top of nine steps with a crutch and an ear against a stone, and it is going to find him because his master's name is going into a register and a boy's roll number goes with it.**"
+
+"**And I am not going to be the woman who says in a room that a boy is not a route to anything, because a boy is a route to a roll, and everybody in this building knows it and one of them has said it out loud and it was not me.**"
 
 There was no improving on that, and Iven Tallo said the thing that came next in his own words and asked for it to be entered, and it was the sentence that made the offer into what it actually was.
 
@@ -88,11 +92,15 @@ Then Bel Ordry said the half of the morning that nobody else was going to say, a
 
 "**A boundary that has timber can shut a route when a clerk at a counter says so. That is not a guess. That is the rule that a hundred copies of a halfpenny sheet were printed for, and the rule is in that carrier's hand on that table in the fourth paragraph, and it works in both directions.**"
 
-"**And a man who has been in this building thirty weeks and who took a third of the crew's hours and who knows more about a sill and a joint and a channel in this Hearthhold than anybody except two people in it, is being offered a bond and a wage and an apprentice to take to a camp four and a half days up a road, at the exact moment that a wall in lime is the only thing anybody has said is the answer to a floor that nine children sit on.**"
+"**And a man who has been in this building thirty weeks, and who took a third of the crew's hours, and who knows more about a sill and a joint and a channel in this Hearthhold than anybody except two people in it, is being offered a bond and a wage and an apprentice to take to a camp four and a half days up a road.**"
+
+"**And it is at the exact moment that a wall in lime is the only thing anybody has said is the answer to a floor that nine children sit on.**"
 
 "**I am not saying he wants it. I am saying the shape of the thing is the shape of the thing.**"
 
 Iven Tallo said one sentence, and it was about a boy's foot, and it was nine words long, and he asked for it to be entered exactly as he said it and not improved.
+
+Nobody in the anteroom had said anything for some time, and out in the corridor a bell that had not been due went over, and the man who had asked to be asked did not look up.
 
 "**The first one out of a room with eleven people in it was a girl of nine.**"
 
@@ -108,7 +116,9 @@ Then the carrier asked the only question he had been waiting two days to ask, an
 
 "**That is a good carrier,**" said Talla Roke, "**and I want to say something about him before he goes, and it is not a kind thing and it is not about him.**"
 
-"**A carrier who will carry a not-refusal back up a road four days without a name on it is the first person in a month who has come down that passage and refused to become an office. And that is not praise. It is a description of the gap. Everybody in this room is refusing to be an office and there is a carrier on this table who has figured out how not to be one, and a man with a tally on a road, and a woman at a counter who took a sheet off a board. That is four people this month and every one of them found their own way of doing it and none of them found the same way.**"
+"**A carrier who will carry a not-refusal back up a road four days without a name on it is the first person in a month who has come down that passage and refused to become an office. And that is not praise. It is a description of the gap.**"
+
+"**Everybody in this room is refusing to be an office, and there is a carrier on this table who has figured out how not to be one, and a man with a tally on a road, and a woman at a counter who took a sheet off a board. That is four people this month, and every one of them found their own way of doing it, and none of them found the same way.**"
 
 "**Enter that in my words and do not improve on it,**" she said, **"and enter that I have been asked this question twice in a month and nobody has answered it, and that a carrier has just described four answers to it in a room in four days without being asked a single question about any of them.**"
 
@@ -124,7 +134,9 @@ Then the carrier asked the only question he had been waiting two days to ask, an
 
 "**The count. Wen Pask is ninety-two days and ninety-two nights into a count that is his own, and it is not going to be ninety-three, and I have said in six weeks running that I am going to keep writing it and I have written it in six weeks running and nobody has thanked me in six weeks running and I have stopped expecting that and I am not going to stop writing it.**"
 
-"**And I did not walk the board, and the count did not walk it either, and his reason is his own and I am entering it in his words because he gave it out loud and he is entitled to have it in my hand: there is a piece of paper in this room with a man's name on it, and there is a column on this board with nothing over the top of it, and I am not going to be the man who puts the two next to each other in front of a room.**"
+"**And I did not walk the board, and the count did not walk it either, and his reason is his own and I am entering it in his words because he gave it out loud and he is entitled to have it in my hand.**"
+
+"**There is a piece of paper in this room with a man's name on it, and there is a column on this board with nothing over the top of it, and I am not going to be the man who puts the two next to each other in front of a room.**"
 
 "**That is the third week running he has said something about that column that I have entered, and I am entering that too, and I am not going to let three of them accumulate into a policy without somebody saying so in a room.**"
 

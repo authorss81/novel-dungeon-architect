@@ -6,7 +6,11 @@
 
 Down went the tally on the anteroom table where anybody could see it, the way she has put it down for thirty weeks, and she said her name, which she has done every time and which is the only name she gives anybody, and then she said what she came down the passage to say and she said it in the order it had happened, because that is also what she does.
 
-"**The sheet is on the board. The one that came off. It came back on the Saturday and I did not put it up and neither did anybody I could see, and it has a seal number on the corner of it now and the number is not the number it had before, and I have got the old one off the copy I wrote down for myself and I have got the new one off the board with my own eyes and I am not going to give you either of them because a seal number is a thing you can be found by.**"
+"**The sheet is on the board. The one that came off. It came back on the Saturday and I did not put it up, and neither did anybody I could see.**"
+
+She put two fingers on the table corner nearest the door, not on the paper, and left them there.
+
+"**There is a seal number on the corner of it now, and the number is not the number it had before. I have the old one off the copy I wrote down for myself and the new one off the board with my own eyes, and I am not going to give you either of them, because a seal number is a thing you can be found by.**"
 
 "**I am telling you it is back and I am telling you it is different, and the different is the part I came down for.**"
 
@@ -14,7 +18,11 @@ Bel Ordry said the reason out loud before he asked the next question, because th
 
 "**A regime is not a threat. It is a schedule. And a thing which is scheduled is not a thing that is refused.**"
 
-"**Write that down as his words and not as ours,**" said Dalla Sen, and her chalk was already moving, **"and write down under it that a woman at a counter told a courier in this building in her own words that a sheet comes back on a board in a month by a clerk who does not know about the Tuesday, and that the courier wrote the words *a week is not a month* twice into my book so that the second one is the one a person reads, and that I have read both of them and the woman was right and I am not going to pretend in a clerk's hand that I thought otherwise when I wrote it.**"
+"**Write that down as his words and not as ours,**" said Dalla Sen, and her chalk was already moving.
+
+**"Write down under it that a woman at a counter told a courier in this building, in her own words, that a sheet comes back on a board in a month by a clerk who does not know about the Tuesday.**"
+
+"**The courier wrote the words *a week is not a month* twice into my book, so that the second one is the one a person reads. I have read both of them, and the woman was right, and I am not going to pretend in a clerk's hand that I thought otherwise when I wrote it.**"
 
 Her other hand went flat on the table, on the wood, not on anything anybody had written.
 
@@ -58,7 +66,11 @@ Then Marek Venn said the thing he had been not saying since a Friday in the last
 
 "**I have got no post and I have never asked for one and I said ten days ago in a room that no page was going to get my name on it, and I am not going to break that in a month because a cart is standing at a gate.**"
 
-"**What I want entered is this. If that cart comes up the middle passage it comes up it as a load with a person responsible for it, and the person responsible for it is going to be a person this boundary names, and a person this boundary names is a person four days up a road can be sent for. And if we do not name one then the cart does not come up, and that is a wall in lime that does not get built, and there is a room at the kitchen-line end of this corridor with nine children in it three days in seven and a sill packed in clay that is the only thing holding that floor up and it has been shrinking for thirty weeks.**"
+He put the heel of his left hand on the edge of the table to get his weight off the bench behind him, and the hand did not close on the edge, and he took the weight on his forearm instead without any sign that he had noticed doing it.
+
+"**What I want entered is this. If that cart comes up the middle passage it comes up it as a load with a person responsible for it, and the person responsible for it is going to be a person this boundary names, and a person this boundary names is a person four days up a road can be sent for.**"
+
+"**And if we do not name one then the cart does not come up. That is a wall in lime that does not get built, and there is a room at the kitchen-line end of this corridor with nine children in it three days in seven, and a sill packed in clay that is the only thing holding that floor up, and it has been shrinking for thirty weeks.**"
 
 "**Those are the two things. I have said both of them. I am not going to say which one I think is worse because I do not know and I have said in this room that I do not know better than anybody else in it.**"
 
@@ -86,7 +98,11 @@ Chalk in his left hand and the right one open and flat in his lap, and he had th
 
 "**The pot is ten. The jars are two. The water is on the fill at the waist and it is not moving, and there is still no number for that fill in this building and there is not going to be one, and I have said that five times and I am saying it a sixth because nobody has found me a better one.**"
 
-"**The count. Wen Pask is eighty-six days and eighty-six nights into a count that is his own, and I said in five weeks running that I am going to keep writing it and I am writing it, and it is eighty-six, and it is not going to be eighty-seven, and I have entered that a bundle has been in this anteroom for four weeks and that a courier said so out loud in a room today and that I am not putting the two numbers next to each other and that I have not been asked to by anybody and that I would have done it on my own if I had thought of it.**"
+"**The count. Wen Pask is eighty-six days and eighty-six nights into a count that is his own, and I said in five weeks running that I am going to keep writing it, and I am writing it.**"
+
+The chalk stopped for the length of one stroke and started again.
+
+"**It is eighty-six, and it is not going to be eighty-seven. I have entered that a bundle has been in this anteroom for four weeks and that a courier said so out loud in a room today. I am not putting the two numbers next to each other, and nobody has asked me to, and I would have done it on my own if I had thought of it.**"
 
 ---
 
@@ -94,6 +110,10 @@ Chalk in his left hand and the right one open and flat in his lap, and he had th
 
 **A sheet is on a board four days up a road with a different seal number on it, and nobody put it up.**
 
-**A cart is standing at the middle gate with a paper on it, and a hundred copies of a halfpenny sheet promised a boundary timber in the month after next, and the month after next is now, and a boundary that will not fill in two lines cannot be given a thing by anybody who needs two lines filled in, and there is a room at the kitchen-line end of a corridor with nine hearth stones in it and one of the nine propped on a strip of crate board and a fire that has not been lit in ten weeks.**
+**A cart is standing at the middle gate with a paper on it, and a hundred copies of a halfpenny sheet promised a boundary timber in the month after next.**
+
+**The month after next is now, and a boundary that will not fill in two lines cannot be given a thing by anybody who needs two lines filled in.**
+
+**There is a room at the kitchen-line end of a corridor with nine hearth stones in it and one of the nine propped on a strip of crate board, and a fire that has not been lit in ten weeks.**
 
 **In a man's mouth and not out of it, the ninth reason he will not put a heading over a column, and he is keeping it for Thursday.**

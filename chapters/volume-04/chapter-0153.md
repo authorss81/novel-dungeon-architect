@@ -8,6 +8,8 @@ At the fourth bell the nine went in and one of them went in sitting down, and th
 
 Ten weeks now without a fire in the corner of that room, and Mikka Hale asked to be asked about it for the sixth time this month and refused it for the sixth time, in one sentence, standing in the doorway with the fire-frame off behind her.
 
+They were in for the morning and out of it again inside half an hour, the way they were now, and a heel had been rubbing the clay beside the strip of crate board under the ninth hearth stone for four weeks and had left a mark you could read from the doorway.
+
 "**No. Not this month, not next month, and not when a physician comes down nine steps again and says a word about a floor. I will not light a fire on nine hearths in a room with a bed a hand and a half down under one of them, and I have been asked six times and I would like to be asked a seventh and refused a seventh.**"
 
 "**And the children are cold, and I would like that written down in the same place as the refusal and not in a different one, because the cold is the trade and I made it and I am not going to have it kept somewhere quiet.**"
@@ -23,6 +25,8 @@ Then the clerk had the anteroom at the second bell and said what she was going t
 "**Tams Quill. His right hand is open and flat and it is not a working hand and that has not changed. The reason is that he is the person who reads the board, and the board is where a thing that has been done gets entered, and this work is about finding out what a thing is, and if the man who finds out what a thing is is also the man who writes down what it turned out to be then there is nobody left in this building who can stand in a room and say that the record is not the man.**"
 
 The three reasons were not argued with and not improved on, and Dalla Sen entered each of them as it was given, and then she asked the two.
+
+While she was saying them the anteroom had filled to the wrong shape. Four women had come off the step and stood along the wall that kept the wet out, Bel Ordry had turned his page over and shut it, and the two men who were going to be asked had not sat down and had not moved closer together than they had been standing before she started.
 
 "**Iven Tallo. Three hours, and I am naming the split before you do, because you always do and I would rather it was in my hand than yours. Two hours of yours and one hour of Marek Venn's. You go first.**"
 
@@ -68,9 +72,15 @@ Iven Tallo looked at the anteroom table for a while and did not answer straight 
 
 "**Do not put my name on the page,**" said Dalla Sen. "**The word is not going back on. It goes in the book in your words with the second half of it in your words, and both halves, in that order.**"
 
-"**Then somebody is going to have to say the mark's limit,**" said Marek Venn, **"and I am going to say now, before anybody asks me, that I cannot. A bearing mark tells a rule-line which way to carry a limited force and one mark has one direction and one stated limit, and that limit is in the thing itself and it comes out of it, and I put one on a jamb in the twenty-second week and a woman on a landing took it off with a cloth and would not let me take it off myself.**"
+"**Then somebody is going to have to say the mark's limit,**" said Marek Venn, **"and I am going to say now, before anybody asks me, that I cannot.**"
 
-"**The mark in that lintel is not mine and I have not read it and I cannot read it, and a thing I cannot read does not come with a limit I can say out loud. So the limit on this, if this happens, is not going to be a figure of mine in a room. It is going to be a condition written by the person who keeps the room it can hurt, in her own hand, with no number and no day on it, and she can be stopped and she can stop it, and that is the only honest place a limit can come from when the mark is nine hundred years old and damaged and does not say.**"
+"**A bearing mark tells a rule-line which way to carry a limited force, and one mark has one direction and one stated limit, and that limit is in the thing itself and it comes out of it. I put one on a jamb in the twenty-second week and a woman on a landing took it off with a cloth and would not let me take it off myself.**"
+
+"**The mark in that lintel is not mine and I have not read it and I cannot read it, and a thing I cannot read does not come with a limit I can say out loud.**"
+
+He said it to the step rather than to her, which was where he had been looking for some time.
+
+"**So the limit on this, if this happens, is not going to be a figure of mine in a room. It is going to be a condition written by the person who keeps the room it can hurt, in her own hand, with no number and no day on it, and she can be stopped and she can stop it, and that is the only honest place a limit can come from when the mark is nine hundred years old and damaged and does not say.**"
 
 "**Enter that,**" said Dalla Sen, "**and enter that he said it before anybody asked, and enter that it is the third time in thirty weeks that a man in this building has said out loud that the thing he cannot do is the thing somebody else is going to have to do, and that I am entering the count of those and not the reasons, because he has given me the reasons four times and I have them all.**"
 
@@ -80,13 +90,17 @@ Iven Tallo looked at the anteroom table for a while and did not answer straight 
 
 Iven Tallo said it in the anteroom at the fifth bell in the order he had walked it, and nobody wrote it down, and Dalla Sen wrote it down anyway because she is the clerk and said so before she did it.
 
-"**It is a lean-to of dressed stone and a timber frame against the cut face, and it is dry, and it is a room, and it has a keeper in it, and the keeper is a man of forty-nine who has kept it for eleven years and did not tell me that and I asked him before I asked anything else because I have been in a room with a store's worth of beech in my head for two days and that is the first question you ask a man.**"
+"**It is a lean-to of dressed stone and a timber frame against the cut face, and it is dry, and it is a room, and it has a keeper in it.**"
+
+"**The keeper is a man of forty-nine who has kept it for eleven years and did not tell me that, and I asked him before I asked anything else, because I have been in a room with a store's worth of beech in my head for two days and that is the first question you ask a man.**"
 
 "**And he said no.**"
 
 "**To what.**"
 
-"**To the timber. Not to the asking. To the timber, and he said it in a room and he was not being difficult and he gave me a reason and the reason was that it is not his to give, because the camp owns it until the camp closes and the camp closes when the last of the season's work is done, and he does not know what day that is and neither does anybody above him.**"
+"**To the timber. Not to the asking. To the timber, and he said it in a room and he was not being difficult, and he gave me a reason.**"
+
+"**The reason was that it is not his to give, because the camp owns it until the camp closes, and the camp closes when the last of the season's work is done, and he does not know what day that is and neither does anybody above him.**"
 
 "**And then he said a thing I have not stopped turning over. He said: bring the boundary's own keeper and I will listen to the terms.**"
 
@@ -100,11 +114,15 @@ Iven Tallo said it in the anteroom at the fifth bell in the order he had walked 
 
 Marek Venn had been on the step with his right hand flat on the back of the bench and his left one open on his knee, and he had said the sentence about the limit and had not moved since, and the thing he said next was short and it was the only thing he said in the whole of the fourth bell.
 
+He had spent a fortnight on that step working out what a paper on a cart had to do with a room nine children were taught in, and it had taken him the whole of the walk up nine steps to find out that the question was not his.
+
 "**A store is a room.**"
 
 "**Say it again in a month when it is not the answer to anything,**" said Dalla Sen.
 
-"**A store is a room,**" he said, "**and a room has a person in it who keeps it, and a person can be asked, and the person can say no. And that is not a discovery. That is what Renn has been doing to a corridor for thirty weeks with a slate on her knee and nobody has ever once applied it to a heap of wood.**"
+"**A store is a room,**" he said, "**and a room has a person in it who keeps it, and a person can be asked, and the person can say no.**"
+
+"**And that is not a discovery. That is what Renn has been doing to a corridor for thirty weeks with a slate on her knee, and nobody has ever once applied it to a heap of wood.**"
 
 "**And I have been standing in this anteroom for a fortnight thinking about a piece of paper on a cart and a bedroll on a bench, and the whole of the two of them is that this boundary will not be given anything by anybody it has to name. And a man with eleven years of beech in a lean-to will give it to this boundary, and be able to take it back, and be asked in a room like a person and not like a gate.**"
 
@@ -120,7 +138,9 @@ Marek Venn had been on the step with his right hand flat on the back of the benc
 
 "**The new part is that a carpenter and an engineer went four days up a road and looked at a heap of wood and came back with the same sentence, which is that a heap of wood is not a thing you can have and the only person who can answer the question is one they have never met. Eleven years of it. Two hours of mine and one hour of his.**"
 
-"**The pot is ten. The jars are two. The water went off the fill at the waist on the second day of this week and it has not been on it since, and Jo has not told me where it went and I have not asked her, and I am entering that I did not ask her and that a man on the step said in a room this morning that he does not intend to say which of two prices he would pay, and that I put both of those two sentences next to each other in this book on purpose and with a reason, and the reason is that one of them is a number and the other one is not, and I have spent thirty weeks learning that those are the two different kinds of thing in this building.**"
+"**The pot is ten. The jars are two. The water went off the fill at the waist on the second day of this week and it has not been on it since, and Jo has not told me where it went, and I have not asked her, and I am entering that I did not ask her.**"
+
+"**And I am putting two sentences next to each other in this book on purpose and with a reason. A man on the step said in a room this morning that he does not intend to say which of two prices he would pay. One of those is a number and the other one is not, and I have spent thirty weeks learning that those are the two different kinds of thing in this building.**"
 
 "**The count. Wen Pask is eighty-eight days and eighty-eight nights into a count that is his own.**"
 

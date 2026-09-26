@@ -14,13 +14,15 @@ Nera Oduya had the valve board in her own hands at the first bell and she had a 
 
 "**Pell Roke. He is fourteen and the reason is not his age. The reason is that he reads numbers and I am not asking for a number. On Wednesday he is going to read fourteen lines out of a store's book and I have watched that man hold a column of figures in a room and make it be true, and I am not going to stand at the other end of a figure in a room with him.**"
 
-"**Tams Quill. His right hand is open and flat and it is not a working hand and that has not changed and I am not going to pretend it has. The reason is that he is the man who reads the board and I have decided in the last half hour that this particular work is going to be entered somewhere, and I would like the man who enters it to be a person who is not the man who is doing it.**"
+"**Tams Quill. His right hand is open and flat, it has not been a working hand since the second week, and I am not going to pretend otherwise. The reason is that he is the man who reads the board, and I have decided in the last half hour that this particular work is going to be entered somewhere, and I would like the man who enters it to be a person who is not the man who is doing it.**"
 
 Then she said the half that was against herself, and she said it standing, and nobody in that anteroom interrupted her.
 
 "**Here is why I am asking, and it is not that I need hands, because I have got Renn and I have got Jo and I have got a pump that two people can work, and none of those three is what I need.**"
 
 "**I need somebody to go and stand at the low end of that corridor and look at the air there. From above. Not from inside it. Not in the channel. From the floor, at the end, at the frame, and look at what is coming off it, and come back and tell a room what it is, and do not tell me first.**"
+
+Thirty weeks of watching one end of a corridor, and the instrument she had watched it with was the one thing in that room nobody else could pick up, and she was about to hand the question to a man who kept nothing.
 
 "**The water went off that fill on Tuesday afternoon and it has not been back. The air at that end goes down the channel before the water does, and that has been true for thirty weeks, and I have had my eye on it every day of them, and I have no figure for it and I have not published a rate in thirty weeks and I am not going to publish one now.**"
 
@@ -29,6 +31,8 @@ Then she said the half that was against herself, and she said it standing, and n
 "**And the reason I am not going is not that I am frightened of the channel, and I want that said in a room. It is that I have spent thirty weeks being the only person in this building who may turn a wheel, and if I go down to that floor then for as long as I am on it I am a person standing at the low end of a corridor, and a person standing there is a post, and a post is what a blank page becomes when somebody fills it in.**"
 
 "**So I am not going. And the man who is not going to go is the man who does not keep a room, does not stand a watch, is not on a rota, is not one of the five, and is not a resident of this Hearthhold by anything except that he is standing in it.**"
+
+She put the sheet down on the valve board when she had said it and squared it with two fingers, and the anteroom understood that the asking was over and that the answer was going to be given by somebody else or not at all.
 
 Dalla Sen had the book open and said what she was going to do before she did it.
 
@@ -56,7 +60,11 @@ Then Marek Venn said the thing that was the actual cost, and he said it out loud
 
 "**Two. I have been asking this room for a month what it is going to do about a corridor with a hole in it, and the answer I have wanted has been *somebody stands there*, and the answer that is actually available is *somebody goes and looks and comes back*. Those are not the same and I have been pretending for a month that they are, because the second one is slower and does not look like anything.**"
 
-"**Three, and this is the one against me. I will go. And the reason I will go is not that you are the air authority and I am not the air authority and you have asked the man with nothing. It is that I want to go.**"
+"**Three, and this is the one against me. I will go. And the reason I will go is not that you are the air authority and I am not the air authority and you have asked the man with nothing.**"
+
+"**It is that I want to go.**"
+
+Nine people were in that anteroom and none of them looked at the two of them, and Nera Oduya went back to her valve board and picked up the chalk she had not been using, and Marek Venn sat on the bench with his forearm on his knee and his open left hand hanging off the end of it, and did not say anything else for the rest of the morning.
 
 "**Enter that last one,**" said Dalla Sen, "**and enter that I entered it, and enter that a man who is not a post has just said in a room that he wants to be asked, and that is the first entry of that shape in this book in thirty weeks, and that I am not going to put a reason beside it.**"
 
@@ -66,7 +74,9 @@ Then the clerk had to decide something she had been putting off since the twenty
 
 "**It is not the crew's. The crew are five and he is one of the five and he has not been asked as one of the five, and putting it in that column would hand the five of them an hour and take it off him and I am not going to do that to a man who has said no post with his whole body for a month.**"
 
-"**It is the boundary's. And the reason is the reason I gave in the twenty-eighth week and I am going to give it in the same words so that anybody in a year can see it has not moved: a man is not an hour. A man's hour is a thing a person can be given and taken back, and there is no version of this in which anybody in this room gives that man an hour today.**"
+"**It is the boundary's. And the reason is the reason I gave in the twenty-eighth week and I am going to give it in the same words so that anybody in a year can see it has not moved: a man is not an hour.**"
+
+"**A man's hour is a thing a person can be given and taken back, and there is no version of this in which anybody in this room gives that man an hour today.**"
 
 "**And the second reason is new and it is this. She is not the crew. She has never once asked the five of them for anything in thirty weeks and she has said in this room that she is not going to start. If the boundary's column is where a work goes when nobody in this building owns it, then this is what that column is for, and I have been putting other things in it for a month without knowing what it was.**"
 
@@ -84,7 +94,9 @@ Dalla Sen read it out, and read it as she had written it, and said that.
 
 "**After that I do not know,**" he said. "**And I am not going to pretend to this room that I have worked it out in a fortnight because a woman asked me a question about a post.**"
 
-"**Entered,**" said Dalla Sen, "**the first half and not the second half, and I am entering the reason for that, and the reason is that the second half is the question and the question has not been answered and there is no version of this in which a clerk answers a man's question for him by writing one down in his own book. So the first half is a work and it is in the boundary's column with a reason. And the second half is a question, and it stays a question, and I am not going to enter a reason in the space where one would go, and I have had a fortnight of wanting to.**"
+"**Entered,**" said Dalla Sen, "**the first half and not the second half, and I am entering the reason for that. The reason is that the second half is the question, and the question has not been answered, and there is no version of this in which a clerk answers a man's question for him by writing one down in his own book.**"
+
+"**So the first half is a work and it is in the boundary's column with a reason. And the second half is a question, and it stays a question, and I am not going to enter a reason in the space where one would go, and I have had a fortnight of wanting to.**"
 
 Then Nera Oduya said the thing about her own condition, and she said it to a room and not to a man, and she said it before anybody could ask her.
 
@@ -104,11 +116,13 @@ Then Nera Oduya said the thing about her own condition, and she said it to a roo
 
 "**Say that in the book in your own words and say it again,**" said Dalla Sen, "**and say why you are saying it twice.**"
 
-"**Because the first one will be a sentence and the second one will be a fact, and this boundary has spent thirty weeks learning that a sentence can be lifted off a page and a fact cannot, and I would like a room to hear me say the same thing twice and to be given the reason for it by the woman who asks for a figure read against an original.**"
+"**Because the first one will be a sentence and the second one will be a fact, and this boundary has spent thirty weeks learning that a sentence can be lifted off a page and a fact cannot. And I would like a room to hear me say the same thing twice, and to be given the reason for it by the woman who asks for a figure read against an original.**"
 
 "**And nobody is to ask me what the condition is about,**" said Nera Oduya, from the second step. "**Not you, not him, not the woman who was going to be glad about something in the twenty-ninth week. There is a reason and it is mine and I am not handing it over because a boundary has been good to me.**"
 
 Nobody asked. Dalla Sen entered the two readings and entered that they were the same, and entered that nobody in the room had asked, and entered that she had noticed she wanted to and had not.
+
+It went through that anteroom without a sound, and it was the first thing in thirty-one weeks to do so in this building without somebody putting a name on it, and the woman who had set it went back up the steps with her board under her arm.
 
 ---
 
@@ -118,9 +132,13 @@ Nobody asked. Dalla Sen entered the two readings and entered that they were the 
 
 "**I entered those and I did not read them, and I am not going to say the reason is dignity, because I have used that word three times in a month and I have been wrong about it twice.**"
 
-"**The reason is that a woman asked a man in this room for three hours of a work at the first bell and a man said yes in a room and said afterwards that he wanted to be asked, and I put that in the book in his words with no reason beside it, and I am not going to read a number out loud in the same breath as that. It is the same rule I have been using all month and I have finally got a reason for it that is not a mood.**"
+"**The reason is that a woman asked a man in this room for three hours of a work at the first bell, and a man said yes in a room, and said afterwards that he wanted to be asked. I put that in the book in his words with no reason beside it.**"
 
-"**The pot is ten. The jars are two. The water is not on the fill and nobody has told me where it went. The count. Wen Pask is ninety-one days and ninety-one nights into a count that is his own, and it is not going to be ninety-two, and I have said in six weeks running that I am going to keep writing it and I have written it in six weeks running and nobody has thanked me in six weeks running.**"
+"**And I am not going to read a number out loud in the same breath as that. It is the same rule I have been using all month, and I have finally got a reason for it that is not a mood.**"
+
+"**The pot is ten. The jars are two. The water is not on the fill and nobody has told me where it went.**"
+
+"**The count. Wen Pask is ninety-one days and ninety-one nights into a count that is his own, and it is not going to be ninety-two, and I have said in six weeks running that I am going to keep writing it, and I have written it in six weeks running, and nobody has thanked me in six weeks running.**"
 
 "**And I did not walk the board, and the reason is the count's and not mine, and here it is in his words because he said it out loud at the sixth bell and I am entering it as he gave it: a man has just been asked to do a thing in this building and I am not going to put a column of what other people found next to it in a room in the hour somebody asked him.**"
 

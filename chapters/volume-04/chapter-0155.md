@@ -4,9 +4,13 @@
 
 **A store is a room, and a room has a keeper in it, and a keeper can be asked in a room with the terms out loud, and a keeper can say no, and the price is not money because there is no money in this Hearthhold and there has not been for thirty weeks.**
 
-At the fourth bell the nine went in and one of them went in sitting down, and the strip under the ninth hearth stone was holding and the two flags had not moved, and Jo Verrick said the standing term out loud in the doorway and Mero Senn said it out of his own hand against hers and Ilsa Norr said yes to it, and Dalla Sen entered that the term is the same in two hands, and entered that she had been entering that sentence for five weeks and was not going to stop entering it on the morning a man came down four days of road with nothing to carry.
+At the fourth bell the nine went in and one of them went in sitting down, and the strip under the ninth hearth stone was holding and the two flags had not moved. Jo Verrick said the standing term out loud in the doorway and Mero Senn said it out of his own hand against hers and Ilsa Norr said yes to it, and Dalla Sen entered that the term is the same in two hands.
+
+She entered also that she had been entering that sentence for five weeks, and that she was not going to stop entering it on the morning a man came down four days of road with nothing to carry.
 
 Ormer Hatch came up the nine steps at the second bell on his own, with nothing in his hands, and he was not carrying a tally and he did not have a book, and he stood in the anteroom and looked at the plan on the table in four parts and did not touch it.
+
+He had walked four days to say a sentence he had not been asked for, and he had walked them in the clothes he kept a store in, and the anteroom found that out about him the way it finds things out, by looking at the coat.
 
 "**Ormer Hatch. Survey camp. Forty-nine. Thirty-one years on and off. I keep a store, and the store is a lean-to of dressed stone with a timber frame against the cut face, and there is eleven years of beech in it and a quantity of fir, and there is no roof on the north side worth the name, and I have never once been asked for any of it by anybody and I am not here to ask for it.**"
 
@@ -21,6 +25,8 @@ He said the reason for the message out loud, in a room, without being asked, and
 "**I want to be asked. That is why I came. I have not been asked in eleven years and I did not know that was a thing I wanted until your carpenter asked me the wrong question on Wednesday and I found out I was still standing here twenty minutes after he had gone.**"
 
 Dalla Sen entered that a man had come down four days of passage with nothing in his hands in order to be asked for something, and entered that the clerk had no column for that, and entered that she was not going to invent one, and that it was going in the book in the form of the sentence he had said.
+
+Nobody moved for a moment, and the man himself filled it by looking at the four parts of the plan on the table and saying that he had not touched it, and that he had wanted to, and that he had not, and that it had taken him a while to work out why.
 
 Then the room did the thing, and the thing was not clever and it was thirty weeks old.
 
@@ -38,7 +44,9 @@ Bel Ordry said them, and he said them standing, and Dalla Sen had her chalk out 
 
 "**Third,**" said Ormer Hatch, and he said it in a room with nine people in it and he was not asking permission, "**and I have not got a reason why you would want it, so I am going to put it to you and you can say no to it, which is apparently what happens down here.**"
 
-"**The beech is not mine. I have told you that. The camp owns it until the camp closes and the camp closes when the last of the season's work is done and nobody above me will tell me the day and I have stopped asking twice. So I cannot give you a load and I cannot promise you a load and if I promised you one I would be a man who has promised something that is not his, and I have watched that happen to other men and it ends with a name on a piece of paper forty days away.**"
+"**The beech is not mine. I have told you that. The camp owns it until the camp closes, and the camp closes when the last of the season's work is done, and nobody above me will tell me the day, and I have stopped asking twice.**"
+
+"**So I cannot give you a load and I cannot promise you a load. And if I promised you one I would be a man who has promised something that is not his, and I have watched that happen to other men, and it ends with a name on a piece of paper forty days away.**"
 
 "**But I keep the store. The store has a list. And the list is fourteen lines long and it is true of a morning, and I can walk you up it in a room and say what is in there and how much of it and what condition it is in, and I can do that today, and I can do it on any morning you ask me for, and I can stop.**"
 
@@ -52,7 +60,9 @@ Marek Venn had been at the far end of the anteroom with his left hand open again
 
 "**A thing given by a person and not carried by a person is not given. It is a favour with a keeper. And a keeper who is owed a favour has less room to say no the second time, and less again the third, and this boundary has spent thirty weeks learning that a favour is a loan with no date on it and that a wage that can be pointed at is a wage that can be stopped.**"
 
-"**I am not saying do not do it. I am saying that if you do it then the terms have to be in your clerk's book in his words and in yours, and one of the terms has to be that he can stop, and one of them has to be that nobody in this Hearthhold's name goes on anything of his, and one of them has to be that he can read the terms back to a room and say no to any of them, and not to me, and not to a carrier, and not to a guild.**"
+"**I am not saying do not do it. I am saying that if you do it then the terms have to be in your clerk's book in his words and in yours. One of the terms has to be that he can stop. One of them has to be that nobody in this Hearthhold's name goes on anything of his.**"
+
+"**And one of them has to be that he can read the terms back to a room and say no to any of them, and not to me, and not to a carrier, and not to a guild.**"
 
 "**And I am going to say the other half, which is against the whole of what I have just said, because I would be no use to anybody in this building if I only ever said the half against things.** A man with eleven years in a store who is being asked for his list is not a carrier and this boundary is not buying timber. **And a boundary that has spent thirty weeks refusing to fill in two lines on a stranger's paper has just worked out that there is a third thing, and the third thing is that a person who keeps something can be asked instead of an office that carries something, and that is not a favour, that is a keeper.**"
 
@@ -66,11 +76,15 @@ Marek Venn had been at the far end of the anteroom with his left hand open again
 
 "**One: I will not be named on a paper of this boundary's. Not on the plan, not in the third column, not in a letter, not on a list anybody carries up a passage. If that is the price then I will walk up the road tonight and I will not think about it again.**"
 
-"**And the two is this. I want my list read out in a room. Here. With me in it. And I want the whole of it, and I want it read the whole way through including the lines that are nearly out, and I want a person in this room to write down that they have heard it. And I am not going to be in a room where a man reads a summary of it, because I have been a man whose store was summarised for thirty-one years.**"
+"**And the two is this. I want my list read out in a room. Here. With me in it. And I want the whole of it, read the whole way through, including the lines that are nearly out, and I want a person in this room to write down that they have heard it.**"
+
+"**And I am not going to be in a room where a man reads a summary of it, because I have been a man whose store was summarised for thirty-one years.**"
 
 "**There is a third thing and it is not a price and I am going to say it because a room that has been built on people saying the half that is against them should get a third thing when one is offered.**"
 
-"**I want the fourth paragraph of a guild notice named in that room, out loud, as the thing it is. It is a paragraph that says a person under a suspended master may go on in the trade for a period not exceeding one year under the supervision of a named holder entered against a named route, in a register kept by an office, on payment of an annual supervision fee. And I have read it three times in thirty-one years and I have never once had anybody say it out loud in a room where a person was about to be asked for something.**"
+"**I want the fourth paragraph of a guild notice named in that room, out loud, as the thing it is. It is a paragraph that says a person under a suspended master may go on in the trade for a period not exceeding one year under the supervision of a named holder entered against a named route, in a register kept by an office, on payment of an annual supervision fee.**"
+
+"**I have read it three times in thirty-one years, and I have never once had anybody say it out loud in a room where a person was about to be asked for something.**"
 
 There was no argument about the two and none about the third, and Bel Ordry said the reason out loud before he answered it, which is what he does.
 
@@ -89,6 +103,8 @@ Then the list was read, and it was fourteen lines, and Dalla Sen said what she w
 "**Do that,**" said Ormer Hatch, "**and read the ninth one twice, because the ninth one is the one I am ashamed of and I want it in a book that is not mine.**"
 
 She read it, and a second person read it, and the two were the same, and Dalla Sen entered that they were the same and entered that the store's list carries no date on it and entered the reason, which the schoolteacher gave in her own mouth and did not know she was giving.
+
+They had been holding their breath since the fifth line, and let it out at the dash, and did not know they had been holding it, and the man from the store watched nine people do that and said afterwards that it was the first thing in eleven years that had not asked him for anything.
 
 "**Why is there no date on your list?**"
 
@@ -112,7 +128,9 @@ And a man on the anteroom step, in the hour before the bell, said one sentence a
 
 "**The pot is ten. The jars are two today and one on Tuesday and the seam gave four threads at the first bell and Jo says she has not measured it since the nineteenth week and is not going to say what eight was in a corridor two months ago.**"
 
-"**The count. Wen Pask is ninety days and ninety nights into a count that is his own, and it is not going to be ninety-one, and I have said in five weeks running that I am going to keep writing it and I am writing it, and a man came four days down a passage today and I did not tell him a kind thing about it because he did not ask and I am glad and that is the third time this month I have entered that I am glad.**"
+"**The count. Wen Pask is ninety days and ninety nights into a count that is his own, and it is not going to be ninety-one, and I have said in five weeks running that I am going to keep writing it, and I am writing it.**"
+
+"**And a man came four days down a passage today, and I did not tell him a kind thing about it because he did not ask, and I am glad, and that is the third time this month I have entered that I am glad.**"
 
 "**And I did not walk the board, and the count did not walk it, and the reason is in his words and it is: a man from a store is standing in this room who asked to be asked for something, and a board is the thing in this building a person asks for when they want to know what a person has been doing, and he has not asked, and I am not going to put it in front of him.**"
 

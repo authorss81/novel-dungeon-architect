@@ -14,11 +14,13 @@ Mero Senn came down the nine steps at the first bell with his bag and put it whe
 
 "**Say it properly,**" said Dalla Sen.
 
-"**A filled ground bears differently than a drained one. That is not a theory; that is a thing I have watched kill people. A wall that has had water standing against the bottom of it for four weeks has been standing in its own wet, and the wet has been holding half of it up, and when the wet goes the wall finds out what it weighs, and it finds that out over about a fortnight, and it finds it out in the direction it was already leaning.**"
+"**A filled ground bears differently than a drained one. That is not a theory; that is a thing I have watched kill people. A wall that has had water standing against the bottom of it for four weeks has been standing in its own wet, and the wet has been holding half of it up.**"
+
+"**And when the wet goes the wall finds out what it weighs, and it finds that out over about a fortnight, and it finds it out in the direction it was already leaning.**"
 
 "**And that wall is the wall the schoolroom is on the other side of. And I am not going to say *then let us stop teaching in it*, because I have been here eleven days and I have already watched a competent engineer recommend shutting a room with nine children in it, and I am not doing it again with a better reason and the same face.**"
 
-"**What I am going to do is put a mark on that wall, on this side, where the schoolroom's people cannot see it, and read it twice a day until I know whether it is moving, and I want a carpenter's line on it, and I want the clerk to read it every morning and not me, because a physician who takes his own readings is a physician who decides when he stopped believing them.**"
+"**What I am going to do is put a mark on that wall, on this side, where the schoolroom's people cannot see it, and read it twice a day until I know whether it is moving. I want a carpenter's line on it, and I want the clerk to read it every morning and not me, because a physician who takes his own readings is a physician who decides when he stopped believing them.**"
 
 "**Do that,**" said Dalla Sen, "**and entered that he asked for a mark on a wall on the second day he has been in this room, and that he asked for the clerk to read it and not him, and that the second of those is the reason I am agreeing to it.**"
 
@@ -30,6 +32,8 @@ Then they did the work, and the work was the wall, and it was done by Jo Verrick
 
 "**It is two scratches and a piece of string, and I have said out loud that a thing a person can be shown is not a thing, and this is a thing a person can be shown, and that is the whole of its uses and one of them is that Jo can put a rule on it tomorrow morning without me and without a book.**"
 
+Under the string the plaster was old lime and it took the chalk in a broken line, the way lime does where a wall has been repaired badly once and never properly since, and Jo Verrick ran her thumb along it before she read anything and said nothing about what her thumb had found.
+
 Jo Verrick read it before and she read it after, and she gave both numbers out loud, and Dalla Sen wrote them down, and they were small.
 
 "**Two inches and a bit,**" said Jo Verrick, "**and I am giving you a number this morning because Bel Ordry asked me to in the twenty-second week and he was right and I have been not giving one for thirty-one weeks, and this is the first one and I have not been asked and I am not going to be asked.**"
@@ -40,33 +44,45 @@ Jo Verrick read it before and she read it after, and she gave both numbers out l
 
 "**It does not mean the wall is going to fall. It does not mean it is safe. It does not mean the water did it or the fire did it or the nine children did it or the two inches are about any of those.**"
 
-"**It means that between the first bell this morning and the second bell this morning a wall in this building went two inches and a bit, and this building has a page with a number in the first column of it that nobody has counted, and I have just given a room a number that I counted, and I would like both of those in the same book and not in a different one.**"
+"**It means that between the first bell this morning and the second bell this morning a wall in this building went two inches and a bit. This building has a page with a number in the first column of it that nobody has counted, and I have just given a room a number that I counted, and I would like both of those in the same book and not in a different one.**"
 
-"**Entered,**" said Dalla Sen, "**and I am entering that the two inches and a bit is the first figure anybody in this building has taken at the waist on purpose, and that the reason three people gave in the twenty-seventh week for never taking one was that if they took one and it was moving they would have to say so out loud and then people would stand on it, and that none of those three reasons has been withdrawn and the figure is here anyway, and that a woman gave it in a room before anybody asked her and said she was not going to be asked.**"
+Nothing in that anteroom had a sound in it for a moment except the pump, and the string on the wall stayed where it was, two inches and a bit from where it had been, holding nothing up.
 
-"**And I am entering that the two inches and a bit is not on the plan. The plan has sixteen rows and the first column is a permission and the wall at the kitchen-line end is not a room anybody is going to be in and it has never had a row and it is not going to get one, and that refusal stands and was argued in three hands in the twenty-seventh week.**"
+"**Entered,**" said Dalla Sen, "**and I am entering that the two inches and a bit is the first figure anybody in this building has taken at the waist on purpose. The reason three people gave in the twenty-seventh week for never taking one was that if they took one and it was moving they would have to say so out loud, and then people would stand on it.**"
 
-"**So the number is in a clerk's book and not on a page, and a page in a coat does not have a wall on it, and that is the same decision and I want it read that way.**"
+"**And none of those three reasons has been withdrawn, and the figure is here anyway, and a woman gave it in a room before anybody asked her and said she was not going to be asked.**"
+
+"**And I am entering that the two inches and a bit is not on the plan. The plan has sixteen rows and the first column is a permission, and the wall at the kitchen-line end is not a room anybody is going to be in, and it has never had a row and it is not going to get one.**"
+
+"**That refusal stands, and it was argued in three hands in the twenty-seventh week, so the number is in a clerk's book and not on a page, and a page in a coat does not have a wall on it. That is the same decision and I want it read that way.**"
 
 Then the pot went, and it went because the cook said so and nobody argued, and she said it in a room and gave the reason and it was not the reason anybody expected.
 
 "**Nine,**" said Mikka Hale. "**Nine days. It has been ten since the fifth day of the nineteenth week and it has not gone up once, and I have been putting a man's share of it back into it since the fourth day of the twenty-fifth week and telling nobody, and I am telling you now because it is not going to hold at ten and I would rather it fell in a room than in a corridor.**"
 
-"**The reason is the seam. It gave four threads at the first bell on Friday and two on Monday and two today and one on Tuesday, and Jo says four and not eight and has not measured it since the nineteenth week. And I have got a pot at ten days for thirty-one weeks on a seam that is going quiet and a crew of five and nine children and a man in a channel who ate for four days in the twenty-eighth week, and none of those five things is going to stop.**"
+"**The reason is the seam. It gave four threads at the first bell on Friday and two on Monday and two today and one on Tuesday, and Jo says four and not eight and has not measured it since the nineteenth week.**"
+
+"**And I have got a pot at ten days for thirty-one weeks on a seam that is going quiet, and a crew of five, and nine children, and a man in a channel who ate for four days in the twenty-eighth week. And none of those five things is going to stop.**"
 
 "**And I am not going to keep doing the other thing.**"
 
 "**Say what the other thing is, because it is in your hand in your words and I would like it said out loud and not read.**"
 
-"**The other thing is that since the fourth day of the twenty-fifth week I have been putting Wen Pask's share of this pot back into the pot, and nobody sent me and nobody asked me and nobody stopped me, and it is the reason that pot has been at ten instead of nine for a fortnight, and I did it on purpose and I am not going to do it for a brace.**"
+"**The other thing is that since the fourth day of the twenty-fifth week I have been putting Wen Pask's share of this pot back into the pot. Nobody sent me and nobody asked me and nobody stopped me, and it is the reason that pot has been at ten instead of nine for a fortnight.**"
+
+"**I did it on purpose and I am not going to do it for a brace.**"
 
 "**Say the half of it that is against yourself, because there is a half of it that is against yourself and I know it and I am not going to let you get to it late.**"
 
 "**The half against me is that I do not know whether a dead man's ration is a thing a house can afford or a thing a house has to pretend it can afford. And I have had a pot at ten for thirty-one weeks in a building under a street and I do not know one single thing about whether anybody up that passage is eating.**"
 
-"**So I am going to say a number out loud at a sixth bell on Thursday and I am going to say it in a room, and it is going to be nine, and the jars are two and the seam is going and there is no wall in lime in this Hearthhold yet and there are four households at a second gate who have nothing, and I am not going to put those in a column together because a cook who puts those together stops cooking.**"
+"**So I am going to say a number out loud at a sixth bell on Thursday and I am going to say it in a room, and it is going to be nine, and the jars are two and the seam is going and there is no wall in lime in this Hearthhold yet and there are four households at a second gate who have nothing.**"
 
-Put together, nothing. Dalla Sen entered the number and entered that the cook had said it in a room and entered that it had not gone up once in thirty-one weeks and entered that a dead man's share had been going into it for a fortnight on purpose, and entered that none of that had been in the book before this morning and that it had been in the cook's head since the twenty-fifth week, and nobody improved on any of it.
+"**And I am not going to put those in a column together, because a cook who puts those together stops cooking.**"
+
+Put together, nothing. Dalla Sen entered the number, and entered that the cook had said it in a room, and that it had not gone up once in thirty-one weeks, and that a dead man's share had been going into it for a fortnight on purpose.
+
+She entered also that none of that had been in the book before this morning and that it had been in the cook's head since the twenty-fifth week, and nobody improved on any of it.
 
 Then Mero Senn said the thing he had come to say, and he had been in the room for all of it, and he said it as a rule and not as a feeling, and it is the rule this book has been built on since a schoolteacher said it in a corridor four weeks ago without knowing whose it was.
 
@@ -76,7 +92,9 @@ Then Mero Senn said the thing he had come to say, and he had been in the room fo
 
 "**I am not going to name a child. I want that said first because everybody in this room is waiting for a child and I am not going to give you one, and if I gave you one it would be the easy way to stop this morning and it would be a lie with a name in it.**"
 
-"**So I am going to name the woman. The woman who keeps that room, standing on a floor nine times a week with nine children on nine hearth stones, on the third, fifth and sixth mornings of every week, on a floor with a cut in it made with stone and no bar, under a sill packed in clay that is the only thing holding that floor up, beside a fire that has not been lit in ten weeks because the cook will not light it.**"
+"**So I am going to name the woman. The woman who keeps that room, standing on a floor nine times a week with nine children on nine hearth stones, on the third, fifth and sixth mornings of every week.**"
+
+"**She is on a floor with a cut in it made with stone and no bar, under a sill packed in clay that is the only thing holding that floor up, beside a fire that has not been lit in ten weeks because the cook will not light it.**"
 
 "**And that is the person. And her name is not in this book on any page and it is not going to be on any page, and I have said her as a description because that is what she is on this side of the corridor, and a description in a clerk's book is not a handle, and I have read four documents this month that think otherwise.**"
 
@@ -90,7 +108,9 @@ For about a minute nobody said anything, and then Ilsa Norr came down two steps,
 
 "**You are asking me the number.**"
 
-"**I am asking you for the number. Not the rule and not the person and not the two inches. The number a man is going to push with. Because I keep that room and I am going to write a condition and a condition I write with a number in it is a different animal from a condition I write without one, and I have told this room for thirty-one weeks that my terms take no figures, and I am about to break that or I am not, and I would like to know before I decide.**"
+"**I am asking you for the number. Not the rule and not the person and not the two inches. The number a man is going to push with.**"
+
+"**Because I keep that room and I am going to write a condition, and a condition I write with a number in it is a different animal from a condition I write without one. And I have told this room for thirty-one weeks that my terms take no figures, and I am about to break that or I am not, and I would like to know before I decide.**"
 
 Mero Senn gave it to her, and it was small, and Dalla Sen wrote it down, and the schoolteacher did not like it and wrote it down.
 
@@ -102,7 +122,9 @@ Mero Senn gave it to her, and it was small, and Dalla Sen wrote it down, and the
 
 Renn Vale had been on the landing for all of it and had come down four steps at the number, and what she said was not to the schoolteacher and not to the physician.
 
-"**I gave two wedges out of that door on Wednesday and it has no wedge in it now, and I have said in a room that the answer to a door that has to be watched is a person and that there is not one available, and I said that in a room and I am not going to un-say it. And a wall that can take four tons is a wall I am going to be asking somebody about for a fortnight, and I am not going to be the woman who finds out at the end of it.**"
+"**I gave two wedges out of that door on Wednesday and it has no wedge in it now, and I have said in a room that the answer to a door that has to be watched is a person and that there is not one available, and I said that in a room and I am not going to un-say it.**"
+
+"**And a wall that can take four tons is a wall I am going to be asking somebody about for a fortnight, and I am not going to be the woman who finds out at the end of it.**"
 
 Then she went and wrote it, and she wrote it in her own hand on the second column of the row of a room she keeps, and it has no number in it and no day on it, and the clerk read it out against what she had said and compared the two and they were the same.
 
@@ -122,13 +144,21 @@ Then she went and wrote it, and she wrote it in her own hand on the second colum
 
 "**So I am saying it anyway, and I am saying that if I am the one who takes the brace out then a room of nine children on a floor with a hole in it is going to think that the woman who keeps it is frightened, and they will be right, and I will be wrong, and I am not going to be able to stand in that doorway and explain the difference.**"
 
-"**Enter all of it,**" said Dalla Sen, "**in her words, both halves, in that order, and enter that the second column of that row has a condition on it again and it has a condition in it that is not a date, and enter that the two of us are the ones who have to look at the wall, and enter that I read it out twice and compared it and they were the same, and that it is the sixth time this month a condition in this building has been put against an original and I am not going to make it seven.**"
+She put the slate down on the bench when she had said it and squared it with two fingers, the way a person squares a thing they are about to stop looking at, and then she picked it up again, which she had not done all morning.
+
+"**Enter all of it,**" said Dalla Sen, "**in her words, both halves, in that order, and enter that the second column of that row has a condition on it again and it has a condition in it that is not a date, and enter that the two of us are the ones who have to look at the wall.**"
+
+"**And enter that I read it out twice and compared it and they were the same, and that it is the sixth time this month a condition in this building has been put against an original, and I am not going to make it seven.**"
 
 Then the count of the condition was taken in a room with eight people in it, and it was not met, and it was entered.
 
-"**Entered, and read once, and I am not reading it twice because there is nothing in it to compare,**" said Dalla Sen. "**Entered that a condition was written on the fourth day of the thirty-first week by the woman who keeps that room, and that it has no number and no day on it, and that two people have to look at a wall, and that the condition is not met, and that the brace is not going up today and not tomorrow until the first of those two people says so.**"
+"**Entered, and read once, and I am not reading it twice because there is nothing in it to compare,**" said Dalla Sen. "**Entered that a condition was written on the fourth day of the thirty-first week by the woman who keeps that room, and that it has no number and no day on it, and that two people have to look at a wall, and that the condition is not met.**"
 
-"**And entered that a physician asked to be the one who does not read his own readings, and that a cook said a number out loud, and that a pump maintainer gave a figure nobody asked her for, and that I have entered all three of those in the same column and have not put a reason beside any of them, and that is three facts and not one conclusion, and the reason is the reason a woman gave for not walking into a room, and I am entering that reason because I entered it the first time and I am not going to leave it out now that it has happened to me.**"
+"**And that the brace is not going up today, and not tomorrow, until the first of those two people says so.**"
+
+"**And entered that a physician asked to be the one who does not read his own readings, and that a cook said a number out loud, and that a pump maintainer gave a figure nobody asked her for. I have entered all three of those in the same column and have not put a reason beside any of them.**"
+
+"**And that is three facts and not one conclusion, and the reason is the reason a woman gave for not walking into a room, and I am entering that reason because I entered it the first time and I am not going to leave it out now that it has happened to me.**"
 
 ---
 
@@ -136,13 +166,19 @@ Then the count of the condition was taken in a room with eight people in it, and
 
 "**Three today and a hundred and ninety-one since the keeper signed. The boundary is at three hundred and eight and a quarter, and it adds by the day the work was done, and the two columns reconcile, and they have reconciled for thirteen weeks. The crew are at sixty-six and a half.**"
 
-"**I entered those and I did not read them, and I am not going to say the reason was dignity. The reason is that a cook said the word nine out loud at the first bell and a schoolteacher wrote a figure on a wall in a condition and did not like it and wrote it down anyway, and I have had three numbers in this room today and none of them is on a page, and I am not going to read a fourth one out loud in the same hour.**"
+"**I entered those and I did not read them, and I am not going to say the reason was dignity.**"
+
+"**The reason is that a cook said the word nine out loud at the first bell, and a schoolteacher wrote a figure on a wall in a condition and did not like it and wrote it down anyway. I have had three numbers in this room today and none of them is on a page, and I am not going to read a fourth one out loud in the same hour.**"
 
 "**The pot is nine. I am going to say that again because it is a number and it is the first one that has moved in thirty-one weeks in either direction and it went down, and I am going to say it twice, and the second one is the one a person should hear.**"
 
-"**The count. Wen Pask is ninety-four days and ninety-four nights into a count that is his own, and it is not going to be ninety-five, and I have said in six weeks running that I am going to keep writing it and I have written it in six weeks running, and I have entered today that a cook has been putting his share into a pot since the fourth day of the twenty-fifth week, and I am not joining those two sentences and I have not been asked to by anybody and that is the first time in a month that nobody has asked me to.**"
+"**The count. Wen Pask is ninety-four days and ninety-four nights into a count that is his own, and it is not going to be ninety-five, and I have said in six weeks running that I am going to keep writing it, and I have written it in six weeks running.**"
 
-"**And I did not walk the board, and the reason is that a condition was written today that has two people in it, and a board is a column with a heading on it, and a condition with two people in it is the one kind of entry on that board that gets people put against things, and I have watched a woman write four of them in a month and I am not going to be the clerk who walks a board on the day the fifth one gets written.**"
+"**I have entered today that a cook has been putting his share into a pot since the fourth day of the twenty-fifth week. I am not joining those two sentences, and I have not been asked to by anybody, and that is the first time in a month that nobody has asked me to.**"
+
+"**And I did not walk the board, and the reason is that a condition was written today that has two people in it, and a board is a column with a heading on it, and a condition with two people in it is the one kind of entry on that board that gets people put against things.**"
+
+"**I have watched a woman write four of them in a month, and I am not going to be the clerk who walks a board on the day the fifth one gets written.**"
 
 ---
 

@@ -4,7 +4,9 @@
 
 **Who owns a wall. And the answer is that a store is a room, a room has a keeper, a keeper can be asked and a keeper can say no, and a wall with a brace going into it has a condition on it written by the person it can hurt, and none of those four sentences owns anything at all.**
 
-At the fourth bell the twenty-sixth morning began as the other twenty-five had, with the nine going in and one of them going in sitting down, the strip holding under the ninth hearth stone, the two flags unmoved, Jo Verrick's standing term said out loud in the doorway, Mero Senn's out of his own hand against hers, and Ilsa Norr's yes. Dalla Sen entered that the term is the same in two hands, and that she was not going to make a speech about the twenty-sixth, because a speech about it would be a thing about her and not about a room.
+At the fourth bell the twenty-sixth morning began as the other twenty-five had, with the nine going in and one of them going in sitting down, the strip holding under the ninth hearth stone, the two flags unmoved, and the standing term said out loud in the doorway by Jo Verrick and then out of his own hand against hers by Mero Senn, and Ilsa Norr's yes.
+
+Dalla Sen entered that the term is the same in two hands, and that she was not going to make a speech about the twenty-sixth, because a speech about it would be a thing about her and not about a room.
 
 The man from the store came up the nine steps again on the second morning running, with a slate of his own, and Dalla Sen entered that he had brought it, and that the last time he had been in this anteroom he had not known the room had a practice in it.
 
@@ -16,7 +18,9 @@ The man from the store came up the nine steps again on the second morning runnin
 
 He put the slate down beside the plan in four parts, carefully, without touching the plan, and he said what he wanted to say to the room and not to a person.
 
-"**I gave your carpenter a store's worth of beech on Wednesday, and four days of road with it, and four men carried it down a passage on their backs because a cart could not come, and I have not put my name on anything and I have not had a seal on it and I have not had a form filled in. I am not owed anything. I want that in your book first, in my own words, because I have spent eleven years being owed by camps, and a boundary that says it does not owe me is a boundary I have not had.**"
+"**I gave your carpenter a store's worth of beech on Wednesday, and four days of road with it, and four men carried it down a passage on their backs because a cart could not come, and I have not put my name on anything and I have not had a seal on it and I have not had a form filled in.**"
+
+"**I am not owed anything. I want that in your book first, in my own words, because I have spent eleven years being owed by camps, and a boundary that says it does not owe me is a boundary I have not had.**"
 
 "**I was looking for my name. And it is not on there, and I want to say that the not-being-there did not feel like a gift. It felt like a room with nothing in it about me.**"
 
@@ -26,9 +30,13 @@ He put the slate down beside the plan in four parts, carefully, without touching
 
 For about two seconds the pump got a stroke in, and nobody in that anteroom said anything, and Dalla Sen did not write it down immediately, and the not-writing-it-down was noticed by two people.
 
-"**I am not asking it as a complaint and I am not asking it as a favour, and I want that entered,**" said Hatch, from under a slate he had not picked up again. "**I am asking it because I have kept a store for eleven years and I am going to have about a week of it left, and a man in a camp that is closing has to decide what to do with a store in about a week. I have had two days to find out the answer and I have not found it, and I have been a man my whole life who could find out an answer, and the thing I cannot find out is the simplest thing I have ever tried.**"
+"**I am not asking it as a complaint and I am not asking it as a favour, and I want that entered,**" said Hatch, from under a slate he had not picked up again. "**I am asking it because I have kept a store for eleven years and I am going to have about a week of it left, and a man in a camp that is closing has to decide what to do with a store in about a week.**"
 
-"**A wall is not mine. I know that. A wall is not yours either, and I read your plan from where I was standing and there is a date in the top corner and no name anywhere on it, and I have kept a store for eleven years and I would have put a name on a wall in my second year. So I am asking a room full of strangers, out loud, and I would like it in your clerk's book in my words, and I would like somebody to try to answer it, and I have not got a way of stopping you from any of those three things.**"
+"**I have had two days to find out the answer and I have not found it, and I have been a man my whole life who could find out an answer, and the thing I cannot find out is the simplest thing I have ever tried.**"
+
+"**A wall is not mine. I know that. A wall is not yours either, and I read your plan from where I was standing and there is a date in the top corner and no name anywhere on it, and I have kept a store for eleven years and I would have put a name on a wall in my second year.**"
+
+"**So I am asking a room full of strangers, out loud, and I would like it in your clerk's book in my words, and I would like somebody to try to answer it, and I have not got a way of stopping you from any of those three things.**"
 
 Bel Ordry put his hand flat on the date in the top corner of his own plan, and he did not say the date, and he said a thing he had said in the twenty-sixth week of the last month, the other way round, and he entered that he noticed.
 
@@ -36,7 +44,9 @@ Bel Ordry put his hand flat on the date in the top corner of his own plan, and h
 
 "**Here is what I have got, and it is not an answer to your question, and I would rather a room heard that from me than worked it out and found it unsatisfactory.**"
 
-"**I do not own this page and nobody in this building owns it. I keep it, and I have said in a room that a keeper of a page is not a holder of a route, and I have never written my name on it, and five people here have been asked to sign it and five said no for five good reasons. And the page does not own a wall either. Sixteen rows; the first column is a permission; the second is sixteen conditions with no number and no day on them; and one of those conditions was written on Thursday by the woman who keeps the room, and the brace is not going up until she and a physician both still agree.**"
+"**I do not own this page and nobody in this building owns it. I keep it, and I have said in a room that a keeper of a page is not a holder of a route, and I have never written my name on it, and five people here have been asked to sign it and five said no for five good reasons.**"
+
+"**And the page does not own a wall either. Sixteen rows; the first column is a permission; the second is sixteen conditions with no number and no day on them; and one of those conditions was written on Thursday by the woman who keeps the room, and the brace is not going up until she and a physician both still agree.**"
 
 "**So the honest answer is that this building has worked out how to write a thing down without anybody owning it, has spent thirty-one weeks refusing to make that a system, and has now been asked by a man whether that is the same as not owning anything.**"
 
@@ -58,11 +68,15 @@ Nera Oduya said it next, and it was the sentence that stopped the room, and she 
 
 "**Say what you are refusing.**"
 
-"**I am refusing the shape of the question and not the question,**" she said, with the valve board under her arm and not put down. "**a room full of people asking me what I know about who owns a wall, and me on a step about to say half of something I have carried for twenty weeks, and every one of you looking at my mouth instead of at the wall. Half of an answer, since the fourth day of the eleventh week, about why the oldest book in this building has kitchens in it and beds in it and no treasuries. I said in the twenty-ninth week that I had it and would not give it, and nobody asked me, and nobody is going to.**"
+"**I am refusing the shape of the question and not the question,**" she said, with the valve board under her arm and not put down. "**A room full of people asking me what I know about who owns a wall, and me on a step about to say half of something I have carried for twenty weeks, and every one of you looking at my mouth instead of at the wall.**"
+
+"**Half of an answer, since the fourth day of the eleventh week, about why the oldest book in this building has kitchens in it and beds in it and no treasuries. I said in the twenty-ninth week that I had it and would not give it, and nobody asked me, and nobody is going to.**"
 
 "**And the new thing is that half of my half is about a room and this question is about a wall, and I have said those two are adjacent and not the same twice in this book and I am not going to say it a third time in a room with a man from a store in it.**"
 
-"**And I am not going to pretend I have half of this one. I do not. If I had half of it I would give it, and I am telling you I would, so that you can all see that not giving it is not me being coy. I have got a valve, a room, and a second condition I set on Monday and told nobody to ask me about, and that is half of nothing, and I would like it entered that I said so in a room, so that a person in a year does not think there was a woman here who knew and would not say.**"
+"**And I am not going to pretend I have half of this one. I do not. If I had half of it I would give it, and I am telling you I would, so that you can all see that not giving it is not me being coy.**"
+
+"**I have got a valve, a room, and a second condition I set on Monday and told nobody to ask me about, and that is half of nothing, and I would like it entered that I said so in a room, so that a person in a year does not think there was a woman here who knew and would not say.**"
 
 "**Entered in her own words,**" said Dalla Sen, "**and entered that she offered it before she was asked and that nobody asked, and that I want it in my book that way, because the other way round is the version that makes this building more interesting than it is.**"
 
@@ -80,9 +94,15 @@ Marek Venn said it next, and it was the shortest thing he said all week, and he 
 
 He said it slowly, and the room found out that the man who had said *a number said out loud twice in a room is a way of making a room agree with a man* had arrived at the same place from the other end.
 
-"**If I say which two walls I would let a brace push on, that is a claim on two walls in a room with a clerk writing it down, and a claim is a thing a document gets made out of, and a document about a wall is a wall a person can be found by, and I have spent a month telling this room that a name on a page about a room is a handle. And I am not going to be the first man in this building to find a loophole in a thing thirty people agreed to: five people said no to signing that plan, a woman came from another office and read it out loud in this anteroom and we gave her no copy, and the whole of what that is, is that no single person here can say out loud what may be done to a wall in it.**"
+"**If I say which two walls I would let a brace push on, that is a claim on two walls in a room with a clerk writing it down, and a claim is a thing a document gets made out of, and a document about a wall is a wall a person can be found by.**"
 
-"**I can. I have known it since the nineteenth week. I have a private book with a figure in it that I gave to a woman and not to a room, and there are two walls in that book, and they are two walls I have been inside in the last eleven days. That is the whole of my qualification and I am not saying it in a room where a man I have met twice is writing it in a book.**"
+"**And I have spent a month telling this room that a name on a page about a room is a handle. And I am not going to be the first man in this building to find a loophole in a thing thirty people agreed to: five people said no to signing that plan, a woman came from another office and read it out loud in this anteroom and we gave her no copy.**"
+
+"**And the whole of what that is, is that no single person here can say out loud what may be done to a wall in it.**"
+
+"**I can. I have known it since the nineteenth week. I have a private book with a figure in it that I gave to a woman and not to a room, and there are two walls in that book, and they are two walls I have been inside in the last eleven days.**"
+
+"**That is the whole of my qualification, and I am not saying it in a room where a man I have met twice is writing it in a book.**"
 
 "**And I want that entered, all of it, and I want the entry to say that I declined twice in a room and that the second no was faster than the first.**"
 
@@ -92,7 +112,11 @@ He said it slowly, and the room found out that the man who had said *a number sa
 
 "**The two questions are: can a route be a public good when the people who use it live on different sides of the law, and who owns a wall.**"
 
-"**I have been asked twice to put them next to each other on purpose. I am refusing a third time and entering that I have refused three times, and the reason is mine: I put facts next to each other on purpose, with a reason and nothing between them, so that a reader in a year can make them into a finding if there is one there. If I do it early the finding is mine and not theirs. They are next to each other in this book by accident and not by hand, and I would like that in the book in the same sentence as the two questions.**"
+"**I have been asked twice to put them next to each other on purpose. I am refusing a third time and entering that I have refused three times, and the reason is mine.**"
+
+"**I put facts next to each other on purpose, with a reason and nothing between them, so that a reader in a year can make them into a finding if there is one there. If I do it early the finding is mine and not theirs.**"
+
+"**They are next to each other in this book by accident and not by hand, and I would like that in the book in the same sentence as the two questions.**"
 
 The question went unanswered. A bell had run at the far end of the corridor and nine children were in a room with nine hearth stones and a fire unlit for ten weeks, and six cut pieces of a school's own beech were on a bench under a condition that two people have to look at a wall for, and the condition was not met and no brace was up.
 
@@ -104,9 +128,13 @@ Ormer Hatch said the thing a man says when a room does not answer his question, 
 
 "**And one thing before I go, and I am saying it to the man who asked me for it, and Dalla is to write it down and read it back to me.**"
 
-"**You have got six pieces of beech in this anteroom and a condition on them with two people in it, and the two people are the woman who keeps the room and the man who will not write a number down, and neither of them is a keeper of anything. I have been a keeper of something for eleven years and that is the whole of what I know about how a thing gets looked after.**"
+"**You have got six pieces of beech in this anteroom and a condition on them with two people in it, and the two people are the woman who keeps the room and the man who will not write a number down, and neither of them is a keeper of anything.**"
+
+"**I have been a keeper of something for eleven years and that is the whole of what I know about how a thing gets looked after.**"
 
 "**It gets looked after by somebody who is standing near it who can be asked.**"
+
+It went into no book at the time, and it was the only sentence said in that room that day that Dalla Sen entered later without being asked to, which she has done twice in thirty-one weeks, and both of the other times were in a book of her own.
 
 "**That is all I have got. The beech is not a lesson, I am not a teacher, I am forty-nine, and in about a week I am going to be a keeper of nothing.**"
 
@@ -118,7 +146,9 @@ Dalla Sen read it back to him, and it was the same, and she entered that a man h
 
 "**Two today and a hundred and ninety-three since the keeper signed. The boundary is at three hundred and ten and a quarter, it adds by the day the work was done, the two columns reconcile, and they have reconciled for thirteen weeks. The crew are at sixty-six and a half, asked four times in thirty-one weeks on a named asking in a room with the terms out loud, and the three who could not be asked named with the reason for each before the asking, and the reasons have not been the same reasons twice.**"
 
-"**The pot is nine, and I am going to say it again because it went down on Thursday and has not come back up, and a cook said out loud on Thursday that she is not going to do a dead man's share for a brace. Nine. The jars are two. The seam gave four threads on Friday and one on Tuesday, Jo says four and not eight and has not measured it since the nineteenth week, and I am entering that nobody here has a number for how fast that is going and that I am not going to be the one who makes one.**"
+"**The pot is nine, and I am going to say it again because it went down on Thursday and has not come back up, and a cook said out loud on Thursday that she is not going to do a dead man's share for a brace. Nine.**"
+
+"**The jars are two. The seam gave four threads on Friday and one on Tuesday, Jo says four and not eight and has not measured it since the nineteenth week, and I am entering that nobody here has a number for how fast that is going and that I am not going to be the one who makes one.**"
 
 "**The water went off the fill at the waist on the second day of this week and has not been on it since, and nobody has told me where it went, and the third wedge there is up a quarter of an inch and a bit and has not been touched. I am entering those two things next to each other with a reason and nothing between them, and the reason is the reason three people gave for never measuring that fill, and this is the fifth time and I am not going to leave it out now that it has happened to me.**"
 
@@ -148,4 +178,6 @@ Dalla Sen read the seventeen entries out, read her own reading back, and entered
 
 **Under a lip there is still a person, packed and not held, with two timber shores on a common landing above it and a post under it that has never been built, and the landing carries no number on any page in this building, and the stair is not in the charter, or the plan, or the second sheet, and four treads behind a rail are dry and nobody has been on them and nobody is going to be.**
 
-**Nobody in this building owns a wall. One man knows the answer for two of them and declined twice to say it aloud. A clerk has put two questions next to each other in a book by accident and not by hand, has been asked three times to make it by hand and has said no three times. A woman three steps up has set a second condition on something she has carried for twenty weeks and told nobody to ask her about it. Both are in a clerk's book and neither is on a page. And under the corridor floor at the lowest point in this building there is a hole with two flags and a length of spent line over it, and a page in that clerk's book that says somebody stands there is blank, and has been blank for thirty-one weeks, and nobody is going near it, and nobody is going to be sent.**
+**Nobody in this building owns a wall. One man knows the answer for two of them and declined twice to say it aloud. A clerk has put two questions next to each other in a book by accident and not by hand, has been asked three times to make it by hand and has said no three times. A woman three steps up has set a second condition on something she has carried for twenty weeks and told nobody to ask her about it. Both are in a clerk's book and neither is on a page.**
+
+**And under the corridor floor at the lowest point in this building there is a hole with two flags and a length of spent line over it, and a page in that clerk's book that says somebody stands there is blank, and has been blank for thirty-one weeks, and nobody is going near it, and nobody is going to be sent.**

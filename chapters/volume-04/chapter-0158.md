@@ -22,7 +22,11 @@ Then Pell Roke read the store's list, and he read it because he reads, and Dalla
 
 Pell Roke read it, and he read the numbers in the same voice he reads the plan's first column, which is the voice this building has come to expect and which he has said out loud once is not a voice and is what he does.
 
-"**Fifteen lengths. Four of them are out of the roof and I am not going to say anything about them except that he said they were out of the roof. Two hundred and six pieces of fir, in three grades, and the third grade is for shuttering and he says so on the line, and the second grade is for joists, and the top grade is beech and there are forty-one of them and he has had them eleven years and eleven of them are better than the rest and he has told me which eleven and I am reading them as a number because that is what I do.**"
+"**Fifteen lengths. Four of them are out of the roof, and I am not going to say anything about them except that he said they were out of the roof.**"
+
+"**Two hundred and six pieces of fir, in three grades. The third grade is for shuttering and he says so on the line. The second grade is for joists. The top grade is beech, and there are forty-one of them, and he has had them eleven years.**"
+
+"**And eleven of them are better than the rest, and he has told me which eleven, and I am reading them as a number because that is what I do.**"
 
 "**Four. Two. Eight. Six. Nine.**"
 
@@ -38,7 +42,9 @@ Nothing in that anteroom filled in after it, and nobody asked him about any of t
 
 "**Entered,**" said Dalla Sen, "**and the list carries no date on it and I have entered the reason the schoolteacher gave for that on Friday, and the reason is her own and she did not know she was giving it, and I am not going to improve on it, and the reason is that a list with a date on it is a moment pretending to be a day.**"
 
-"**And I read the fourteen against what came down the passage this morning, line by line, and the lengths agree and the counts agree and the condition is his word and not mine and the dash is still a dash, and that is the first time in thirty weeks that a document in this book and a fact in this room have been the same thing, and I am entering that and I am entering the date on it, which is that it happened, and not a day, and I want the word *happened* in the book and I am going to argue about it if anybody objects.**"
+"**And I read the fourteen against what came down the passage this morning, line by line, and the lengths agree and the counts agree and the condition is his word and not mine, and the dash is still a dash.**"
+
+"**That is the first time in thirty weeks that a document in this book and a fact in this room have been the same thing. And I am entering that, and I am entering the date on it, which is that it happened, and not a day, and I want the word *happened* in the book, and I am going to argue about it if anybody objects.**"
 
 Then the part of the morning that was hard happened, and it happened in the anteroom with nine people in it and it was not about beech.
 
@@ -66,6 +72,8 @@ And she said it, and she said it in the flat voice she uses for a term, and the 
 
 "**I have said *I have better answers and I have looked and I have not found one* in this room before and I am not going to say it again this week because a wedge is cheaper than that sentence and I have got two.**"
 
+Nine steps away a door that had been held by two wedges and a frame and a word said to a page was being held by one of those three things less, and the frame did not move, and nothing happened, and nobody in that anteroom said anything about it, and that was the whole of what the morning had cost.
+
 Then Iven Tallo said what joinwood is, because nobody had said it in a room in thirty weeks and it is his trade and he asked for it.
 
 "**Joinwood is not timber. Timber is what you build with. Joinwood is what you cut to make two pieces of a building agree with each other where they meet, and it is short, and it is square, and it is dry, and it is the piece that takes the load and hands it over.**"
@@ -80,19 +88,27 @@ Then Iven Tallo said what joinwood is, because nobody had said it in a room in t
 
 "**Say the rest.**"
 
-"**The rest is that the school corner's mouth has not been used since the twenty-second week, and that mouth is what that store's shelf is against, and the two lengths have been lying in a school store for four weeks with a fire not lit in the room in front of them, and I have been in this building thirty weeks and I did not know they were the joinwood for a brace until the third day of this week at about the second bell.**"
+"**The rest is that the school corner's mouth has not been used since the twenty-second week, and that mouth is what that store's shelf is against, and the two lengths have been lying in a school store for four weeks with a fire not lit in the room in front of them.**"
+
+"**I have been in this building thirty weeks, and I did not know they were the joinwood for a brace until the third day of this week at about the second bell.**"
 
 "**And the reason I did not know is that I have spent a month thinking about a piece of paper on a cart. That is the whole reason and I am going to say it in a room rather than have it found in a month.**"
 
 Then the beech was cut, and it was cut in the anteroom on a trestle that has not been used in a month, and four men from a breaking camp and a woman who keeps a road held the pieces while a carpenter with a hand that has not closed since the twenty-second week cut them, and nobody stood in the anteroom and watched a man do a thing he was good at, and the clerk noticed and entered it.
 
+Nothing in that anteroom had been that quiet in a month, and the noise in it was a chisel in green beech and four people breathing at the rate of a man who is working, and a girl of nine sat on the fourth step with her foot up on a crate and watched all of it without being asked to and without anyone in the room noticing that she was.
+
 "**Entered,**" said Dalla Sen, "**and I want the whole of it in the book because it is the first time in a month that something in this anteroom went the way it was supposed to and not the way it was frightened, and it went that way because a man was handed a piece of wood and a chisel and four people to hold it, and not one person in this room had to be talked into anything.**"
 
-"**And I entered that the man who cut it has a hand that has not closed since the twenty-second week and cut eleven pieces with it and put the offcuts in a heap instead of a basket, because a basket is a thing a person is asked to keep, and I am not going to put that beside anything. That is a fact about a basket and it is the whole of my morning.**"
+"**And I entered that the man who cut it has a hand that has not closed since the twenty-second week, and cut eleven pieces with it, and put the offcuts in a heap instead of a basket.**"
+
+"**Because a basket is a thing a person is asked to keep, and I am not going to put that beside anything. That is a fact about a basket and it is the whole of my morning.**"
 
 And Marek Venn was on the anteroom step for the rest of it, and he had the six cut pieces laid out in a row on the bench beside him where anybody could see them, and nobody came near them, and what he said was said to the floor.
 
-"**Thirty-one weeks I have been in this building. And the first material anybody in here has ever been given by somebody who was able to keep it is on this bench in six pieces, and it is beech out of a school's own store, and it came down four days of road on four men's backs, and it did not come with a seal on it and it did not come with a form and it did not come with a name and it is not going to be entered in this book's column with a person's name against it.**"
+"**Thirty-one weeks I have been in this building. And the first material anybody in here has ever been given by somebody who was able to keep it is on this bench in six pieces, and it is beech out of a school's own store.**"
+
+"**It came down four days of road on four men's backs, and it did not come with a seal on it and it did not come with a form and it did not come with a name, and it is not going to be entered in this book's column with a person's name against it.**"
 
 And then he said the thing that the whole of the fourth bell had been walking toward, and he said it to the floor and not to the room.
 
@@ -124,7 +140,9 @@ Chalk in the left hand and the right one open and flat in his lap, and he did no
 
 "**A store is a man keeping a room four days up a road, and I have never entered one and I am not going to pretend I know what he does all day.**"
 
-"**It goes in the column with nothing over the top of it, and the reason is a courier's and I am entering it as hers because I would have given a worse one and I heard hers first. A board that only holds things in one building cannot be read by a person in another one. That is her rule and it has been in this clerk's book since the twenty-sixth week in her own words, and it was said about a road, and it is true about a board, and I have been walking a board for thirty weeks and I have never once thought about who is not in the room.**"
+"**It goes in the column with nothing over the top of it, and the reason is a courier's, and I am entering it as hers because I would have given a worse one and I heard hers first.**"
+
+"**A board that only holds things in one building cannot be read by a person in another one. That is her rule and it has been in this clerk's book since the twenty-sixth week in her own words, and it was said about a road, and it is true about a board, and I have been walking a board for thirty weeks and I have never once thought about who is not in the room.**"
 
 "**And the ninth reason stands and I am not giving a tenth. A heading is a place to keep the person who works under it, and a board with a heading is a board a person can be asked about, and I have just put a man four days up a road on this one, and the last thing I want is for a heading to be a reason somebody can send for him.**"
 

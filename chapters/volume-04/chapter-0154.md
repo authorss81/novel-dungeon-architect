@@ -8,11 +8,15 @@ Nera Oduya said the thing about the air before the man on the step could, and sh
 
 "**The water went off that fill on Tuesday afternoon and it has not been back and it is not coming back today, and I have been watching it since Tuesday and I am not going to say what I think it means, because I do not know and I have a name for not knowing and it is not *the water is fine*.**"
 
-"**What I will say is the part that is mine. The air at the low end of that corridor goes down the channel before the water does, and that has been true for thirty weeks, and if the water is not in the channel then the air is not being pushed, and if the air is not being pushed then the thing that has been keeping the ninth hearth stone's bed at a hand and a half below its stone is not the water.**"
+"**What I will say is the part that is mine. The air at the low end of that corridor goes down the channel before the water does, and that has been true for thirty weeks, and if the water is not in the channel then the air is not being pushed.**"
+
+"**And if the air is not being pushed, then the thing that has been keeping the ninth hearth stone's bed at a hand and a half below its stone is not the water.**"
 
 "**And the ninth hearth stone is propped on a strip of crate board and two flags and that is not a repair. It is a fortnight that became a month that became ten weeks of a hole not getting worse, and I would like somebody in this room to say that out loud, and I am not going to be the somebody because I have said it four times and it has got no better saying it a fifth.**"
 
-It went unspoken. Then Mikka Hale said it, from the kitchen-line, in one sentence, in the voice she uses for the fire.
+She came down two steps to say that and stopped on the third one, which is where she stops when she is going to say something she has decided to say, and the anteroom had learned that about her in about the second week.
+
+It went unspoken, and the corridor at the bottom of the stair was the only sound in the building for a while, four days of it not having run. Then Mikka Hale said it, from the kitchen-line, in one sentence, in the voice she uses for the fire.
 
 "**A hole under one of nine stones that nine children sit on, and a fire in the corner of that room that has not been lit in ten weeks, and the two are not the same thing and the second one is mine and the first one is not.**"
 
@@ -44,9 +48,13 @@ That sat in the room for a while, and then Marek Venn stood up off the anteroom 
 
 He said the first one and Dalla Sen read it out of her own book before he finished saying it, and she read it out because it is hers and not his, and her voice did not change and the room knew what it meant.
 
+She did not look up while she read it. That was the thing Marek Venn noticed and wrote down afterwards in his own book, because in thirty weeks he had never once seen Dalla Sen read a thing out of that book and not look up at the person it was about.
+
 "**Somebody stands at the low end of the corridor,**" she said, "**and the page has been blank since the fifteenth week and there are three conditions on it and the third of them says that nobody is to be sent anywhere to make it true, and the floor is not to be approached, and nobody has been asked whether the conditions are met, and nobody is going to be, and that has been the rule for thirty weeks and I have never once seen anybody in this building argue with it including the man who is talking.**"
 
-"**A brace that takes its reaction at the lowest point in a building is a brace that puts a person there,**" he said. "**Not necessarily a person. A person. Because the only way a brace reacts at the low end is by a body, a jack, or a stack of something a person carried and set up and then went and stood next to. And a person is a post. And a post is what a blank page becomes when somebody fills it in.**"
+"**A brace that takes its reaction at the lowest point in a building is a brace that puts a person there,**" he said. "**Not necessarily a person. A person.**"
+
+"**Because the only way a brace reacts at the low end is by a body, a jack, or a stack of something a person carried and set up and then went and stood next to. And a person is a post. And a post is what a blank page becomes when somebody fills it in.**"
 
 "**And I said in a room ten days ago that I am not a post and no page is going to get my name on it, and I am not going to have myself be the counter-bearing to a thing I cannot see the limit of, and there is a second reason and the second reason is that I cannot go down there again. I said that in a room in the twenty-ninth week and I do not know why and I am not going to find out, and I am not going to stand at the bottom of the lowest point in this building and pretend a fortnight has changed it.**"
 
@@ -54,7 +62,11 @@ He said the first one and Dalla Sen read it out of her own book before he finish
 
 "**The party wall. The one the schoolroom leans on.**"
 
+He said it to the table and not to anybody, and then he looked up at the landing to see whether the woman on it had heard him, and she had, and she did not move, and that was all she did.
+
 Nobody said anything for the length of two strokes of the pump, and then Jo Verrick put the lamp down on the anteroom table, where the wet had been on it a month ago and was not on it now, and said the thing that made the brace possible and the reason nobody had come back in a fortnight in the same breath.
+
+Jo's shadow went up the party wall as far as the line of the old repair, and Marek Venn looked at where it stopped and then at the repair itself, and nobody in that room needed to say out loud what he had just done.
 
 "**A bad repair on a sound wall.**"
 
@@ -76,9 +88,13 @@ Then Iven Tallo said the thing about the mark, and he said it as a carpenter and
 
 "**You want a bearing mark and you do not have one and I have told you twice I would not put one on a jamb and I am not going to change that.**"
 
-"**So I went up nine steps this morning and looked at the lintel over that school corner's mouth, because it is the only dressed stone in this building with a mark cut in it, and there are four of them and a groove under them, and I have looked at them three times in a month and I am a carpenter and I have a mason's opinion and the mason's opinion is worth nothing and I am going to give it anyway because nobody else in this building has one.**"
+"**So I went up nine steps this morning and looked at the lintel over that school corner's mouth. It is the only dressed stone in this building with a mark cut in it. There are four of them and a groove under them.**"
 
-"**Four marks and a groove. One of the four is two strokes, and Renn read one of the four as two strokes a month ago and said the fifth stroke is a stroke and not a stop, and you read that stroke as a stop or as the middle of a letter with no letter, and I have read the second stroke of the pair as the beginning of a cut that never got finished, and that is three readings and I do not think one of us is wrong, and I do not think any of us has got it.**"
+"**I have looked at them three times in a month and I am a carpenter and I have a mason's opinion, and the mason's opinion is worth nothing, and I am going to give it anyway because nobody else in this building has one.**"
+
+"**Four marks and a groove. One of the four is two strokes, and Renn read one of the four as two strokes a month ago and said the fifth stroke is a stroke and not a stop, and you read that stroke as a stop, or as the middle of a letter with no letter.**"
+
+"**And I have read the second stroke of the pair as the beginning of a cut that never got finished. That is three readings and I do not think one of us is wrong, and I do not think any of us has got it.**"
 
 "**The groove is not damaged. That is the thing I want in a room. Everything else up there has been handled by nine hundred years of hands and air and somebody's boot, and the groove has not, and a man who has spent his life on wood and stone will tell you that the one undamaged mark on a wall is the one that was cut to be read, and not the one that was cut to be a picture.**"
 
@@ -90,6 +106,8 @@ Then Iven Tallo said the thing about the mark, and he said it as a carpenter and
 
 Renn Vale said one thing from the landing before the anteroom moved on, and she said it in the flat voice she uses for a term, and it was about herself and not about the wall.
 
+She had the slate on her knee and she turned it over once and put her thumb in the seam of it, which was the only thing she did with her hands that was not work, and the anteroom had seen it four or five times in thirty-one weeks and had never once been told what it meant.
+
 "**I have been on that landing for thirty-one weeks and I have shut a corridor three days in seven and opened it twice on days the arrangement shuts it, and I have never once had to decide anything about a wall. I am going to have to decide something about a wall in this building and I would like a room to know that I have not practised it.**"
 
 Then Tams Quill said it, and he said it in a room with nine people in it and he said it once and Dalla Sen entered it and he has not improved on it since.
@@ -100,11 +118,15 @@ Then Tams Quill said it, and he said it in a room with nine people in it and he 
 
 "**That is the ninth one and the eight before it were about words, and about a hearth stone, and about a wage, and about a heading is a place to keep the person who works under it, and every one of those was a reason I could give a room and this one is the first one that is not about me at all.**"
 
-"**Eleven of the sixteen entries on that board are nulls. A null is a reading that found nothing, and a null is a thing somebody in this building was paid to go and look for and did not find, and I have said for a month that under a heading they stop being eleven nothings and become eleven findings, and a finding is a thing a person is responsible for. That is the seventh reason and it is still true and it is not this one.**"
+"**Eleven of the sixteen entries on that board are nulls. A null is a reading that found nothing, and a null is a thing somebody in this building was paid to go and look for and did not find.**"
+
+"**I have said for a month that under a heading they stop being eleven nothings and become eleven findings, and a finding is a thing a person is responsible for. That is the seventh reason and it is still true and it is not this one.**"
 
 "**This is the ninth reason. There are rooms in this building that have never been asked what the person in them is for. The anteroom. The landing. The corridor. The store that a man keeps four days up a road. And this one.**"
 
-"**A heading says a thing is for a job. And the moment a heading says that, a room that has never been asked what the person in it is for becomes a room where the person in it can be asked what they are for by somebody who has read the heading. And that somebody does not have to be anybody in particular. It can be anybody. That is what a heading is for.**"
+"**A heading says a thing is for a job. And the moment a heading says that, a room that has never been asked what the person in it is for becomes a room where the person in it can be asked what they are for by somebody who has read the heading.**"
+
+"**And that somebody does not have to be anybody in particular. It can be anybody. That is what a heading is for.**"
 
 "**I am not going to put a word over this column. And I am not going to give a tenth reason, and if the day comes when the reason costs somebody something then it is a piece of chalk and I have said that.**"
 
@@ -118,7 +140,9 @@ Then Tams Quill said it, and he said it in a room with nine people in it and he 
 
 "**I entered those and I did not read them, and I am not going to give you dignity as the reason, because I gave that reason in the twenty-ninth week and a man from another office read it in my book and did not say a kind thing about it.**"
 
-"**The real reason is that at the first bell this morning a man stood up off a bench and read four sentences out of a survey and at the fourth bell a woman said the two places a brace can push are the lowest point in this building and a wall nine hundred years old, and I have spent thirty weeks being a clerk who writes down the arithmetic of a building, and this afternoon the arithmetic of this building had a shape I had not seen in it before, and I am not going to read a number out loud in the same breath as that.**"
+"**The real reason is that at the first bell this morning a man stood up off a bench and read four sentences out of a survey, and at the fourth bell a woman said the two places a brace can push are the lowest point in this building and a wall nine hundred years old.**"
+
+"**I have spent thirty weeks being a clerk who writes down the arithmetic of a building. This afternoon the arithmetic of this building had a shape I had not seen in it before, and I am not going to read a number out loud in the same breath as that.**"
 
 "**The pot is ten. The jars are two and the seam gave one on Tuesday and gave two today and I am not going to say anything about what that means because Jo has said she does not know and a cook has said she does not know and a man on the step has said he is not going to say which of two prices he would pay. There are three not-knowings in this book today and I have entered all three and I have not put a reason beside any of them.**"
 

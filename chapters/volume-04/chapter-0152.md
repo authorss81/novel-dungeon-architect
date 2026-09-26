@@ -22,7 +22,9 @@ Then she read it, and it was seven lines, and it was not the market form, and it
 
 "**Then argue it,**" said the carrier, **"because I have been told to wait and I would rather wait on a room than on a gate.**"
 
-She argued it. She said out loud, in the anteroom, in front of a man who had carried it four days up a road, that lines one, two, three and four were facts about a load and facts about a load are a thing a person can be told at a gate and a thing a person can be checked at a gate, and that this boundary would fill in four lines about beech if somebody in a room told her the four lines were true. She said line seven was a countersignature by a person of an office, and that an office's signature on a paper about a load in this Hearthhold is the thing clause four of this boundary's charter is against and has been against since the nineteenth week, and that the office that wants it is not the office clause four names.
+She argued it. She said out loud, in the anteroom, in front of a man who had carried it four days up a road, that lines one, two, three and four were facts about a load, and that a fact about a load is a thing a person can be told at a gate and a thing a person can be checked at a gate.
+
+She said this boundary would fill in four lines about beech if somebody in a room told her the four lines were true. Then she took line seven, which is a countersignature by a person of an office, and said that an office's signature on a paper about a load in this Hearthhold is the thing clause four of this boundary's charter is against and has been against since the nineteenth week, and that the office that wants it is not the office clause four names.
 
 Then she stopped, and Bel Ordry took the rest, and he took it standing with his hand flat on a date he does not say.
 
@@ -62,7 +64,9 @@ Dalla Sen read the second column's heading aloud, twice, in the anteroom, and it
 
 "**That is a column with a heading on it,**" said Renn Vale from the landing, and she did not come down, "**and it is the fifth clause, and the fifth clause is the only clause in that document that is not about a room, and it is about a person in a room being unable to say no.**"
 
-"**I have spent thirty weeks in this building teaching people that their refusal is a ground. And somebody has printed a column with a heading on it and put three rooms under it and sent it down a passage, and my answer is that the column is struck and the three rooms are struck and nobody is to be asked which rooms they were, and my second answer is that a person whose name is not on a schedule is not on it, and that is the answer I have been giving for a month and I am not going to improve on it for a printed sheet.**"
+"**I have spent thirty weeks in this building teaching people that their refusal is a ground. And somebody has printed a column with a heading on it and put three rooms under it and sent it down a passage.**"
+
+"**My answer is that the column is struck and the three rooms are struck and nobody is to be asked which rooms they were. My second answer is that a person whose name is not on a schedule is not on it. That is the answer I have been giving for a month and I am not going to improve on it for a printed sheet.**"
 
 For about a minute nobody spoke, and then Talla Roke said the half of it that was hers, and she said it from the step with her three behind her and her hands loose.
 
@@ -86,7 +90,13 @@ Then Marek Venn said the thing the morning had been walking toward, and he said 
 
 "**So the price is not a bundle. The bundle is the smallest thing in this room. The price is a sill.**"
 
-"**There is a room at the kitchen-line end of that corridor with nine hearth stones in it and one of the nine is propped two flags off its bed on a strip of crate board, and the bed under it is a hand and a half down, and the sill under that room is packed in stone in clay and that packing is the only thing in this Hearthhold holding that floor up, and clay shrinks as it dries and it has been drying for thirty weeks. A wall in lime goes round that sill. A wall in lime is nine hundred years of somebody doing it properly and it is the only thing anybody has ever told me is the answer to that floor.**"
+Dalla Sen's chalk did not move, and nobody else in that anteroom moved either, and Marek Venn understood that she was not going to write down a thing a man had said about a floor she had never stood on.
+
+"**There is a room at the kitchen-line end of that corridor with nine hearth stones in it and one of the nine is propped two flags off its bed on a strip of crate board, and the bed under it is a hand and a half down.**"
+
+"**The sill under that room is packed in stone in clay, and that packing is the only thing in this Hearthhold holding that floor up, and clay shrinks as it dries, and it has been drying for thirty weeks.**"
+
+"**A wall in lime goes round that sill. A wall in lime is nine hundred years of somebody doing it properly, and it is the only thing anybody has ever told me is the answer to that floor.**"
 
 "**And the person who keeps that room is not in this anteroom and she was not going to be, and I am not going to go up those nine steps and ask her at the second bell on a Tuesday whether this boundary should fill in a stranger's paper to buy her a wall, because that is asking her to be the reason.**"
 
@@ -100,13 +110,17 @@ Dalla Sen entered the day's number and the total and did not read either of them
 
 "**The pot is ten. The jars are two. The water went off the fill at the waist yesterday afternoon and it has not been on it since, and I am not going to read a figure out loud on the morning it stopped standing somewhere it had been standing for four weeks, and Jo has not told me what it did and I have not asked her, and I am entering that I did not ask her.**"
 
-"**The count. Wen Pask is eighty-seven days and eighty-seven nights into a count that is his own, and I said in five weeks running that I was going to keep writing it and I am writing it, and it is eighty-seven, and it is not going to be eighty-eight, and nobody has thanked me and a woman with a wooden tally has now been in this room and has not thanked me either, and I am entering that, and I am glad, and that is the second time this month I have entered that I am glad.**"
+"**The count. Wen Pask is eighty-seven days and eighty-seven nights into a count that is his own, and I said in five weeks running that I was going to keep writing it, and I am writing it.**"
+
+"**It is eighty-seven, and it is not going to be eighty-eight, and nobody has thanked me. A woman with a wooden tally has now been in this room and has not thanked me either. I am entering that, and I am glad, and that is the second time this month I have entered that I am glad.**"
 
 "**And I did not walk the board. A printed thing is on this table and a board is the thing in this building a stranger has not asked for, and I have had a carrier and a schedule and two lines on a Monday, and I am not going to improve on that by saying it was a busy morning.**"
 
 Tams Quill did not walk it either, and gave his own reason in his own words, and it was the reason a man gives when the reason is that he is the man who reads it.
 
-"**There is a sheet on that table with a column with a heading on it. And there is a board in this building with a column with nothing on the top of it. And both of those are about what a room is for, and one of them came down a passage and the other one has been here for thirty weeks, and I am not going to put a man's readings next to a stranger's column in a room with a carrier in it. That is the reason. It is about me and not about him and I am content with it.**"
+"**There is a sheet on that table with a column with a heading on it. And there is a board in this building with a column with nothing on the top of it. And both of those are about what a room is for.**"
+
+"**One of them came down a passage and the other one has been here for thirty weeks, and I am not going to put a man's readings next to a stranger's column in a room with a carrier in it. That is the reason. It is about me and not about him, and I am content with it.**"
 
 ---
 
