@@ -16,7 +16,7 @@ A Monday in that room has a different sound from the other six days in it, and M
 
 "**You arranged it. You asked me on Friday afternoon whether I had been to the store and I said no and you said the man is going up on Monday and that is when you will do it.**" Bel Ordry put his hand flat against the coat where the plan was. "**That is a dirty thing to have arranged. I would have said the same thing with the man standing in this room, and I want that entered, and I am going to say it now anyway.**"
 
-"**Then say the suspicion, in your own words, and say what it is about, because I am not going to have a room carry a shape that a man has not described.**"
+"**Then say the suspicion, in your own words, and say what it is about, because a room does not carry a shape that a man has not described.**"
 
 "**It is about the beech, and it is not about the man, and I have thought about it for two days and I would rather be wrong out loud than right in a coat.**" He came the two steps into the room. "**Forty-one pieces of beech, eleven of them better than the rest, kept eleven years, given to a boundary that will not put his name on a paper, and carried down four days of passage on four men's backs because a cart could not come. And nothing in this building can pay him for it, and nothing in this building can be found by it, and a store's keeper who has been given a favour by a place he is not in has less room to say no the second time.**"
 
@@ -48,13 +48,13 @@ Then the work, and it was one sentence.
 
 "**No. And here is the part I came for.**"
 
-He came in off the threshold and set his bag down against the wall, which he had not done in the eleven days he had been in this building.
+He came in off the threshold and set his bag down against the wall, which he had not done in the eight weeks he had been in this building.
 
 "**A brace is sound. That is the thing a room wants to say at the moment a thing goes up, and it is true today. And the shelter is not, and the shelter is the room nine children are taught in, and I want the whole of that sentence read out in a room where somebody is responsible for it.**"
 
 "**Say the rule, Mero, and then say what you are asking for.**"
 
-"**The rule is that a plan with a named injured person in it is not a plan, and I have said it and I am not going to say it a fifth time in a shape that is easier to hear. I am asking for the failure point of this brace to be named out loud, today, before a person is stood under it, and I am asking that it be named in words that a person who is not a builder can carry.**"
+"**The rule is that a plan with a named injured person in it is not a plan, and I have said it, and the fifth time is not going to be in a shape that is easier to hear. I am asking for the failure point of this brace to be named out loud, today, before a person is stood under it, and I am asking that it be named in words that a person who is not a builder can carry.**"
 
 Dalla Sen put the chalk down and did not pick it up again until she had asked her own question.
 
@@ -122,7 +122,7 @@ Then Nera Oduya said the thing she had been holding since the fourth day of the 
 
 "**Say the limit now,**" said Nera Oduya, "**and say it in the practice, with no number and no day, and say what it stops.**"
 
-"**The air in that room stays what it is now, and if it does not, then the brace comes out before the air is argued about, and I am going to say that as a condition and not as a hope, and I am not going to be one of the two women who wrote the condition on the brace, because I am not one of the two people it can hurt and I am not going to be able to see what they see.**"
+"**The air in that room stays what it is now, and if it does not, then the brace comes out before the air is argued about, and I am going to say that as a condition and not as a hope, and I am not one of the two women who wrote the condition on the brace, because I am not one of the two people it can hurt, and I will not be able to see what they see.**"
 
 "**Say the last of it, because you have left the hard part in the room and everybody knows it.**"
 
@@ -140,7 +140,7 @@ Then Nera Oduya said the thing she had been holding since the fourth day of the 
 
 "**And the plan has no row for that wall, and the figure is in a book and not on a page, and that refusal was argued in three hands in the twenty-seventh week and it stands.**"
 
-"**A clerk has now read nine of those figures out loud through a boy of fourteen, and this is the first time in thirty-two weeks that column has been said in a room, and I am not going to make a finding out of it and I am not going to refuse to make one either.**"
+"**A clerk has now read nine of those figures out loud through a boy of fourteen, and this is the first time in thirty-two weeks that column has been said in a room, and I am making no finding out of it, and I am not refusing to make one either.**"
 
 "**The pot is nine. The count. Wen Pask is one hundred and one days and one hundred and one nights into a count that is his own, and it is not going to be one hundred and two, and I have said in eleven weeks running that I am going to keep writing it.**"
 

@@ -14,7 +14,7 @@ Iven Tallo put them end to end on the trestle, which is what they were cut for, 
 
 "**Say that number out loud,**" said Dalla Sen, "**and say whose thumb it is.**"
 
-"**It is a thumb and it is not a rule and I am not going to pretend otherwise.**" He laid the string along the beech and let it hang. "**Six pieces laid end to end, and the span is about a hand and a half longer than six pieces, and that hand and a half is the head.**"
+"**It is a thumb and it is not a rule, and I will not pretend otherwise.**" He laid the string along the beech and let it hang. "**Six pieces laid end to end, and the span is about a hand and a half longer than six pieces, and that hand and a half is the head.**"
 
 "**Then the head is a hand and a half,**" said Marek Venn.
 
@@ -40,7 +40,7 @@ Then the string came out and the piece was put on the trestle and the question o
 
 "**Three, if the clerk is counted, and the clerk is not going to be a counter-support in a building where she keeps the book.**" He put his own hand flat on the beech, and then took it off it again. "**Iven, me, and whoever else a room can find, and Jo is reading a wall at a first bell tomorrow and you named her this morning as a person you are not going to ask, and you have not argued with yourself about it, and I have not either.**"
 
-"**Then it is three,**" said Dalla Sen, "**and the terms say four, and I am not going to have a room discover this at the fourth bell with a saw in somebody's hand.**"
+"**Then it is three,**" said Dalla Sen, "**and the terms say four, and a room does not discover this at the fourth bell with a saw in somebody's hand.**"
 
 Marek Venn had spent a month in this building being the man a room asked when a number was wanted, and he had got comfortable in it in a way he had not admitted to anybody, and standing on a shut-week Wednesday with a shape that could not be held by the number of hands in it he found that the comfort had a shape of its own. Four hands, four corners, one cutter. It was not a number anybody had put in a plan. It was a number that had come out of watching people, and he had never once written it down, and a man with a slate in a hand and a beam under a table had just written it down out loud in front of nine people before he could, and he found that he was frightened of how much he had wanted her not to.
 
@@ -62,7 +62,7 @@ He put his right hand up, open and flat, the way he did when he was reading the 
 
 "**Say the part you have not said,**" said Dalla Sen, quietly.
 
-"**The part I have not said is that I would be good at it. That is what I want entered. I would hold that corner well. I have watched three people hold corners for a fortnight and I know what a held corner looks like and I would be one of the best four in this building at it, and I am not going to do it, and I would like the reason I am not doing it entered before anybody in this room tries to be kind to me about it.**"
+"**The part I have not said is that I would be good at it. That is what I want entered. I would hold that corner well. I have watched three people hold corners for a fortnight and I know what a held corner looks like and I would be one of the best four in this building at it, and I am not doing it, and I would like the reason entered before anybody in this room tries to be kind to me about it.**"
 
 Renn Vale came down three steps, which she does not do.
 

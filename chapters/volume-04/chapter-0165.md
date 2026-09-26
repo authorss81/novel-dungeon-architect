@@ -16,7 +16,7 @@ At the fourth bell the twenty-eighth morning went in the way the twenty-seventh 
 
 She picked the board up then, and squared it, and did not say the next part in the voice she used for numbers.
 
-"**So a brace is being paid for in that seam. I am not going to say that out loud in a room as though it were a finding, and I am not going to put it in a column next to the pot, and I am not going to be the woman who says it. I am saying the arithmetic. The clerk can decide what the arithmetic is.**"
+"**So a brace is being paid for in that seam. I am not going to say that out loud in a room as though it were a finding, and I am not putting it in a column next to the pot, and I will not be the woman who says it. I am saying the arithmetic. The clerk can decide what the arithmetic is.**"
 
 "**Entered, and entered that the seam is holding a pot at nine against the arithmetic of a building with a crew of five in it, and that the cook would not say it and did say the arithmetic, and that I am putting the two next to each other with nothing between them, and that I am not going to write the word brace beside either of them.**"
 
@@ -42,7 +42,7 @@ Dalla Sen asked her, and she said the terms of the asking out loud first, and th
 
 "**And the half of it,**" said Dalla Sen, "**because you have taught this room to ask for that and you do not get to skip it.**"
 
-"**The half of it is that a person who can take a thing out cannot be one of the hands that put it in. Not because it is improper. Because in two years, when that beech shim has crushed at its corners and the frame has gone an eighth of an inch and somebody has to decide, the room will look for the person whose hand was on it, and if that person is the person who is allowed to take it out then the room has learned the wrong lesson, and it will have learned it from me.**"
+"**The half of it is that a person who can take a thing out cannot be one of the hands that put it in. Not because it is improper. Because in two years, when that beech shim has crushed at its corners and the frame has gone a twelfth of an inch and somebody has to decide, the room will look for the person whose hand was on it, and if that person is the person who is allowed to take it out then the room has learned the wrong lesson, and it will have learned it from me.**"
 
 "**Say the last of it, and then I will stop asking.**"
 
@@ -50,7 +50,7 @@ Dalla Sen asked her, and she said the terms of the asking out loud first, and th
 
 Nobody in that anteroom said anything for about three strokes of the pump, and then Mero Senn said one sentence from the doorway where he had been standing with his bag, and it was the rule and not a feeling.
 
-"**A plan with a named person in it is not a plan. I have said that in this room and I am not going to soften it because the person is the best one in it.**"
+"**A plan with a named person in it is not a plan. I have said that in this room and it does not soften because the person is the best one in it.**"
 
 "**Enter it in her words, in that order, and enter that I asked her in a room and she said no before I finished the terms,**" said Dalla Sen. "**And enter that a physician named the rule and that I am entering his sentence directly after hers because it is hers that it applies to and I am not going to separate them.**"
 
@@ -60,7 +60,7 @@ Then Mikka Hale said yes, and she said it from the doorway with her board under 
 
 "**Say what you are holding and what stops it, because that is the practice and it goes on the page,**" said Dalla Sen.
 
-"**I am holding a corner of a piece of beech at about the height of my chest. I have held things at that height for thirty-two years and my hands are better than most and worse than I would like. What stops it is a term in your book and the two women. And if it starts to go then I am letting go and stepping back, and I am not going to be the person holding it on when it goes.**"
+"**I am holding a corner of a piece of beech at about the height of my chest. I have held things at that height for thirty-two years and my hands are better than most and worse than I would like. What stops it is a term in your book and the two women. And if it starts to go then I am letting go and stepping back, and I am not the person holding it on when it goes.**"
 
 "**Say the other half, which is the half about you, and you owe this room that much because you are the second person today who has said yes.**"
 
@@ -94,11 +94,11 @@ It was at the far end of nine steps and it was shut and there was no wedge in it
 
 "**Say the arithmetic of that, because you have made yourself smaller twice in two days and I would like somebody to count it.**"
 
-"**The arithmetic is that I am one person and I keep a shore, a road, the lead terms, a corridor, a landing and this Hearthhold's second way out of its busiest room, and I have now added a door head that is not wedged, and there is no page in this building I can put a person's hours on. The page where a person would go is blank, and I am not going to use it.**"
+"**The arithmetic is that I am one person and I keep a shore, a road, the lead terms, a corridor, a landing and this Hearthhold's second way out of its busiest room, and I have now added a door head that is not wedged, and there is no page in this building I can put a person's hours on. The page where a person would go is blank, and it is not going to be used by me.**"
 
 "**Then say what is left, and say it as a fact and not as a plea, because the clerk will not take a plea and I will not enter one.**"
 
-"**What is left is me, and the hours I already keep, and a door that is shut on a day the school does not run, and nobody watching it. That is the honest answer and it is a bad one, and I am not going to improve it, and I would like it entered that I said it in that order.**"
+"**What is left is me, and the hours I already keep, and a door that is shut on a day the school does not run, and nobody watching it. That is the honest answer and it is a bad one, and the better version of it is not true, and I would like it entered that I said it in that order.**"
 
 Nobody in that anteroom solved it, and nobody tried, and two wedges lay on a bench four feet from where the clerk was sitting, and the terms of the fifth asking said that the five of them take no wedge and no bar.
 

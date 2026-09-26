@@ -6,7 +6,7 @@
 
 Mero Senn came down the nine steps at the first bell with his bag and set it against the wall in the worst room in the building, which is the anteroom, and said what he was before he was asked, and then said the thing he had come for, which was that he had read the wall nine times and it had read nothing twice and he did not know what that was.
 
-"**I am not going to tell the room what I think it is. I have been in this building eleven days and I have learned that a man in this room who tells a room what he thinks has four of the room with him by the end of the sentence.**"
+"**I am not telling the room what I think it is. I have been in this building eight weeks and a day and I have learned that a man in this room who tells a room what he thinks has four of the room with him by the end of the sentence.**"
 
 "**Say what you have instead of a conclusion,**" said Dalla Sen.
 
@@ -30,7 +30,7 @@ Dalla Sen read it out of her own book, word for word, and then the schoolteacher
 
 Renn Vale compared them, and the clerk read the original one more time, and the two of them were the same, and the schoolteacher said that they were the same, and neither of them improved on it.
 
-"**Entered, and entered that the condition is on a brace and not on a room, and that it has no number and no day on it, and that it has been read out and compared by a second person. This is the third time this month a thing in this building has been put against an original, and I am not going to number them, because the last clerk who numbered them got it right and I have discovered I would rather get it right than be the one who said so.**"
+"**Entered, and entered that the condition is on a brace and not on a room, and that it has no number and no day on it, and that it has been read out and compared by a second person. This is the third time this month a thing in this building has been put against an original, and I am not numbering them, because the last clerk who numbered them got it right and I have discovered I would rather get it right than be the one who said so.**"
 
 Then Bel Ordry said the thing that made it a real morning, and he said it standing, with the plan in his coat and his hand flat on the stair rail.
 
@@ -104,7 +104,7 @@ Ilsa Norr did not answer immediately, and the room gave her the whole of the tim
 
 "**Two.**"
 
-"**Two: if it comes out, nine children are going to think the woman who keeps their room is frightened, and they will be right, and I will be wrong, and I am not going to be able to stand in that doorway and explain the difference. I said that a fortnight ago and nothing this morning has made it less true.**"
+"**Two: if it comes out, nine children are going to think the woman who keeps their room is frightened, and they will be right, and I will be wrong, and I will not be able to stand in that doorway and explain the difference. I said that a fortnight ago and nothing this morning has made it less true.**"
 
 "**Three.**"
 

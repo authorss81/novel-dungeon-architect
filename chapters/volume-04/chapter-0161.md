@@ -38,7 +38,7 @@ There was a stretch of the morning where the only sounds were the pump and someb
 
 "**And a second pair of hands.**" He put his right hand flat on the table, open, and left it there. "**Four things. Three are materials. One is people, and I have put that one last, because I have been in this building thirty-two weeks and I have never once put the people last.**"
 
-"**Enter the four,**" said Dalla Sen, "**and enter that he put the one about people last, and that the fire is the eleventh week and not the tenth, and that I am not going to put a number of weeks on a fire a woman keeps refusing.**"
+"**Enter the four,**" said Dalla Sen, "**and enter that he put the one about people last, and that the fire is the eleventh week and not the tenth, and that a fire a woman keeps refusing does not get a number of weeks put on it in my hand.**"
 
 "**What is left is stone, clay, beech, and a line,**" said Marek Venn.
 
@@ -96,7 +96,7 @@ Jo Verrick had been standing at the kitchen-line with a folding rule in her apro
 
 "**Four,**" said Dalla Sen, and wrote it.
 
-"**And the pot is nine, and the seam gave two on Wednesday and one on Friday and one on Tuesday, and Jo is not going to say what that is a trend of.**" She put the chalk down on the table edge. "**A day in this building is not a day. A day in this building is about four threads of water in a lime joint, and nobody has measured it since the nineteenth week, and I am not going to be the one who puts a number on how fast that is going.**"
+"**And the pot is nine, and the seam gave two on Wednesday and one on Friday and one on Tuesday, and Jo is not going to say what that is a trend of.**" She put the chalk down on the table edge. "**A day in this building is not a day. A day in this building is about four threads of water in a lime joint, and nobody has measured it since the nineteenth week, and it is not going to have a number on how fast it is going from me.**"
 
 "**Then nobody begs for time in this room,**" said Marek Venn. "**Because there is nothing to beg with. Time here is not a thing a person can be given out of kindness, and the terms of the fourth asking had no clause about time in them because the person who wrote them did not know it was going to be the whole of the argument.**"
 
@@ -140,11 +140,11 @@ Jo Verrick turned the folding rule over in her fingers and did not use it.
 
 Marek Venn heard himself say it and heard how pleased he sounded and understood, all at once, that he had been keeping the shape of that week the way a man keeps a tool he is not allowed to put down.
 
-"**Enter all of it, including being proud,**" said Dalla Sen. "**I am not going to improve on it. A man proud of a standing is still not a post. If he is still not a post in a month then the air engineer's sentence will have cost her something and gained him nothing, and I am writing that because it is going to be true and not because I want it to be.**"
+"**Enter all of it, including being proud,**" said Dalla Sen. "**I have nothing to add to it. A man proud of a standing is still not a post. If he is still not a post in a month then the air engineer's sentence will have cost her something and gained him nothing, and I am writing that because it is going to be true and not because I want it to be.**"
 
 Nera Oduya came down one step, which she had not done all morning.
 
-"**What is the brace going to do to a standing,**" she said, "**and answer it as a work and not as a favour. I did not ask a man in this building to be flattered by me and I am not going to be flattered by this.**"
+"**What is the brace going to do to a standing,**" she said, "**and answer it as a work and not as a favour. I did not ask a man in this building to be flattered by me, and it is not going to flatter me either.**"
 
 "**It is going across the head of that frame. A foot on a stone bed and a head against a lintel, and the mark is four strokes and a groove in a piece of dressed stone three steps from where you are standing.**"
 
@@ -152,7 +152,7 @@ Nera Oduya came down one step, which she had not done all morning.
 
 "**I do not know.**"
 
-"**Then it does not go in until somebody who does know has been asked, and I am that somebody.**" She turned the valve board over against her hip. "**That is a work and not a favour. I will want terms, and I will want a person who can be told no, and I am not going to stand on a step for the whole of it.**"
+"**Then it does not go in until somebody who does know has been asked, and I am that somebody.**" She turned the valve board over against her hip. "**That is a work and not a favour. I will want terms, and I will want a person who can be told no, and I will not stand on a step for the whole of it.**"
 
 ---
 

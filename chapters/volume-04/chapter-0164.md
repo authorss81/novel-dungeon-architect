@@ -22,7 +22,7 @@ Marek Venn got up off the bench, which he has not done to speak in a month, and 
 
 "**Say the one after that.**"
 
-"**Two. A counter-bearing. It is the wall on the other side of that room, and it is the only place in this building that can take it, and the reason the other place is forbidden is in a clerk's book and has been since the fifteenth week and I am not going to say it out loud again because a room said it once and the room will not forget it.**"
+"**Two. A counter-bearing. It is the wall on the other side of that room, and it is the only place in this building that can take it, and the reason the other place is forbidden is in a clerk's book and has been since the fifteenth week, and I am not saying it out loud again, because a room said it once and the room will not forget it.**"
 
 "**Three.**"
 
@@ -50,7 +50,7 @@ That is when Iven Tallo put down the piece of chalk he had been holding for an h
 
 "**Then say the part that is against you,**" said Dalla Sen, "**and say it before this room starts believing what you have just said.**"
 
-"**Against it, and it is a real one. A shim carries load on the edges of itself, and a beech shim on a stone hollow crushes at its corners in about two years, and when it crushes the head settles, and when the head settles the frame goes an eighth of an inch out of true again, and nobody standing in that anteroom is going to feel an eighth of an inch for a long time.**"
+"**Against it, and it is a real one. A shim carries load on the edges of itself, and a beech shim on a stone hollow crushes at its corners in about two years, and when it crushes the head settles, and when the head settles the frame goes a twelfth of an inch out of true again, and nobody standing in that anteroom is going to feel a twelfth of an inch for a long time.**"
 
 "**Say the answer to that, and I am asking as the man who has to hold the thing, not as the man who cut it.**"
 
@@ -70,7 +70,7 @@ The room went quiet in the way it went quiet about once a fortnight, and Marek V
 
 "**Say the evacuation part,**" said Renn Vale, "**because the four sentences you read do not include it and I have been told for six weeks that it does, and I want it said in a room whether it does.**"
 
-"**A brace needs a clear evacuation plan, and this one has four rooms and a door,**" said Marek Venn, "**and the fourth part of that is a word, and a word is not a way out, and you have said that in this building and I am not going to say it again as though it were news.**"
+"**A brace needs a clear evacuation plan, and this one has four rooms and a door,**" said Marek Venn, "**and the fourth part of that is a word, and a word is not a way out, and you have said that in this building and it does not become news the second time.**"
 
 "**Then the brace has no evacuation plan and it has a fourth part of one,**" she said. "**Enter that, and do not improve it, and enter that I said it and not him.**"
 
@@ -94,7 +94,7 @@ He put the chalk down on the table, and it rolled and stopped against the six pi
 
 Dalla Sen wrote for a while, in his words, in that order, and read the last of it back before she put the chalk down, which she does for a man's reason and does not for anybody else's.
 
-"**It is the tenth reason, and it is the second of the ten that is not about him. Enter also that he ended it by saying that a man in a bad month is going to fall into a lid, and that I have written that sentence down in my own book once before and I am not going to say where.**"
+"**It is the tenth reason, and it is the second of the ten that is not about him. Enter also that he ended it by saying that a man in a bad month is going to fall into a lid, and that I have written that sentence down in my own book once before, and where it is written is not said.**"
 
 Nobody in that anteroom improved on it, and Bel Ordry, who has refused to write a heading on the plan for a month on the grounds that a heading is a place to keep a person, sat down on the step for the first time anybody had seen him sit on the step in thirty-two weeks. He stayed on it for the length of two sentences, got up again, and said nothing at all about it, and Dalla Sen entered that he had sat down and entered that she was not going to say why, and that a man sitting on a step is not a heading and would not have been one in any case.
 

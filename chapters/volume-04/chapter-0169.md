@@ -4,7 +4,7 @@
 
 **Nobody was sent to look. Nobody had to be. The condition said that the first of two people to stop agreeing takes the brace out, and that neither has to give a reason first, and that the second to find out is the one who acts, and she was the only one in that room who had a reason to kneel down.**
 
-The brace had been standing for about nineteen hours. It had been standing through a shut corridor and a night with nobody in the anteroom. The two sound wedges that had come out of a school door three weeks ago were in it, and the shim was in it, and the frame was a finger and two-thirds out of true instead of a finger and three-quarters.
+The brace had been standing for about nineteen hours. It had been standing through a shut corridor and a night with nobody in the anteroom. The two sound wedges that had come out of a school door on the Wednesday of the week before last were in it, and the shim was in it, and the frame was a finger and two-thirds out of true instead of a finger and three-quarters.
 
 Jo Verrick read the wall at the first bell and read the frame at the same bell, because she now read both, and the two readings were the same as Wednesday's, and she entered them and went to the pump.
 
@@ -30,7 +30,7 @@ Nobody in that anteroom spoke, and a pump maintainer was at the frame, and a phy
 
 "**Say the rest of it, because the condition has three clauses and you have said one of them, and I have read the condition to you twice and I would rather you said all three than have me fill them in for you.**"
 
-"**The first of us to stop agreeing takes the brace out. Neither of us has to give a reason to the other one first. And the second of us to find out is the one who acts.**" She put the slate down on the anvil end of the trestle. "**I have stopped agreeing. I found out at the second bell and I am the second, and I did not have to give anybody a reason first, and I am not going to give anybody a reason now, and I am not going to be asked for one in a room by anybody, including the two of you.**"
+"**The first of us to stop agreeing takes the brace out. Neither of us has to give a reason to the other one first. And the second of us to find out is the one who acts.**" She put the slate down on the anvil end of the trestle. "**I have stopped agreeing. I found out at the second bell and I am the second, and I did not have to give anybody a reason first, and I am giving nobody a reason now, and nobody in this room asks me for one, including the two of you.**"
 
 "**Then it comes out,**" said Dalla Sen, and put the chalk down, and said the rest of it out loud so that the room had it in a voice and not only in a book.
 
@@ -38,7 +38,7 @@ Nobody in that anteroom spoke, and a pump maintainer was at the frame, and a phy
 
 Mero Senn came off the wall in about a second and a half, which was the fastest anybody in that room had ever seen him move, and then stopped. He had begun to reach for the wall with two fingers of his right hand, in the habit of a man who reads a building by touching it. This morning the wall was not the thing he had been sent for.
 
-"**I am not going to touch that wall,**" he said. "**I have spent eleven days telling this room that I will not read my own readings, and I am not going to walk in and put my fingers in a gap in a floor to find out whether I was right. Ask somebody who has not been in this room.**"
+"**I am not going to touch that wall,**" he said. "**I have spent eleven days telling this room that I will not read my own readings, and I do not walk in and put my fingers in a gap in a floor to find out whether I was right. Ask somebody who has not been in this room.**"
 
 "**Then ask one,**" said Dalla Sen.
 
@@ -60,7 +60,7 @@ She said it to the schoolteacher.
 
 "**Then say what it is, and say it in the shape it is actually in,**" said Renn Vale, "**and then say what you are going to do about it, and then four people are going to take a piece of beech out of a wall and everybody who is not going to help with that is going to be standing somewhere else by the second bell.**"
 
-"**It is a thing I have been looking at every morning for a week and a bit and a half, and I am the woman who keeps the room, and I am not going to pretend I put a rule on it. And I want it out.**"
+"**It is a thing I have been looking at every morning for a week and a bit and a half, and I am the woman who keeps the room, and I did not put a rule on it. And I want it out.**"
 
 That is how the brace came out of that wall. It took eleven minutes. It was not a thing four people did together because the shape had been agreed; it was a thing four people did because one of them was a woman who keeps the room and had said so in a room.
 

@@ -8,7 +8,7 @@ Mero Senn came down the nine steps at the first bell with his bag and put it whe
 
 "**Two things and the second one is the one I came to say.**"
 
-"**One: eleven days in this building, nothing asked of me in a fortnight, and two rooms this morning I did not go into.**"
+"**One: six weeks and two days in this building, nothing asked of me in a fortnight, and two rooms this morning I did not go into.**"
 
 "**Two: the water came off that fill on Tuesday afternoon. That is the largest change in the ground under this building in a month, it happened in a building with nine children in it and a physician in it, and nobody in either of those rooms wrote it down this week.**"
 
@@ -18,7 +18,7 @@ Mero Senn came down the nine steps at the first bell with his bag and put it whe
 
 "**And when the wet goes the wall finds out what it weighs, and it finds that out over about a fortnight, and it finds it out in the direction it was already leaning.**"
 
-"**And that wall is the wall the schoolroom is on the other side of. And I am not going to say *then let us stop teaching in it*, because I have been here eleven days and I have already watched a competent engineer recommend shutting a room with nine children in it, and I am not doing it again with a better reason and the same face.**"
+"**And that wall is the wall the schoolroom is on the other side of. And I am not going to say *then let us stop teaching in it*, because I have been here six weeks and I have already watched a competent engineer recommend shutting a room with nine children in it, and I am not doing it again with a better reason and the same face.**"
 
 "**What I am going to do is put a mark on that wall, on this side, where the schoolroom's people cannot see it, and read it twice a day until I know whether it is moving. I want a carpenter's line on it, and I want the clerk to read it every morning and not me, because a physician who takes his own readings is a physician who decides when he stopped believing them.**"
 
@@ -86,7 +86,7 @@ She entered also that none of that had been in the book before this morning and 
 
 Then Mero Senn said the thing he had come to say, and he had been in the room for all of it, and he said it as a rule and not as a feeling, and it is the rule this book has been built on since a schoolteacher said it in a corridor four weeks ago without knowing whose it was.
 
-"**I am going to ask this room a question and I have asked one question in this building eleven days and it is not the question I have been asked six times in three weeks.**"
+"**I am going to ask this room a question and I have asked one question in this building in six weeks and it is not the question I have been asked six times in three weeks.**"
 
 "**The rule is this and I am going to say it as I have said it every time. A plan with a named injured person in it is not a plan. And a plan with an acceptable casualty in it is not automatically acceptable.**"
 

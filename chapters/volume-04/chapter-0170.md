@@ -32,7 +32,7 @@ What he had done instead was get up on Friday morning before the second bell and
 
 Dalla Sen entered it without looking up.
 
-"**A door at the school end of this corridor has no wedge in it. Two sound wedges are going into a brace and one into a hearth stone, and five sound wedges on the second day of the thirty-second week are two on the fifth day of the thirty-third.**"
+"**A door at the school end of this corridor has no wedge in it. Two sound wedges are going into a brace and one into a hearth stone, and there were five sound wedges on the second day of the thirty-second week and there are five sound wedges on the fifth day of the thirty-third, and three of the five are spoken for and two are not, and the school door is not one of the two.**"
 
 "**And a door with no wedge in it is a door that has to be watched, and the answer is a person, and the person is the woman who keeps it, and she has said so. And nobody in this room has been sent anywhere, and the page at the low end is still blank, and no name has gone on it.**"
 
@@ -96,11 +96,11 @@ Then the board, and the eighteenth thing on it, entered by the man who reads it,
 
 He put the chalk down and left it there, which he has not done in thirty-three weeks.
 
-"**And it goes in the unheaded column because the word over that column would be *keeper*, and there is no such word in this building, and there is not going to be one, and the five people who held it on Wednesday are not going to be standing here in ten years, and I am not going to be either.**"
+"**And it goes in the unheaded column because the word over that column would be *keeper*, and there is no such word in this building, and there is not going to be one, and the five people who held it on Wednesday are not going to be standing here in ten years, and I will not be either.**"
 
 "**Say the thing you have not said,**" said Dalla Sen, "**and then stop.**"
 
-"**I am not going to give an eleventh reason, and not because the week got away from me.**" He did not pick the chalk up.
+"**I am giving no eleventh reason, and not because the week got away from me.**" He did not pick the chalk up.
 
 "**I gave a tenth on Thursday and it cost me something, and I have not worked out yet what it cost, and a man who has spent his life reading numbers is not going to stand in a room and guess at one.**"
 
@@ -118,7 +118,7 @@ At the fourth bell the anteroom's terms were said. So was the word. The clerk re
 
 "**The crew are at seventy-one, and have not moved since the second day of this week, and the fifth asking is in the book with six sentences and a split in it.**"
 
-"**The pot is nine. The jars are two. The seam is four threads and was eight in the nineteenth week and has not been measured in between, and there is no number in this building for how fast that is going, and I am not going to be the one who makes one, and I have said that in four weeks running and I am going to keep saying it until somebody else says it first.**"
+"**The pot is nine. The jars are two. The seam is four threads and was eight in the nineteenth week and has not been measured in between, and there is no number in this building for how fast that is going, and I have said in four weeks running that the number is not mine to make, and I am going to keep saying it until somebody else says it first.**"
 
 "**The count. Wen Pask is one hundred and five days and one hundred and five nights into a count that is his own, and it is not going to be one hundred and six. I have said in fourteen weeks running that I am going to keep writing it and I am writing it, and a woman with a wooden tally has been in this room and has not thanked me, and I am glad.**"
 

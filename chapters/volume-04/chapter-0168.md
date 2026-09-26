@@ -18,11 +18,11 @@ The agreement came first. Dalla Sen read it out of the terms, because it was the
 
 They said it at the anvil end of the trestle, in a corner of the anteroom where the lamplight reached and the pump was loud enough that a man had to lean in a little to be heard, which is where you do this.
 
-"**Iven Tallo. I am holding the head end. What I am holding is the part of this thing that touches the stone, and what stops it is a shim I cut on Friday that is going to crush at its corners in about two years, and when it does the head settles and the frame goes an eighth of an inch out of true again.**"
+"**Iven Tallo. I am holding the head end. What I am holding is the part of this thing that touches the stone, and what stops it is a shim I cut on Friday that is going to crush at its corners in about two years, and when it does the head settles and the frame goes a twelfth of an inch out of true again.**"
 
 "**And who finds that out,**" said Dalla Sen.
 
-"**A person. I do not know who and I am not going to guess, and I am not going to be the man who guesses.**"
+"**A person. I do not know who, and I am not going to be the man who guesses.**"
 
 "**Mikka Hale. I am holding a corner at about the height of my chest, and what stops it is a term in a clerk's book and two women, and if it starts to go I am letting go and stepping back.**"
 
@@ -36,7 +36,7 @@ They said it at the anvil end of the trestle, in a corner of the anteroom where 
 
 "**Door.**" He did not take his hands off. "**The anteroom's count is ten including one litter for no more than two hours, and that count is restored when the word is said in a room and the clerk repeats it, and if the word is not said the count is not restored, and the count is the only thing standing between this room and being a room in a corridor. That is what stops it. Not the terms. The word.**"
 
-"**Then say the half against that,**" said Dalla Sen, "**because it is the fourth one and I have asked the other three and I am not going to let this one past without it.**"
+"**Then say the half against that,**" said Dalla Sen, "**because it is the fourth one, I have asked the other three, and this one does not go past without it.**"
 
 "**Against it: a word is not a wall. I know that. I have said in this room for thirty-two weeks that a page in a coat is not a system and that I am the only person who has to say it, and this morning I have held a piece of beech with two hands for the first time since I came into this building and discovered that the thing I have been protecting is the word, and not the wood.**"
 
@@ -75,10 +75,10 @@ She had the folding rule out of her apron and she was on her knees on the antero
 
 "**Say the number,**" said Dalla Sen.
 
-"**A third of a finger back.**" Jo Verrick did not stand up. "**That is the frame. It was a finger and three-quarters and it is a finger and two-thirds, and that is the first time in thirty-three weeks that anybody in this building has measured that frame and got a better number, and I did not do anything clever and neither did anybody else and I am not going to let this room turn it into a story.**"
+"**A twelfth of an inch back.**" Jo Verrick did not stand up. "**That is the frame. It was a finger and three-quarters and it is a finger and two-thirds, and that is the first time in thirty-three weeks that anybody in this building has measured that frame and got a better number, and I did not do anything clever and neither did anybody else and I am not going to let this room turn it into a story.**"
 
 "**Say what it means,**" said Marek Venn, "**and say what it does not mean, because that is what a figure is in this building and I taught it to a room of people who did not know it.**"
-"**It means the frame has moved back toward true by a third of a finger, and I would take the same number again tomorrow and get a different one.**"
+"**It means the frame has moved back toward true by a twelfth of an inch, and I would take the same number again tomorrow and get a different one.**"
 
 "**It does not mean the frame is fixed, and it does not mean the anteroom can hold one more person, and it does not mean anything at all about the wall on the other side.**"
 
@@ -106,7 +106,7 @@ The anteroom's terms were then said out loud, and the clerk repeated the word, a
 
 "**Then say what a body does,**" said Iven Tallo, from under the thing he had built, "**because I have been in this building thirty-three weeks and a word has been the second way out of that room since before I came, and this morning the word is under a piece of wood, and a person does not go out through a word, and everybody in this room knows that and has been going along with it for a month.**"
 
-"**Then say the sentence that is worse,**" said Mero Senn, "**and then somebody tell me what the answer is, because I have been in this building eleven days and I would like to have asked it once in a room.**"
+"**Then say the sentence that is worse,**" said Mero Senn, "**and then somebody tell me what the answer is, because I have been in this building eight weeks and two days and I would like to have asked it once in a room.**"
 
 Nobody answered him, and the pump got four strokes in, and a clerk in an anteroom wrote a sentence in a book and did not read it out.
 
@@ -116,7 +116,7 @@ The girl with the crate board and the bone in her foot went last, and stopped in
 
 ---
 
-**At the sixth bell the clerk entered the day's number and the total and read neither of them out, and the board was not walked, and the count was read at one hundred and three, and the figure on the frame was a third of a finger better than it had been on Monday and the anteroom's count was ten including one litter and did not change.**
+**At the sixth bell the clerk entered the day's number and the total and read neither of them out, and the board was not walked, and the count was read at one hundred and three, and the figure on the frame was a twelfth of an inch better than it had been on Monday and the anteroom's count was ten including one litter and did not change.**
 
 "**Four today and two hundred and sixteen since the keeper signed. The boundary is at three hundred and thirty-three and a quarter, and it adds by the day the work was done, and the two columns reconcile, and they have reconciled for sixteen weeks. The crew are at seventy-one.**"
 
@@ -134,4 +134,4 @@ The girl with the crate board and the bone in her foot went last, and stopped in
 
 **Four people said out loud what they were holding and what stops it, and a man who keeps a page said the word, and the clerk repeated it, and the anteroom holds ten including one litter for no more than two hours, exactly as it did on Monday, and a brace that made a room safe by making it hold more people would have been the failure.**
 
-**The frame is a third of a finger closer to true than it was, and the wall on the other side has not been looked at since Friday morning, and a physician who wrote a refusal to certify it is still standing in the anteroom with his bag against the wall.**
+**The frame is a twelfth of an inch closer to true than it was, and the wall on the other side has not been looked at since Friday morning, and a physician who wrote a refusal to certify it is still standing in the anteroom with his bag against the wall.**

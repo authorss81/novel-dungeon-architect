@@ -12,11 +12,11 @@
 
 She said the first one without looking at her book, which Renn Vale noticed from the landing and mentioned afterwards.
 
-"**Leena Orr. Her shoulder is in a sling and it takes no weight and that has not changed, and the reason is not the shoulder. The reason is that she is the only person in this building whose whole trade is reading a thing that is already built, and this work is a thing that is not built yet, and I am not going to spend the one person in this building who checks my work on the inside of the work.**"
+"**Leena Orr. Her shoulder is in a sling and it takes no weight and that has not changed, and the reason is not the shoulder. The reason is that she is the only person in this building whose whole trade is reading a thing that is already built, and this work is a thing that is not built yet, and the one person in this building who checks my work does not go on the inside of the work.**"
 
 "**Jo Verrick. She reads that wall at a first bell every morning and she reads it before she has done anything else, and the day this brace goes in is the day the wall she reads is a wall with a push coming out of it, and I am not going to have the woman who takes the first reading of a thing have also been one of the four who made it.**"
 
-"**Pell Roke. The reason is not his age and I want that in the book, because his age is the reason everybody expects. The reason is that the work is holding. Four people hold and one cuts. A boy of fourteen on a crutch is not going to be one of the four that hold, and I am not going to be the clerk who asks him to watch instead.**"
+"**Pell Roke. The reason is not his age and I want that in the book, because his age is the reason everybody expects. The reason is that the work is holding. Four people hold and one cuts. A boy of fourteen on a crutch is not going to be one of the four that hold, and the clerk does not ask a boy on a crutch to watch instead.**"
 
 None of the three reasons was argued with. They went in as they were given, and then she asked the two, and a third person in the room found out where he stood before she got to him.
 
