@@ -92,11 +92,11 @@ Tams Quill was asked at the sixth bell, by the clerk, whether the board would be
 
 "**No day,**" he said. "**I am not going to name a day this time. I have read this boundary's figures for fifteen weeks and every time one of us has put a day on a promise, the day has had to be defended like a person, and I would rather be slow in a room than defended in one. I will read it when I have walked it.**"
 
-"And the crew's is forty-eight and a half," said Dalla Sen, "and it has been for ten days, and it is not going to move this week, and nobody should pretend to anybody that it has."
+"**And the crew's is fifty-one and a half,**" said Dalla Sen, "**and it has moved twice this week, on Tuesday at the haunch and this morning on the fourth column, and I am the one who said in this room on Tuesday that a jar of water off a wall is not a work. I was right about the water and I was wrong about the week, and the count did not tell me so, because he will not endorse a forecast, and a man who will not endorse a forecast does not stand up in a room and say which of the room's forecasts has failed. It is not going to move again this week, and nobody should pretend to anybody that it has.**"
 
 "It will move on Friday," said Marek Venn, from the bench, and then stopped, because the count looked at him and the count had said no day, and Marek Venn took it back in the same breath and in front of everybody.
 
-"I have been in this building eighteen weeks," he said, "and I have said *on Friday* out loud, in this room, about six times, and I do not know one of those six days that anything came. **I have been putting my hands on a piece of work to see whether it would hold and then I have been putting my hands on a calendar.** That is the same hand. I would like it in the book that the man who said *on Friday* on the fourth day of the eighteenth week was the man who spent this morning reading a column that has six empty lines in it and calling it a plan."
+"I have been in this building eighteen weeks," he said, "and I have said *on Friday* out loud, in this room, about six times, and I do not know one of those six days that anything came. **I have been putting my hands on a piece of work to see whether it would hold and then I have been putting my hands on a calendar.** That is the same hand. I would like it in the book that the man who said *on Friday* on the fourth day of the eighteenth week was the man who spent this morning reading a column that has two empty lines in it and calling it a plan."
 
 "Entered in his own words," said Dalla Sen, "**and I would like it noted that he took it back before the count said anything, and the count had not said anything, and the count was going to let him have it.**"
 

@@ -1,0 +1,17 @@
+Volume 02, Batch 0005 — Chapters 91–100 — complete and independently reviewed.
+
+Ten chapters delivered in `chapters/volume-02/`, close third person on Marek Venn, no viewpoint shift.
+This is the final batch of Volume 02. The volume climax is finished (a charter signed on butcher's paper
+with no holder against any route), the concrete resolution is delivered (a right to essential
+infrastructure, and the Cartwright Guilds not defeated but competing), the Reader stage is granted once
+and paid for, Nera Oduya becomes a collaborator and not a dependent, Talla Roke starts a courier route
+outside the guild system, the crew's maintenance obligation is discharged on a sentence and not on a
+figure, and the next volume's question is asked out loud in Chapter 100 and not answered.
+
+The review log is `logs/batch-0005.review.log`. Its findings were repaired in the chapters and in the
+state files, not deferred: the crew's figure no longer contradicts itself, the crew figure's own
+timeline runs, Wen Pask's day count is right, the third column's open-line count is consistent,
+Chapter 100's closing exchange no longer reads as a contradiction, Chapter 98's clock is possible, the
+state files agree with the prose, and the craft baseline reproduces.
+
+State files updated. Next phase: `workspace/phase-003-volume-03-outline/PROMPT.md`.

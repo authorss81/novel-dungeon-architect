@@ -24,11 +24,11 @@ Bel Ordry read the six things at the fifth bell, and one of them was the air val
 
 ---
 
-Then she was asked, and the asking was done properly, by the keeper, at the fourth bell, in a room, with the terms said out loud first, and it is the first thing in nineteen weeks that anybody in this building has asked the air engineer for a piece of work rather than a decision.
+Then she was asked, and the asking was done properly, by the keeper, at the fifth bell, in a room, with the terms said out loud first, and it is the first thing in nineteen weeks that anybody in this building has asked the air engineer for a piece of work rather than a decision.
 
 "**I am not going to ask you what the air will do,**" said Bel Ordry, "because if I ask you that you will tell me what the air will do and I will put it on the page, and a page with the air on it that a stranger can read is a page about a room.
 
-"**I am going to ask you to write one thing, and it is not the air. It is this: you are leaving in the spring and there is a plan with six empty lines in it and one of the six is the anteroom, and I am asking you to write down, in your own hand, and for nobody, what you think is most likely to go wrong in that room before you go.
+"**I am going to ask you to write one thing, and it is not the air. It is this: you are leaving in the spring and there is a plan with two empty lines in it and *neither of the two is the anteroom*, and that is the trouble, because the anteroom is the row everybody looks at and it is a door and a word and a rating in somebody else's hand. I am asking you to write down, in your own hand, and for nobody, what you think is most likely to go wrong in that room before you go.
 
 "**Not what is wrong with it now. What goes wrong. And I want it in the third column, because the third column is the one that says what is done, and a thing that is going to happen is work somebody will have to do, and that is the only reason it belongs on that page.**
 
@@ -84,6 +84,6 @@ Marek Venn had watched the whole of it from the bench and had said nothing for m
 
 "And the thing about it is that it is a piece of *work* and not a decision, and it went into the third column, and the third column is the column that says what is done, and **I wrote the reason that column exists.** I said *a column you fill in before you know is a promise you have not made yet*, and I said it about a kitchen table, and I was right, and I did not know I was right about this.
 
-"And she is going to go in the spring, and in the spring this page will have a line in it that says *the anteroom's word is said to a page and not to a door*, **in her hand, written by the person who is leaving, kept by a man who is staying, and nobody here will be able to say whether that is a rule or a favour, and that is the best thing this Hearthhold has produced since the pump and it is the sixth line.**
+"And she is going to go in the spring, and in the spring this page will have a line in it that says *the anteroom's word is said to a page and not to a door*, **in her hand, written by the person who is leaving, kept by a man who is staying, and nobody here will be able to say whether that is a rule or a favour, and that is the best thing this Hearthhold has produced since the pump and it is the eighth line.**
 
 "And I would like the clerk to enter that the man who said a column is a promise and the man who said a page is a road and the man who said a name on a head of a column is a holder were all standing in this room, and that I have no idea which of the three of us was right, and that I have spent nineteen weeks in a building teaching a cook to slow down and I do not think I have taught anybody anything at all."

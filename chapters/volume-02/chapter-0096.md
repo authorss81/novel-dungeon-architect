@@ -26,9 +26,9 @@ Dalla Sen read it out, standing, in the anteroom, at the first bell, and it is i
 
 ---
 
-For a moment the anteroom was quiet, and then the clerk said, "**Thirty-three days and thirty-three nights, and entered in the column with no heading, and it is his.**"
+For a moment the anteroom was quiet, and then the clerk said, "**Thirty-one days and thirty-one nights, and entered in the column with no heading, and it is his.**"
 
-"And I will say the other half, because somebody always has to," said Wen Pask. "**A sheet with three names on it and a woman's is not the same as a sheet with one name on it and an office at the top of it. I have read four hundred of the ones with an office at the top. This one is four people who have put their names next to each other and that is the whole of the difference and it is not a small one, and I am twenty-two and I have been in this Hearthhold thirty-three days and I know that because the clerk keeps it.**"
+"And I will say the other half, because somebody always has to," said Wen Pask. "**A sheet with three names on it and a woman's is not the same as a sheet with one name on it and an office at the top of it. I have read four hundred of the ones with an office at the top. This one is four people who have put their names next to each other and that is the whole of the difference and it is not a small one, and I am twenty-two and I have been in this Hearthhold thirty-one days and I know that because the clerk keeps it.**"
 
 The room did not argue with that, and the sheet went back down the passage, and Bel Ordry never held it, and at the third bell the anteroom had a jar of water out of a wall in it and a sentence it had not yet written.
 
@@ -98,8 +98,8 @@ Into the column with no heading the wage went, and it was the first wage that ha
 
 "Entered in the count's own words and read out," said Dalla Sen, "and I would like it entered in mine too, that **the column with no heading now holds a leg, a bundle, thirty-three days and thirty-three nights, a half hinge, a line refused, a page that has gone out of sight, and a wage, and it is the only column in this book with a wage in it and a wage is the only thing anybody in this building is actually owed.**
 
-"And the figure on the crew's side has not moved since the tenth day and the crew's hours have not gone up for the water, and I want that read out, because Renn said it and the keeper said it and nobody else was going to."
+"And the figure on the crew's side has not moved since the fifth day of the eighteenth week and the crew's hours have not gone up for the water, and I want that read out, because Renn said it and the keeper said it and nobody else was going to."
 
-"**The crew's hours do not go up because the building got lucky,**" said Renn Vale, from the landing. "**The water was found by a resident and it is carried by residents and it is recorded by residents and the maintenance obligation is not a container that fills up when a thing goes well. The crew's figure is forty-eight and a half and it has been for ten days and it will not move for a jar of water off a wall.**"
+"**The crew's hours do not go up because the building got lucky,**" said Renn Vale, from the landing. "**The water was found by a resident and it is carried by residents and it is recorded by residents and the maintenance obligation is not a container that fills up when a thing goes well. The crew's figure is fifty-two and a half and it has not moved since the fifth day of the eighteenth week and it will not move for a jar of water off a wall.**"
 
 "Nor for a charter," said Sefu Aran, from the wheel. "**I have been asked and the answer is no, and I am putting it in the book tonight so that nobody can come and find me in a month having discovered a different answer.** The hours do not move for a good week. They move for a work. **A good week is not a work.**"

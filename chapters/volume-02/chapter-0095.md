@@ -84,7 +84,7 @@ Marek Venn said, from the bench, "**That is the whole of the guild's case and it
 
 "**The first false refuge in my life failed a full-room test with nobody in it,** Marek Venn said, "and I have a hand that will not close because of it, and I have spent eighteen weeks in a building where the answer to *who answers for this* has been *nobody, and that is on purpose.* And this man has walked four days to tell me that *nobody, on purpose* is how a boy is left under eleven feet of dressed stone.
 
-"And I do not have a better answer. **I want that entered. I have not got one.** I have got a plan with six empty lines and a fourth column nobody can head and a jar of water out of a wall, and none of that is an answer to a man under a lip, and I would be lying in this room if I stood up here and pretended it was."
+"And I do not have a better answer. **I want that entered. I have not got one.** I have got a plan with two empty lines and a fourth column nobody can head and a jar of water out of a wall, and none of that is an answer to a man under a lip, and I would be lying in this room if I stood up here and pretended it was."
 
 "Then we are two," said Harlan Merrow, "**and I have been four days on a road with a flat case and I would like to go home.**
 
@@ -106,7 +106,7 @@ Iven Tallo came in at the fourth bell and had not been in the room, and Harlan M
 
 "**The reason is that a signature is a bond.** I have one suspended. I have not read the bond in eight months because I was told not to, and I do not know what I swore, and a man who cannot say what he swore in a room with a counter in front of him has no business putting his name at the bottom of anything, and the man in front of me is a man who signs this paragraph for a living and has been honest with us for a day and a half, and I am not going to be the reason his last week of work was a lie."
 
-Wen Pask said, from the doorway, "**And I will not either, and I said so in the sixteenth week and I have not changed my mind and I would like it entered that I said it before he did, because he has been in this Hearthhold four months and I have been in it four days, and both of those are the same amount.**"
+Wen Pask said, from the doorway, "**And I will not either, and I said so in the sixteenth week and I have not changed my mind and I would like it entered that I said it before he did, because he has been in this Hearthhold four months and I have been in it thirty days, and both of those are the same amount.**"
 
 Iven Tallo turned round and looked at him and said, "**You did not say it before me.**
 
@@ -116,4 +116,4 @@ Iven Tallo turned round and looked at him and said, "**You did not say it before
 
 "Then the clerk writes nothing," said Dalla Sen, "**and I am going to say why, and it is not neutrality. The boy's own words on this are in a book in his own order and they are four sentences and they were said on a staircase. And a man does not have to be believed twice. I have believed him once and I am not going to be asked to believe him in an order.**"
 
-Tams Quill declined to read the board on the Friday, having named no day, and said that the figure on it was **forty-eight and a half** and that it had been for ten days and that he would read it when he had walked it, and the clerk entered that he named no day and the keeper said the clerk's habit of entering things nobody asked for was the only functioning part of the government of this Hearthhold.
+Tams Quill declined to read the board on the Friday, having named no day, and said that the figure on it was **fifty-two and a half**, that it had gone up on the second day and again on the fourth and again that morning, and that he would read it when he had walked it, and the clerk entered that he named no day and the keeper said the clerk's habit of entering things nobody asked for was the only functioning part of the government of this Hearthhold.
